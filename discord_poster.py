@@ -70,11 +70,14 @@ def post_news(articles: list[dict], is_morning: bool = True) -> bool:
         by_category[category].append(article)
     
     # カテゴリの表示順序
-    category_order = ["release", "sale", "update", "industry", "esports", "other"]
+    # カテゴリの表示順序
+    category_order = ["release", "sale", "update", "tech", "cg", "business", "industry", "esports", "other"]
     
     # メッセージを分割して送信（2000文字制限対策）
     messages = []
-    current_message = ""
+    
+    # ポエムがある場合、最初のメッセージの先頭にゼロ幅スペースを入れて間隔を空ける
+    current_message = "\u200b" if poem else ""
     
     for category in category_order:
         if category not in by_category:
@@ -83,18 +86,20 @@ def post_news(articles: list[dict], is_morning: bool = True) -> bool:
         category_articles = by_category[category]
         category_label = get_category_label(category)
         
-        category_block = f"\n{category_label}\n"
+        # カテゴリ見出しをH2（##）に変更
+        category_block = f"\n## {category_label}\n"
         for article in category_articles:
             category_block += f"   • **[{article['title'][:80]}]({article['url']})**\n"
         
         if len(current_message) + len(category_block) > 1900:
             if current_message:
                 messages.append(current_message)
-            current_message = "\n" + category_block
+            # メッセージ分割時にゼロ幅スペースのみを使用
+            current_message = "\u200b" + category_block
         else:
             current_message += category_block
     
-    if current_message:
+    if current_message and current_message != "\u200b":
         messages.append(current_message)
     
     # 各メッセージを送信

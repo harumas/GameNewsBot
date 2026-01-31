@@ -36,7 +36,7 @@ RSS_FEEDS = [
     {
         "name": "4Gamer.net",
         "url": "https://www.4gamer.net/rss/index.xml",
-        "max_articles": 3,
+        "max_articles": 5,
         "enabled": True,
     },
     {
@@ -48,26 +48,59 @@ RSS_FEEDS = [
     {
         "name": "IGN Japan",
         "url": "https://jp.ign.com/feed.xml",
-        "max_articles": 3,
+        "max_articles": 5,
         "enabled": True,
     },
     {
         "name": "Automaton",
         "url": "https://automaton-media.com/feed/",
-        "max_articles": 3,
+        "max_articles": 5,
         "enabled": True,
     },
     {
         "name": "ゲームメーカーズ",
         "url": "https://gamemakers.jp/feed/",
-        "max_articles": 3,
+        "max_articles": 5,
         "enabled": True,
     },
     {
         "name": "電ファミニコゲーマー",
         "url": "https://news.denfaminicogamer.jp/feed",
-        "max_articles": 3,
+        "max_articles": 5,
         "enabled": True,
+    },
+    # ===== 技術・CG系 =====
+    {
+        "name": "Unity Japan",
+        "url": "https://blog.unity.com/ja/feed",
+        "max_articles": 5,
+        "enabled": True,
+    },
+    {
+        "name": "CGWORLD",
+        "url": "https://cgworld.jp/atom.xml",
+        "max_articles": 5,
+        "enabled": True,
+    },
+    # ===== ビジネス系 =====
+    {
+        "name": "GameBusiness.jp",
+        "url": "https://www.gamebusiness.jp/rss/index.rdf",
+        "max_articles": 5,
+        "enabled": True,
+    },
+    # ===== 英語サイト（無効化中） =====
+    {
+        "name": "80.lv",
+        "url": "https://80.lv/feed/",
+        "max_articles": 3,
+        "enabled": False,  # 英語サイト
+    },
+    {
+        "name": "Game Developer",
+        "url": "https://www.gamedeveloper.com/rss.xml",
+        "max_articles": 3,
+        "enabled": False,  # 英語サイト
     },
 ]
 

@@ -10,12 +10,15 @@ from config import GROQ_API_KEY
 
 # カテゴリ定義
 CATEGORIES = {
-    "release": "🎮 新作・リリース",
-    "sale": "💰 セール・キャンペーン",
-    "update": "🔧 アップデート・DLC",
-    "industry": "📢 業界ニュース",
-    "esports": "🏆 eスポーツ・配信",
-    "other": "📰 その他",
+    "release": "🎮　新作・リリース",
+    "sale": "💰　セール・キャンペーン",
+    "update": "🔧　アップデート・DLC",
+    "tech": "⚙️　技術・開発",
+    "cg": "🎨　CG・アート",
+    "business": "💼　ビジネス",
+    "industry": "📢　業界ニュース",
+    "esports": "🏆　eスポーツ・配信",
+    "other": "📰　その他",
 }
 
 
@@ -54,7 +57,10 @@ def categorize_articles(articles: list[dict]) -> tuple[list[dict], list[dict]]:
 - release: ゲームの新作発表、発売日、リリース情報
 - sale: ゲームのセール、割引、無料配布
 - update: ゲームのアップデート、パッチ、DLC
-- industry: ゲーム会社の動向、買収、ゲームイベント
+- tech: ゲーム開発技術、エンジン情報、開発ノウハウ、ツール紹介
+- cg: 3DCG、アート、モデリング、アニメーション、VFX
+- business: ゲーム業界のビジネス、企業動向、売上、決算、インタビュー
+- industry: その他の業界ニュース、イベント（business以外）
 - esports: ゲームのeスポーツ、大会、ゲーム配信者
 - other: 上記に当てはまらないがゲーム関連のニュース
 - exclude: ゲームに関係ない記事
