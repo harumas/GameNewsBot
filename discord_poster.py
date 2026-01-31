@@ -69,7 +69,7 @@ def post_news(articles: list[dict], is_morning: bool = True) -> bool:
         if len(current_message) + len(source_block) > 1900:
             if current_message:
                 messages.append(current_message)
-            current_message = source_block
+            current_message = "\n" + source_block  # 新メッセージの先頭に改行
         else:
             current_message += source_block
     
