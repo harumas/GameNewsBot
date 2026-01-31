@@ -54,11 +54,10 @@ def evening_job():
 def setup_schedule():
     """スケジュールを設定"""
     schedule.every().day.at(MORNING_POST_TIME).do(morning_job)
-    schedule.every().day.at(EVENING_POST_TIME).do(evening_job)
+    # schedule.every().day.at(EVENING_POST_TIME).do(evening_job)
     
     print(f"[INFO] スケジュール設定完了:")
     print(f"  - 朝のニュース: {MORNING_POST_TIME}")
-    print(f"  - 夜のニュース: {EVENING_POST_TIME}")
 
 
 def main():

@@ -36,8 +36,8 @@ DISCORD_WEBHOOK_URL=https://discord.com/api/webhooks/your-webhook-url
 GROQ_API_KEY=gsk_...
 
 # 投稿スケジュール
-MORNING_POST_TIME=08:00
-EVENING_POST_TIME=20:00
+MORNING_POST_TIME=09:00
+# EVENING_POST_TIME=20:00 (現在は使用していません)
 ```
 
 > [!NOTE]
@@ -51,7 +51,7 @@ EVENING_POST_TIME=20:00
 python main.py
 ```
 
-指定した時間（デフォルト: 08:00, 20:00）に自動でニュースを配信します。
+指定した時間（デフォルト: 09:00）に自動でニュースを配信します。
 
 ### テストコマンド
 

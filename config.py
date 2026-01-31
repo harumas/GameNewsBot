@@ -24,8 +24,8 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY", "")
 GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
 
 # 投稿スケジュール（24時間形式）
-MORNING_POST_TIME = os.getenv("MORNING_POST_TIME", "08:00")
-EVENING_POST_TIME = os.getenv("EVENING_POST_TIME", "20:00")
+MORNING_POST_TIME = os.getenv("MORNING_POST_TIME", "09:00")
+EVENING_POST_TIME = os.getenv("EVENING_POST_TIME", "20:00")  # 現在はmain.pyで無効化されています
 
 # =============================================================================
 # RSSフィード設定
