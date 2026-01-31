@@ -1,0 +1,9 @@
+# 環境変数ファイル（シークレット含む）
+.env
+
+# Python キャッシュ
+__pycache__/
+*.pyc
+
+# データファイル
+data/posted_articles.json
