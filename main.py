@@ -80,6 +80,11 @@ def main():
         action="store_true",
         help="取得のみ: ニュースを取得して表示（投稿しない）"
     )
+    parser.add_argument(
+        "--post",
+        action="store_true",
+        help="即時投稿: ニュースを取得して投稿（GitHub Actions用）"
+    )
     
     args = parser.parse_args()
     
@@ -105,6 +110,14 @@ def main():
             if published:
                 print(f"   📅 {published}")
             print()
+        sys.exit(0)
+    
+    if args.post:
+        print("\n[MODE] 即時投稿（GitHub Actions）")
+        # 時間帯によって朝/夜を判定
+        current_hour = datetime.now().hour
+        is_morning = current_hour < 12
+        run_news_job(is_morning=is_morning)
         sys.exit(0)
     
     if args.test:
