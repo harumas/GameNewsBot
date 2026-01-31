@@ -8,6 +8,7 @@ import requests
 
 from config import DISCORD_WEBHOOK_URL
 from poem_generator import generate_poem
+from categorizer import categorize_articles, get_category_label, CATEGORIES
 
 
 def _send_message(content: str, suppress_embeds: bool = True) -> bool:
@@ -46,32 +47,52 @@ def post_news(articles: list[dict], is_morning: bool = True) -> bool:
         print("[INFO] No articles to post.")
         return True
     
-    # 1. まずポエムを生成して送信
-    poem = generate_poem(articles, is_morning)
+    # 1. AIでカテゴリ分類（ゲームに関係ない記事を除外）
+    categorized_articles, excluded = categorize_articles(articles)
+    
+    if excluded:
+        print(f"[INFO] Excluded {len(excluded)} non-game articles.")
+    
+    if not categorized_articles:
+        print("[INFO] No game-related articles to post after filtering.")
+        return True
+    
+    # 2. ポエムを生成して送信
+    poem = generate_poem(categorized_articles, is_morning)
     if poem:
         if not _send_message(poem, suppress_embeds=False):
             print("[WARNING] Failed to send poem message.")
     
-    # 2. ニュースリンクをソースごとにグループ化して送信
-    by_source = defaultdict(list)
-    for article in articles:
-        by_source[article["source"]].append(article)
+    # 3. カテゴリごとにグループ化
+    by_category = defaultdict(list)
+    for article in categorized_articles:
+        category = article.get("category", "other")
+        by_category[category].append(article)
+    
+    # カテゴリの表示順序
+    category_order = ["release", "sale", "update", "industry", "esports", "other"]
     
     # メッセージを分割して送信（2000文字制限対策）
     messages = []
     current_message = ""
     
-    for source, source_articles in by_source.items():
-        source_block = f"\n📰 **{source}**\n"
-        for article in source_articles:
-            source_block += f"   • **[{article['title'][:80]}]({article['url']})**\n"
+    for category in category_order:
+        if category not in by_category:
+            continue
         
-        if len(current_message) + len(source_block) > 1900:
+        category_articles = by_category[category]
+        category_label = get_category_label(category)
+        
+        category_block = f"\n{category_label}\n"
+        for article in category_articles:
+            category_block += f"   • **[{article['title'][:80]}]({article['url']})**\n"
+        
+        if len(current_message) + len(category_block) > 1900:
             if current_message:
                 messages.append(current_message)
-            current_message = "\n" + source_block  # 新メッセージの先頭に改行
+            current_message = "\n" + category_block
         else:
-            current_message += source_block
+            current_message += category_block
     
     if current_message:
         messages.append(current_message)
@@ -83,7 +104,7 @@ def post_news(articles: list[dict], is_morning: bool = True) -> bool:
             success = False
     
     if success:
-        print(f"[SUCCESS] Posted {len(articles)} articles to Discord.")
+        print(f"[SUCCESS] Posted {len(categorized_articles)} articles to Discord.")
     return success
 
 
