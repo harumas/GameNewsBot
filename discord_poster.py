@@ -56,14 +56,42 @@ def post_news(articles: list[dict], is_morning: bool = True) -> bool:
     if not categorized_articles:
         print("[INFO] No game-related articles to post after filtering.")
         return True
+        
+    # 2. 重要度でソートし、サイトごとの件数制限を適用
+    # まずサイトごとにグループ化
+    by_source = defaultdict(list)
+    for article in categorized_articles:
+        source_name = article.get("source", "")
+        by_source[source_name].append(article)
     
-    # 2. ポエムを生成して送信
+    final_articles = []
+    from datetime import datetime # 日付ソート用
+    
+    for source, source_articles in by_source.items():
+        # 重要度（high > normal）と日付（新しい順）でソート
+        # importanceが入っていない場合はnormal扱い
+        source_articles.sort(
+            key=lambda x: (x.get("importance") == "high", x.get("published") or datetime.min),
+            reverse=True
+        )
+        
+        # サイトごとの上限（デフォルト5）
+        limit = 5
+        if source_articles:
+            limit = source_articles[0].get("max_articles", 5)
+        
+        final_articles.extend(source_articles[:limit])
+    
+    # フィルタリング後の記事リストを使用
+    categorized_articles = final_articles
+
+    # 3. ポエムを生成して送信（フィルタリングされた記事のみ対象）
     poem = generate_poem(categorized_articles, is_morning)
     if poem:
         if not _send_message(poem, suppress_embeds=False):
             print("[WARNING] Failed to send poem message.")
     
-    # 3. カテゴリごとにグループ化
+    # 4. カテゴリごとにグループ化
     by_category = defaultdict(list)
     for article in categorized_articles:
         category = article.get("category", "other")
@@ -89,7 +117,9 @@ def post_news(articles: list[dict], is_morning: bool = True) -> bool:
         # カテゴリ見出しをH2（##）に変更
         category_block = f"\n## {category_label}\n"
         for article in category_articles:
-            category_block += f"   • **[{article['title'][:80]}]({article['url']})**\n"
+            # 重要記事にはアイコンを付与
+            icon = "🔥 " if article.get("importance") == "high" else ""
+            category_block += f"   • {icon}**[{article['title'][:80]}]({article['url']})**\n"
         
         if len(current_message) + len(category_block) > 1900:
             if current_message:

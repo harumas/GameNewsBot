@@ -144,9 +144,10 @@ def fetch_news() -> list[dict]:
             
             count = 0
             max_articles = feed_config.get("max_articles", 5)
+            fetch_limit = max_articles * 3  # 重要記事選定のために多めに取得
             
             for entry in feed.entries:
-                if count >= max_articles:
+                if count >= fetch_limit:
                     break
                 
                 url = entry.get("link", "")
@@ -163,11 +164,24 @@ def fetch_news() -> list[dict]:
                 
                 published = _parse_published_date(entry)
                 
+                # 日時によるフィルタリング（古い記事を除外）
+                if published:
+                    max_age_hours = FILTER_SETTINGS.get("max_age_hours", 30)
+                    # タイムゾーン情報がある場合は削除して比較（簡易的対応）
+                    # published_parsed は通常UTCなので、比較対象もUTCにする
+                    published_naive = published.replace(tzinfo=None)
+                    time_diff = datetime.utcnow() - published_naive
+                    
+                    if time_diff.total_seconds() > max_age_hours * 3600:
+                        # print(f"[DEBUG] Skipped old article: {title} ({time_diff.total_seconds() / 3600:.1f} hours ago)")
+                        continue
+                
                 all_articles.append({
                     "title": title,
                     "url": url,
                     "source": feed_config["name"],
                     "published": published,
+                    "max_articles": max_articles,  # 元の制限数を保存
                     "description": description[:200] if description else "",
                 })
                 

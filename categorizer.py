@@ -65,6 +65,10 @@ def categorize_articles(articles: list[dict]) -> tuple[list[dict], list[dict]]:
 - other: 上記に当てはまらないがゲーム関連のニュース
 - exclude: ゲームに関係ない記事
 
+# 重要度判定 (importance)
+- high: 注目度の高いニュース（大手IPの新作、大型セール、業界を揺るがすニュース、主要タイトルの大型アップデート）
+- normal: 通常のニュース（インディーゲーム、小規模アップデート、定期的な情報）
+
 # excludeの例（これらは必ずexcludeにする）
 - 漫画・コミックのセールや連載情報（Kindleセールを含む）
 - アニメの放送・配信・円盤情報
@@ -74,7 +78,7 @@ def categorize_articles(articles: list[dict]) -> tuple[list[dict], list[dict]]:
 - 音楽・アーティストの情報
 
 # 出力形式
-JSON配列で出力。例: [{{"id": 0, "category": "release"}}, {{"id": 1, "category": "exclude"}}]
+JSON配列で出力。例: [{{"id": 0, "category": "release", "importance": "high"}}, {{"id": 1, "category": "exclude"}}]
 JSON配列のみを出力し、他の説明は不要です。"""
 
     try:
@@ -90,7 +94,7 @@ JSON配列のみを出力し、他の説明は不要です。"""
                     {"role": "user", "content": prompt}
                 ],
                 "temperature": 0.3,
-                "max_tokens": 500,
+                "max_tokens": 1000,
             },
             timeout=30
         )
@@ -101,9 +105,11 @@ JSON配列のみを出力し、他の説明は不要です。"""
             
             # JSONをパース（マークダウンコードブロックを除去）
             if result_text.startswith("```"):
-                result_text = result_text.split("```")[1]
-                if result_text.startswith("json"):
-                    result_text = result_text[4:]
+                parts = result_text.split("```")
+                if len(parts) >= 2:
+                    result_text = parts[1]
+                    if result_text.startswith("json"):
+                        result_text = result_text[4:]
             
             categories_result = json.loads(result_text)
             
@@ -112,8 +118,12 @@ JSON配列のみを出力し、他の説明は不要です。"""
             excluded = []
             
             for item in categories_result:
-                idx = item["id"]
-                category = item["category"]
+                idx = item.get("id")
+                if idx is None:
+                    continue
+                    
+                category = item.get("category", "other")
+                importance = item.get("importance", "normal")
                 
                 if idx < len(articles):
                     article = articles[idx].copy()
@@ -122,6 +132,7 @@ JSON配列のみを出力し、他の説明は不要です。"""
                         excluded.append(article)
                     else:
                         article["category"] = category if category in CATEGORIES else "other"
+                        article["importance"] = importance
                         categorized.append(article)
             
             print(f"[SUCCESS] Categorized {len(categorized)} articles, excluded {len(excluded)}.")
@@ -131,12 +142,14 @@ JSON配列のみを出力し、他の説明は不要です。"""
             print(f"[WARNING] Groq API error: {response.status_code}. Skipping categorization.")
             for article in articles:
                 article["category"] = "other"
+                article["importance"] = "normal"
             return articles, []
     
     except (requests.exceptions.RequestException, json.JSONDecodeError, KeyError) as e:
         print(f"[ERROR] Categorization failed: {e}")
         for article in articles:
             article["category"] = "other"
+            article["importance"] = "normal"
         return articles, []
 
 
