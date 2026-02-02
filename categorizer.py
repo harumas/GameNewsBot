@@ -94,7 +94,7 @@ JSON配列のみを出力し、他の説明は不要です。"""
                     {"role": "user", "content": prompt}
                 ],
                 "temperature": 0.3,
-                "max_tokens": 1000,
+                "max_tokens": 4000,
             },
             timeout=30
         )

@@ -85,11 +85,8 @@ def post_news(articles: list[dict], is_morning: bool = True) -> bool:
     # フィルタリング後の記事リストを使用
     categorized_articles = final_articles
 
-    # 3. ポエムを生成して送信（フィルタリングされた記事のみ対象）
+    # 3. ポエムを生成（送信は後でまとめて行う）
     poem = generate_poem(categorized_articles, is_morning)
-    if poem:
-        if not _send_message(poem, suppress_embeds=False):
-            print("[WARNING] Failed to send poem message.")
     
     # 4. カテゴリごとにグループ化
     by_category = defaultdict(list)
@@ -105,7 +102,7 @@ def post_news(articles: list[dict], is_morning: bool = True) -> bool:
     messages = []
     
     # ポエムがある場合、最初のメッセージの先頭にゼロ幅スペースを入れて間隔を空ける
-    current_message = "\u200b" if poem else ""
+    current_message = "\u200b" + (poem if poem else "")
     
     for category in category_order:
         if category not in by_category:
@@ -114,28 +111,43 @@ def post_news(articles: list[dict], is_morning: bool = True) -> bool:
         category_articles = by_category[category]
         category_label = get_category_label(category)
         
-        # カテゴリ見出しをH2（##）に変更
-        category_block = f"\n## {category_label}\n"
-        for article in category_articles:
-            # 重要記事にはアイコンを付与
-            icon = "🔥 " if article.get("importance") == "high" else ""
-            category_block += f"   • {icon}**[{article['title'][:80]}]({article['url']})**\n"
-        
-        if len(current_message) + len(category_block) > 1900:
-            if current_message:
-                messages.append(current_message)
-            # メッセージ分割時にゼロ幅スペースのみを使用
-            current_message = "\u200b" + category_block
+        # カテゴリ見出しを追加
+        header = f"\n## {category_label}\n"
+        if len(current_message) + len(header) > 1900:
+            messages.append(current_message)
+            current_message = "\u200b" + header
         else:
-            current_message += category_block
+            current_message += header
+            
+        # カテゴリ内でも重要度順（high > normal）に並び替え
+        # これにより、情報のソースに関わらず重要な記事が必ず先頭に来るようにする
+        from datetime import datetime
+        category_articles.sort(
+            key=lambda x: (x.get("importance") == "high", x.get("published") or datetime.min),
+            reverse=True
+        )
+
+        for article in category_articles:
+            # アイコンは削除し、シンプルに表示（ソート順のみで重要度を表現）
+            line = f"   • **[{article['title'][:80]}]({article['url']})**\n"
+            
+            # メッセージ長チェック（余裕を持って1900文字）
+            if len(current_message) + len(line) > 1900:
+                messages.append(current_message)
+                current_message = "\u200b" + line
+            else:
+                current_message += line
     
     if current_message and current_message != "\u200b":
         messages.append(current_message)
     
     # 各メッセージを送信
     success = True
-    for message in messages:
+    for i, message in enumerate(messages):
+        # デバッグ: メッセージサイズ確認
+        # print(f"[DEBUG] Sending message {i+1}/{len(messages)} (len: {len(message)})")
         if not _send_message(message):
+            print(f"[ERROR] Failed to send message part {i+1}")
             success = False
     
     if success:
