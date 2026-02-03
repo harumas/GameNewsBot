@@ -126,6 +126,9 @@ def post_news(articles: list[dict], is_morning: bool = True) -> bool:
             key=lambda x: (x.get("importance") == "high", x.get("published") or datetime.min),
             reverse=True
         )
+        
+        # 1カテゴリあたり最大3件まで表示
+        category_articles = category_articles[:3]
 
         for article in category_articles:
             # アイコンは削除し、シンプルに表示（ソート順のみで重要度を表現）
