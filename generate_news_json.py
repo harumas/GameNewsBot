@@ -95,6 +95,11 @@ def generate_news_json(output_dir: str = None):
             "articles": json_articles,
         }
         
+        # 投稿済みとしてマークする前にDiscordに通知
+        from discord_poster import post_discord_notice
+        print("[INFO] Discordへ通知を送信中...")
+        post_discord_notice(poem, is_morning, len(final_articles))
+        
         # 投稿済みとしてマーク
         mark_as_posted(articles)
     

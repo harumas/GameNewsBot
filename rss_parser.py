@@ -165,6 +165,14 @@ def _parse_published_date(entry) -> Optional[datetime]:
     return None
 
 
+def _clean_image_url(url: str) -> str:
+    """画像のURLから縮小版サフィックス（-150x150など）を取り除き、オリジナル高画質版のURLを返す"""
+    if not url:
+        return url
+    # WordPress等の縮小画像パターン（例: -150x150.jpg, -1024x576.png）を削除
+    return re.sub(r'-\d+x\d+(?=\.(?:jpg|jpeg|png|webp|gif)$)', '', url, flags=re.IGNORECASE)
+
+
 def _extract_image(entry) -> Optional[str]:
     """RSSエントリからサムネイル画像URLを抽出する"""
     # 1. media:content
@@ -173,14 +181,14 @@ def _extract_image(entry) -> Optional[str]:
             url = media.get('url', '')
             media_type = media.get('type', '')
             if url and ('image' in media_type or url.lower().endswith(('.jpg', '.jpeg', '.png', '.webp', '.gif'))):
-                return url
+                return _clean_image_url(url)
     
     # 2. media:thumbnail
     if hasattr(entry, 'media_thumbnail') and entry.media_thumbnail:
         for thumb in entry.media_thumbnail:
             url = thumb.get('url', '')
             if url:
-                return url
+                return _clean_image_url(url)
     
     # 3. enclosure (image type)
     if hasattr(entry, 'enclosures') and entry.enclosures:
@@ -188,7 +196,7 @@ def _extract_image(entry) -> Optional[str]:
             url = enc.get('href', enc.get('url', ''))
             enc_type = enc.get('type', '')
             if url and 'image' in enc_type:
-                return url
+                return _clean_image_url(url)
     
     # 4. HTML content 内の <img> タグ
     content_html = ''
@@ -203,7 +211,7 @@ def _extract_image(entry) -> Optional[str]:
             img_url = img_match.group(1)
             # data: URI はスキップ
             if not img_url.startswith('data:'):
-                return img_url
+                return _clean_image_url(img_url)
     
     return None
 

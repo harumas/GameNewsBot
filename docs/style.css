@@ -342,8 +342,8 @@ a {
 /* Article thumbnail */
 .article-thumb {
   flex-shrink: 0;
-  width: 100px;
-  height: 66px;
+  width: 240px;
+  height: 135px;
   overflow: hidden;
   background: var(--bg-secondary);
   border: 1px solid var(--border-light);
@@ -354,6 +354,10 @@ a {
   height: 100%;
   object-fit: cover;
   display: block;
+  image-rendering: auto;
+  transform: translateZ(0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
 }
 
 /* Category Group */
@@ -1067,5 +1071,10 @@ body.stg-mode .stg-enemy {
   .sidebar-right {
     position: static;
     /* Removes sticky on mobile */
+  }
+
+  .article-thumb {
+    width: 120px;
+    height: 68px;
   }
 }
