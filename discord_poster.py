@@ -88,61 +88,20 @@ def post_news(articles: list[dict], is_morning: bool = True) -> bool:
     # 3. ポエムを生成（送信は後でまとめて行う）
     poem = generate_poem(categorized_articles, is_morning)
     
-    # 4. カテゴリごとにグループ化
-    by_category = defaultdict(list)
-    for article in categorized_articles:
-        category = article.get("category", "other")
-        by_category[category].append(article)
-    
-    # カテゴリの表示順序
-    # カテゴリの表示順序
-    category_order = ["release", "sale", "update", "tech", "cg", "business", "industry", "esports", "other"]
-    
-    # メッセージを分割して送信（2000文字制限対策）
-    messages = []
-    
-    # ポエムがある場合、最初のメッセージの先頭にゼロ幅スペースを入れて間隔を空ける
-    current_message = "\u200b" + (poem if poem else "")
-    
-    for category in category_order:
-        if category not in by_category:
-            continue
-        
-        category_articles = by_category[category]
-        category_label = get_category_label(category)
-        
-        # カテゴリ見出しを追加
-        header = f"\n## {category_label}\n"
-        if len(current_message) + len(header) > 1900:
-            messages.append(current_message)
-            current_message = "\u200b" + header
-        else:
-            current_message += header
-            
-        # カテゴリ内でも重要度順（high > normal）に並び替え
-        # これにより、情報のソースに関わらず重要な記事が必ず先頭に来るようにする
-        from datetime import datetime
-        category_articles.sort(
-            key=lambda x: (x.get("importance") == "high", x.get("published") or datetime.min),
-            reverse=True
-        )
-        
-        # 1カテゴリあたり最大3件まで表示
-        category_articles = category_articles[:3]
+    # 4. メッセージを構築
+    message = ""
+    if is_morning:
+        message += "🌅 **おはようございます！朝のゲームニュースです**\n\n"
+    else:
+        message += "🌙 **お疲れ様です！夜のゲームニュースです**\n\n"
 
-        for article in category_articles:
-            # アイコンは削除し、シンプルに表示（ソート順のみで重要度を表現）
-            line = f"   • **[{article['title'][:80]}]({article['url']})**\n"
-            
-            # メッセージ長チェック（余裕を持って1900文字）
-            if len(current_message) + len(line) > 1900:
-                messages.append(current_message)
-                current_message = "\u200b" + line
-            else:
-                current_message += line
+    if poem:
+        message += f"{poem}\n\n"
+
+    message += "🔽 本日の詳細なゲームニュース一覧は以下のWebサイトからご確認ください！\n"
+    message += "🔗 https://harumas.github.io/GameNewsBot/\n"
     
-    if current_message and current_message != "\u200b":
-        messages.append(current_message)
+    messages = [message]
     
     # 各メッセージを送信
     success = True
