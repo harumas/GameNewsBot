@@ -27,3 +27,16 @@ jobs:
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
         run: python main.py --post
+
+      - name: Generate website data
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        run: python generate_news_json.py
+
+      - name: Commit and push news data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/news.json
+          git diff --cached --quiet || git commit -m "📰 Update news data [skip ci]"
+          git push

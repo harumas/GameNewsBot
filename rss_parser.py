@@ -5,9 +5,12 @@ RSSフィードからニュース記事を取得し、フィルタリングす�
 
 import json
 import os
+import re
 from datetime import datetime, timedelta
+from difflib import SequenceMatcher
 from typing import Optional
 import feedparser
+import requests
 
 from config import RSS_FEEDS, FILTER_SETTINGS
 
@@ -99,6 +102,54 @@ def _matches_filter(title: str, description: str = "") -> bool:
     return True
 
 
+def _normalize_title(title: str) -> str:
+    """タイトルを正規化して比較しやすくする"""
+    t = title.lower()
+    # 『』「」【】を除去
+    t = re.sub(r'[『』「」【】\[\]()（）]', '', t)
+    # 記号・空白を除去
+    t = re.sub(r'[\s\u3000・:：,、。.!！?？―─—–\-]+', '', t)
+    return t
+
+
+def _titles_are_similar(title_a: str, title_b: str, threshold: float = 0.65) -> bool:
+    """2つのタイトルが類似しているかを判定"""
+    norm_a = _normalize_title(title_a)
+    norm_b = _normalize_title(title_b)
+
+    # 完全一致
+    if norm_a == norm_b:
+        return True
+
+    # 短いほうが長いほうに含まれていたら重複
+    if len(norm_a) > 5 and len(norm_b) > 5:
+        if norm_a in norm_b or norm_b in norm_a:
+            return True
+
+    # SequenceMatcherで類似度チェック
+    ratio = SequenceMatcher(None, norm_a, norm_b).ratio()
+    return ratio >= threshold
+
+
+def _deduplicate_articles(articles: list[dict]) -> list[dict]:
+    """
+    類似タイトルの記事を重複排除する。
+    先に出現した（＝新しい順ソート済みなので新しい）記事を優先。
+    """
+    unique = []
+    for article in articles:
+        is_dup = False
+        for kept in unique:
+            if _titles_are_similar(article["title"], kept["title"]):
+                is_dup = True
+                break
+        if not is_dup:
+            unique.append(article)
+        else:
+            print(f"[DEDUP] 重複を除外: {article['title']}  (← {article['source']})")
+    return unique
+
+
 def _parse_published_date(entry) -> Optional[datetime]:
     """記事の公開日時をパース"""
     if hasattr(entry, "published_parsed") and entry.published_parsed:
@@ -112,6 +163,120 @@ def _parse_published_date(entry) -> Optional[datetime]:
         except (TypeError, ValueError):
             pass
     return None
+
+
+def _extract_image(entry) -> Optional[str]:
+    """RSSエントリからサムネイル画像URLを抽出する"""
+    # 1. media:content
+    if hasattr(entry, 'media_content') and entry.media_content:
+        for media in entry.media_content:
+            url = media.get('url', '')
+            media_type = media.get('type', '')
+            if url and ('image' in media_type or url.lower().endswith(('.jpg', '.jpeg', '.png', '.webp', '.gif'))):
+                return url
+    
+    # 2. media:thumbnail
+    if hasattr(entry, 'media_thumbnail') and entry.media_thumbnail:
+        for thumb in entry.media_thumbnail:
+            url = thumb.get('url', '')
+            if url:
+                return url
+    
+    # 3. enclosure (image type)
+    if hasattr(entry, 'enclosures') and entry.enclosures:
+        for enc in entry.enclosures:
+            url = enc.get('href', enc.get('url', ''))
+            enc_type = enc.get('type', '')
+            if url and 'image' in enc_type:
+                return url
+    
+    # 4. HTML content 内の <img> タグ
+    content_html = ''
+    if hasattr(entry, 'content') and entry.content:
+        content_html = entry.content[0].get('value', '')
+    elif hasattr(entry, 'summary'):
+        content_html = entry.summary or ''
+    
+    if content_html:
+        img_match = re.search(r'<img[^>]+src=["\']([^"\'>]+)["\']', content_html)
+        if img_match:
+            img_url = img_match.group(1)
+            # data: URI はスキップ
+            if not img_url.startswith('data:'):
+                return img_url
+    
+    return None
+
+
+def _calculate_importance_score(entry, title: str, source: str) -> int:
+    """設定に基づいて記事の注目度（スコア）を計算する"""
+    score = 0
+    from config import FEATURED_SETTINGS
+    
+    # 1. タイトルキーワードによる加点
+    for kw in FEATURED_SETTINGS.get("high_value_keywords", []):
+        if kw.lower() in title.lower():
+            score += 2
+            
+    # 2. タグ/カテゴリによる加点 (Featured, Pickup等)
+    if hasattr(entry, 'tags'):
+        for tag in entry.tags:
+            tag_term = tag.get('term', '').lower()
+            if 'feature' in tag_term or 'pickup' in tag_term:
+                score += FEATURED_SETTINGS.get("tag_bonus", 3)
+                break
+                
+    # 3. ニュースソースによるベースライン加点
+    source_bonus = FEATURED_SETTINGS.get("source_bonus", {})
+    if source in source_bonus:
+        score += source_bonus[source]
+        
+    return score
+
+
+def _fetch_og_image(url: str, timeout: float = 5) -> Optional[str]:
+    """記事ページからog:image を取得する（フォールバック用）"""
+    try:
+        resp = requests.get(url, timeout=timeout, headers={
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        })
+        if resp.status_code != 200:
+            return None
+        # og:image メタタグを検索
+        match = re.search(
+            r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\'>]+)["\']',
+            resp.text[:10000]  # ヘッダー部分のみ検索
+        )
+        if not match:
+            # content が先に来るパターン
+            match = re.search(
+                r'<meta[^>]+content=["\']([^"\'>]+)["\'][^>]+property=["\']og:image["\']',
+                resp.text[:10000]
+            )
+        if match:
+            return match.group(1)
+    except Exception:
+        pass
+    return None
+
+
+def _fill_missing_images(articles: list[dict]) -> list[dict]:
+    """画像がない記事のOGP画像を取得する"""
+    missing = [a for a in articles if not a.get('image')]
+    if not missing:
+        return articles
+    
+    print(f"[INFO] {len(missing)}件の記事のOGP画像を取得中...")
+    filled = 0
+    for article in missing:
+        img = _fetch_og_image(article['url'])
+        if img:
+            article['image'] = img
+            filled += 1
+    
+    if filled:
+        print(f"[INFO] {filled}件のOGP画像を取得しました")
+    return articles
 
 
 def fetch_news() -> list[dict]:
@@ -176,6 +341,9 @@ def fetch_news() -> list[dict]:
                         # print(f"[DEBUG] Skipped old article: {title} ({time_diff.total_seconds() / 3600:.1f} hours ago)")
                         continue
                 
+                # 重要度スコアを計算
+                importance_score = _calculate_importance_score(entry, title, feed_config["name"])
+                
                 all_articles.append({
                     "title": title,
                     "url": url,
@@ -183,6 +351,8 @@ def fetch_news() -> list[dict]:
                     "published": published,
                     "max_articles": max_articles,  # 元の制限数を保存
                     "description": description[:200] if description else "",
+                    "image": _extract_image(entry),
+                    "importance_score": importance_score,
                 })
                 
                 count += 1
@@ -195,7 +365,17 @@ def fetch_news() -> list[dict]:
         key=lambda x: x["published"] or datetime.min,
         reverse=True
     )
-    
+
+    # 重複記事を排除
+    before_count = len(all_articles)
+    all_articles = _deduplicate_articles(all_articles)
+    dedup_count = before_count - len(all_articles)
+    if dedup_count > 0:
+        print(f"[INFO] {dedup_count}件の重複記事を除外しました")
+
+    # OGP画像のフォールバック取得
+    all_articles = _fill_missing_images(all_articles)
+
     return all_articles
 
 

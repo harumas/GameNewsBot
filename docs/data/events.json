@@ -1,0 +1,256 @@
+{
+    "last_updated": "2026-02-28",
+    "events": [
+        {
+            "name": "TOKYO INDIE GAMES SUMMIT 2026",
+            "name_short": "TIGS",
+            "date_start": "2026-03-20",
+            "date_end": "2026-03-21",
+            "location": "東京都杉並区",
+            "venue": "IMAGINUS（イマジナス）",
+            "type": "domestic",
+            "description": "インディーゲームの展示イベント。3/20がビジネスデイ、3/21が一般公開日。",
+            "url": "https://indiegamessummit.tokyo/",
+            "tags": [
+                "インディー",
+                "出展可能"
+            ]
+        },
+        {
+            "name": "GamePavilion.jp 2026",
+            "name_short": "GamePavilion",
+            "date_start": "2026-03-28",
+            "date_end": "2026-03-28",
+            "location": "大阪市西区",
+            "venue": "京セラドーム大阪 9F スカイホール",
+            "type": "domestic",
+            "description": "関西圏のインディーゲーム展示イベント。出展・試遊ができるゲームの祭典。",
+            "url": "https://gamepavilion.jp/",
+            "tags": [
+                "インディー",
+                "関西",
+                "出展可能"
+            ]
+        },
+        {
+            "name": "Indie Live Expo",
+            "name_short": "ILE",
+            "date_start": "2026-04-25",
+            "date_end": "2026-04-25",
+            "location": "オンライン",
+            "venue": "オンライン配信",
+            "type": "online",
+            "description": "インディーゲームに特化した大型オンラインイベント。世界中のインディー開発者が参加。",
+            "url": "https://indie.live-expo.games/",
+            "tags": [
+                "インディー",
+                "オンライン"
+            ]
+        },
+        {
+            "name": "ぶらり川越 GAME DIGG 2",
+            "name_short": "GAME DIGG",
+            "date_start": "2026-04-25",
+            "date_end": "2026-04-25",
+            "location": "埼玉県川越市",
+            "venue": "川越市内会場",
+            "type": "domestic",
+            "description": "川越で開催される地域密着型のインディーゲーム展示イベント。",
+            "url": "https://indiegamesjp.dev/",
+            "tags": [
+                "インディー",
+                "同人",
+                "地方"
+            ]
+        },
+        {
+            "name": "ニコニコ超会議 2026",
+            "name_short": "超会議",
+            "date_start": "2026-04-25",
+            "date_end": "2026-04-26",
+            "location": "千葉, 日本",
+            "venue": "幕張メッセ",
+            "type": "domestic",
+            "description": "ニコニコ動画の大型ユーザーイベント。ゲームエリアやインディーゲームブースも。",
+            "url": "https://chokaigi.jp/",
+            "tags": [
+                "総合イベント",
+                "ゲームエリアあり"
+            ]
+        },
+        {
+            "name": "iicon (Interactive Innovation Conference)",
+            "name_short": "iicon",
+            "date_start": "2026-04-27",
+            "date_end": "2026-04-30",
+            "location": "ラスベガス, アメリカ",
+            "venue": "Las Vegas Convention Center",
+            "type": "international",
+            "description": "旧E3を運営していたESAによる新イベント。インタラクティブエンターテインメント業界のカンファレンス。",
+            "url": "https://www.theesa.com/",
+            "tags": [
+                "カンファレンス",
+                "海外"
+            ]
+        },
+        {
+            "name": "東京ゲームダンジョン12",
+            "name_short": "TGD12",
+            "date_start": "2026-05-03",
+            "date_end": "2026-05-03",
+            "location": "東京都港区",
+            "venue": "東京都立産業貿易センター 浜松町館",
+            "type": "domestic",
+            "description": "個人・小規模チーム制作のデジタルゲーム展示会。同人・インディー問わず出展可能。",
+            "url": "https://tokyogamedungeon.com/",
+            "tags": [
+                "同人",
+                "インディー",
+                "出展可能"
+            ]
+        },
+        {
+            "name": "BitSummit PUNCH",
+            "name_short": "BitSummit",
+            "date_start": "2026-05-22",
+            "date_end": "2026-05-24",
+            "location": "京都, 日本",
+            "venue": "京都市勧業館みやこめっせ",
+            "type": "domestic",
+            "description": "日本最大級のインディーゲームイベント。5/22はビジネスデイ、5/23-24は一般公開日。",
+            "url": "https://bitsummit.org/",
+            "tags": [
+                "インディー",
+                "出展可能"
+            ]
+        },
+        {
+            "name": "ゲームマーケット 2026春",
+            "name_short": "ゲムマ春",
+            "date_start": "2026-05-23",
+            "date_end": "2026-05-24",
+            "location": "千葉, 日本",
+            "venue": "幕張メッセ 展示ホール1〜4",
+            "type": "domestic",
+            "description": "国内最大級のアナログゲーム・ボードゲーム即売会。同人ゲームの出展も多数。",
+            "url": "https://gamemarket.jp/",
+            "tags": [
+                "アナログ",
+                "ボードゲーム",
+                "同人",
+                "出展可能"
+            ]
+        },
+        {
+            "name": "SAPPORO GAME ODYSSEY",
+            "name_short": "SGO",
+            "date_start": "2026-06-07",
+            "date_end": "2026-06-07",
+            "location": "札幌市中央区",
+            "venue": "札幌市内会場",
+            "type": "domestic",
+            "description": "北海道で開催されるインディーゲーム展示イベント。",
+            "url": "https://indiegamesjp.dev/",
+            "tags": [
+                "インディー",
+                "地方",
+                "出展可能"
+            ]
+        },
+        {
+            "name": "CEDEC 2026",
+            "name_short": "CEDEC",
+            "date_start": "2026-07-22",
+            "date_end": "2026-07-24",
+            "location": "横浜, 日本",
+            "venue": "パシフィコ横浜ノース + オンライン",
+            "type": "domestic",
+            "description": "ゲーム開発者向けカンファレンス。技術講演やセッションが中心のハイブリッド開催。",
+            "url": "https://cedec.cesa.or.jp/",
+            "tags": [
+                "技術",
+                "カンファレンス"
+            ]
+        },
+        {
+            "name": "東京ゲームダンジョン13",
+            "name_short": "TGD13",
+            "date_start": "2026-08-08",
+            "date_end": "2026-08-08",
+            "location": "東京都港区",
+            "venue": "東京都立産業貿易センター 浜松町館",
+            "type": "domestic",
+            "description": "個人・小規模チーム制作のデジタルゲーム展示会。同人・インディー問わず出展可能。",
+            "url": "https://tokyogamedungeon.com/",
+            "tags": [
+                "同人",
+                "インディー",
+                "出展可能"
+            ]
+        },
+        {
+            "name": "gamescom 2026",
+            "name_short": "gamescom",
+            "date_start": "2026-08-26",
+            "date_end": "2026-08-30",
+            "location": "ケルン, ドイツ",
+            "venue": "Koelnmesse",
+            "type": "international",
+            "description": "世界最大級のゲーム展示会。8/25のOpening Night Liveから開幕。出展・ビジネスマッチング可能。",
+            "url": "https://www.gamescom.global/",
+            "tags": [
+                "展示会",
+                "海外",
+                "出展可能"
+            ]
+        },
+        {
+            "name": "東京ゲームショウ 2026",
+            "name_short": "TGS",
+            "date_start": "2026-09-17",
+            "date_end": "2026-09-21",
+            "location": "千葉, 日本",
+            "venue": "幕張メッセ",
+            "type": "domestic",
+            "description": "日本最大のゲームイベント。史上初の5日間開催。9/17-18がビジネスデイ、9/19-21が一般公開日。インディーゲームコーナーあり。",
+            "url": "https://tgs.cesa.or.jp/",
+            "tags": [
+                "展示会",
+                "出展可能"
+            ]
+        },
+        {
+            "name": "東京ゲームダンジョン14",
+            "name_short": "TGD14",
+            "date_start": "2026-10-31",
+            "date_end": "2026-10-31",
+            "location": "東京都港区",
+            "venue": "東京都立産業貿易センター 浜松町館",
+            "type": "domestic",
+            "description": "個人・小規模チーム制作のデジタルゲーム展示会。同人・インディー問わず出展可能。",
+            "url": "https://tokyogamedungeon.com/",
+            "tags": [
+                "同人",
+                "インディー",
+                "出展可能"
+            ]
+        },
+        {
+            "name": "デジゲー博 2026",
+            "name_short": "デジゲー博",
+            "date_start": "2026-11-08",
+            "date_end": "2026-11-08",
+            "location": "東京都千代田区",
+            "venue": "秋葉原UDX（予定）",
+            "type": "domestic",
+            "description": "同人・インディーゲームの展示・頒布イベント。プラットフォーム問わず出展可能。日程は未確定（例年11月第2週日曜日）。",
+            "url": "https://digigame-expo.org/",
+            "tags": [
+                "同人",
+                "インディー",
+                "頒布",
+                "出展可能"
+            ]
+        }
+    ]
+}
