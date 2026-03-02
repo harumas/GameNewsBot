@@ -13,6 +13,7 @@ import schedule
 from config import MORNING_POST_TIME, EVENING_POST_TIME
 from generate_news_json import generate_news_json
 from discord_poster import post_test_message
+from rss_parser import fetch_news
 
 def run_news_job(is_morning: bool = True):
     """ニュース取得・JSON生成・Discord通知の一連のジョブを実行"""

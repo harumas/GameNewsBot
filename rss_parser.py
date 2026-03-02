@@ -11,6 +11,7 @@ from difflib import SequenceMatcher
 from typing import Optional
 import feedparser
 import requests
+import concurrent.futures
 
 from config import RSS_FEEDS, FILTER_SETTINGS
 
@@ -269,18 +270,32 @@ def _fetch_og_image(url: str, timeout: float = 5) -> Optional[str]:
 
 
 def _fill_missing_images(articles: list[dict]) -> list[dict]:
-    """画像がない記事のOGP画像を取得する"""
+    """画像がない記事のOGP画像を取得する（並行処理）"""
     missing = [a for a in articles if not a.get('image')]
     if not missing:
         return articles
     
-    print(f"[INFO] {len(missing)}件の記事のOGP画像を取得中...")
+    print(f"[INFO] {len(missing)}件の記事のOGP画像を並行して取得中...")
     filled = 0
-    for article in missing:
-        img = _fetch_og_image(article['url'])
-        if img:
-            article['image'] = img
-            filled += 1
+    
+    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+        # submitでタスクをスケジュール
+        future_to_article = {
+            executor.submit(_fetch_og_image, article['url']): article
+            for article in missing
+        }
+        
+        # 完了したタスクから結果を受け取る
+        for future in concurrent.futures.as_completed(future_to_article):
+            article = future_to_article[future]
+            try:
+                img = future.result()
+                if img:
+                    article['image'] = img
+                    filled += 1
+            except Exception as e:
+                # OGP取得の失敗は致命的ではないのでログだけ残す
+                print(f"[DEBUG] OGP image fetch failed for {article['url']}: {e}")
     
     if filled:
         print(f"[INFO] {filled}件のOGP画像を取得しました")
@@ -304,69 +319,109 @@ def fetch_news() -> list[dict]:
     
     all_articles = []
     
-    for feed_config in RSS_FEEDS:
-        if not feed_config.get("enabled", True):
-            continue
+    # 複数サイトのRSSを並行して取得する
+    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+        # submitでタスクをスケジュールし、Futureオブジェクトのリストを作成
+        future_to_feed = {
+            executor.submit(_process_single_feed, feed_config, posted_articles): feed_config
+            for feed_config in RSS_FEEDS if feed_config.get("enabled", True)
+        }
         
-        try:
-            feed = feedparser.parse(feed_config["url"])
+        # 完了したタスクから順次結果を取得して統合
+        for future in concurrent.futures.as_completed(future_to_feed):
+            feed_config = future_to_feed[future]
+            try:
+                articles = future.result()
+                all_articles.extend(articles)
+            except Exception as e:
+                print(f"[ERROR] Exception occurred during threaded fetch for {feed_config['name']}: {e}")
+    
+    # 公開日時でソート（新しい順）
+    all_articles.sort(
+        key=lambda x: x["published"] or datetime.min,
+        reverse=True
+    )
+
+    # 重複記事を排除
+    before_count = len(all_articles)
+    all_articles = _deduplicate_articles(all_articles)
+    dedup_count = before_count - len(all_articles)
+    if dedup_count > 0:
+        print(f"[INFO] {dedup_count}件の重複記事を除外しました")
+
+    # OGP画像のフォールバック取得
+    all_articles = _fill_missing_images(all_articles)
+
+    return all_articles
+
+
+def _process_single_feed(feed_config: dict, posted_articles: dict) -> list[dict]:
+    """1つのRSSフィードから記事を取得して処理する（並行処理用ヘルパー）"""
+    articles = []
+    if not feed_config.get("enabled", True):
+        return articles
+        
+    try:
+        feed = feedparser.parse(feed_config["url"])
+        
+        if feed.bozo and not feed.entries:
+            print(f"[WARNING] Failed to parse feed: {feed_config['name']}")
+            return articles
+        
+        count = 0
+        max_articles = feed_config.get("max_articles", 5)
+        fetch_limit = max_articles * 3  # 重要記事選定のために多めに取得
+        
+        for entry in feed.entries:
+            if count >= fetch_limit:
+                break
             
-            if feed.bozo and not feed.entries:
-                print(f"[WARNING] Failed to parse feed: {feed_config['name']}")
+            url = entry.get("link", "")
+            title = entry.get("title", "No Title")
+            description = entry.get("summary", entry.get("description", ""))
+            
+            # 既に投稿済みの記事はスキップ
+            if url in posted_articles:
                 continue
             
-            count = 0
-            max_articles = feed_config.get("max_articles", 5)
-            fetch_limit = max_articles * 3  # 重要記事選定のために多めに取得
+            # フィルタリング
+            if not _matches_filter(title, description):
+                continue
             
-            for entry in feed.entries:
-                if count >= fetch_limit:
-                    break
+            published = _parse_published_date(entry)
+            
+            # 日時によるフィルタリング（古い記事を除外）
+            if published:
+                max_age_hours = FILTER_SETTINGS.get("max_age_hours", 30)
+                # タイムゾーン情報がある場合は削除して比較（簡易的対応）
+                # published_parsed は通常UTCなので、比較対象もUTCにする
+                published_naive = published.replace(tzinfo=None)
+                time_diff = datetime.utcnow() - published_naive
                 
-                url = entry.get("link", "")
-                title = entry.get("title", "No Title")
-                description = entry.get("summary", entry.get("description", ""))
-                
-                # 既に投稿済みの記事はスキップ
-                if url in posted_articles:
+                if time_diff.total_seconds() > max_age_hours * 3600:
+                    # print(f"[DEBUG] Skipped old article: {title} ({time_diff.total_seconds() / 3600:.1f} hours ago)")
                     continue
-                
-                # フィルタリング
-                if not _matches_filter(title, description):
-                    continue
-                
-                published = _parse_published_date(entry)
-                
-                # 日時によるフィルタリング（古い記事を除外）
-                if published:
-                    max_age_hours = FILTER_SETTINGS.get("max_age_hours", 30)
-                    # タイムゾーン情報がある場合は削除して比較（簡易的対応）
-                    # published_parsed は通常UTCなので、比較対象もUTCにする
-                    published_naive = published.replace(tzinfo=None)
-                    time_diff = datetime.utcnow() - published_naive
-                    
-                    if time_diff.total_seconds() > max_age_hours * 3600:
-                        # print(f"[DEBUG] Skipped old article: {title} ({time_diff.total_seconds() / 3600:.1f} hours ago)")
-                        continue
-                
-                # 重要度スコアを計算
-                importance_score = _calculate_importance_score(entry, title, feed_config["name"])
-                
-                all_articles.append({
-                    "title": title,
-                    "url": url,
-                    "source": feed_config["name"],
-                    "published": published,
-                    "max_articles": max_articles,  # 元の制限数を保存
-                    "description": description[:200] if description else "",
-                    "image": _extract_image(entry),
-                    "importance_score": importance_score,
-                })
-                
-                count += 1
+            
+            # 重要度スコアを計算
+            importance_score = _calculate_importance_score(entry, title, feed_config["name"])
+            
+            articles.append({
+                "title": title,
+                "url": url,
+                "source": feed_config["name"],
+                "published": published,
+                "max_articles": max_articles,  # 元の制限数を保存
+                "description": description[:200] if description else "",
+                "image": _extract_image(entry),
+                "importance_score": importance_score,
+            })
+            
+            count += 1
+            
+    except Exception as e:
+        print(f"[ERROR] Error fetching {feed_config['name']}: {e}")
         
-        except Exception as e:
-            print(f"[ERROR] Error fetching {feed_config['name']}: {e}")
+    return articles
     
     # 公開日時でソート（新しい順）
     all_articles.sort(
