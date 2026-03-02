@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>イベントカレンダー - Game News Bot</title>
+    <meta name="referrer" content="no-referrer">
+    <link rel="icon" href="logo.png">
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+        /* Inline CSS placeholder for calendar-specific layout. 
+       We will migrate this to style.css in the next step. */
+    </style>
+</head>
+
+<body>
+    <div class="bg-effects"></div>
+
+    <!-- ===== TOP HEADER BAR ===== -->
+    <header class="top-bar">
+        <div class="top-bar-inner">
+            <h1 class="logo">🗓️ イベントカレンダー</h1>
+
+            <div class="header-actions" style="margin-left: auto; display: flex; align-items: center; gap: 15px;">
+                <!-- Button moved to main column -->
+            </div>
+        </div>
+    </header>
+
+    <!-- ===== CALENDAR LAYOUT ===== -->
+    <div class="layout" style="grid-template-columns: 1fr; max-width: 1200px; margin: 0 auto;">
+        <main class="main-content">
+
+            <div style="margin-bottom: 12px;">
+                <a href="index.html" class="calendar-link-btn"
+                    style="display: inline-flex; align-items: center; gap: 6px; text-decoration: none; background: var(--bg-card); border: 1px solid var(--border-light); padding: 6px 12px; border-radius: 6px; color: var(--text-primary); font-size: 0.9rem; transition: all 0.2s;">
+                    ⬅️ ニュース一覧へ戻る
+                </a>
+            </div>
+
+            <div class="calendar-controls"
+                style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; padding: 15px; background: var(--bg-secondary); border-radius: 12px; border: 1px solid var(--border-light);">
+                <button id="prev-month-btn"
+                    style="background: var(--bg-card); border: 1px solid var(--border-light); color: var(--text-primary); padding: 8px 16px; border-radius: 6px; cursor: pointer; transition: 0.2s;">＜
+                    前月</button>
+                <h2 id="current-month-display" style="margin: 0; font-size: 1.5rem; color: var(--text-primary);">
+                    読み込み中...</h2>
+                <button id="next-month-btn"
+                    style="background: var(--bg-card); border: 1px solid var(--border-light); color: var(--text-primary); padding: 8px 16px; border-radius: 6px; cursor: pointer; transition: 0.2s;">次月
+                    ＞</button>
+            </div>
+
+            <div class="calendar-container">
+                <!-- Weekday Headers -->
+                <div class="calendar-weekdays"
+                    style="display: grid; grid-template-columns: repeat(7, 1fr); text-align: center; font-weight: bold; margin-bottom: 10px; color: var(--text-muted);">
+                    <div style="color: #ff6b6b">日</div>
+                    <div>月</div>
+                    <div>火</div>
+                    <div>水</div>
+                    <div>木</div>
+                    <div>金</div>
+                    <div style="color: #4dabf7">土</div>
+                </div>
+
+                <!-- The actual grid cells go here -->
+                <div id="calendar-grid" class="calendar-grid"
+                    style="display: grid; grid-template-columns: repeat(7, 1fr); gap: 8px; min-height: 500px;">
+                    <!-- JS generated cells -->
+                </div>
+            </div>
+
+        </main>
+    </div>
+
+    <script src="calendar.js"></script>
+</body>
+
+</html>

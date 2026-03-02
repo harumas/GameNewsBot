@@ -1078,3 +1078,208 @@ body.stg-mode .stg-enemy {
     height: 68px;
   }
 }
+
+/* ========================================================================= */
+/*                              EVENT CALENDAR UI                            */
+/* ========================================================================= */
+
+.calendar-grid {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 8px;
+  min-height: 600px;
+}
+
+.calendar-day {
+  background: var(--bg-card);
+  border: 1px solid var(--border-light);
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  transition: border-color 0.2s, box-shadow 0.2s;
+  min-height: 100px;
+  min-width: 0;
+}
+
+.calendar-day.empty {
+  background: transparent;
+  border: none;
+}
+
+.calendar-day:not(.empty):hover {
+  border-color: var(--accent-light);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+.calendar-date-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+  font-size: 0.9rem;
+}
+
+.calendar-date-number {
+  font-weight: 700;
+  color: var(--text-primary);
+  width: 24px;
+  height: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+}
+
+/* Weekend highlighting */
+.calendar-day.is-sunday .calendar-date-number {
+  color: #ff6b6b;
+  /* Soft red */
+}
+
+.calendar-day.is-saturday .calendar-date-number {
+  color: #4dabf7;
+  /* Soft blue */
+}
+
+/* Today highlight */
+.calendar-day.is-today {
+  border: 2px solid var(--accent);
+  background: rgba(140, 233, 154, 0.05);
+  /* Slight tint of accent color */
+}
+
+.calendar-day.is-today .calendar-date-number {
+  background: var(--accent);
+  color: #000;
+}
+
+/* Japanese Holiday highlight */
+.calendar-day.is-holiday .calendar-date-number {
+  color: #ff6b6b;
+}
+
+.holiday-name {
+  font-size: 0.65rem;
+  color: #ff6b6b;
+  font-weight: bold;
+}
+
+.calendar-events-list {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  flex-grow: 1;
+}
+
+.calendar-event-pill {
+  font-size: 0.75rem;
+  padding: 4px 6px;
+  border-radius: 4px;
+  color: #fff;
+  text-decoration: none;
+  background: #3a3a40;
+  border-left: 3px solid #666;
+  display: flex;
+  flex-direction: column;
+  transition: filter 0.2s;
+  position: relative;
+  min-width: 0;
+}
+
+.calendar-event-pill:hover {
+  filter: brightness(1.2);
+}
+
+.calendar-event-pill .event-title {
+  font-weight: 600;
+  white-space: normal;
+  word-break: break-word;
+  display: block;
+  width: 100%;
+  line-height: 1.3;
+}
+
+/* Tooltip styling */
+.calendar-tooltip {
+  display: none;
+  position: absolute;
+  bottom: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  background: var(--bg-secondary);
+  border: 1px solid var(--border-light);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.8);
+  padding: 10px;
+  border-radius: 6px;
+  z-index: 100;
+  width: max-content;
+  max-width: 250px;
+  pointer-events: none;
+  color: var(--text-primary);
+  white-space: normal;
+  font-size: 0.75rem;
+  margin-bottom: 5px;
+}
+
+.calendar-event-pill:hover .calendar-tooltip {
+  display: flex;
+  flex-direction: column;
+}
+
+.tooltip-title {
+  font-weight: bold;
+  font-size: 0.85rem;
+  margin-bottom: 5px;
+  color: var(--accent);
+}
+
+.tooltip-date,
+.tooltip-location {
+  color: var(--text-muted);
+  margin-bottom: 3px;
+  font-size: 0.7rem;
+}
+
+.tooltip-desc {
+  margin-top: 6px;
+  padding-top: 6px;
+  border-top: 1px solid var(--border-light);
+  line-height: 1.4;
+}
+
+.calendar-event-pill .event-time {
+  font-size: 0.6rem;
+  opacity: 0.8;
+}
+
+/* Dynamic event tag styling (Reusing event list colors) */
+.calendar-event-pill.tag-presentation {
+  background: rgba(24, 100, 171, 0.7);
+  /* Dark saturated blue */
+  border-left-color: #4dabf7;
+}
+
+.calendar-event-pill.tag-esports {
+  background: rgba(217, 72, 15, 0.7);
+  /* Dark saturated orange */
+  border-left-color: #ff922b;
+}
+
+.calendar-event-pill.tag-sale {
+  background: rgba(230, 119, 0, 0.7);
+  /* Dark saturated yellow/olive */
+  border-left-color: #ffd43b;
+}
+
+.calendar-event-pill.tag-release {
+  background: rgba(43, 138, 62, 0.7);
+  /* Dark saturated green */
+  border-left-color: #51cf66;
+}
+
+.calendar-event-pill.tag-gaming {
+  background: rgba(8, 127, 91, 0.7);
+  /* Dark saturated teal */
+  border-left-color: var(--accent);
+}
