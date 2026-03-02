@@ -11,34 +11,21 @@ from datetime import datetime
 import schedule
 
 from config import MORNING_POST_TIME, EVENING_POST_TIME
-from rss_parser import fetch_news, mark_as_posted
-from discord_poster import post_news, post_test_message
-
+from generate_news_json import generate_news_json
+from discord_poster import post_test_message
 
 def run_news_job(is_morning: bool = True):
-    """ニュース取得・投稿ジョブを実行"""
+    """ニュース取得・JSON生成・Discord通知の一連のジョブを実行"""
     time_label = "朝" if is_morning else "夜"
     print(f"\n{'='*50}")
     print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] {time_label}のニュース配信を開始")
     print(f"{'='*50}")
     
-    # ニュースを取得
-    articles = fetch_news()
-    print(f"[INFO] {len(articles)}件の新着記事を取得しました")
-    
-    if not articles:
-        print("[INFO] 新着記事がないため、投稿をスキップします")
-        return
-    
-    # Discordに投稿
-    success = post_news(articles, is_morning=is_morning)
-    
-    if success:
-        # 投稿済みとしてマーク
-        mark_as_posted(articles)
-        print(f"[SUCCESS] {len(articles)}件の記事を投稿しました")
-    else:
-        print("[ERROR] 投稿に失敗しました")
+    # サイト生成とDiscord投稿を同時に実行するUnified Pipelineを呼び出す
+    try:
+        generate_news_json()
+    except Exception as e:
+        print(f"[ERROR] ジョブ実行中にエラーが発生しました: {e}")
 
 
 def morning_job():
