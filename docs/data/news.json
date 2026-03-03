@@ -1,96 +1,231 @@
 {
-  "generated_at": "2026-03-02T09:26:43.319704",
-  "poem": "おはようございます！ 🌞\n今日もゲーム業界は活発です！新作アニメ『スター・ウォーズ：モール／シャドウ・ロード』や『バイオハザード レクイエム』の好スタート、ゲーム機やアクセサリーのタイムセールなどが注目されます 💻\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-03-03T00:09:58.496474",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、iPhone 17eやiPad Airの発表、新しいゲーム『Anymaker』や『Colonial Winds』の発表など、盛りだくさんのニュースですね！ \n『ストリートファイター6』のアレックス先行プレイも話題になっていますね。\nそれでは今日のニュースをどうぞ！ 🎮",
   "articles": [
     {
-      "title": "ダース・モールがジェダイに“敬意”を抱く――新作アニメ『スター・ウォーズ：モール／シャドウ・ロード』で描かれる変化をキャストが明かす",
-      "url": "https://jp.ign.com/star-wars-maul-shadow-lord/82745/news/",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-01T23:02:05",
-      "image": "https://sm.ign.com/ign_jp/news/b/boy-we-cou/boy-we-could-sure-use-a-jedi-knight-or-two-years-after-stabb_dpu1.jpg"
-    },
-    {
-      "title": "『バイオハザード レクイエム』、Steam最大同接数が32万人超え シリーズ史上最高のスタートに",
-      "url": "https://jp.ign.com/resident-evil-9/82773/news/steam32",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-02-28T11:07:31",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/00_hcm9.jpg"
-    },
-    {
-      "title": "『Bloodborne』のリメイク企画が存在していたと報じられる ソニー傘下のBluepointが提案も、フロム・ソフトウェアの意向で却下か",
-      "url": "https://jp.ign.com/bloodborne/82771/news/bloodborne-bluepoint",
-      "source": "IGN Japan",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-02-28T09:59:42",
-      "image": "https://sm.ign.com/ign_jp/news/a/another-bl/another-bloodborne-state-of-play-no-show-leaves-fans-questio_ryvu.jpg"
-    },
-    {
-      "title": "TURTLE BEACHのゲーミングヘッドセット「Stealth 700 Gen 3」がAmazonにて27％オフでタイムセール中",
-      "url": "https://jp.ign.com/gaming-device/82765/news/turtle-beachstealth-700-gen-3amazon27",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-02-28T04:53:45",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_7yvh.jpg"
-    },
-    {
-      "title": "Xiaomiの27インチゲーミングモニター「G27Qi 2026」がAmazonにて13％オフでタイムセール中",
-      "url": "https://jp.ign.com/gaming-device/82764/news/xiaomi27g27qi-2026amazon13",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-02-28T02:34:03",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_ywc6.jpg"
-    },
-    {
-      "title": "「バンジョーとカズーイの大冒険」など，Rareの名作14本を収録した携帯ゲーム機「Super Pocket Rare Edition」発表。2026年6月の発売を予定",
-      "url": "https://www.4gamer.net/games/999/G999902/20260228005/",
-      "source": "4Gamer.net",
+      "title": "新型「iPhone 17e」「iPad Air」が発表、3月11日に発売へ。価格は「iPhone 17e」が税込9万9800円より、新型「iPad Air」は11インチが税込9万8800円より",
+      "url": "https://news.denfaminicogamer.jp/news/2603022h",
+      "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-02-28T03:20:12",
-      "image": "https://www.4gamer.net/games/999/G999902/20260228005/SS/002.jpg"
+      "published": "2026-03-02T14:16:15",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/956b1c26ef4d32e003870738c91e9837.png"
     },
     {
-      "title": "【今週のモチベ】ポケットペアの新作「Never Grave: The Witch and The Curse」や，早期アクセス版「Slay the Spire 2」がリリースされる 2026年3月2日〜3月8日",
-      "url": "https://www.4gamer.net/games/954/G095479/20260301001/",
+      "title": "超細かく車を組み立てるゲーム『Anymaker』発表。作った車を相棒に、荒廃した世界でのオープンワールドサバイバルも楽しめる。マルチ機能や日本語も搭載",
+      "url": "https://news.denfaminicogamer.jp/news/260302s",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-02T08:44:51",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/Anymaker-Announcement-Trailer-00-00-29.38.png"
+    },
+    {
+      "title": "『ストリートファイター6』アレックス先行プレイ。モーションキャプチャにはプロレスラーのケニー・オメガ氏が協力しており超リアル。足関節を極めるスーパーアーツは関節ぐにゃぐにゃのダルシムにもしっかり通じる",
+      "url": "https://news.denfaminicogamer.jp/kikakuthetower/260303e",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-03-02T23:00:06",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/image10-2.png"
+    },
+    {
+      "title": "任天堂が「Indie World 2026.3.3」を3月3日23時より放送。ニンテンドースイッチ／スイッチ2で遊べるインディーゲームを紹介。放送時間は約25分",
+      "url": "https://news.denfaminicogamer.jp/news/2603022i",
+      "source": "電ファミニコゲーマー",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-03-02T13:58:33",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/small.png"
+    },
+    {
+      "title": "アニメ『ポケモン』サトシ役の松本梨香さんがゲーム実況に初挑戦。『赤』の実況動画がニコニコにも投稿されファン驚愕「サトシに似ているって言われません？」",
+      "url": "https://news.denfaminicogamer.jp/news/2603022a",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-03-02T11:11:46",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/WhiteCanvas.jpg"
+    },
+    {
+      "title": "KRAFTONは“未踏の領域に挑み，新たなゲーム体験を創出する”ことを目指す。新たなビジョンおよびCIを発表",
+      "url": "https://www.4gamer.net/games/852/G085231/20260302030/",
+      "source": "4Gamer.net",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-03-02T09:08:32",
+      "image": "https://www.4gamer.net/games/852/G085231/20260302030/SS/002.jpg"
+    },
+    {
+      "title": "スクエニ，「FF14」スタッフの誹謗中傷記事を掲載したまとめサイトに法的対処。サイト閉鎖，解決金の支払い，謝罪文の掲載をもって和解",
+      "url": "https://www.4gamer.net/games/199/G019924/20260302031/",
+      "source": "4Gamer.net",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-03-02T09:32:58",
+      "image": "https://www.4gamer.net/games/199/G019924/20260302031/SS/001.jpg"
+    },
+    {
+      "title": "［プレイレポ］「ストリートファイター6」アレックスを先行体験。パワフルなアクションを軸に，ブレイカー・スタンスでガードを突き崩す",
+      "url": "https://www.4gamer.net/games/635/G063504/20260303001/",
       "source": "4Gamer.net",
       "category": "release",
       "importance": "normal",
-      "published": "2026-03-01T23:00:00",
-      "image": "https://www.4gamer.net/games/954/G095479/20260301001/SS/004.jpg"
+      "published": "2026-03-02T23:00:00",
+      "image": "https://www.4gamer.net/games/635/G063504/20260303001/SS/028.jpg"
     },
     {
-      "title": "実在の岩壁を攻略する硬派なクライミングシム「New Heights」（ほぼ日 インディーPick Up！）",
-      "url": "https://www.4gamer.net/games/950/G095079/20260228006/",
+      "title": "「FGO カルデア･サテライトステーション 2026 山形会場」のステージ中継は3月7日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+      "url": "https://www.4gamer.net/games/421/G042182/20260302034/",
+      "source": "4Gamer.net",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-03-02T23:00:00",
+      "image": "https://www.4gamer.net/games/421/G042182/20260302034/SS/003.jpg"
+    },
+    {
+      "title": "初期手札で敵を全滅させるワンターンキル特化のローグライトカードゲーム「リーサルダンジョン」（ほぼ日 インディーPick Up！）",
+      "url": "https://www.4gamer.net/games/950/G095079/20260228007/",
       "source": "4Gamer.net",
       "category": "release",
       "importance": "normal",
-      "published": "2026-03-01T22:00:00",
-      "image": "https://www.4gamer.net/games/950/G095079/20260228006/SS/011.jpg"
+      "published": "2026-03-02T22:00:00",
+      "image": "https://www.4gamer.net/games/950/G095079/20260228007/SS/005.jpg"
     },
     {
-      "title": "ルネの月刊ウマ娘通信第21回：5周年でフォーエバーヤングやマルシュロレーヌなどがウマ娘化。新育成シナリオ「Dreams編」もついに実装",
-      "url": "https://www.4gamer.net/games/414/G041434/20260224001/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-01T02:00:00",
-      "image": "https://www.4gamer.net/games/414/G041434/20260224001/SS/002.jpg"
+      "title": "「iPhone 17e」発表、3月11日発売へ。最新世代チップ搭載の廉価モデル、価格は9万9800円から",
+      "url": "https://automaton-media.com/articles/newsjp/20260302-425764/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-02T14:37:47",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260302-425764-header.jpg"
     },
     {
-      "title": "ザ・ニュー神父!!!「ジョジョの奇妙な冒険 ラストサバイバー」，スタンドで“時”を加速させるエンリコ・プッチ(最終)が3月4日に参戦",
-      "url": "https://www.4gamer.net/games/445/G044511/20260227078/",
-      "source": "4Gamer.net",
+      "title": "ヤシの木になってただじっとするゲーム『Palm Simulator 2』発表。なぜか出る続編は“新キャラ5体”などパワーアップ、でもじっとするだけ",
+      "url": "https://automaton-media.com/articles/newsjp/palm-simulator-2-20260302-425638/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-02T05:51:49",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/palm-simulator-2-20260302-425638-header.jpg"
+    },
+    {
+      "title": "「植民地」都市建設ストラテジー『Colonial Winds』発表。“下っ端総督”として街づくり、しかし本国に喧嘩を売って独立もできる海洋都市シム",
+      "url": "https://automaton-media.com/articles/newsjp/20260302-425599/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-02T03:25:42",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260302-425599-header.jpg"
+    },
+    {
+      "title": "協力マルチ対応・死体運びゲーム『We Are So Cooked』発表。証拠隠滅のため“グニャグニャ死体”を運搬、「引き摺り方」には要注意",
+      "url": "https://automaton-media.com/articles/newsjp/we-are-so-cooked-20260302-425580/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-02T02:37:25",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/we-are-so-cooked-20260302-425580-header.jpg"
+    },
+    {
+      "title": "スクエニが『FF14』まとめサイト「ネトゲ速報」管理人を特定、“謝罪文掲載＋サイト閉鎖＋解決金”で和解。スタッフ誹謗中傷記事に厳しく対処",
+      "url": "https://automaton-media.com/articles/newsjp/20260302-425626/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-03-02T05:11:13",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260302-425626-header.jpg"
+    },
+    {
+      "title": "トロコンへの道 第13回：魔王よりも手強い確率との戦い！『ドラゴンクエストVII Reimagined』",
+      "url": "https://jp.ign.com/dragon-quest-vii-reimagined/82777/feature/13vii-reimagined",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-03-02T02:02:13",
+      "image": "https://sm.ign.com/ign_jp/photo/default/dragonquestvii-reimagined-review-5-1769822939629_dpmz.jpg"
+    },
+    {
+      "title": "『ぽこ あ ポケモン』が「バイオハザード」を抜いて2026年の最も評価されたゲームに！ 「ポケモン」シリーズ最高のメタスコアを記録",
+      "url": "https://jp.ign.com/pokemon-pokopia/82780/news/2026",
+      "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-02-28T09:00:00",
-      "image": "https://www.4gamer.net/games/445/G044511/20260227078/SS/003.jpg"
+      "published": "2026-03-02T14:01:18",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/maxresdefault_cypk.jpg"
+    },
+    {
+      "title": "OpenAI、米政府機密網への同社AIの展開契約を獲得。Anthropicが拒否された安全策も盛り込むと主張",
+      "url": "https://www.gamebusiness.jp/article/2026/03/02/26307.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-03-02T11:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/177793.jpg"
+    },
+    {
+      "title": "トランプ大統領、連邦政府機関にClaude AIの使用廃止を指示。「Anthropicの技術など不要、使いたくもない」と述べる",
+      "url": "https://www.gamebusiness.jp/article/2026/03/01/26304.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-03-01T03:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/177736.jpg"
+    },
+    {
+      "title": "バトル特化タイトル『ポケモンチャンピオンズ』が2026年4月配信決定！ 夏にはスマホ版も",
+      "url": "https://www.gamebusiness.jp/article/2026/03/01/26300.html",
+      "source": "GameBusiness.jp",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-01T02:00:05",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/177713.jpg"
+    },
+    {
+      "title": "総務省支援の「ジャパンパビリオン」、次世代通信技術とAI活用ソリューションを世界へ…MWC 2026",
+      "url": "https://www.gamebusiness.jp/article/2026/03/02/26309.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-03-02T11:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/177774.jpg"
+    },
+    {
+      "title": "市長もゲームに出演！新潟県三条市の御当地RPG『三条上々!!!』はどのように生まれたか―「ものづくり」の町に見える歴史と未来への想い、そして気になる市長のゲーム歴は？【前編】",
+      "url": "https://www.gamebusiness.jp/article/2026/03/02/26306.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-03-02T11:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/177818.jpg"
+    },
+    {
+      "title": "メッシュシェーダーを用いたレンダリング最適化などを解説した、CEDEC2025講演「中級グラフィックス入門」のサンプルプログラムが公開。MITライセンスで提供中",
+      "url": "https://gamemakers.jp/article/2026_03_02_132391/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-03-02T09:26:00",
+      "image": null
+    },
+    {
+      "title": "ブラウザでテクスチャを生成できる無料ツール「TextureCreate」リリース。商用利用も可能",
+      "url": "https://gamemakers.jp/article/2026_03_02_132394/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-03-02T07:38:09",
+      "image": null
+    },
+    {
+      "title": "ピクセルスタイルのフリーフォント「でんきチップ」提供開始。640字の常用漢字を収録、商用利用も可能",
+      "url": "https://gamemakers.jp/article/2026_03_01_132322/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-03-01T02:58:15",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/03/8b532df7f4604339aa00fd8359b6b2aa.jpg"
     },
     {
       "title": "NVIDIA、新しい3DGSセグメンテーション技術「ArtisanGS」発表！ AIと手動を組み合わせることにより高精度なオブジェクト抽出を実現 - ニュース",
@@ -102,166 +237,31 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/03/ArtisanGS-01-thumb-1920x1080-80583.jpg"
     },
     {
-      "title": "ソニー・インタラクティブエンタテインメント新卒正社員初任給引き上げへ 、PlayStation Studios「Team ASOBI」新卒・経験者の募集開始 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202602-SIE-TeamASOBI.html",
+      "title": "【セッション情報公開！】Blenderユーザー向けイベント「Blender Fes 2026 SS」3/28(土)・29(日)開催、前売りチケット発売中 - 特集",
+      "url": "https://cgworld.jp/article/blenderblender-fes-2026-ss32829.html",
       "source": "CGWORLD",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-02-28T10:28:14",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/02/SIE-01-thumb-1920x1080-80536.jpg"
-    },
-    {
-      "title": "『コアキーパー』大型アプデ後にSteam同接2万5000人を記録。「農業の自動化」が可能となった「空虚と電流」アップデートが大盛況",
-      "url": "https://news.denfaminicogamer.jp/news/260301j",
-      "source": "電ファミニコゲーマー",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-03-01T07:54:53",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/445a69b7a20eb37a864da7d201975d48-1024x576.jpg"
-    },
-    {
-      "title": "猫が主人公のアクションゲーム『Stray』を40％オフの2100円で買える“最安値”セールがSteamで開催中。「人間より猫の数が多い」クリエイターチームが制作した高評価作",
-      "url": "https://news.denfaminicogamer.jp/news/260301o",
-      "source": "電ファミニコゲーマー",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-03-01T14:57:13",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/ss_e8f0cbd5efdba352e89c4cfcee3fe991a1e1be8a.1920x1080-1024x576.jpg"
-    },
-    {
-      "title": "サッカーのビデオ判定員になるゲーム『Eye of the Match』が面白そう。リプレイをよく見て反則を見つけ、チームや選手に適切な処罰を下していく",
-      "url": "https://news.denfaminicogamer.jp/news/260301n",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-03-01T13:45:06",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/ss_2219b8bc70380185ea08874ccc606ddeadd117da.1920x1080-1024x576.jpg"
-    },
-    {
-      "title": "『ドラクエ』「ばくだん岩」の貯金箱がプライズで登場。「メガンテ」のように割って中身を取り出した後は、「ザオリク」のように組み立てて元通りにできる",
-      "url": "https://news.denfaminicogamer.jp/news/260301m",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-01T12:45:09",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/HCJfGCBaAAAF1jE-1024x724.png"
-    },
-    {
-      "title": "『ジョジョ』「メイド・イン・ヘブン」の再現度が高すぎると話題に。『ラストサバイバー』に新キャラ「エンリコ・プッチ（最終）」が3月4日より参戦",
-      "url": "https://news.denfaminicogamer.jp/news/260301k",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-01T09:17:21",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/a5454b59c6d63d8c4a05af0243bd6f74-1024x576.jpg"
-    },
-    {
-      "title": "海賊オープンワールド『シー・オブ・レムナンツ』はすべてが「自由」だけど、世界は優しくない。イカサマも、NPCを生かすも殺すも自由。巨大ガニに船を破壊されるのも、また自由",
-      "url": "https://automaton-media.com/articles/special-column/sol-20260228-425090/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-02-28T03:38:42",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/02/sol-20260228-425090-header.jpg"
-    },
-    {
-      "title": "基本プレイ無料戦国SLG×RPG『信長の野望 真戦』新シーズンで“『信長の野望･新生』らしさ”急加速。歴史ドラマが楽しめる「事件」システムも実装で、戦略・戦国がっつり堪能",
-      "url": "https://automaton-media.com/articles/reportjp/20260226-424393/",
-      "source": "Automaton",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-02-28T03:00:01",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/02/20260226-424393-header.jpg"
-    },
-    {
-      "title": "『オーバーウォッチ』がなんとモバイル向けに、『Overwatch Rush』発表。『NTE: Neverness to Everness』は4月29日にとうとう来る。今週の見逃せないゲーム記事7選",
-      "url": "https://automaton-media.com/articles/newsjp/weekly-games-20260301-424917/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-03-01T02:36:51",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/02/weekly-games-20260301-424917-header.jpg"
-    },
-    {
-      "title": "最大4人協力・宇宙人ガソスタ経営ゲーム『Roadside Research』Steam版だけで早くも売上30万本突破。人間になりすまして働きながら、こっそり人間調査",
-      "url": "https://automaton-media.com/articles/newsjp/roadside-research-20260228-425123/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-02-28T04:45:45",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/02/roadside-research-20260228-425123-header.jpg"
-    },
-    {
-      "title": "『アークナイツ：エンドフィールド』ユーザー要望の既存要素いっぱい改善へ。敵の攻撃わかりやす化、設備が工業施設外で作成可、通常ガチャ券もっと入手可能などてんこ盛り",
-      "url": "https://automaton-media.com/articles/newsjp/ae2-2050250/",
-      "source": "Automaton",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-03-01T12:37:36",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/ae-20260301-425442-header3.jpg"
-    },
-    {
-      "title": "衝撃の“夢グループコラボ”なぜ？裏話も語られた『バイオハザード レクイエム』完成披露発表会―狩野英孝さんのプレイや声優陣による生アフレコも【イベントレポート】",
-      "url": "https://www.gamebusiness.jp/article/2026/03/01/26303.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-03-01T02:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/177651.jpg"
-    },
-    {
-      "title": "「ヒプマイ」“AIコンパニオン”に不安の声「生成AIはやめて」 AI・アバター企業Geniesの発表が話題",
-      "url": "https://www.gamebusiness.jp/article/2026/02/28/26291.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-02-28T03:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/177490.jpg"
-    },
-    {
-      "title": "東京大学・NEC・NTT、AI処理の遅延を安定化する次世代通信技術を実証…MWC 2026で成果発表へ",
-      "url": "https://www.gamebusiness.jp/article/2026/02/28/26288.html",
-      "source": "GameBusiness.jp",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-02-28T02:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/177513.jpg"
-    },
-    {
-      "title": "トランプ大統領、連邦政府機関にClaude AIの使用廃止を指示。「Anthropicの技術など不要、使いたくもない」と述べる",
-      "url": "https://www.gamebusiness.jp/article/2026/03/01/26304.html",
-      "source": "GameBusiness.jp",
       "category": "industry",
       "importance": "normal",
-      "published": "2026-03-01T03:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/177736.jpg"
+      "published": "2026-03-02T08:30:00",
+      "image": "https://cgworld.jp/article/assets_c/2026/03/allsession-thumb-1920x1080-80591.jpg"
     },
     {
-      "title": "15～19歳の4割超が利用、ポッドキャスト国内利用実態調査",
-      "url": "https://www.gamebusiness.jp/article/2026/03/01/26301.html",
-      "source": "GameBusiness.jp",
+      "title": "「海外の就職活動では、タイミングが非常に大切です」レイオフの嵐を乗り越えLAへ！ 第117回：奥泉 遊（Houdini Artist / Logan.tv） - 連載",
+      "url": "https://cgworld.jp/regular/117-okuizumi.html",
+      "source": "CGWORLD",
       "category": "industry",
       "importance": "normal",
-      "published": "2026-03-01T02:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/177707.jpg"
+      "published": "2026-03-02T01:30:00",
+      "image": "https://cgworld.jp/regular/assets_c/2026/02/e08e16dd5fd6eeb36d3681bef3dc0e5fc5b60ada-thumb-1000x565-80233.jpg"
     },
     {
-      "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/2/28】",
-      "url": "https://gamemakers.jp/article/2026_02_28_132369/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-02-28T01:58:17",
-      "image": null
-    },
-    {
-      "title": "ピクセルスタイルのフリーフォント「でんきチップ」提供開始。640字の常用漢字を収録、商用利用も可能",
-      "url": "https://gamemakers.jp/article/2026_03_01_132322/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
+      "title": "【参加企業募集】静岡デザイン専門学校が3/13（金）学生と企業をつなぐ「ポートフォリオ交流会」開催 - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2602-sdc-portfolio.html",
+      "source": "CGWORLD",
+      "category": "industry",
       "importance": "normal",
-      "published": "2026-03-01T02:58:15",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/03/8b532df7f4604339aa00fd8359b6b2aa.jpg"
+      "published": "2026-03-02T01:03:09",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/02/sdc_portfolio%20%281%29-thumb-1000x563-80535.png"
     }
   ]
 }
