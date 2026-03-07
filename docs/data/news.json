@@ -1,141 +1,105 @@
 {
-  "generated_at": "2026-03-06T00:14:49.410955",
-  "poem": "おはようございます！🌞\n今日のゲームニュースは、熱いアップデートや新作発表で溢れています！『ソードアート・オンライン』の新作ゲーム『エコーズ・オブ・アインクラッド』発表や『プラグマタ』の発売前倒しなど、注目度の高い情報がたくさんです。\nそれでは今日のニュースをどうぞ！ 🎮",
+  "generated_at": "2026-03-07T00:09:04.774048",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、超能力事件・推理ゲーム『Staffer Case:超能力推理アドベンチャー』の売上10万本達成や、新作ゲームの発表など、楽しい情報が満載です。\n注目すべきは、任天堂がアメリカ政府を提訴したことです 🚀\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "【全4回連載・第2回】マーザが挑むライブ衣装制作／初音ミク編［2］可動性と多層構造を極める設計論 - 特集",
-      "url": "https://cgworld.jp/article/202603-marza-2.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-06T01:00:00",
-      "image": "https://cgworld.jp/interview/images/202602-mellow/subsc_banner.jpg"
+      "title": "超能力事件・推理ゲーム『Staffer Case:超能力推理アドベンチャー』Steamだけで売上10万本達成。新作が控えるなか、3年越しに大台到達",
+      "url": "https://automaton-media.com/articles/newsjp/20260306-426997/",
+      "source": "Automaton",
+      "category": "sale",
+      "importance": "high",
+      "published": "2026-03-06T11:46:07",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260306-426997-header.jpg"
     },
     {
-      "title": "無償のピクセルフォント「でんきチップ」リリース！　SILオープンフォントライセンス、商用利用可 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202603-denkichip.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-03-05T23:23:07",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/Denkichip-01-thumb-1920x1080-80677.jpg"
-    },
-    {
-      "title": "Houdiniユーザー向けの制作チャレンジ「2026 MARDINI Daily Art Challenge」開催中　参加者にはHoudini Indieライセンス2ヵ月分が無料で提供 - ニュース",
-      "url": "https://cgworld.jp/flashnews/2603-mardini.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-03-05T08:00:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/mardini_2026_prompts2-thumb-1920x1080-80652.png"
-    },
-    {
-      "title": "【絵本×3DCG】Xの投稿から生まれた、まめたろう初の絵本『ぷりんぽよん』。CGアーティストのキャリアは、無限の可能性を秘めている！ - 特集",
-      "url": "https://cgworld.jp/article/202603-Purin-Poyon.html",
-      "source": "CGWORLD",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-03-05T01:48:26",
-      "image": "https://cgworld.jp/article/assets_c/2026/03/4b4bcaf36510993c7f3a5e869e29b4674bdb4f6f-thumb-1920x1080-80542.jpg"
-    },
-    {
-      "title": "VRChatワールド用ツール「GPU Infinite Grass」リリース！ 軽量高速GPU草描画システム、VRC Light Volumesサポート - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202603-GPUInfiniteGrass.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-03-04T23:48:52",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/GPUinfGrass-01-thumb-1920x1080-80657.jpg"
-    },
-    {
-      "title": "「ソードアート・オンライン」の新作ゲーム『エコーズ・オブ・アインクラッド』発表。デスゲームと化したMMORPG世界を“名もなきプレイヤー目線”で生き抜く",
-      "url": "https://automaton-media.com/articles/newsjp/20260306-426782/",
+      "title": "荷物整理・配達ホラーゲーム『CARGO:HUMAN』発表。中身を見ると“正気を蝕まれる”荷物を運ぶ、極限労働生活",
+      "url": "https://automaton-media.com/articles/newsjp/20260306-426967/",
       "source": "Automaton",
       "category": "release",
       "importance": "high",
-      "published": "2026-03-05T23:14:12",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260306-426782-header.jpg"
+      "published": "2026-03-06T10:24:34",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260306-426967-header.jpg"
     },
     {
-      "title": "「楽器ごとレーン制」未来風リズムアクション『Beat Weaver』発表。ノーツを取りつつリミックス、カスタムトラックも制作できる“音符のハイウェイ”",
-      "url": "https://automaton-media.com/articles/newsjp/beat-weaver-20260305-426729/",
+      "title": "花嫁死に戻りループミステリー『何度目かの式』発表。『探偵 神宮寺三郎』シリーズなどに携わったクリエイターが放つ新作",
+      "url": "https://automaton-media.com/articles/newsjp/20260306-426954/",
       "source": "Automaton",
       "category": "release",
       "importance": "high",
-      "published": "2026-03-05T11:07:44",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/beat-weaver-20260305-426729-header.jpg"
+      "published": "2026-03-06T09:31:18",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260306-426954-header.jpg"
     },
     {
-      "title": "ショッピングモール破壊しまくりアクション『KAREN』発表。店に不満たっぷりのおばさま、怒り爆発で大暴れ",
-      "url": "https://automaton-media.com/articles/newsjp/karen-20260305-426679/",
+      "title": "任天堂、アメリカ政府を提訴。トランプ関税をめぐって",
+      "url": "https://automaton-media.com/articles/newsjp/nintendo-20260307-427071/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-03-06T21:31:47",
+      "image": "https://automaton-media.com/wp-content/uploads/2025/05/nintendo-switch-20250110-324821.jpg"
+    },
+    {
+      "title": "部族を率いるオープンワールド原始サバイバル『Soulmask』4月10日に正式リリースへ。「1000回以上のアプデ」を経た人気ゲームがついに",
+      "url": "https://automaton-media.com/articles/newsjp/20260306-427021/",
       "source": "Automaton",
       "category": "release",
-      "importance": "high",
-      "published": "2026-03-05T08:08:40",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/karen-20260305-426679-header.jpg"
+      "importance": "normal",
+      "published": "2026-03-06T13:01:30",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260306-427021-header.jpg"
     },
     {
-      "title": "都市開発シム『Cities: Skylines』に“レースイベント”新DLC発表、3月10日リリースへ。約1年半ぶり＆“最後のDLC”宣言から2回目のDLC登場",
-      "url": "https://automaton-media.com/articles/newsjp/cities-skylines-20260305-426634/",
-      "source": "Automaton",
+      "title": "「Soulmask」が2026年4月10日に正式版へ。同日リリースとなる古代エジプト神話×異星テクノロジーの新DLC映像公開",
+      "url": "https://www.4gamer.net/games/767/G076739/20260306047/",
+      "source": "4Gamer.net",
       "category": "update",
       "importance": "high",
-      "published": "2026-03-05T05:35:13",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/cities-skylines-20260305-426634-header.jpg"
+      "published": "2026-03-06T13:00:00",
+      "image": "https://www.4gamer.net/games/767/G076739/20260306047/SS/001.jpg"
     },
     {
-      "title": "カプコン新作月面アクション『プラグマタ』、なんと4月17日に発売前倒しに。延期を重ねた注目作、一転して1週間早まる",
-      "url": "https://automaton-media.com/articles/newsjp/20260306-426774/",
-      "source": "Automaton",
+      "title": "公式番組「ザ・スーパーマリオギャラクシー・ムービー Direct 2026.3.10」が3月10日6：00に配信。映画の最新映像を公開",
+      "url": "https://www.4gamer.net/games/991/G999103/20260307001/",
+      "source": "4Gamer.net",
       "category": "release",
       "importance": "high",
-      "published": "2026-03-05T22:48:42",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260306-426774-header.jpg"
+      "published": "2026-03-06T15:47:02",
+      "image": "https://www.4gamer.net/games/991/G999103/20260307001/SS/001.jpg"
     },
     {
-      "title": "『SAO』を題材とするシングルプレイの新作アクションRPG『Echoes of Aincrad（エコーズ オブ アインクラッド）』発表。PS5、Xbox Series X|S、Steamに向けて2026年7月9日より発売へ",
-      "url": "https://news.denfaminicogamer.jp/news/260306p",
-      "source": "電ファミニコゲーマー",
+      "title": "開発者の金縛りや悪夢体験を1人称3Dホラーゲームに――。「Unsealed: The Mare」は3月10日より配信開始",
+      "url": "https://www.4gamer.net/games/988/G098876/20260306078/",
+      "source": "4Gamer.net",
       "category": "release",
-      "importance": "high",
-      "published": "2026-03-05T23:06:07",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/capture_0317.jpg"
+      "importance": "normal",
+      "published": "2026-03-06T18:00:00",
+      "image": "https://www.4gamer.net/games/988/G098876/20260306078/SS/002.jpg"
     },
     {
-      "title": "実写映画『ストリートファイター』の日本公開日が10月16日に決定！！ 『スト6』DJとエレナの水着コスチューム「Outfit4」も発表",
-      "url": "https://news.denfaminicogamer.jp/news/260306f",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-03-05T22:23:32",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/maxresdefault-9.jpg"
+      "title": "ハイタニ氏主催「第3回ハイタニ登竜門オープン」オフライン決勝 powered by REJECTを本日開催",
+      "url": "https://www.4gamer.net/games/635/G063504/20260306080/",
+      "source": "4Gamer.net",
+      "category": "esports",
+      "importance": "normal",
+      "published": "2026-03-06T15:01:00",
+      "image": "https://www.4gamer.net/games/635/G063504/20260306080/SS/002.jpg"
     },
     {
-      "title": "スーファミ『ストII』カセット型のカードホルダー「スーパーファミリーカセットケース」が発売決定。リュウ vs ケンを再現できるアクスタが付属",
-      "url": "https://news.denfaminicogamer.jp/news/2603052p",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-03-05T14:59:09",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/main-14.jpg"
-    },
-    {
-      "title": "人気アクションリズムゲーム『Everhood』にローグライク要素が融合した『Everhood Hunters』発表。『Everhood』人気曲にくわえ、70曲以上の新曲を収録",
-      "url": "https://news.denfaminicogamer.jp/news/2603052o",
-      "source": "電ファミニコゲーマー",
+      "title": "StS2が期待通りの神ゲーすぎる！　面白イベント＆レリック満載の「Slay the Spire2」は初プレイで分かる。これ絶対ヤバ面白いやつ！",
+      "url": "https://www.4gamer.net/games/790/G079033/20260306053/",
+      "source": "4Gamer.net",
       "category": "release",
-      "importance": "high",
-      "published": "2026-03-05T14:53:10",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/ss_2ccaf409fb4cf7252bfa3a8bab01bce7ad006a57.1920x1080.jpg"
+      "importance": "normal",
+      "published": "2026-03-06T15:00:00",
+      "image": "https://www.4gamer.net/games/790/G079033/20260306053/SS/040.jpg"
     },
     {
-      "title": "『バイオハザード RE:2』の「ガンシューティング」国内ロケテストが3月中旬より順次開催決定。エアー噴射や床の振動といったギミックを搭載する新作アーケードゲーム",
-      "url": "https://news.denfaminicogamer.jp/news/260306m",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
+      "title": "『真・女神転生』ボードゲーム約1億円集めたクラファン進行遅延について謝罪と今後の対応発表",
+      "url": "https://www.gamebusiness.jp/article/2026/03/06/26354.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
       "importance": "high",
-      "published": "2026-03-05T22:21:43",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/WS000678-1.jpg"
+      "published": "2026-03-06T10:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178165.jpg"
     },
     {
       "title": "ガンホー社長交代で経営体制を刷新、増配と自社株買いを発表もストラテジックは買い増し【ゲーム企業の決算を読む】",
@@ -165,82 +129,82 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/177934.jpg"
     },
     {
-      "title": "『バイオハザード レクイエム』販売本数が500万本突破！1週間足らずの爆速売上、高評価が後押しか",
-      "url": "https://www.gamebusiness.jp/article/2026/03/05/26340.html",
+      "title": "Epic Gamesが『フォートナイト』有名リーカーを提訴。正体は機密保持契約を結んでいた元契約社員",
+      "url": "https://www.gamebusiness.jp/article/2026/03/06/26358.html",
       "source": "GameBusiness.jp",
-      "category": "release",
+      "category": "business",
       "importance": "high",
-      "published": "2026-03-05T03:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/177947.jpg"
+      "published": "2026-03-06T11:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178125.jpg"
     },
     {
-      "title": "アニメ東京ステーション、シンポジウム「アニメアーカイブの保存と利活用」3/17開催──物理・デジタル・権利の最前線",
-      "url": "https://www.gamebusiness.jp/article/2026/03/05/26350.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
+      "title": "「あなたがバレンタインにチョコを贈りたいゲームキャラクターは？」アンケート結果発表！女性部門1位「ティファ」男性部門1位「クラウド」EX部門1位「カービィ」",
+      "url": "https://news.denfaminicogamer.jp/kikakuthetower/2603063a",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-03-06T10:28:57",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/9297f6d468a715377972d2045bd9a99d.png"
+    },
+    {
+      "title": "『ガールズ＆パンツァー 最終章』より「大洗女子学園防災セット」が発表。ランタンなどの防災グッズにくわえ、あんこうモチーフのリフレクター、大洗女子学園デザインのタオルを専用リュックに詰めんだ防災セット",
+      "url": "https://news.denfaminicogamer.jp/news/2603062i",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-03-06T08:41:13",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/main-19.jpg"
+    },
+    {
+      "title": "『アメイジング・デジタル・サーカス』ドンキコラボ商品が発売決定！パーティーをテーマに新規イラストを使用したグッズを3月14日より対象店舗で取り扱う",
+      "url": "https://news.denfaminicogamer.jp/news/2603062g",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-03-06T07:49:21",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/HCsjfZ5bMAEKSqD.jpg"
+    },
+    {
+      "title": "「ポケカ」ゲンガーのイラストを再現したフィギュアがすごい。新商品「カードイラスト フィギュアコレクション」がポケモンセンターにて3月13日より発売",
+      "url": "https://news.denfaminicogamer.jp/news/2603062m",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-03-05T11:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178046.png"
+      "published": "2026-03-06T11:34:21",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/005413_1.png"
     },
     {
-      "title": "［インタビュー］「ディアブロ IV」，最新拡張「憎悪の帝王」で登場する新クラス「ウォーロック」は悪魔を道具として使い捨てる攻撃的な召喚クラス",
-      "url": "https://www.4gamer.net/games/484/G048447/20260225035/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-03-05T20:00:00",
-      "image": "https://www.4gamer.net/games/484/G048447/20260225035/SS/010.jpg"
-    },
-    {
-      "title": "「バックパック・バトル」，新クラス“エンジニア”が登場する大型アップデートを3月27日に実施",
-      "url": "https://www.4gamer.net/games/749/G074963/20260305068/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-03-05T11:26:03",
-      "image": "https://www.4gamer.net/games/749/G074963/20260305068/SS/002.jpg"
-    },
-    {
-      "title": "「ワンス・アポン・ア・塊魂」，過去楽曲＆衣装を収録したDLC「塊魂ネオリミックスパック」を配信。無料アップデート「DJ3点セット」を実施",
-      "url": "https://www.4gamer.net/games/933/G093375/20260305057/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-03-05T11:13:00",
-      "image": "https://www.4gamer.net/games/933/G093375/20260305057/SS/002.jpg"
-    },
-    {
-      "title": "舌で自由に移動し，キノコやどんぐりで道を作る。カエルが主人公の3Dプラットフォーマー「BIG HOPS」（ほぼ日 インディーPick Up！）",
-      "url": "https://www.4gamer.net/games/950/G095079/20260301002/",
-      "source": "4Gamer.net",
-      "category": "release",
+      "title": "「あなたがバレンタインにチョコを贈りたいゲームのキャラは？」回答をまとめてご紹介！「チョコあげて眉ひそめられたい」「お返しに尻尾モフモフさせてくれ」「初恋だから」など、みなさんのクソでか感情が豊作です",
+      "url": "https://news.denfaminicogamer.jp/kikakuthetower/2603065a",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-03-05T22:00:00",
-      "image": "https://www.4gamer.net/games/950/G095079/20260301002/SS/007.jpg"
+      "published": "2026-03-06T10:33:53",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/32ce5a535d2c4ba167a88a15b9d7ae0f.png"
     },
     {
-      "title": "「ディアブロ IV」，ブッチャーに変身できる新シーズン「血宴殺戮」は3月12日開始。「DOOM: The Dark Ages」とのコラボも同時開催",
-      "url": "https://www.4gamer.net/games/484/G048447/20260305048/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-03-05T20:00:00",
-      "image": "https://www.4gamer.net/games/484/G048447/20260305048/SS/017.jpg"
-    },
-    {
-      "title": "『ARC Raiders』UE5を用いたオープンワールド制作効率化など、開発スタジオへのインタビュー記事をEpic Gamesが公開",
-      "url": "https://gamemakers.jp/article/2026_03_04_132593/",
+      "title": "『カービィのエアライダー』ディレクターの桜井 政博氏らが楽曲制作エピソードを語る。任天堂によるインタビュー記事が公開",
+      "url": "https://gamemakers.jp/article/2026_03_06_132870/",
       "source": "ゲームメーカーズ",
-      "category": "tech",
+      "category": "other",
       "importance": "high",
-      "published": "2026-03-04T08:41:39",
+      "published": "2026-03-06T10:28:45",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/03/cf34c951732a891708be26f4fd958480.jpg"
+    },
+    {
+      "title": "『Monster Hunter Now』ゲームディレクターに聞く、機能「探索拠点」に込めた思いとは。モンハンらしさと位置情報ゲームならではの新たな魅力を両立させる",
+      "url": "https://gamemakers.jp/article/2026_03_06_132624/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-03-06T10:12:42",
       "image": null
     },
     {
       "title": "Steamタイトルの国産キュレーションサイト「Steamトレンド」オープン。日本の「今HOTなゲーム」やジャンル別のトレンドをランキング形式で紹介",
       "url": "https://gamemakers.jp/article/2026_03_05_132702/",
       "source": "ゲームメーカーズ",
-      "category": "other",
+      "category": "tech",
       "importance": "normal",
       "published": "2026-03-05T08:22:22",
       "image": null
@@ -249,52 +213,61 @@
       "title": "Blenderユーザー向けオンラインイベント「Blender Fes 2026 SS」、3/28（土）・29（日）に開催。3DCG・映像制作などを学べる全16セッションが配信",
       "url": "https://gamemakers.jp/article/2026_03_05_132687/",
       "source": "ゲームメーカーズ",
-      "category": "industry",
+      "category": "tech",
       "importance": "normal",
       "published": "2026-03-05T06:57:59",
       "image": null
     },
     {
-      "title": "Elgatoの無料ミキサーソフト「Wave Link 3.0」正式リリース。Elgato製品に限らずあらゆるデバイスで利用可能",
-      "url": "https://gamemakers.jp/article/2026_03_04_132590/",
-      "source": "ゲームメーカーズ",
+      "title": "GDC 2026に合わせ、Adobe、Autodesk、SideFXが制作事例やツール活用を紹介 - ニュース",
+      "url": "https://cgworld.jp/flashnews/2603-gdc.html",
+      "source": "CGWORLD",
       "category": "tech",
       "importance": "normal",
-      "published": "2026-03-04T11:01:16",
-      "image": null
+      "published": "2026-03-06T10:08:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/_16x9_2_copy_3-thumb-1920x1080-80707.png"
     },
     {
-      "title": "高い評価を受けた超能力アクションADVの続編『CONTROL Resonant』がアクションRPGを掲げて目指す体験とは",
-      "url": "https://jp.ign.com/control-resonant/82814/feature/advcontrol-resonantrpg",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-03-04T14:02:47",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/ctrl-r-gameplay-extended-screenshot-2_q54b.jpg"
+      "title": "Netflix映画『超かぐや姫！』 仮想空間『ツクヨミ』を多彩な3DCGで彩った話題作！ 〜No.3／CG制作篇 - 特集",
+      "url": "https://cgworld.jp/article/cgw331-chokaguyahime03.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-03-06T04:00:46",
+      "image": "https://cgworld.jp/article/assets_c/2026/02/8c91db5109a835d1dd231b085800c8491d3667ef-thumb-1000x563-80101.jpg"
     },
     {
-      "title": "オープンフィールド化と独自性溢れるバディシステムの進化が光る力作！『CODE VEIN II』レビュー",
-      "url": "https://jp.ign.com/code-vein-ii/82812/review/code-vein-ii",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-03-04T07:19:39",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/codevein2_dgag.jpg"
+      "title": "スパイス モーションキャプチャスタジオ【モーションキャプチャスタジオ】 - 連載",
+      "url": "https://cgworld.jp/regular/2510-spice.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-03-06T01:52:34",
+      "image": "https://cgworld.jp/regular/assets_c/2025/11/spice-thumb-1000x563-75858.jpg"
     },
     {
-      "title": "バンダイナムコが新作RPGの発表を海外向けに告知 「テイルズ オブ」シリーズの新作か、『ELDEN RING』関連説も？",
-      "url": "https://jp.ign.com/games/82807/news/rpg-elden-ring",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-03-04T01:14:42",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/tales-elden-ring-publisher-bandai-namco-teases-new-rpg-revea_ymc8.jpg"
+      "title": "【全4回連載・第2回】マーザが挑むライブ衣装制作／初音ミク編［2］可動性と多層構造を極める設計論 - 特集",
+      "url": "https://cgworld.jp/article/202603-marza-2.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-03-06T01:00:00",
+      "image": "https://cgworld.jp/interview/images/202602-mellow/subsc_banner.jpg"
+    },
+    {
+      "title": "無償のピクセルフォント「でんきチップ」リリース！　SILオープンフォントライセンス、商用利用可 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202603-denkichip.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-03-05T23:23:07",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/Denkichip-01-thumb-1920x1080-80677.jpg"
     },
     {
       "title": "Steamの流行を独自分析するサイト「Steamトレンド」がオープン 担当者にサービスの狙いを聞いた",
       "url": "https://jp.ign.com/steam/82831/news/steamsteam",
       "source": "IGN Japan",
-      "category": "other",
+      "category": "tech",
       "importance": "normal",
       "published": "2026-03-05T08:13:37",
       "image": "https://sm.ign.com/ign_jp/screenshot/default/steam_3y2q.jpg"
@@ -307,6 +280,15 @@
       "importance": "normal",
       "published": "2026-03-05T01:58:35",
       "image": "https://sm.ign.com/ign_jp/photo/default/requiem-screen-11-1771899256799_ma4w.jpg"
+    },
+    {
+      "title": "行き詰まったゲームをAIが“代行”？マイクロソフトが申請したプレイヤー支援の特許が明らかに",
+      "url": "https://jp.ign.com/xbox-series-x/82827/news/ai",
+      "source": "IGN Japan",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-03-05T01:20:28",
+      "image": "https://sm.ign.com/ign_jp/news/m/microsoft-/microsoft-patent-allows-for-ai-or-another-human-to-swoop-in_r35w.png"
     }
   ]
 }
