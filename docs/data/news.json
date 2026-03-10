@@ -1,204 +1,213 @@
 {
-  "generated_at": "2026-03-09T00:08:35.712259",
-  "poem": "おはようございます！ \n今日のゲームニュースは、任天堂の連邦最高裁判決や新作ゲームのリリース 🎮など、様々なトピックが勢揃いです。\n特に注目されるのは、クリエイター支援プロジェクト「創風」の成果発表会や、幻のゲーム機「Nintendo PlayStation」の超レア版入手などです。\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-03-10T00:07:44.508763",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、注目すべき『空の軌跡 the 2nd』の発売決定や、『Slay the Spire 2』の人気をはじめ、様々なニュースが盛りだくさんです。\n新しいゲームの発表やコラボプロジェクトもあり、ゲームファンの皆さんにとってはとてもワクワクするニュースです！ 🎮\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "【全4回連載・第3回】マーザが挑むライブ衣装制作／スタライ編［1］「揺らせるものは、全て揺らす」という思想 - 特集",
-      "url": "https://cgworld.jp/article/202603-marza-3.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-09T01:00:00",
-      "image": "https://cgworld.jp/interview/images/202602-mellow/subsc_banner.jpg"
-    },
-    {
-      "title": "VRCくりえいてぃ部、4/12（日）池袋で「出張版！VRCくりえいてぃ部2」開催－VRChat上で活動するクリエイターの交流イベント - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2603-vrc2.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-03-08T01:16:55",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/oQmp_mch-thumb-680x383-80668.jpg"
-    },
-    {
-      "title": "経産省のクリエイター支援プロジェクト「創風」2025年度 ゲーム部門の最終成果発表会が開催に。15組のクリエイターが成果物のゲームをプレゼン",
-      "url": "https://www.4gamer.net/games/991/G999104/20260227040/",
-      "source": "4Gamer.net",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-03-07T03:00:00",
-      "image": "https://www.4gamer.net/games/991/G999104/20260227040/SS/001.jpg"
-    },
-    {
-      "title": "任天堂，連邦最高裁の判断を受け，関税の返還を求めてアメリカ政府を提訴",
-      "url": "https://www.4gamer.net/games/999/G999905/20260307002/",
-      "source": "4Gamer.net",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-03-07T03:01:55",
-      "image": "https://www.4gamer.net/games/999/G999905/20260307002/SS/001.jpg"
-    },
-    {
-      "title": "【今週のモチベ】「零 〜紅い蝶〜 REMAKE」やゾンビシューター「John Carpenter's Toxic Commando」がリリースされる 2026年3月9日〜3月15日",
-      "url": "https://www.4gamer.net/games/954/G095479/20260307004/",
-      "source": "4Gamer.net",
+      "title": "『空の軌跡 the 2nd』2026年秋に発売決定。『英雄伝説 空の軌跡 SC（セカンドチャプター）』をベースにフルリメイク、公式サイトがオープン",
+      "url": "https://news.denfaminicogamer.jp/news/260309t",
+      "source": "電ファミニコゲーマー",
       "category": "release",
-      "importance": "normal",
-      "published": "2026-03-08T23:00:00",
-      "image": "https://www.4gamer.net/games/954/G095479/20260307004/SS/004.jpg"
+      "importance": "high",
+      "published": "2026-03-09T06:07:32",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/HC7ivufagAAMHCU.jpg"
     },
     {
-      "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年3月2日〜3月8日",
-      "url": "https://www.4gamer.net/games/040/G004099/20260308006/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-08T22:00:00",
-      "image": "https://www.4gamer.net/games/040/G004099/20260308006/SS/034.jpg"
-    },
-    {
-      "title": "悪魔の少女が海と島を駆けるオープンワールド3Dアクション「Demon Tides」（ほぼ日 インディーPick Up！）",
-      "url": "https://www.4gamer.net/games/950/G095079/20260308001/",
-      "source": "4Gamer.net",
+      "title": "『Slay the Spire 2』最大同接数が57万人を突破。大人気デッキ構築型ローグライクカードゲーム『スレスパ』の続編。核となる要素はそのままに、最大4人マルチ機能などの新要素を搭載し人気を集める",
+      "url": "https://news.denfaminicogamer.jp/news/260309w",
+      "source": "電ファミニコゲーマー",
       "category": "release",
-      "importance": "normal",
-      "published": "2026-03-08T22:00:00",
-      "image": "https://www.4gamer.net/games/950/G095079/20260308001/SS/006.jpg"
+      "importance": "high",
+      "published": "2026-03-09T08:05:08",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/ss_f3af7cb9693b9c4b6a7555227db3fef943db3992.1920x1080-2.jpg"
     },
     {
-      "title": "『龍が如く』生んだ名越稔洋氏のスタジオ、ネットイースからの資金提供が5月に停止へ。マ・ドンソク主演の注目作『Gang of Dragon』開発中",
-      "url": "https://news.denfaminicogamer.jp/news/260308a",
+      "title": "日本ファルコム、『ドラゴンスレイヤー・プロジェクト』始動。創立45周年を記念したコンシューマ向け新企画",
+      "url": "https://news.denfaminicogamer.jp/news/260309u",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-09T06:17:41",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/006d1736ede37dfb2291d4ffb84957e5.jpg"
+    },
+    {
+      "title": "『メイド イン ワリオ』シリーズの開発者・阿部悟郎氏が27年在籍した任天堂を退社。シリーズ初代にプログラム・デザインとして参加し、2作目から最新作までシリーズほぼすべてにディレクターとして携わる",
+      "url": "https://news.denfaminicogamer.jp/news/260310b",
       "source": "電ファミニコゲーマー",
       "category": "business",
-      "importance": "high",
-      "published": "2026-03-07T16:26:58",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/WS003322.jpg"
-    },
-    {
-      "title": "【82％オフ】本格的な自動車修理を体験できるゲーム『Car Mechanic Simulator 2021』を504円で買えるセールがSteamで開催中。DLC購入で「マツダ」「ポルシェ」など有名メーカーの車も追加",
-      "url": "https://news.denfaminicogamer.jp/news/260308k",
-      "source": "電ファミニコゲーマー",
-      "category": "sale",
       "importance": "normal",
-      "published": "2026-03-08T14:53:53",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/ss_e4282485416ad35fdcc9d179c80dda13ec0fff09.1920x1080.jpg"
+      "published": "2026-03-09T23:39:31",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/9dbbdb2776f64865edda399d21732719f4b0f3b1f7dc85b19cc5a21e5a32b69d.webp"
     },
     {
-      "title": "梶裕貴さんプロデュース、会話型AIアプリ『梵そよぎAI – 0rigin -』が提供開始。梶裕貴さんの声を元にした音声AIキャラクター「梵そよぎ」との会話を楽しめる",
-      "url": "https://news.denfaminicogamer.jp/news/260308j",
+      "title": "「ピカチュウ」が描かれたハインツのケチャップが登場。コラボパッケージの絵柄は全3種類で、どれが届くかはお楽しみ",
+      "url": "https://news.denfaminicogamer.jp/news/2603092d",
       "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-03-09T12:33:01",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/p06gro0526_l.jpg"
+    },
+    {
+      "title": "任天堂株売却に見るディー・エヌ・エーの思惑―アクティビストの存在と「資本効率」への舵切り【ゲーム企業の決算を読む】",
+      "url": "https://www.gamebusiness.jp/article/2026/03/10/26375.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-03-09T23:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178256.jpg"
+    },
+    {
+      "title": "東映アニメーション「作画アカデミー」第5期の受講生募集を開始。受講料無償・月額15万支給",
+      "url": "https://www.gamebusiness.jp/article/2026/03/09/26374.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-03-09T11:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178384.jpg"
+    },
+    {
+      "title": "市長もゲームに出演！新潟県三条市舞台の御当地RPG『三条上々!!!』はどのように生まれたか―企画に参加した子供が、いつか町に戻ってくる「好きの理由」になれれば嬉しい【後編】",
+      "url": "https://www.gamebusiness.jp/article/2026/03/09/26373.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-03-09T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178417.png"
+    },
+    {
+      "title": "「Apex Legends」のガンダムシリーズコラボが想像以上にガチだった。限定マップではピースミリオンとリーブラによる決戦の演出も",
+      "url": "https://www.4gamer.net/games/449/G044914/20260309038/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-03-09T12:00:00",
+      "image": "https://www.4gamer.net/games/449/G044914/20260309038/SS/001.jpg"
+    },
+    {
+      "title": "「デレマス」15周年イヤーの情報を紹介する番組は3月11日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+      "url": "https://www.4gamer.net/games/421/G042182/20260309051/",
+      "source": "4Gamer.net",
       "category": "release",
       "importance": "normal",
-      "published": "2026-03-08T13:53:20",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/main-12.png"
+      "published": "2026-03-09T23:00:00",
+      "image": "https://www.4gamer.net/games/421/G042182/20260309051/SS/004.jpg"
     },
     {
-      "title": "【60％オフ】『トライアングルストラテジー』Switch / PS5版を60％オフの3072円で買えるセールが開催中。『オクトパストラベラー』開発陣によるタクティクスRPG",
-      "url": "https://news.denfaminicogamer.jp/news/260308h",
-      "source": "電ファミニコゲーマー",
-      "category": "sale",
+      "title": "［プレイレポ］自社ゲームエンジンで描かれる「紅の砂漠」の圧倒的なグラフィックス。先行プレイで分かったゲームの仕様を紹介しよう",
+      "url": "https://www.4gamer.net/games/484/G048495/20260309034/",
+      "source": "4Gamer.net",
+      "category": "release",
       "importance": "normal",
-      "published": "2026-03-08T09:33:36",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/ss_0cd27b9765dfad7358f7300e50dc6a418f4ae106.1920x1080.jpg"
+      "published": "2026-03-09T22:00:00",
+      "image": "https://www.4gamer.net/games/484/G048495/20260309034/SS/003.jpg"
     },
     {
-      "title": "画像を“ガビガビ”にできるツール「GABIBI（ガビビ）」公開。あえて劣化させることでネットに漂う「いにしえのJPEG画像」を再現できる",
-      "url": "https://news.denfaminicogamer.jp/news/260308g",
-      "source": "電ファミニコゲーマー",
+      "title": "具材を切って弁当箱にぴったり詰めるパズルゲーム「Bento Blocks」（ほぼ日 インディーPick Up！）",
+      "url": "https://www.4gamer.net/games/950/G095079/20260308002/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-03-09T22:00:00",
+      "image": "https://www.4gamer.net/games/950/G095079/20260308002/SS/015.jpg"
+    },
+    {
+      "title": "消防士の中に紛れ込んだアーティストを捕まえるオンラインマルチプレイACT「OCTOPinbs」，今春Steamで配信。開発はラセングルとトライエース",
+      "url": "https://www.4gamer.net/games/989/G098912/20260309058/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-03-09T18:15:00",
+      "image": "https://www.4gamer.net/games/989/G098912/20260309058/SS/009.jpg"
+    },
+    {
+      "title": "人狼系消防マルチプレイアクション『OCTOPinbs』発表。放火魔とバレても“ごり押し可”な人狼ゲーム、『FGO』のラセングルとトライエースが共同開発",
+      "url": "https://automaton-media.com/articles/newsjp/octopinbs-20260310-427858/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-09T22:55:03",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/octopinbs-20260310-427858-header.jpg"
+    },
+    {
+      "title": "パチンコデッキ構築ローグライト『Pegs X Stickers』発表。“デスクトップ下放置ゲームブーム”火付け役の新作は、物理演算病みつきパチンコ",
+      "url": "https://automaton-media.com/articles/newsjp/pegs-x-stickers-20260309-427710/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-09T08:29:57",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/pegs-x-stickers-20260309-427710-header.jpg"
+    },
+    {
+      "title": "幻の携帯ゲームアプリ『DIGITAL DEVIL SAGA アバタール・チューナー A’s TEST Server完全版』復刻版発表。『女神転生』シリーズの流れを汲むゲームが蘇る",
+      "url": "https://automaton-media.com/articles/newsjp/20260309-427631/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-09T04:49:56",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260309-427631-header.jpg"
+    },
+    {
+      "title": "『ディビジョン2』Steamで同接2万7000人超、過去最高の大盛り上がり。期間限定で無料開放の“緊張感たっぷり新モード”などで一気に人気再燃",
+      "url": "https://automaton-media.com/articles/newsjp/the-division-2-20260309-427698/",
+      "source": "Automaton",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-03-09T07:34:29",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/the-division-2-20260309-427698-header.jpg"
+    },
+    {
+      "title": "『軌跡』シリーズの“源流”『ドラゴンスレイヤー』、新作プロジェクト始動。日本ファルコム往年のシリーズが令和にリブートへ",
+      "url": "https://automaton-media.com/articles/newsjp/20260309-427649/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-09T06:00:01",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260309-427649-header.jpg"
+    },
+    {
+      "title": "HyperXのUSBコンデンサーマイク「SoloCast 2」がAmazonにて15%オフでセール中",
+      "url": "https://jp.ign.com/gaming-device/82846/news/hyperxusbsolocast-2amazon15",
+      "source": "IGN Japan",
       "category": "tech",
       "importance": "normal",
-      "published": "2026-03-08T09:25:49",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/HC2m95xbIAAE_r8.jpg"
+      "published": "2026-03-09T11:41:39",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_ftz9.jpg"
     },
     {
-      "title": "『ウィキッド 永遠の約束』レビュー 主演2人の演技は圧巻、それでも問題山積の続編",
-      "url": "https://jp.ign.com/wicked-for-good/82810/review/2",
+      "title": "まさにGTAライク！『NTE: Neverness to Everness』30分のプレイ映像",
+      "url": "https://jp.ign.com/neverness-to-everness/82852/video/gtante-neverness-to-everness30",
       "source": "IGN Japan",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-03-07T03:42:40",
-      "image": "https://sm.ign.com/ign_jp/review/w/wicked-for/wicked-for-good-review_9v3d.jpg"
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-03-09T03:02:00",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/maxresdefault_6rfz.jpg"
     },
     {
       "title": "幻のゲーム機「Nintendo PlayStation」、“現存最古”とされる超レア版を米博物館が入手",
       "url": "https://jp.ign.com/games/82851/news/nintendo-playstation",
       "source": "IGN Japan",
       "category": "other",
-      "importance": "high",
+      "importance": "normal",
       "published": "2026-03-08T09:00:29",
       "image": "https://sm.ign.com/ign_jp/news/t/the-nation/the-national-videogame-museum-obtains-one-of-a-kind-nintendo_m1ze.jpg"
     },
     {
-      "title": "オーディオテクニカのヘッドセット「ATH-M50xSTS-USB」が29％オフでセール中【Amazon新生活セール】",
-      "url": "https://jp.ign.com/gaming-device/82845/news/ath-m50xsts-usb29amazon",
-      "source": "IGN Japan",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-03-07T04:47:09",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_a7q3.png"
-    },
-    {
-      "title": "『ウィキッド 永遠の約束』画像ギャラリー",
-      "url": "https://jp.ign.com/wicked-for-good/82811/gallery/",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-07T03:30:04",
-      "image": "https://sm.ign.com/ign_jp/gallery/w/wicked-for/wicked-for-good-images_6227.jpg"
-    },
-    {
-      "title": "「SAO」の新作ゲーム『エコーズ・オブ・アインクラッド』発表。怪しいAIに「確定申告」を任せるゲーム登場。今週の見逃せないゲーム記事7選",
-      "url": "https://automaton-media.com/articles/newsjp/weekly-games-20260308-427213/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-03-08T03:25:41",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/weekly-games-20260308-427213-header.jpg"
-    },
-    {
-      "title": "かつて『龍が如く』を開発していたメンバーによる名越スタジオ、資金提供が打ち切られるとの報道",
-      "url": "https://automaton-media.com/articles/newsjp/nagoshi-20260307-427236/",
-      "source": "Automaton",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-03-07T10:16:01",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/c170a48bd8f55e0c1f2c19eed77ccdf3.jpg"
-    },
-    {
-      "title": "『ぽこ あ ポケモン』を遊んでいると泣きそうになる。『炎姫』は爽快3Dアクション。『Tiling Forest』はデモというより無料面白パズルゲーム。今週のゲーミング",
-      "url": "https://automaton-media.com/articles/now-gaming/20260308-427433/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-08T07:42:47",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/IMG_3402.jpg"
-    },
-    {
-      "title": "Steamセールで、“圧倒的に好評”自然保護スローライフ『Alba』が285円。サイバーパンク高速アクション『RUINER』は90％オフ。遊んでおきたい最安値PCゲーム16選",
-      "url": "https://automaton-media.com/articles/newsjp/steam-sale-20260308-427201/",
-      "source": "Automaton",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-03-08T05:15:45",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/steam-sale-20260308-427201-header.jpg"
-    },
-    {
-      "title": "動物脱獄RPG『Back to the Dawn 〜ブレイク･ザ･アニマル･プリズン〜』で“規則正しい刑務所生活”を試みるも、初日で崩壊。イカれた囚人と怖いギャングに囲まれた獄中日記",
-      "url": "https://automaton-media.com/articles/impressionjp/back-to-the-dawn-switch-20260307-426996/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-07T09:09:42",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/back-to-the-dawn-switch-20260307-426996-header.jpg"
-    },
-    {
-      "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/3/7】",
-      "url": "https://gamemakers.jp/article/2026_03_07_132867/",
+      "title": "「大阪・関西万博」3D都市モデル・点群データが無償で公開。国土交通省が主導する「PLATEAU」の施策として",
+      "url": "https://gamemakers.jp/article/2026_03_09_132956/",
       "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-03-07T01:58:37",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/03/a7642f495dbfda0ef9a93b6374f59b4b.jpg"
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-03-09T09:04:19",
+      "image": null
+    },
+    {
+      "title": "札幌のインディーゲーム展示会「SAPPORO GAME ODYSSEY」、6/7（日）に初開催。出展申込を3/31（火）まで受付中",
+      "url": "https://gamemakers.jp/article/2026_03_09_132955/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-03-09T06:51:12",
+      "image": null
     },
     {
       "title": "UE5ディザリング最適化技法を解説。カメラから離れた物体の透過判定を省く実装例など、スパーククリテイティブがブログで紹介",
@@ -210,49 +219,49 @@
       "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/03/2946e2166328bea694aff9281fcf1d5b.jpg"
     },
     {
-      "title": "任天堂が米政府を提訴。トランプ関税の返還求める―最高裁判所の違法判断を受けた約2,000の訴訟に続き",
-      "url": "https://www.gamebusiness.jp/article/2026/03/07/26369.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-03-07T11:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178224.jpg"
-    },
-    {
-      "title": "デッキ構築ローグライト続編『Slay the Spire 2』配信初日に同時プレイヤー数43万人突破！前作配信時の2,000倍以上に",
-      "url": "https://www.gamebusiness.jp/article/2026/03/07/26368.html",
-      "source": "GameBusiness.jp",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-03-07T11:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178233.jpg"
-    },
-    {
-      "title": "最古の「Nintendo PlayStation」を米国ナショナルビデオゲーム博物館が入手。今までに発見されたどの機器とも異なるデザイン",
-      "url": "https://www.gamebusiness.jp/article/2026/03/07/26365.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-03-07T10:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178251.jpg"
-    },
-    {
-      "title": "発売延期説が囁かれるも......「Steam Machine」含む新製品の出荷は変わらず2026年内とValveが説明",
-      "url": "https://www.gamebusiness.jp/article/2026/03/07/26371.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
+      "title": "4/14（火）開催！エンタメ×経営学：IP全盛時代に、クリエイターが挑戦できる舞台をどう設計するか（freee） - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2603-freee.html",
+      "source": "CGWORLD",
+      "category": "industry",
       "importance": "normal",
-      "published": "2026-03-07T11:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178208.png"
+      "published": "2026-03-09T06:50:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/freee_keieilabo_260414_TOP-thumb-1000x563-80740.jpg"
     },
     {
-      "title": "芸術用語なのに…『Clair Obscur』と偶然同様の名を持つマンガ、タイトル変更を余儀なくされる",
-      "url": "https://www.gamebusiness.jp/article/2026/03/07/26370.html",
-      "source": "GameBusiness.jp",
+      "title": "「デジタルアートの島」を目指す天草市が、地域おこし協力隊員を募集中！コンテンツ産業創出で若年層定着へ【3/31（火）〆切】 - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2603-amakusa.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-03-09T04:37:07",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/17519f1ecea1333c92587f1f3bd2f2ff449587f3-thumb-1418x792-80739.jpg"
+    },
+    {
+      "title": "UV作業はどこまで速くなる？ 最新RizomUVを現場目線で見る - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/2603-rizomuv.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-03-09T03:40:44",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/03/24bec17eb664297d354ba304b17208197048979a-thumb-864x486-80650.png"
+    },
+    {
+      "title": "【全4回連載・第3回】マーザが挑むライブ衣装制作／スタライ編［1］「揺らせるものは、全て揺らす」という思想 - 特集",
+      "url": "https://cgworld.jp/article/202603-marza-3.html",
+      "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-03-07T11:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178216.jpg"
+      "published": "2026-03-09T01:00:00",
+      "image": "https://cgworld.jp/interview/images/202602-mellow/subsc_banner.jpg"
+    },
+    {
+      "title": "ユズノキ氏、「3D九龍城砦」をCLIP STUDIO ASSETSとBOOTHでリリース！ - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202603-Kowloon.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-03-09T00:19:13",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/3DKurong-01-thumb-1920x1080-80730.jpg"
     }
   ]
 }
