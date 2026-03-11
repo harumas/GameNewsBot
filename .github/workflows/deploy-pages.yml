@@ -8,6 +8,10 @@ on:
       - main
     paths:
       - 'docs/**'
+  workflow_run:
+    workflows: ["Post Game News"]
+    types:
+      - completed
   # Allow manual triggering of the page build without posting to Discord
   workflow_dispatch:
 
