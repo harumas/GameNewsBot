@@ -1,231 +1,150 @@
 {
-  "generated_at": "2026-03-11T00:06:50.377761",
-  "poem": "おはようございます！🌞\n今日のゲームニュースは、 Nintendo Switch 2 向けの『ヨッシーとフカシギの図鑑』の発売決定や、人気ゲーム『バイオハザード レクイエム』の追加ストーリーコンテンツの制作決定が注目です 😄\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-03-12T00:08:47.318564",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、Minecraft Liveの配信や新作ゲームの発表が続々と！ \n特に日本一ソフトウェアの新作やValveのプラットフォームに関する発表が注目を集めています 💻\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "『ヨッシーとフカシギの図鑑』がNintendo Switch 2向けに5月21日より発売決定！しゃべる図鑑「フカシギ」の依頼を受けたヨッシーは、図鑑の中の世界を調査する",
-      "url": "https://news.denfaminicogamer.jp/news/2603102k",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-03-10T14:01:40",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/small-1.png"
-    },
-    {
-      "title": "「クトゥルフ神話」の邪神が“葛飾北斎の浮世絵”に描かれた画集『邪神三十六景』の複製原画が発売決定！「神奈川沖浪裏 九頭竜顕現之図」「霊峰に這いよる混沌の化身」などがラインナップ",
-      "url": "https://news.denfaminicogamer.jp/news/2603102e",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-03-10T09:16:35",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/sub7-17.jpg"
-    },
-    {
-      "title": "白黒で描かれた緻密なビジュアルが良すぎる。モノクロの世界を舞台としたパズルゲーム『Helix: Descent N Ascent』5月22日に発売決定。能力を自由に組み合わせながらパズルを解き進めていく",
-      "url": "https://news.denfaminicogamer.jp/news/2603102a",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-03-10T07:49:40",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/ss_158e5f70344052455d3fd0d43ed7c69471edd19a.1920x1080.jpg"
-    },
-    {
-      "title": "「サンリオキャラクター大賞」2026年4月9日より投票開始。3月下旬に今年から開設される新部門の詳細が発表",
-      "url": "https://news.denfaminicogamer.jp/news/260310x",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-03-10T07:26:08",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/main-24.jpg"
-    },
-    {
-      "title": "『バイオハザード レクイエム』追加ストーリーコンテンツの制作が決定！ディレクターの中西晃史氏が言及。本編の世界をより深く掘り下げる内容で、現在開発が進行中",
-      "url": "https://news.denfaminicogamer.jp/news/2603102i",
-      "source": "電ファミニコゲーマー",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-03-10T11:47:48",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/13450-5624-9abd72702dc3f98f0a609fac73e63efa-3900x3900-1.jpg"
-    },
-    {
-      "title": "「バイオハザード レクイエム」，追加ストーリーコンテンツの開発を発表。フォトモードや“ちょっとしたミニゲーム”も配信予定",
-      "url": "https://www.4gamer.net/games/917/G091773/20260310067/",
+      "title": "「Minecraft Live」3月22日に配信。ゲームの最新情報や今後追加予定のコンテンツの情報をお届け。重大発表もあり",
+      "url": "https://www.4gamer.net/games/126/G012627/20260311065/",
       "source": "4Gamer.net",
-      "category": "update",
+      "category": "industry",
       "importance": "high",
-      "published": "2026-03-10T11:36:35",
-      "image": "https://www.4gamer.net/games/917/G091773/20260310067/SS/003.jpg"
+      "published": "2026-03-11T12:03:20",
+      "image": "https://www.4gamer.net/games/126/G012627/20260311065/SS/004.jpg"
     },
     {
-      "title": "小さなスタジオの大ヒットインディーゲーム「Balatro」は，どうやって自立的なコミュニティを育てたのか。DiscordとReddit運営の実践［GDC 2026］",
-      "url": "https://www.4gamer.net/games/782/G078260/20260310058/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-03-10T11:25:33",
-      "image": "https://www.4gamer.net/games/782/G078260/20260310058/SS/019.jpg"
-    },
-    {
-      "title": "オフィスチェアに乗って暴れまわるローグライクTPS「Last Man Sitting」，Steamで3月31日に発売決定",
-      "url": "https://www.4gamer.net/games/966/G096675/20260310060/",
+      "title": "2D横スクロールACT「GOBBLE」，9月24日発売決定。勇者に憧れる少年と，敵を捕食して能力を習得するモンスターが冒険を繰り広げる",
+      "url": "https://www.4gamer.net/games/989/G098946/20260310062/",
       "source": "4Gamer.net",
       "category": "release",
       "importance": "high",
-      "published": "2026-03-10T11:21:16",
-      "image": "https://www.4gamer.net/games/966/G096675/20260310060/SS/001.jpg"
+      "published": "2026-03-11T11:30:00",
+      "image": "https://www.4gamer.net/games/989/G098946/20260310062/SS/001.jpg"
     },
     {
-      "title": "個性豊かなダイスを振ってシナジーを爆発させる「Dice A Million」（ほぼ日 インディーPick Up！）",
-      "url": "https://www.4gamer.net/games/950/G095079/20260308003/",
+      "title": "「Marathon」，本日配信のアップデートにてサーマルスコープが弱体化。UESCとの戦闘におけるリソース負担を軽減する調整も",
+      "url": "https://www.4gamer.net/games/709/G070952/20260311063/",
       "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-10T22:00:00",
-      "image": "https://www.4gamer.net/games/950/G095079/20260308003/SS/010.jpg"
-    },
-    {
-      "title": "DLSS 4.5の目玉機能「ダイナミックマルチフレーム生成」が3月31日リリース。NVIDIAがGDC 2026に合わせたGeForce最新情報を公開",
-      "url": "https://www.4gamer.net/games/869/G086964/20260309030/",
-      "source": "4Gamer.net",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-03-10T15:30:00",
-      "image": "https://www.4gamer.net/games/869/G086964/20260309030/SS/002.jpg"
-    },
-    {
-      "title": "『ニーア』超リスペクトゲーム『炎姫』開発者、『ニーア オートマタ』開発者ヨコオタロウ氏・田浦貴久氏にアドバイスを求めて対談。ガチな助言が返ってきて、ゲームがちょっと変わる",
-      "url": "https://automaton-media.com/articles/interviewsjp/nier-20260310-428003/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-03-10T09:00:16",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/nier-20260310-428003-header.jpg"
-    },
-    {
-      "title": "Steam無料“フェチ強め”アンドロイド治療ゲーム『D1AL-ogue』、早くも続編『D1AL-ogue+』発表。熱烈人気な背徳サイバーパンク治療物語、さらに深まる新展開へ",
-      "url": "https://automaton-media.com/articles/newsjp/20260310-428098/",
-      "source": "Automaton",
       "category": "update",
       "importance": "high",
-      "published": "2026-03-10T13:45:05",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260310-428098-header.jpg"
+      "published": "2026-03-11T11:19:30",
+      "image": "https://www.4gamer.net/games/709/G070952/20260311063/SS/001.jpg"
     },
     {
-      "title": "『バイオハザード レクイエム』追加ストーリーコンテンツ制作決定。“シリーズ最大級”のヒット作に、さっそくDLC予告",
-      "url": "https://automaton-media.com/articles/newsjp/biohazard-requiem-20260310-428073/",
-      "source": "Automaton",
+      "title": "Steamで無料配信中のアンドロイド修理ゲーム「D1AL-ogue」，次回作の制作を発表",
+      "url": "https://www.4gamer.net/games/978/G097886/20260311059/",
+      "source": "4Gamer.net",
       "category": "update",
       "importance": "high",
-      "published": "2026-03-10T11:58:18",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/biohazard-requiem-20260310-428073-header.jpg"
+      "published": "2026-03-11T10:38:27",
+      "image": "https://www.4gamer.net/games/978/G097886/20260311059/SS/004.jpg"
     },
     {
-      "title": "Nintendo Switch 2『ヨッシーとフカシギの図鑑』5月21日発売へ。変わった生き物だらけの図鑑世界の冒険",
-      "url": "https://automaton-media.com/articles/newsjp/20260310-428107/",
-      "source": "Automaton",
+      "title": "同時接続4200万人，成功タイトルはほぼ倍増。Valveが考える，プラットフォームのあるべき姿［GDC 2026］",
+      "url": "https://www.4gamer.net/games/991/G999104/20260311049/",
+      "source": "4Gamer.net",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-03-11T10:42:35",
+      "image": "https://www.4gamer.net/games/991/G999104/20260311049/SS/003.jpg"
+    },
+    {
+      "title": "“隠し部屋”付きの同人誌ラックが3月13日に発売決定。企画発表時にはデスノートがしまってありそうと話題に",
+      "url": "https://news.denfaminicogamer.jp/news/2603112r",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-03-11T12:13:30",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/G86HDHFagAYFj-6.jpg"
+    },
+    {
+      "title": "日本一ソフトウェアの新作横スクロールアクション『GOBBLE』がSwitch/PS5/Steamに9月24日発売決定！『夜廻』などを見出した「日本一企画祭」で誕生した作品",
+      "url": "https://news.denfaminicogamer.jp/news/2603112b",
+      "source": "電ファミニコゲーマー",
       "category": "release",
-      "importance": "normal",
-      "published": "2026-03-10T14:18:04",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260310-428107-header2.jpg"
-    },
-    {
-      "title": "イカダ漂流サバイバル『Raft』Steamにて突如「3年以上ぶりのアプデ」配信開始。ゲーム内ボイチャやクロスプレイ正式対応でマルチプレイしやすさグンと向上",
-      "url": "https://automaton-media.com/articles/newsjp/20260310-428084/",
-      "source": "Automaton",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-03-10T12:44:56",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260310-428084-header.jpg"
-    },
-    {
-      "title": "今度は『ハヤブサ』！ スズキと『ストリートファイター6』のコラボ第2弾発表、「ジュリ」のもう一つの姿再現",
-      "url": "https://www.gamebusiness.jp/article/2026/03/10/26387.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
       "importance": "high",
-      "published": "2026-03-10T04:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178264.jpg"
+      "published": "2026-03-11T11:30:21",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/41b231a6900bf5ab3a332754cf50ca07.png"
     },
     {
-      "title": "Anthropic、サプライチェーンリスク指定を受け米政府を提訴。OpenAIとGoogleの一部従業員がAnthropicの訴訟を支持する声明",
-      "url": "https://www.gamebusiness.jp/article/2026/03/10/26394.html",
-      "source": "GameBusiness.jp",
+      "title": "日本一ソフトウェア独自のPCゲーム専用サービス「日本一PCゲームズ」発表。第1弾タイトルとして「絵本シリーズ」の原点『嘘つき姫と盲目王子』が3月12日より配信決定",
+      "url": "https://news.denfaminicogamer.jp/news/2603112c",
+      "source": "電ファミニコゲーマー",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-03-11T11:20:40",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/8a5b113391a4b500898b6435bbd19bff.png"
+    },
+    {
+      "title": "日本一ソフトウェアが新作パーティーゲーム『プリニーすごろく』を発表！Switch/PS5/Steam向けに2026年秋より発売。時にバトル、時に協力、そして足の引っ張り合いもアリ",
+      "url": "https://news.denfaminicogamer.jp/news/260311x",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-11T11:18:08",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/3283cc7af1ad0d87873e45ee25133559.png"
+    },
+    {
+      "title": "Valve、ニューヨーク州の「ルートボックス」訴訟に対し、真っ向から反論。ゲーム内アイテムのギャンブル性を強く否定し、アイテム取引の禁止などの要求には断固として応じない構え",
+      "url": "https://news.denfaminicogamer.jp/news/260312f",
+      "source": "電ファミニコゲーマー",
       "category": "business",
       "importance": "normal",
-      "published": "2026-03-10T11:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178516.jpg"
+      "published": "2026-03-11T23:06:18",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/308684428_437516188519551_655045604084013716_n.webp"
     },
     {
-      "title": "三上真司氏、新スタジオでコンソール＆PC向けオリジナルIPを開発中―「クオリティはAAA」と、同社に在籍の木村雅人氏が明かす",
-      "url": "https://www.gamebusiness.jp/article/2026/03/10/26393.html",
+      "title": "2026年最初の「マインクラフト ライブ」日本時間3月22日午前2時開催決定。ゲームの最新情報や重大発表も！",
+      "url": "https://www.gamebusiness.jp/article/2026/03/11/26404.html",
       "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-03-10T11:30:05",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178524.png"
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-03-11T10:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178662.jpg"
     },
     {
-      "title": "公明正大に才能を発掘し続ける。西岡純一ディレクターが明かす「東京アニメアワードフェスティバル」の理念",
-      "url": "https://www.gamebusiness.jp/article/2026/03/10/26392.html",
+      "title": "『フォートナイト』ゲーム内通貨が実質値上げ…「V-Bucksは新たな不況指標」など海外ファンの皮肉や不満も",
+      "url": "https://www.gamebusiness.jp/article/2026/03/11/26408.html",
+      "source": "GameBusiness.jp",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-03-11T11:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178626.jpg"
+    },
+    {
+      "title": "米国ホワイトハウスが「遊戯王」利用した広報映像投稿で批判殺到―公式は「一切関与していない」と声明",
+      "url": "https://www.gamebusiness.jp/article/2026/03/11/26407.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-03-11T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178641.jpg"
+    },
+    {
+      "title": "『Clair Obscur』と名称が被るマンガ、販売停止要求をゲーム公式が撤回―作者と直接対話で解決",
+      "url": "https://www.gamebusiness.jp/article/2026/03/11/26406.html",
       "source": "GameBusiness.jp",
       "category": "industry",
       "importance": "normal",
-      "published": "2026-03-10T11:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178535.jpg"
+      "published": "2026-03-11T11:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178648.jpg"
     },
     {
-      "title": "タイトルに『Clair Obscur』を含むマンガ販売停止要求に進展。『Expedition 33』開発スタジオがマンガ作者に話し合いを持ちかける",
-      "url": "https://www.gamebusiness.jp/article/2026/03/10/26391.html",
+      "title": "なぜか日本で入れなかった…『Fallout 76』国内Xbox版で「Fallout 1st」展開決定！日本コミュニティの声がベセスダを動かした",
+      "url": "https://www.gamebusiness.jp/article/2026/03/11/26405.html",
       "source": "GameBusiness.jp",
-      "category": "other",
+      "category": "business",
       "importance": "normal",
-      "published": "2026-03-10T11:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178544.jpg"
+      "published": "2026-03-11T11:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178655.jpg"
     },
     {
-      "title": "アイテムだけが報酬じゃない！「ゼルダ」や『ELDEN RING』から考える嬉しいご褒美：#480 しゃべりすぎGAMER",
-      "url": "https://jp.ign.com/bangumi/82870/video/elden-ring480-gamer",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-10T11:00:03",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1280_9wvr.png"
-    },
-    {
-      "title": "「壮大かつ大規模」を真正面から実現するオープンワールド『紅の砂漠』 6時間プレイしても見えない全容に期待値が上昇",
-      "url": "https://jp.ign.com/crimson-desert/82871/preview/6",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-03-10T09:41:03",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/01-thumb_ugwa.jpg"
-    },
-    {
-      "title": "【コラム】『ぽこ あ ポケモン』が考えさせる「ポケモン世界の人間、滅んだほうがいいんじゃねえの」説",
-      "url": "https://jp.ign.com/pokemon-pokopia/82868/opinion/",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-10T07:12:41",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/01_v8mc.jpg"
-    },
-    {
-      "title": "6時間遊んでわかった『紅の砂漠』の全体像と独自性が際立つオープンワールドとしての魅力",
-      "url": "https://jp.ign.com/crimson-desert/82853/video/6",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-10T03:03:36",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/6jikan_radz.jpg"
-    },
-    {
-      "title": "『モンスターハンターストーリーズ3 ～運命の双竜～』が海外メディアに絶賛される！シリーズ本編に匹敵する評価を獲得",
-      "url": "https://jp.ign.com/monster-hunter-stories-3/82857/news/3",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-10T02:58:13",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/mhs3-blog-17730081013501_xswj.png"
+      "title": "NVIDIA、「GDC 2026」に併せてAI技術アップデート情報を発表。DLSS 4.5の新たなフレーム生成機能は3/31より提供開始",
+      "url": "https://gamemakers.jp/article/2026_03_11_133165/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-03-11T08:55:11",
+      "image": null
     },
     {
       "title": "東京・高円寺のインディーゲームイベント「TOKYO INDIE GAMES SUMMIT 2026」、出展タイトル情報の第2弾などが発表。吉祥寺エリアを巡るスタンプラリーも開催",
@@ -237,76 +156,166 @@
       "image": null
     },
     {
+      "title": "Epic Gamesのマーケットプレイス「Fab」、3/24（火）までの期間限定で無料コンテンツを公開。灯台がそびえる島をイメージした環境アセットなど3製品",
+      "url": "https://gamemakers.jp/article/2026_03_11_133108/",
+      "source": "ゲームメーカーズ",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-03-11T11:41:30",
+      "image": null
+    },
+    {
+      "title": "個人ゲーム開発者も対象・上限1,000万円の補助金など。経産省の支援プログラム「IP360」、初回応募は3/24（火）17時まで",
+      "url": "https://gamemakers.jp/article/2026_03_11_133119/",
+      "source": "ゲームメーカーズ",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-03-11T05:02:13",
+      "image": null
+    },
+    {
       "title": "世界のゲーム開発者の52％が小規模プロジェクト開発を重視、開発時間も減少傾向へ。「Unity ゲーム開発レポート 2026」公開",
       "url": "https://gamemakers.jp/article/2026_03_10_133018/",
       "source": "ゲームメーカーズ",
-      "category": "industry",
+      "category": "business",
       "importance": "normal",
       "published": "2026-03-10T07:13:50",
       "image": null
     },
     {
-      "title": "「大阪・関西万博」3D都市モデル・点群データが無償で公開。国土交通省が主導する「PLATEAU」の施策として",
-      "url": "https://gamemakers.jp/article/2026_03_09_132956/",
-      "source": "ゲームメーカーズ",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-09T09:04:19",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/03/6dbc3066d0642151b6ef52fe77a55bbd.jpg"
+      "title": "少年と魔物のド派手バディアクション『GOBBLE』正式発表、9月24日発売へ。日本一ソフトウェアの“アイデア押し”完全新作がついに詳細お披露目",
+      "url": "https://automaton-media.com/articles/newsjp/20260311-428278/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-11T11:31:39",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260311-428278-header.jpg"
     },
     {
-      "title": "札幌のインディーゲーム展示会「SAPPORO GAME ODYSSEY」、6/7（日）に初開催。出展申込を3/31（火）まで受付中",
-      "url": "https://gamemakers.jp/article/2026_03_09_132955/",
-      "source": "ゲームメーカーズ",
+      "title": "優しく切ない傑作ゲーム『嘘つき姫と盲目王子』PC版発表、いきなり配信へ。「絵本」シリーズの原点が、Steamと“日本一PCゲームズ”で遊べるように",
+      "url": "https://automaton-media.com/articles/newsjp/20260311-428270/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-11T11:20:39",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260311-428270-header.jpg"
+    },
+    {
+      "title": "協力・裏切りパーティーゲーム「プリニーすごろく」発表。常に足を引っ張り合いながらライバルを出し抜く、ハチャメチャすごろく体験",
+      "url": "https://automaton-media.com/articles/newsjp/nippon1-20260311-428290/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-11T11:18:46",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/nippon1-20260311-428290-header-1.jpg"
+    },
+    {
+      "title": "絶望の孤立村農業ゲーム『Delphinium』発表。家族を「処刑」された主人公が訳あり村人たちと寒村を再建する、重厚物語スローライフ",
+      "url": "https://automaton-media.com/articles/newsjp/20260311-428311/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-11T08:32:42",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260311-428311-header2.jpg"
+    },
+    {
+      "title": "『魔女と百騎兵』なんと新作開発決定。スマートフォン向けに2026年度内に配信へ",
+      "url": "https://automaton-media.com/articles/newsjp/20260311-428264/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-03-11T11:22:29",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260311-428264-header.jpg"
+    },
+    {
+      "title": "シリーズ25周年、今こそ『HITMAN World of the Assassination』に飛び込むべき理由",
+      "url": "https://jp.ign.com/hitman-world-of-assassination/82884/feature/25hitman-world-of-the-assassination",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-03-11T11:00:23",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/01_hsxb.png"
+    },
+    {
+      "title": "AI女優「ティリー・ノーウッド」、こんどはミュージックビデオを発表 批判に対して「AIは敵じゃない」と歌い上げる",
+      "url": "https://jp.ign.com/entertainment/82880/news/ai-ai",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-03-11T03:16:44",
+      "image": "https://sm.ign.com/ign_jp/news/i/im-not-a-p/im-not-a-puppet-im-the-star-ai-actress-tilly-norwood-release_xwa7.jpg"
+    },
+    {
+      "title": "スピンオフとしても、単体としても傑作のRPG！『モンスターハンターストーリーズ3 ～運命の双竜～』レビュー",
+      "url": "https://jp.ign.com/monster-hunter-stories-3/82859/review/rpg3",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-03-11T02:34:27",
+      "image": "https://sm.ign.com/ign_jp/review/m/monster-hu/monster-hunter-stories-3-twisted-reflection-review_ugb2.jpg"
+    },
+    {
+      "title": "圧倒的に面白すぎる『ぽこ あ ポケモン』の魅力を語り倒す！：今週遊んだゲーム 03/11/2026",
+      "url": "https://jp.ign.com/gamer-1/82883/video/03112026",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-03-11T11:00:22",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/kg_cp1v.png"
+    },
+    {
+      "title": "New Monster Hunter Stories 3: Twisted Reflection Screenshots",
+      "url": "https://jp.ign.com/monster-hunter-stories-3-twisted-reflection/82860/gallery/new-monster-hunter-stories-3-twisted-reflection-screenshots",
+      "source": "IGN Japan",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-03-11T02:34:27",
+      "image": "https://sm.ign.com/ign_jp/gallery/n/new-monste/new-monster-hunter-stories-3-twisted-reflection-screenshots_unsu.png"
+    },
+    {
+      "title": "新入社員必見！人気講座『背景モデリング講座～背景に必要な空間要素と意味のある背景作り～』が4月21日にオンライン配信 - ニュース",
+      "url": "https://cgworld.jp/flashnews/2604-plusone-suzuki.html",
+      "source": "CGWORLD",
       "category": "industry",
       "importance": "normal",
-      "published": "2026-03-09T06:51:12",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/03/c8ee2e884938ebdb9d831a1d72ac950c.jpg"
+      "published": "2026-03-11T09:57:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/suzuki_main_new-thumb-1000x563-76892-thumb-1000x563-80884.jpg"
     },
     {
-      "title": "【全4回連載・第4回】マーザが挑むライブ衣装制作／スタライ編［2］破綻と戦う、最適化の技術 - 特集",
-      "url": "https://cgworld.jp/article/202603-marza-4.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-10T01:30:00",
-      "image": "https://cgworld.jp/interview/images/202602-mellow/subsc_banner.jpg"
-    },
-    {
-      "title": "Cinema 4Dに3Dモデル生成AI「Tencent HY 3D」統合！ 今年後半リリースのiPad版Cinema 4Dから搭載 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202603-C4D-HY3D.html",
+      "title": "SideFXが3月25日（水）開催の「Game Developers Meeting Vol.65」に登壇。Houdiniにおける機械学習（ML）やAIの最新動向を解説（DeNA） - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2603-dena.html",
       "source": "CGWORLD",
       "category": "tech",
       "importance": "normal",
-      "published": "2026-03-09T23:41:29",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/C4D_HY3D-01-thumb-1920x1080-80770.jpg"
+      "published": "2026-03-11T05:26:06",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/gdm_-banner_designer_01-thumb-1000x563-80832.jpg"
     },
     {
-      "title": "4/14（火）開催！エンタメ×経営学：IP全盛時代に、クリエイターが挑戦できる舞台をどう設計するか（freee） - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2603-freee.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-03-09T06:50:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/freee_keieilabo_260414_TOP-thumb-1000x563-80740.jpg"
-    },
-    {
-      "title": "「デジタルアートの島」を目指す天草市が、地域おこし協力隊員を募集中！コンテンツ産業創出で若年層定着へ【3/31（火）〆切】 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2603-amakusa.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-03-09T04:37:07",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/17519f1ecea1333c92587f1f3bd2f2ff449587f3-thumb-1418x792-80739.jpg"
-    },
-    {
-      "title": "UV作業はどこまで速くなる？ 最新RizomUVを現場目線で見る - スペシャルコンテンツ",
-      "url": "https://cgworld.jp/special-feature/2603-rizomuv.html",
+      "title": "第20回：テクスチャをピクセル化するツール - 連載",
+      "url": "https://cgworld.jp/regular/202603-ue5tool-20.html",
       "source": "CGWORLD",
       "category": "tech",
       "importance": "normal",
-      "published": "2026-03-09T03:40:44",
-      "image": "https://cgworld.jp/special-feature/assets_c/2026/03/24bec17eb664297d354ba304b17208197048979a-thumb-864x486-80650.png"
+      "published": "2026-03-11T04:27:00",
+      "image": "https://cgworld.jp/regular/assets_c/2026/03/UE5_EditorUtility_banner_vol20-thumb-1000x563-80608.jpg"
+    },
+    {
+      "title": "tyFlow 2.0がリリース　煙や炎のシミュレーション用の流体エンジン「ZENITH」ソルバーを搭載 - ニュース",
+      "url": "https://cgworld.jp/flashnews/2603-tyflow2.0.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-03-11T04:05:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/tyflow01%20%281%29-thumb-1068x600-80755.png"
+    },
+    {
+      "title": "Shateiel氏、MetaHuman DNAアドオンを使ってBlenderでMetaHumanを活用するワークフローを公開！ プロジェクトファイル無償配布 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202603-MetaHuman-Blender.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-03-11T00:58:17",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/Blender_Metahuman-01-thumb-1920x1080-80912.jpg"
     }
   ]
 }
