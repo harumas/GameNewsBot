@@ -1,141 +1,105 @@
 {
-  "generated_at": "2026-03-14T00:10:01.994633",
-  "poem": "おはようございます！ 🌞\nゲーム業界は今も活発に動いています。新しいゲームの発表や大型アップデート、テクノロジーの進歩など、注目すべきニュースがたくさんです。特に「Blight: Survival」や「七つの大罪：Origin」の最新情報が気になります 🎮\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-03-15T00:10:44.635552",
+  "poem": "おはようございます！🌞\n今日のゲームニュースは、世界大会「カプコンカップ」での日本人選手の優勝や、新作ゲーム「Outpost Simulator」の面白さなど、話題が豊富です 💻\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "「Blight: Survival」開発陣インタビュー。150万人のウィッシュリスト登録を記録した期待の“中世ゾンビゲーム”の現在を聞いた［GDC 2026］",
-      "url": "https://www.4gamer.net/games/795/G079560/20260313081/",
-      "source": "4Gamer.net",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-03-13T11:58:23",
-      "image": "https://www.4gamer.net/games/795/G079560/20260313081/SS/005.jpg"
-    },
-    {
-      "title": "「七つの大罪：Origin」，最新情報を紹介するリリース直前生放送を配信。PS5/Steam版のアーリーアクセスは3月17日2：00にスタート",
-      "url": "https://www.4gamer.net/games/754/G075463/20260313088/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-03-13T13:32:41",
-      "image": "https://www.4gamer.net/games/754/G075463/20260313088/SS/001.jpg"
-    },
-    {
-      "title": "「プロセカ」，ホワイトデーログインキャンペーンを3月15日まで実施中",
-      "url": "https://www.4gamer.net/games/476/G047609/20260313086/",
-      "source": "4Gamer.net",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-03-14T00:00:00",
-      "image": "https://www.4gamer.net/games/476/G047609/20260313086/SS/001.jpg"
-    },
-    {
-      "title": "SHAKA氏主催「LEGENDUS DRAGON BALL GEKISHIN SQUADRA Supported by Bandai Namco Entertainment」が，3月25日と26日に開催",
-      "url": "https://www.4gamer.net/games/826/G082694/20260314001/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-03-13T15:20:55",
-      "image": "https://www.4gamer.net/games/826/G082694/20260314001/SS/001.jpg"
-    },
-    {
-      "title": "「Pok&#233;mon Sleep」，Garminのスマートウォッチとの連携をスタート。計測した睡眠データを用いた睡眠リサーチが可能に",
-      "url": "https://www.4gamer.net/games/462/G046207/20260313092/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-03-13T14:42:58",
-      "image": "https://www.4gamer.net/games/462/G046207/20260313092/SS/001.jpg"
-    },
-    {
-      "title": "最大4人協力脱出ホラー『CORDURA』発表。ゲーム内ボイチャを真似る“人間なりすまし怪異”が迫る、死んだら終わりガチ恐怖体験",
-      "url": "https://automaton-media.com/articles/newsjp/20260313-429000/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-03-13T08:16:56",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260313-429000-header.jpg"
-    },
-    {
-      "title": "Paradox近代ストラテジー『Victoria 3（Vic3）』“幕末日本”テーマの大型DLC「The Great Wave」発表。欧米の圧力で揺れる徳川幕府、開国か攘夷かはプレイヤー次第",
-      "url": "https://automaton-media.com/articles/newsjp/20260313-428977/",
-      "source": "Automaton",
+      "title": "『ジージェネエターナル』4月16日より「プレミアムガシャVer.2」が追加。『機動戦士ガンダム00』（後半）のメインステージ追加も発表",
+      "url": "https://news.denfaminicogamer.jp/news/260314p",
+      "source": "電ファミニコゲーマー",
       "category": "update",
       "importance": "high",
-      "published": "2026-03-13T07:20:08",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260313-428977-header.jpg"
+      "published": "2026-03-14T13:14:15",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/b7ca085ef95b4250170d0ec9a1d29e23-1.png"
     },
     {
-      "title": "大型オープンワールド『七つの大罪：Origin』は“100時間遊べば288回”ガチャを引ける。凸はガチャなしでも可能など、気になる詳細いろいろ「リリース直前生放送」まとめ",
-      "url": "https://automaton-media.com/articles/newsjp/20260313-429112/",
-      "source": "Automaton",
+      "title": "『スト6』優勝賞金「1億5000万円」の世界大会「カプコンカップ」で日本のさはら選手が優勝！Good 8 Squad所属エド使いの21歳",
+      "url": "https://news.denfaminicogamer.jp/news/260314o",
+      "source": "電ファミニコゲーマー",
+      "category": "esports",
+      "importance": "high",
+      "published": "2026-03-14T12:18:46",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/HDXaJdSaMAAUa2_.jpg"
+    },
+    {
+      "title": "終末世界で生存者の集まる基地を運営するゲーム『Outpost Simulator』が面白そう。一人称サバイバルと基地建設、顧客シミュレーターが融合",
+      "url": "https://news.denfaminicogamer.jp/news/260314q",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-03-14T22:37:06",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/2025-10-31-17-18-36.mkv_000006143.png"
+    },
+    {
+      "title": "『都市伝説解体・センター試験』の本格的すぎる試験にガチで挑んでみた。形式は真面目なのに問題がオカルトすぎる、“トシカイ”風味溢れる試験の先行体験レポート",
+      "url": "https://news.denfaminicogamer.jp/kikakuthetower/260314n",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-03-14T13:17:57",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/b8ac303a4730d6ef1d8e6ed422451eee-1.webp"
+    },
+    {
+      "title": "乗り物に乗った人形が物理演算で派手に飛び散るゲーム『Turbo Dismount 2』がカオスすぎる。早期アクセス版は「圧倒的に好評」",
+      "url": "https://news.denfaminicogamer.jp/news/260314k",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-03-14T10:25:59",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/ss_93d15661cde0fe63fbacc3e0ca1cd3f516e32aff.1920x1080.jpg"
+    },
+    {
+      "title": "「ガルクラ」新作ゲーム「ガールズバンドクライ First Riff」の公式番組が3月22日19：00配信へ。Anime Japan2026の出展情報も発表予定",
+      "url": "https://www.4gamer.net/games/834/G083422/20260312070/",
+      "source": "4Gamer.net",
       "category": "release",
       "importance": "high",
-      "published": "2026-03-13T13:47:25",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260313-429112-header.jpg"
+      "published": "2026-03-14T11:30:00",
+      "image": "https://www.4gamer.net/games/834/G083422/20260312070/SS/001.jpg"
     },
     {
-      "title": "『サカつく2026』Ver.1.2は大改修アプデ、快適性ぐんと向上＆ガチャのピックアップ確率アップなどてんこ盛りへ。“大型アプデVer.1.4”含めロードマップもお披露目",
-      "url": "https://automaton-media.com/articles/newsjp/20260313-429153/",
-      "source": "Automaton",
-      "category": "update",
+      "title": "脚本に込めた“間”をゲームの中へ。「Ghost of Yōtei」で刷新された会話制作パイプライン［GDC 2026］",
+      "url": "https://www.4gamer.net/games/840/G084044/20260314018/",
+      "source": "4Gamer.net",
+      "category": "tech",
       "importance": "normal",
-      "published": "2026-03-13T14:39:38",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260313-429153-header.jpg"
+      "published": "2026-03-14T10:50:59",
+      "image": "https://www.4gamer.net/games/840/G084044/20260314018/SS/003.jpg"
     },
     {
-      "title": "「『オーバーウォッチ2』は自分のキャリアで最大級の失敗」と、元ディレクターが吐露。“幻のPvE路線”の舞台裏",
-      "url": "https://automaton-media.com/articles/newsjp/20260313-429063/",
-      "source": "Automaton",
+      "title": "ゲームは「量」ではなく「栄養素」で選ぶ時代へ。オックスフォード大学が300万時間のデータから導き出した，健康的なプレイの条件［GDC 2026］",
+      "url": "https://www.4gamer.net/games/991/G999104/20260314017/",
+      "source": "4Gamer.net",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-03-14T10:18:32",
+      "image": "https://www.4gamer.net/games/991/G999104/20260314017/SS/002.jpg"
+    },
+    {
+      "title": "かつての黄金時代を取り戻せるか。教育大国オーストリアが挑む「インディーレボリューション」の現在地［GDC 2026］",
+      "url": "https://www.4gamer.net/games/991/G999104/20260314016/",
+      "source": "4Gamer.net",
       "category": "industry",
       "importance": "normal",
-      "published": "2026-03-13T10:40:20",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260313-429063-header.jpg"
+      "published": "2026-03-14T09:39:44",
+      "image": "https://www.4gamer.net/games/991/G999104/20260314016/SS/005.jpg"
     },
     {
-      "title": "Intel、AIによる高解像技術「XeSS 3」のSDKを無料でリリース。UE用プラグインも併せてアップデート",
-      "url": "https://gamemakers.jp/article/2026_03_13_133366/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-03-13T09:51:32",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/03/30b73a96569dfaaf1be865bd74fba7e5.jpg"
-    },
-    {
-      "title": "イラスト制作アプリ「CLIP STUDIO PAINT Ver.5.0」メジャーアップデートが3/11（水）よりリリース開始",
-      "url": "https://gamemakers.jp/article/2026_03_12_133291/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-03-12T11:00:09",
-      "image": null
-    },
-    {
-      "title": "Steam Machineの性能はSteam Deckの6倍。次世代Steamハードの仕様などを語ったValveの資料が公開",
-      "url": "https://gamemakers.jp/article/2026_03_13_133419/",
-      "source": "ゲームメーカーズ",
+      "title": "データだけを追うな，「潮流」に乗れ――Robloxのヒットメーカー2人が語る「Roblox文化」の読み方［GDC 2026］",
+      "url": "https://www.4gamer.net/games/612/G061218/20260314015/",
+      "source": "4Gamer.net",
       "category": "tech",
       "importance": "normal",
-      "published": "2026-03-13T13:35:18",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/03/150fca0463bc232913f44ef6a85e0e22.jpg"
+      "published": "2026-03-14T09:17:50",
+      "image": "https://www.4gamer.net/games/612/G061218/20260314015/SS/002.jpg"
     },
     {
-      "title": "5月に京都で開催されるインディーゲームイベント「BitSummit PUNCH」、チケット販売中。スポンサー・企業出展の情報も公開",
-      "url": "https://gamemakers.jp/article/2026_03_12_133353/",
-      "source": "ゲームメーカーズ",
+      "title": "『Clair Obscur: Expedition 33』がGOTYを獲得！第26回「GDC Awards」受賞作品発表",
+      "url": "https://www.gamebusiness.jp/article/2026/03/14/26428.html",
+      "source": "GameBusiness.jp",
       "category": "industry",
-      "importance": "normal",
-      "published": "2026-03-12T12:49:57",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/03/209d45687fac6beaaf9cec5a4637546f.jpg"
-    },
-    {
-      "title": "Steamworks、ウィッシュリスト取得用APIが追加。言語やOS別の追加数・削除数を取得可能に",
-      "url": "https://gamemakers.jp/article/2026_03_12_133335/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-03-12T11:40:00",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/03/64c5d99ffda874c0310de3c0abca13d2.jpg"
+      "importance": "high",
+      "published": "2026-03-14T02:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178794.jpg"
     },
     {
       "title": "インディーゲーム賞・第28回「IGF Awards」受賞者発表！最優秀賞はシュールな戦略ゲーム『Titanium Court』",
@@ -147,55 +111,163 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/178688.jpg"
     },
     {
-      "title": "Steam MachineはフルHD＆30fpsが最低動作基準か―Steam Deckで動作レビュー済みタイトルには全て対応",
-      "url": "https://www.gamebusiness.jp/article/2026/03/12/26412.html",
+      "title": "“圧倒的に好評”で最大同接57万人の『スレスパ2』発売1週間で販売300万本突破！",
+      "url": "https://www.gamebusiness.jp/article/2026/03/14/26431.html",
       "source": "GameBusiness.jp",
-      "category": "tech",
+      "category": "business",
       "importance": "high",
-      "published": "2026-03-12T11:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178766.png"
+      "published": "2026-03-14T11:00:05",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178864.jpg"
     },
     {
-      "title": "インテル新CPU「Core Ultra 200S Plus」発表―「125W級で史上最速デスクトップゲームプロセッサ」謳う",
-      "url": "https://www.gamebusiness.jp/article/2026/03/12/26411.html",
+      "title": "ゲーム開発に生成AIが受け入れられないのは「ショックで悲しい」―GDC 2026にて投資家ら語る",
+      "url": "https://www.gamebusiness.jp/article/2026/03/14/26432.html",
       "source": "GameBusiness.jp",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-03-12T11:00:05",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178777.jpg"
-    },
-    {
-      "title": "動画制作×生成AIのBtoB向けアニメ制作サービス「アニメる」提供開始 1本3万円～で“動画コンテンツ不足”を解決",
-      "url": "https://www.gamebusiness.jp/article/2026/03/13/26426.html",
-      "source": "GameBusiness.jp",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-03-13T11:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178814.jpg"
-    },
-    {
-      "title": "ホワイトハウス、今度は『Wii Sports』の映像を利用したプロパガンダ動画を投稿…止まらないゲーム・アニメの無断借用",
-      "url": "https://www.gamebusiness.jp/article/2026/03/13/26425.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-13T11:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178820.png"
-    },
-    {
-      "title": "経産省「IP360補助金」公募開始。IPをマンガからアニメ、ゲーム、実写、音楽、グッズなどへ多角的に展開するプロジェクトが対象。日本発コンテンツ海外売上20兆円目標へ、メディア横断IP展開を支援 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2603-ip360.html",
-      "source": "CGWORLD",
       "category": "industry",
+      "importance": "normal",
+      "published": "2026-03-14T11:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178855.jpg"
+    },
+    {
+      "title": "eスポーツチーム「ZETA DIVISION」が東大と共同研究へー選手寿命延伸を目指して、まずは「STREET FIGHTER部門」から2選手が参加",
+      "url": "https://www.gamebusiness.jp/article/2026/03/14/26430.html",
+      "source": "GameBusiness.jp",
+      "category": "esports",
+      "importance": "normal",
+      "published": "2026-03-14T02:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178848.jpg"
+    },
+    {
+      "title": "ゴブリン蹴散らし3Dタワーディフェンス『Fangstorm』発表。襲来する大量の「ローポリゴブリン」を、トラップと“肉体”でザクザク一掃",
+      "url": "https://automaton-media.com/articles/newsjp/fangstorm-20260314-429301/",
+      "source": "Automaton",
+      "category": "release",
       "importance": "high",
-      "published": "2026-03-12T02:07:02",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/5c401a1fc36e908e9a2b06c55a8b350a24ff8692-thumb-1000x563-80980.jpg"
+      "published": "2026-03-14T06:29:07",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/fangstorm-20260314-429301-header.jpg"
+    },
+    {
+      "title": "『Slay the Spire 2』なんとすでに売上「300万本」突破。わずか1週間で大台到達、前作を超える爆発的人気",
+      "url": "https://automaton-media.com/articles/newsjp/slay-the-spire-2-20260314-429249/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-03-14T02:41:37",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/slay-the-spire-2-20260314-429249-header.jpg"
+    },
+    {
+      "title": "最大4人協力脱出ホラー『CORDURA』発表。ゲーム内ボイチャを真似る“人間なりすまし怪異”が迫る、死んだら終わりガチ恐怖体験",
+      "url": "https://automaton-media.com/articles/newsjp/20260313-429000/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-13T08:16:56",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260313-429000-header.jpg"
+    },
+    {
+      "title": "『Slay the Spire 2』にて、「HP上限値を999999999にする」アプデ配信。“無限ループコンボ”でオスティの体力がオーバーフローしちゃうので",
+      "url": "https://automaton-media.com/articles/newsjp/slay-the-spire-2-20260314-429317/",
+      "source": "Automaton",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-03-14T08:13:00",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/slay-the-spire-2-20260314-429317-header.jpg"
+    },
+    {
+      "title": "リアル狩猟オープンワールド『Way of the Hunter 2』3月26日に早期アクセス配信へ。相棒の猟犬を連れて、カナダの大自然で野生動物を狩る",
+      "url": "https://automaton-media.com/articles/newsjp/way-of-the-hunter-2-20260314-429281/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-03-14T05:22:07",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/way-of-the-hunter-2-20260314-429281-header2.jpg"
+    },
+    {
+      "title": "文句なしの満点！『ぽこ あ ポケモン』レビュー",
+      "url": "https://jp.ign.com/pokemon-pokopia/82907/review/",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-03-13T08:03:08",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/hdgadc9amaaa6r6_px7a.jpg"
+    },
+    {
+      "title": "『零 ～紅い蝶～ REMAKE』レビュー  恐怖を凝視しなければならない和風ホラーゲームの名作が復活",
+      "url": "https://jp.ign.com/fatal-frame-ii-crimson-butterfly-remake/82897/review/remake",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-03-13T07:18:01",
+      "image": "https://sm.ign.com/ign_jp/photo/default/fatal-frame-2-crimson-butterfly-remake-blogroll-177310151188_r6n4.jpg"
+    },
+    {
+      "title": "LGの31.5インチ曲面ゲーミングモニター「UltraGear 32GS60QC-B」が3万円を切る価格に Amazonにて22％オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/82909/news/lg315ultragear-32gs60qc-b3-amazon22",
+      "source": "IGN Japan",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-03-14T04:45:02",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_vgww.jpg"
+    },
+    {
+      "title": "Boseのワイヤレスイヤホン「QuietComfort Earbuds」がAmazonにて18％オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/82899/news/bosequietcomfort-earbudsamazon18",
+      "source": "IGN Japan",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-03-13T01:03:37",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_t39q.jpg"
+    },
+    {
+      "title": "Resident Evil Requiem – Performance Screenshots",
+      "url": "https://jp.ign.com/resident-evil-9/82902/gallery/resident-evil-requiem-performance-screenshots",
+      "source": "IGN Japan",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-03-13T01:02:43",
+      "image": "https://sm.ign.com/ign_jp/gallery/r/resident-e/resident-evil-requiem-performance-screenshots_cdaq.jpg"
+    },
+    {
+      "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/3/14】",
+      "url": "https://gamemakers.jp/article/2026_03_14_133214/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-03-14T01:58:24",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/03/5a6117792ecc6240790f232604983d73.jpg"
+    },
+    {
+      "title": "Intel、AIによる高解像技術「XeSS 3」のSDKを無料でリリース。UE用プラグインも併せてアップデート",
+      "url": "https://gamemakers.jp/article/2026_03_13_133366/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-03-13T09:51:32",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/03/30b73a96569dfaaf1be865bd74fba7e5.jpg"
+    },
+    {
+      "title": "Steam Machineの性能はSteam Deckの6倍。次世代Steamハードの仕様などを語ったValveの資料が公開",
+      "url": "https://gamemakers.jp/article/2026_03_13_133419/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-03-13T13:35:18",
+      "image": null
+    },
+    {
+      "title": "NVIDIAら、少数の画像から高速・高精度の3Dシーンを復元する「InstantSplat++」をオープンソースで公開！ 2024年発表「InstantSplat」の拡張版 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202603-InstantSplat.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-03-14T00:22:24",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/InstantSplat-01-thumb-1920x1080-81033.jpg"
     },
     {
       "title": "【未経験から6ヶ月でプロのエフェクトデザイナーに】Unreal Engineコース新設・完全オンライン対応・就職サポート・内定制度まで！「エフェクトラボ」大規模リニューアルの全貌 - スペシャルコンテンツ",
       "url": "https://cgworld.jp/special-feature/2603-lunchtime.html",
       "source": "CGWORLD",
-      "category": "tech",
+      "category": "industry",
       "importance": "normal",
       "published": "2026-03-13T10:00:00",
       "image": "https://cgworld.jp/special-feature/assets_c/2026/03/effectlabo_v2%20%281%29-thumb-1920x1080-80986.jpg"
@@ -217,105 +289,6 @@
       "importance": "normal",
       "published": "2026-03-13T00:27:42",
       "image": "https://cgworld.jp/flashnews/assets_c/2026/03/Wafer-01-thumb-1920x1080-81014.jpg"
-    },
-    {
-      "title": "【新講座】ディズニー・アニメーション・スタジオの現役撮影監督が教える『アニメーションのカメラ言語を構築する』が5/9(土)にオフライン開催決定！ - ニュース",
-      "url": "https://cgworld.jp/flashnews/one-behz&ryo.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-03-12T13:13:18",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/237_seminar_Japan_talk_pictures_full%20%281%29-thumb-1920x1080-81007.jpg"
-    },
-    {
-      "title": "外山圭一郎氏率いるボーカゲームスタジオが「新規大型プロジェクト」の始動を発表。あわせて開発コアメンバーの募集も開始",
-      "url": "https://news.denfaminicogamer.jp/news/2603132j",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-03-13T07:02:50",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/HDMrsbCbgAAQaIx.jpg"
-    },
-    {
-      "title": "『デュエル・マスターズ』カードの裏面を全面にプリントしたTシャツのインパクトが強すぎる。「蒼き団長 ドギラゴン剣」のリバーシブルスカジャンなども予約受付中",
-      "url": "https://news.denfaminicogamer.jp/news/2603132m",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-13T09:44:48",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/0917105022_5f62c0de527bc.jpg"
-    },
-    {
-      "title": "映画『クレヨンしんちゃん 暗黒タマタマ大追跡』から「珠由良ブラザーズ」フィギュア化が決定！映画の顔とも呼べる人気キャラクターが一番くじのB賞として5月15日より登場",
-      "url": "https://news.denfaminicogamer.jp/news/2603132n",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-13T09:10:46",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/HDQeo-6bgAAA3M4.jpg"
-    },
-    {
-      "title": "『エルデンリング』と「TORCH TORCH」のコラボパーカーが発売。「満月の女王、レナラ」「黒き剣のマリケス」をワンポイント刺繍で表現",
-      "url": "https://news.denfaminicogamer.jp/news/2603132c",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-13T08:50:48",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/72ea58f3ccebb1dee0ebbe46790c9817.jpg"
-    },
-    {
-      "title": "自分で決めたくない選択を委ねられる「運命のコイン4」が販売開始。「課金する⇄課金しない」など絶妙に決めづらい運命の2択を手早く解決",
-      "url": "https://news.denfaminicogamer.jp/news/2603132k",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-13T07:50:14",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/main-23.png"
-    },
-    {
-      "title": "文句なしの満点！『ぽこ あ ポケモン』レビュー",
-      "url": "https://jp.ign.com/pokemon-pokopia/82907/review/",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-03-13T08:03:08",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/hdgadc9amaaa6r6_px7a.jpg"
-    },
-    {
-      "title": "『零 ～紅い蝶～ REMAKE』レビュー  恐怖を凝視しなければならない和風ホラーゲームの名作が復活",
-      "url": "https://jp.ign.com/fatal-frame-ii-crimson-butterfly-remake/82897/review/remake",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-03-13T07:18:01",
-      "image": "https://sm.ign.com/ign_jp/photo/default/fatal-frame-2-crimson-butterfly-remake-blogroll-177310151188_r6n4.jpg"
-    },
-    {
-      "title": "Boseのワイヤレスイヤホン「QuietComfort Earbuds」がAmazonにて18％オフでタイムセール中",
-      "url": "https://jp.ign.com/gaming-device/82899/news/bosequietcomfort-earbudsamazon18",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-13T01:03:37",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_t39q.jpg"
-    },
-    {
-      "title": "Resident Evil Requiem – Performance Screenshots",
-      "url": "https://jp.ign.com/resident-evil-9/82902/gallery/resident-evil-requiem-performance-screenshots",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-13T01:02:43",
-      "image": "https://sm.ign.com/ign_jp/gallery/r/resident-e/resident-evil-requiem-performance-screenshots_cdaq.jpg"
-    },
-    {
-      "title": "『バイオハザード レクイエム』内で発見された“隠しURL”のドメインを取得した人物、「カプコンから連絡があれば無料で返す」と語る わずか15ドルで取得していた",
-      "url": "https://jp.ign.com/resident-evil-9/82901/news/url-15",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-13T01:02:43",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/image16_pc27.png"
     }
   ]
 }
