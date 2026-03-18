@@ -1,96 +1,51 @@
 {
-  "generated_at": "2026-03-17T00:10:40.180019",
-  "poem": "おはようございます！ 🌞\nゲーム業界は常に進化を続けています。NVIDIAの「DLSS 5」や新作ゲームの発表など、注目すべきニュースが多くあります 💻\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-03-18T00:11:18.732232",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、SF RPG「Starfield」のPS5版が4月8日に発売決定したことが注目されています。\n新しいゲームの発表やアップデートなど、ゲーム業界はいつも如く活発です！ 🎮\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "NVIDIAの「DLSS 5」ついに発表。オン・オフ比較デモ映像では“別モノ級の変化”も",
-      "url": "https://automaton-media.com/articles/newsjp/20260317-429830/",
-      "source": "Automaton",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-03-16T23:32:11",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260317-429830-header.jpg"
-    },
-    {
-      "title": "2人協力対応・手つなぎ共同アクション『GooNECT√2』発表。高評価無料ゲームが「買い切り型新作」としてパワーアップ、“ステージ数無限”の遊び放題ゲームに",
-      "url": "https://automaton-media.com/articles/newsjp/20260316-429766/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-03-16T11:45:17",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260316-429766-header.jpg"
-    },
-    {
-      "title": "『SEKIRO』のアニメ映画「SEKIRO: NO DEFEAT」、2026年劇場公開決定。全編手描き、浪川大輔さん・津田健次郎さんら原作ボイスで贅沢アニメ化",
-      "url": "https://automaton-media.com/articles/newsjp/20260317-429838/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-03-17T00:08:11",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260317-429838-header.jpg"
-    },
-    {
-      "title": "高評価ビーバーコロニー運営シム『Timberborn』、正式リリースでSteam同接「2万5000人超え」の大盛況。“水位調整センサー”や螺旋階段など、新要素たっぷりアプデとともに",
-      "url": "https://automaton-media.com/articles/newsjp/timberborn-20260316-429643/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-03-16T03:53:13",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/timberborn-20260316-429643-header.jpg"
-    },
-    {
-      "title": "Adobe、米司法省による「解約手数料が分かりにくい」との訴訟で和解成立。120億円支払い＆対象ユーザーに“総額120億円分”の無償サービス提供へ",
-      "url": "https://automaton-media.com/articles/newsjp/20260316-429628/",
-      "source": "Automaton",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-03-16T02:57:11",
-      "image": "https://automaton-media.com/wp-content/uploads/2024/06/20240606-296456-header.jpg"
-    },
-    {
-      "title": "［インタビュー］デイリークエストも競争もいらない――「TOMAK」を作ったキム・ケン氏が，4月15日リリースの最新作「モンギル：STAR DIVE」で目指す，“いつでも戻れる”ゲーム設計",
-      "url": "https://www.4gamer.net/games/857/G085718/20260310064/",
-      "source": "4Gamer.net",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-03-16T22:45:00",
-      "image": "https://www.4gamer.net/games/857/G085718/20260310064/SS/002.jpg"
-    },
-    {
-      "title": "戦闘も死もない，魔法の犬になってオープンワールドを駆け巡る。新作オープンワールドアドベンチャー「Herdles」発表，アナウンストレイラーを公開",
-      "url": "https://www.4gamer.net/games/991/G099112/20260316062/",
+      "title": "SF RPG「Starfield」のPS5版が4月8日発売決定。プレイヤーの要望に応えたエンドコンテンツの拡充や新たなストーリーDLCも同時に",
+      "url": "https://www.4gamer.net/games/422/G042264/20260316054/",
       "source": "4Gamer.net",
       "category": "release",
       "importance": "high",
-      "published": "2026-03-16T11:35:27",
-      "image": "https://www.4gamer.net/games/991/G099112/20260316062/SS/012.gif"
+      "published": "2026-03-17T15:15:00",
+      "image": "https://www.4gamer.net/games/422/G042264/20260316054/SS/002.jpg"
     },
     {
-      "title": "「Slay the Spire 2」，リリースから1週間で300万本を販売。新要素を正式実装前にプレイできるベータブランチをリリース",
-      "url": "https://www.4gamer.net/games/790/G079033/20260316061/",
+      "title": "［インタビュー］「プラグマタ」のテーマは「何を基準として人と呼べるのか」。深みのある物語と幅広い戦闘スタイルでプレイヤーを楽しませる",
+      "url": "https://www.4gamer.net/games/512/G051239/20260317058/",
       "source": "4Gamer.net",
-      "category": "sale",
+      "category": "release",
       "importance": "high",
-      "published": "2026-03-16T11:27:02",
-      "image": "https://www.4gamer.net/games/790/G079033/20260316061/SS/003.jpg"
+      "published": "2026-03-17T15:00:00",
+      "image": "https://www.4gamer.net/games/512/G051239/20260317058/SS/010.jpg"
     },
     {
-      "title": "「学園アイドルマスター」の番組「初星学園HR STEP3 花海咲季」は3月18日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
-      "url": "https://www.4gamer.net/games/421/G042182/20260316047/",
+      "title": "水没する終末世界が舞台の「ARIE：月詠み」，発売日が2026年5月13日に決定。「TOKYO INDIE GAMES SUMMIT 2026」で日本語ボイス版を初公開",
+      "url": "https://www.4gamer.net/games/971/G097158/20260313054/",
       "source": "4Gamer.net",
       "category": "release",
       "importance": "normal",
-      "published": "2026-03-16T23:00:00",
-      "image": "https://www.4gamer.net/games/421/G042182/20260316047/SS/002.jpg"
+      "published": "2026-03-18T00:00:00",
+      "image": "https://www.4gamer.net/games/971/G097158/20260313054/SS/001.jpg"
     },
     {
-      "title": "排水溝の詰まりを取り除き，浸水した街を救う「DrainSim」（ほぼ日 インディーPick Up！）",
-      "url": "https://www.4gamer.net/games/950/G095079/20260314008/",
+      "title": "三国志への思いを，システムが全肯定してくれる。「三國志8 REMAKE with パワーアップキット」を全三国志ファンに遊んでほしい理由",
+      "url": "https://www.4gamer.net/games/952/G095213/20260305002/",
       "source": "4Gamer.net",
       "category": "release",
       "importance": "normal",
-      "published": "2026-03-16T22:00:00",
-      "image": "https://www.4gamer.net/games/950/G095079/20260314008/SS/015.jpg"
+      "published": "2026-03-17T23:00:00",
+      "image": "https://www.4gamer.net/games/952/G095213/20260305002/SS/026.jpg"
+    },
+    {
+      "title": "配線で武器を“プログラム”するローグライクオートバトラー「Wireworks」（ほぼ日 インディーPick Up！）",
+      "url": "https://www.4gamer.net/games/950/G095079/20260314009/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-03-17T22:00:00",
+      "image": "https://www.4gamer.net/games/950/G095079/20260314009/SS/006.jpg"
     },
     {
       "title": "Adobe、GDC 2026で最新バージョン「Substance 3D Painter 12.0」を発表 - ニュース",
@@ -102,13 +57,13 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/03/media_12d64ebe5b6b3f3f60e87368a9bfdbb127c7e46f8-thumb-1000x563-80908.png"
     },
     {
-      "title": "無料Webツール「GB Dot Converter」公開！　写真やイラストをゲームボーイ仕様のドット絵に変換 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202603-GBDotConverter.html",
+      "title": "オートデスク、「Wonder 3D」リリース！　Flow Studio内でAIによる3Dモデル生成が利用可能に - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202603-Wonder3D.html",
       "source": "CGWORLD",
       "category": "tech",
       "importance": "normal",
-      "published": "2026-03-16T22:38:21",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/GBDotC-01-thumb-1920x1080-81205.jpg"
+      "published": "2026-03-17T22:37:33",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/Wonder3D-01-thumb-1920x1080-81226.jpg"
     },
     {
       "title": "【15％OFF！】3/16（月）から3/27（金）までEnscape & V-Ray キックオフキャンペーン開催中！ - ニュース",
@@ -116,70 +71,151 @@
       "source": "CGWORLD",
       "category": "sale",
       "importance": "normal",
-      "published": "2026-03-16T06:44:54",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/64_news_enscape_v-ray_page-1536x665-thumb-1000x563-81200.jpg"
+      "published": "2026-03-17T06:44:54",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/64_news_enscape_v-ray_full%20%281%29-thumb-1920x1080-81217.jpg"
     },
     {
-      "title": "たかゆ氏、無料のプロシージャルテクスチャ素材生成サイト「TextureCreate」公開！ 商用利用可 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202603-TextureCreate.html",
+      "title": "長時間の作業でも疲れにくいフィット感。電動ワークチェア「LiberNovo Omni」を鈴木卓矢が検証 - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/2603-libernovo-omni.html",
       "source": "CGWORLD",
-      "category": "tech",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-03-15T23:19:18",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/TextureCreate-01-thumb-1920x1080-81177.jpg"
+      "published": "2026-03-17T02:19:01",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/03/libernovo_safehouse_v2-thumb-768x432-80985.png"
     },
     {
-      "title": "NVIDIA、AI超解像技術の最新版「DLSS 5」を発表。生成AIが複雑な光の当たり方や質感をリアルタイムで解析・追加し、ゲームのグラフィックを現実世界と見紛う写実的な映像へと進化させる。今秋リリース予定",
-      "url": "https://news.denfaminicogamer.jp/news/260317c",
+      "title": "【Unreal Engine】グリーンバック方式のバーチャルプロダクションを全面導入｜TVドラマ『牙狼＜GARO＞ 東ノ界楼』 - 連載",
+      "url": "https://cgworld.jp/regular/202603-UE-GARO-StB.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-03-17T00:46:00",
+      "image": "https://cgworld.jp/regular/assets_c/2026/03/85d57a0d94cf32aba11ee9a52185fd0fe0f5eba2-thumb-1920x1080-80817.jpg"
+    },
+    {
+      "title": "『Starfield』PS5版が4月8日に発売決定。過去最大の無料アップデート「フリーレーン」と新DLC「Terran Armada」も同日に配信。惑星間を自由に飛行できるモードや、次周のプレイへアイテムを持ち込める要素が追加",
+      "url": "https://news.denfaminicogamer.jp/news/260318b",
       "source": "電ファミニコゲーマー",
-      "category": "tech",
+      "category": "release",
       "importance": "high",
-      "published": "2026-03-16T22:11:55",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/maxresdefault-10.jpg"
+      "published": "2026-03-17T20:09:55",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/Starfield_LargeHero_FreeLanesTerranArmada.webp"
     },
     {
-      "title": "「TRPG」風、令和最新のごっこ遊びゲーム『サーガ&シーカー』リリース後初のメジャーアップデートが配信！ユーザー投稿のキャラが実装でさらに自由に",
-      "url": "https://news.denfaminicogamer.jp/news/2603162l",
+      "title": "『プラグマタ』ディアナの“裸足”は人類文化に触れていない“アンドロイドらしさ”の表現だった──発売が迫る完全新作を先行プレビュー＆開発者インタビュー",
+      "url": "https://news.denfaminicogamer.jp/kikakuthetower/260318q",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-17T15:00:01",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/image9-6.png"
+    },
+    {
+      "title": "最大3人協力FPS『FBC: Firebreak』最終大型アップデートの配信にあわせ、半額の2200円に価格改定。さらにSteam版は20%オフのセール中。本作を未所有のフレンドとも遊べる「フレンドパス」機能も追加",
+      "url": "https://news.denfaminicogamer.jp/news/260318c",
       "source": "電ファミニコゲーマー",
       "category": "update",
       "importance": "high",
-      "published": "2026-03-16T13:02:15",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/2026-03-16_214249.png"
+      "published": "2026-03-17T21:18:21",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/a67cff6429f29eb0764888f14e154bf10ce18ebf.png"
     },
     {
-      "title": "弱点だらけの中戦車で、どう勝つか。シャーマンが歩兵との連携で戦局を支配する『Sherman Commander』プレイレポート",
-      "url": "https://news.denfaminicogamer.jp/kikakuthetower/260316s",
+      "title": "『銀河特急 ミルキー☆サブウェイ』とヴィレヴァンのコラボグッズ第2弾が発売決定！イラストレーター観虐氏による描き起こし",
+      "url": "https://news.denfaminicogamer.jp/news/2603172f",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-03-16T09:00:40",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/SHERMAN-COMMANDER_Keyart_1080p-1.jpg"
+      "published": "2026-03-17T09:34:55",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/main-51.jpg"
     },
     {
-      "title": "落書きされた“謎の電話番号”から始まるホラーゲーム『怪異番号～20✕✕～』Steamで3月31日に発売決定。ガラケー時代の日本を舞台に、都市伝説「恋愛番号」を追うホラーテキストアドベンチャー",
-      "url": "https://news.denfaminicogamer.jp/news/2603162a",
+      "title": "海外大手ゲーム小売店が「Wii U、PS3、Xbox 360」を“レトロゲーム機”として扱うと発表し話題に。「今もクールなゲーム」へと仲間入り",
+      "url": "https://news.denfaminicogamer.jp/news/2603172c",
       "source": "電ファミニコゲーマー",
-      "category": "release",
+      "category": "other",
       "importance": "high",
-      "published": "2026-03-16T08:30:10",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/KeyArt_01.jpg"
+      "published": "2026-03-17T09:07:37",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/91224ce895ab1e3253d21212dfb2c80b.png"
     },
     {
-      "title": "『SEKIRO』初のアニメ『SEKIRO: NO DEFEAT』2026年に劇場版として全国公開決定。主題曲は坂本龍一「Blu」",
-      "url": "https://news.denfaminicogamer.jp/news/260317d",
-      "source": "電ファミニコゲーマー",
+      "title": "PS5版『Starfield』発表、4月8日発売へ。ベセスダの宇宙RPG、超大型アプデと共にPlayStationに到来",
+      "url": "https://automaton-media.com/articles/newsjp/starfield-20260317-430070/",
+      "source": "Automaton",
       "category": "release",
       "importance": "high",
-      "published": "2026-03-16T22:29:33",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/6584d597e4c2ebc4ef3892647df728f5.jpg"
+      "published": "2026-03-17T15:15:05",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/starfield-20260317-430070-header.jpg"
+    },
+    {
+      "title": "『Starfield』ついに超大型アプデ発表、4月8日配信へ。“何もなかった宇宙空間の旅”が多彩になる惑星間クルーズ実装など、新要素ドカ盛りで生まれ変わる",
+      "url": "https://automaton-media.com/articles/newsjp/starfield-20260318-430056/",
+      "source": "Automaton",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-03-17T15:15:01",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/starfield-20260318-430056-header.jpg"
+    },
+    {
+      "title": "“重力反転”ホラーACT『LOVE ETERNAL』日本語版発表、今春発売へ。トラップだらけの城を彷徨う、孤独少女の高難度ジャンプアクション",
+      "url": "https://automaton-media.com/articles/newsjp/love-eternal-20260317-429998/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-17T08:37:12",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/love-eternal-20260317-429998-header.jpg"
+    },
+    {
+      "title": "終末酒場カクテル作りノベルゲーム『終末の明日亭で乾杯を。』発表。フルボイスで描かれる、荒廃世界を生きる人々の人間ドラマ",
+      "url": "https://automaton-media.com/articles/newsjp/novel-20260317-429990/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-17T08:27:16",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/novel-20260317-429990-header.jpg"
+    },
+    {
+      "title": "期待の超能力推理ADV『Staffer Retro: 超能力推理クエスト』Nintendo Switch版発表。日本語フルボイス対応で、Steam版と同時発売へ",
+      "url": "https://automaton-media.com/articles/newsjp/staffer-retro-20260317-429980/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-17T07:40:38",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/staffer-retro-20260317-429980-header.jpg"
+    },
+    {
+      "title": "NVIDIA、AIアップスケーリング技術「DLSS 5」を発表。今年秋に登場予定",
+      "url": "https://gamemakers.jp/article/2026_03_17_133666/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-03-17T10:50:36",
+      "image": null
     },
     {
       "title": "『KPOPガールズ! デーモン・ハンターズ』はUEのリアルタイムレンダリングで高品質の3Dシーンを実現。Epic Gamesが制作インタビュー記事を公開",
       "url": "https://gamemakers.jp/article/2026_03_16_133017/",
       "source": "ゲームメーカーズ",
-      "category": "tech",
+      "category": "cg",
       "importance": "high",
       "published": "2026-03-16T06:25:55",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/03/6b0ef40e8c1cedcc49843d0f8a07675f.jpg"
+    },
+    {
+      "title": "無料で使えるテクスチャ&マテリアル作成ツール「InstaMAT 2026」公開。UV非依存・再編集可能なブラシを追加",
+      "url": "https://gamemakers.jp/article/2026_03_17_133695/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-03-17T12:33:57",
+      "image": null
+    },
+    {
+      "title": "ゲームUI/UXデザイナー急募！『ポケットモンスター』シリーズなど大型タイトルにも携わる「2DCGプラネットスタジオ」が採用強化中。プロ志向の無料クリエイター育成講座も",
+      "url": "https://gamemakers.jp/article/2026_03_10_131768/",
+      "source": "ゲームメーカーズ",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-03-17T03:00:03",
       "image": null
     },
     {
@@ -189,79 +225,70 @@
       "category": "tech",
       "importance": "normal",
       "published": "2026-03-16T12:14:49",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/03/a7e200d411758786fdd204445f4310da.jpg"
-    },
-    {
-      "title": "HoudiniのVFXを学べる170本以上の講座動画が無償配信中。2027年2月まで視聴・ダウンロード可能",
-      "url": "https://gamemakers.jp/article/2026_03_16_133486/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-03-16T11:16:09",
       "image": null
     },
     {
-      "title": "Sonniss、計7GB超のサウンドデータバンドルを無料で配布。GDC 2026の開催を記念した「GDC 2026 Game Audio Bundle」",
-      "url": "https://gamemakers.jp/article/2026_03_16_133515/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-03-16T09:38:25",
-      "image": null
-    },
-    {
-      "title": "レベルファイブ日野 晃博氏、スクエニ吉田 直樹氏らが登壇！よゐこ有野氏によるトークショーも。『FUKUOKA ゲームクリエイターズ・ネクスト』今週末に開催",
-      "url": "https://gamemakers.jp/article/2026_03_16_133509/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-03-16T08:29:00",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/03/6ead28ca227f311bf8b8aaa0f076272d.jpg"
-    },
-    {
-      "title": "『Fate/EXTRA Record』がまさかの販売中止…… 原作は『Fate』シリーズ初のRPG作品で、ファン待望のフルリメイク",
-      "url": "https://www.gamebusiness.jp/article/2026/03/16/26435.html",
+      "title": "「CAPCOM CUP 12」優勝は、さはら選手！Blaz選手との激戦を振り返るインタビュー＆現地レポートをお届け",
+      "url": "https://www.gamebusiness.jp/article/2026/03/17/26445.html",
       "source": "GameBusiness.jp",
-      "category": "release",
+      "category": "esports",
       "importance": "high",
-      "published": "2026-03-16T11:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178912.jpg"
+      "published": "2026-03-17T11:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178992.jpg"
     },
     {
-      "title": "「今の構想を全部やるなら10倍の予算が必要」―YouTuber・なるにぃ氏のゲーム、開発は継続も「本当に作りたい部分はどこか」整理段階",
-      "url": "https://www.gamebusiness.jp/article/2026/03/16/26434.html",
+      "title": "新世代・超解像度技術「NVIDIA DLSS 5」発表、2026年秋リリース予定―「2018年のリアルタイムレイトレーシング以来のブレイクスルー」",
+      "url": "https://www.gamebusiness.jp/article/2026/03/17/26444.html",
+      "source": "GameBusiness.jp",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-03-17T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/179013.jpg"
+    },
+    {
+      "title": "「DLSS 4.5」の現在地はどこに？『ウィッチャー4』で採用予定「RTX Mega Geometry」って一体何？GDCでのNVIDIA発表内容まとめ",
+      "url": "https://www.gamebusiness.jp/article/2026/03/17/26438.html",
+      "source": "GameBusiness.jp",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-03-17T02:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178886.png"
+    },
+    {
+      "title": "『バイオハザード レクイエム』シリーズ最速で販売本数600万本突破！",
+      "url": "https://www.gamebusiness.jp/article/2026/03/17/26437.html",
       "source": "GameBusiness.jp",
       "category": "business",
-      "importance": "normal",
-      "published": "2026-03-16T11:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178921.png"
+      "importance": "high",
+      "published": "2026-03-17T02:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178895.png"
     },
     {
-      "title": "“ほぼ人間”のAI音声を複数話者で一括生成。日本語対応オープンソースTTS「Fish Audio S2」、単語レベルの感情制御も可（生成AIクローズアップ）",
-      "url": "https://www.gamebusiness.jp/article/2026/03/16/26433.html",
+      "title": "「AnimeJapan 2026」過去最多の120社以上が出展！ブースの一部をご紹介 延べ200ステージの開催も",
+      "url": "https://www.gamebusiness.jp/article/2026/03/17/26442.html",
       "source": "GameBusiness.jp",
-      "category": "tech",
+      "category": "industry",
       "importance": "normal",
-      "published": "2026-03-16T11:15:05",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/178931.jpg"
+      "published": "2026-03-17T11:00:05",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/179053.jpg"
+    },
+    {
+      "title": "過去を読み解くゲームを語る！『零 ～紅い蝶～ REMAKE』や『ぽこ あ ポケモン』など：#481 しゃべりすぎGAMER",
+      "url": "https://jp.ign.com/gamer-1/82928/video/remake-481-gamer",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-03-17T11:00:44",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1280_9jux.png"
     },
     {
       "title": "オーディオテクニカのワイヤレスイヤホン「ATH-CKS30TW+」がAmazonにて過去最安相当29％オフでタイムセール中",
       "url": "https://jp.ign.com/gaming-device/82878/news/ath-cks30twamazon29",
       "source": "IGN Japan",
-      "category": "sale",
+      "category": "other",
       "importance": "normal",
       "published": "2026-03-16T03:08:53",
       "image": "https://sm.ign.com/ign_jp/screenshot/default/1_27eq.png"
-    },
-    {
-      "title": "The Witcher 3: Wild Hunt Cut Ending Content",
-      "url": "https://jp.ign.com/the-witcher-3-wild-hunt-1/82916/gallery/the-witcher-3-wild-hunt-cut-ending-content",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-15T05:03:26",
-      "image": "https://sm.ign.com/ign_jp/gallery/t/the-witche/the-witcher-3-wild-hunt-cut-ending-content_g5u2.jpg"
     }
   ]
 }
