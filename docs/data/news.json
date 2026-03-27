@@ -1,159 +1,312 @@
 {
-  "generated_at": "2026-03-26T00:16:08.466495",
-  "poem": "おはようございます！🌞\n今日のゲームニュースは、スクエニの「メタスコアによる2025年ゲーム会社ランキング」トップに輝き、スマホゲームのセルラン分析、ホラーゲーム『evoke』の発表など、色々な面白いニュースが勢揃いしています！ 🎮\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-03-27T00:12:14.505732",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、Epic Gamesストアでの『Havendock』の無料配布や、新作『シリアスサム シャターバース』の発表など、注目すべき情報が盛りだくさんです！ 💻\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "［インタビュー］「DAMON and BABY」は新たな開発環境の試金石。よき開発者人生を送ってもらうために，これまでにない取り組みでゲームを作る",
-      "url": "https://www.4gamer.net/games/970/G097070/20260324015/",
-      "source": "4Gamer.net",
-      "category": "release",
+      "title": "Epic Gamesストアで海上街づくりシム『Havendock』の無料配布がスタート。海上で漂流物を集め、自分だけの拠点を築いていく。縦スクシューティング『Hyper Echelon』も同時配布中。期間は4月2日まで",
+      "url": "https://news.denfaminicogamer.jp/news/260327p",
+      "source": "電ファミニコゲーマー",
+      "category": "sale",
       "importance": "high",
-      "published": "2026-03-25T22:00:00",
-      "image": "https://www.4gamer.net/games/970/G097070/20260324015/TN/002.jpg"
+      "published": "2026-03-26T23:55:56",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/havendock-v7ieh.jpg"
     },
     {
-      "title": "スマホゲームのセルラン分析（2026年3月12日〜3月18日）。今週の1位は「プロスピA」。昨年10月〜12月の全世界DL数ランキングも紹介",
-      "url": "https://www.4gamer.net/games/316/G031643/20260323008/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-03-26T00:00:00",
-      "image": "https://www.4gamer.net/games/316/G031643/20260323008/SS/002.jpg"
-    },
-    {
-      "title": "プリントシール機文化のこれまで・これからが渋谷に集結。「ウチらのプリ展 〜Dear令和 By平成〜」は“伝説”を体験するチャンス。全人類注目！",
-      "url": "https://www.4gamer.net/games/991/G999111/20260324026/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-25T23:00:00",
-      "image": "https://www.4gamer.net/games/991/G999111/20260324026/SS/002.jpg"
-    },
-    {
-      "title": "ミステリーADV「スヌーピーとワクワクひみつクラブ」，ゲームプレイトレイラーを公開。ゲーム序盤の約13分を収録",
-      "url": "https://www.4gamer.net/games/983/G098379/20260325037/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-03-25T22:00:00",
-      "image": "https://www.4gamer.net/games/983/G098379/20260325037/SS/001.jpg"
-    },
-    {
-      "title": "1990年代のレンタルビデオ店をイチから育てる経営シム「Retro Rewind」（ほぼ日 インディーPick Up！）",
-      "url": "https://www.4gamer.net/games/950/G095079/20260319049/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-03-25T22:00:00",
-      "image": "https://www.4gamer.net/games/950/G095079/20260319049/SS/023.jpg"
-    },
-    {
-      "title": "【最大200人】超大規模ローグライク『Minimo』が発表。みんなで協力し、スキルのアップグレードは“投票”で決めながら、30分でどこまで探索できるか挑戦",
-      "url": "https://news.denfaminicogamer.jp/news/2603252o",
+      "title": "時間操作ローグライク『アセンドトゥゼロ』が7月13日に発売決定。制限時間30秒という限られた時間の中で、時を止める能力を駆使して生き残りを目指す。Steam、Xbox Series X|S、Xbox on PCに対応",
+      "url": "https://news.denfaminicogamer.jp/news/260327n",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-03-25T15:09:25",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/ss_de997d5da95e90d48509820383fbc95b2d654e69.1920x1080.jpg"
+      "published": "2026-03-26T22:49:35",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/maxresdefault-11-1.jpg"
     },
     {
-      "title": "『逆シャア』サザビーのゲーミングキーボードが3月27日に発売決定。REALFORCE「GX1 Plus」をベースにした特別仕様",
-      "url": "https://news.denfaminicogamer.jp/news/2603252s",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-03-25T14:54:55",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/p-img_X1PCS1.jpg"
-    },
-    {
-      "title": "精神が壊れた持ち主のため「ぬいぐるみ」が奮闘するホラーゲーム『evoke』発表。笑顔を取り戻すべく“思い出の品”を届け続ける",
-      "url": "https://news.denfaminicogamer.jp/news/2603252m",
+      "title": "悪名高い高難度2Dアクションゲームが3Dになった『Super Meat Boy 3D』4月1日に発売決定。Twitchのスタンプにもなっている肉塊のような主人公・ミートボーイを操作",
+      "url": "https://news.denfaminicogamer.jp/news/260327g",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-03-25T11:56:30",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/sub1-27.png"
+      "published": "2026-03-26T19:39:31",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/ss_086a92d4f87b6ab75136d9e52f6579841521ad5d.1920x1080.jpg"
     },
     {
-      "title": "Metacriticの2025年パブリッシャーランキングでスクウェア・エニックスが1位に。PC版『FF7 リバース』やHD-2D版『ドラクエI＆II』、『オクトパストラベラー0』など、リリース作品すべてが高評価を受ける",
-      "url": "https://news.denfaminicogamer.jp/news/260326e",
+      "title": "『シリアスサム』シリーズ最新作『シリアスサム シャターバース』発表！最大5人の協力型ローグライトFPSとして2026年内に発売予定。開発は『デッド バイ デイライト』のBehaviour Interactiveが担当",
+      "url": "https://news.denfaminicogamer.jp/news/260327k",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-03-25T22:01:54",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/ss_7c389d8ed52b6bd2350a3bc9866ac45c919fb2e9.1920x1080.jpg"
+      "published": "2026-03-26T19:21:35",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/serious-3.png"
     },
     {
-      "title": "『鳴潮』公式を騙る「二次創作への悪質な通報・削除」事案がXにて発生中。開発・運営元のKURO GAMESは「いかなる通報も行っていない」と明言。なりすまし行為に対して断固たる対応を表明",
-      "url": "https://news.denfaminicogamer.jp/news/260326g",
+      "title": "『S.T.A.L.K.E.R. 2: Heart of Chornobyl』初の大型DLC「Cost of Hope」が発表。「デューティー」と「フリーダム」の関係性に焦点を当てた数十時間規模の内容、2026年夏に発売予定",
+      "url": "https://news.denfaminicogamer.jp/news/260327l",
       "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-25T23:24:52",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/144940-30-5b70da1d13619cae0c6c6af2c865f83d-1280x720-1.webp"
-    },
-    {
-      "title": "タクティカルストラテジー『Arbiter 131』発表。『XCOM』風な見下ろし戦術バトル、“プロパガンダ”に従うか逆らうか自分次第な現場指揮",
-      "url": "https://automaton-media.com/articles/newsjp/arbiter-131-20260325-432031/",
-      "source": "Automaton",
-      "category": "release",
+      "category": "update",
       "importance": "high",
-      "published": "2026-03-25T10:24:38",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/arbiter-131-20260325-432031-header.jpg"
+      "published": "2026-03-26T19:09:06",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/STALKER2_DLC1_WireBlog_Screen2-7b56efe3c44e7d2224d3-1536x864-1.jpg"
     },
     {
-      "title": "スクエニが「メタスコアによる2025年ゲーム会社ランキング」トップを飾る。“高評価作品率100％”で堂々の首位",
-      "url": "https://automaton-media.com/articles/newsjp/20260325-432127/",
-      "source": "Automaton",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-03-25T14:29:22",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260325-432127-header.jpg"
-    },
-    {
-      "title": "『ポケモンチャンピオンズ』でようやく対人戦が“入門ハードルなし”に生まれ変わる。「生まれつきの強さ（個体値）」廃止など、先行体験会で育成の手軽さと対戦の奥深さを知る",
-      "url": "https://automaton-media.com/articles/reportjp/pokemon-champions-20260325-432097/",
+      "title": "殺伐オープンワールドFPS『S.T.A.L.K.E.R. 2』初の大型拡張DLC発表、なんと数十時間規模のボリュームに。「チョルノービリ原子力発電所」をめぐる新たな戦い",
+      "url": "https://automaton-media.com/articles/newsjp/20260326-432358/",
       "source": "Automaton",
       "category": "update",
-      "importance": "normal",
-      "published": "2026-03-25T14:00:01",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/pokemon-champions-20260325-432097-005.jpg"
+      "importance": "high",
+      "published": "2026-03-26T17:24:52",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260326-432358-header.jpg"
     },
     {
-      "title": "だるま培養ローグライト『だるま観察日記』Steamにてお披露目。指数関数的に増殖するだるまを見守る、“逃げ遅れるとアウト”な瀬戸際エネルギー実験",
-      "url": "https://automaton-media.com/articles/newsjp/20260325-432098/",
+      "title": "SIE新作高難度3D弾幕ローグライトシューター『SAROS』開発者インタビュー。『Returnal』の「弾幕を避ける」ゲームから「弾幕と触れ合う」ゲームへ、弾幕へのこだわりがすごい",
+      "url": "https://automaton-media.com/articles/interviewsjp/saros-20260327-432412/",
+      "source": "Automaton",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-03-26T15:07:13",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/saros-20260327-432412-header.jpg"
+    },
+    {
+      "title": "人気海上街づくりサバイバルシム『Havendock』が期間限定で無料配布開始、Epic Gamesストアにて。合計3240円分の2本立て配布中",
+      "url": "https://automaton-media.com/articles/newsjp/20260326-432389/",
+      "source": "Automaton",
+      "category": "sale",
+      "importance": "high",
+      "published": "2026-03-26T15:00:01",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260326-432389-header.jpg"
+    },
+    {
+      "title": "「最大200人協力」MMOローグライク『Minimo』発表。みんなで決めるビルドが鍵に、 料理人にも漁師にもなれる“1回30分”の共同戦線マルチアクション",
+      "url": "https://automaton-media.com/articles/newsjp/minimo-20260326-432283/",
       "source": "Automaton",
       "category": "release",
-      "importance": "normal",
-      "published": "2026-03-25T12:22:09",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260325-432098-header.jpg"
+      "importance": "high",
+      "published": "2026-03-26T07:51:22",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/minimo-20260326-432283-header.jpg"
     },
     {
-      "title": "『鳴潮』Ver3.2前半ストーリー感想。挫折を乗り越えた少女シグリカが天才から英雄になる“成長譚”。新旧キャラ同士の関わりが生む新たな人間讃歌",
-      "url": "https://automaton-media.com/articles/special-column/ww-20260325-432061/",
+      "title": "龍が如くスタジオ謎の新作『STRANGER THAN HEAVEN』、ついに正体明らかに。時代異なる「5つの都市」が舞台の壮大ゲーム",
+      "url": "https://automaton-media.com/articles/newsjp/20260326-432366/",
       "source": "Automaton",
-      "category": "other",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-26T17:13:17",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260326-432366-header2.jpg"
+    },
+    {
+      "title": "［インタビュー］ZETA DIVISION 西原大輔氏に聞く，eスポーツ専門スクールを開校する理由。人材育成事業は将来のeスポーツ業界への投資",
+      "url": "https://www.4gamer.net/games/991/G999113/20260323047/",
+      "source": "4Gamer.net",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-03-26T22:30:00",
+      "image": "https://www.4gamer.net/games/991/G999113/20260323047/SS/004.jpg"
+    },
+    {
+      "title": "L3キャッシュの総容量が192MBに達したモンスターCPU「Ryzen 9 9950X3D2 Dual Edition」をAMDが発表！",
+      "url": "https://www.4gamer.net/games/804/G080449/20260326087/",
+      "source": "4Gamer.net",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-03-26T14:28:52",
+      "image": "https://www.4gamer.net/games/804/G080449/20260326087/SS/002.jpg"
+    },
+    {
+      "title": "最大200人で冒険可能なローグライクADV「Minimo」が発表に。50種類のクラスで役割分担し，30分間でどこまで行けるか挑戦",
+      "url": "https://www.4gamer.net/games/993/G099386/20260326080/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-03-26T12:17:38",
+      "image": "https://www.4gamer.net/games/993/G099386/20260326080/SS/002.jpg"
+    },
+    {
+      "title": "「Pikmin Bloom」，マリオにちなんだ特別なデコピクミンが登場。映画公開を記念し，4月24日から6月23日まで期間限定で楽しめる",
+      "url": "https://www.4gamer.net/games/560/G056049/20260326034/",
+      "source": "4Gamer.net",
+      "category": "update",
       "importance": "normal",
-      "published": "2026-03-25T11:48:45",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/ww-20260325-432061-header.jpg"
+      "published": "2026-03-26T23:00:00",
+      "image": "https://www.4gamer.net/games/560/G056049/20260326034/SS/001.jpg"
+    },
+    {
+      "title": "マックスとクロエ，待望の再会に心がざわつく！ 　本日発売「ライフ イズ ストレンジ リユニオン」を楽しむために振り返る，2人のエモすぎな“これまで”",
+      "url": "https://www.4gamer.net/games/976/G097692/20260323053/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-03-26T22:00:00",
+      "image": "https://www.4gamer.net/games/976/G097692/20260323053/SS/010.jpg"
+    },
+    {
+      "title": "【今週末オンライン開催】Blenderユーザー向けイベント「Blender Fes 2026 SS」3/28(土)・29(日)開催、前売りチケット好評発売中！ - 特集",
+      "url": "https://cgworld.jp/article/blenderblender-fes-2026-ss32829.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-03-26T15:00:00",
+      "image": "https://cgworld.jp/article/assets_c/2026/03/allsession-thumb-1920x1080-80591.jpg"
+    },
+    {
+      "title": "慣性センサー式モーションキャプチャ「Xsens」が待望のリニューアル！　ユーザー視点を追求し飛躍的に進化したその実力をバーチャルライブユーザーはどう見た？ - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/202603-heltec-ipairs.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-03-26T09:30:03",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/03/heltec_top_202603-thumb-1920x1080-81612.jpg"
+    },
+    {
+      "title": "vol.003：「ELSA Physical AI Lab」に見るフィジカルAI研究開発の現状 - 連載",
+      "url": "https://cgworld.jp/regular/202603-physicalai-003.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-03-26T06:33:41",
+      "image": "https://cgworld.jp/regular/assets_c/2026/03/PhysicalAI_3s-thumb-800x450-81559.jpg"
+    },
+    {
+      "title": "Live2D社が求人募集中！「ツールも作品も、自分たちで」完全新作オリジナルTVアニメプロジェクトが始動 - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/2602-live2d.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-03-26T03:56:41",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/03/live2d_recruit%20%282%29%20%281%29-thumb-1920x1080-81540.jpg"
+    },
+    {
+      "title": "4分間の演奏＆歌唱パフォーマンスを4DGSでストリーミングするデモが話題！　ダウンロード不要、アプリ不要 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202603-4DGS-stream.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-03-26T00:30:05",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/4DGS_stream-01-thumb-1920x1080-81560.jpg"
+    },
+    {
+      "title": "「3ds Max 2027」リリース。「スマートベベル」モディファイアの搭載や、押し出しモディファイアがギズモ操作をサポート",
+      "url": "https://gamemakers.jp/article/2026_03_26_134243/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-03-26T11:47:09",
+      "image": null
+    },
+    {
+      "title": "「Maya 2027」リリース。レイヤーベースのスキニングエディターが実装されたほか、スマートベベルの追加、USD連携強化など",
+      "url": "https://gamemakers.jp/article/2026_03_26_134247/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-03-26T09:21:15",
+      "image": null
+    },
+    {
+      "title": "「ゲームパビリオンjp2026」にゲームメーカーズが出展！UE5入門書や販売中のオリジナルグッズを展示します",
+      "url": "https://gamemakers.jp/article/2026_03_26_134248/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-03-26T08:47:19",
+      "image": null
+    },
+    {
+      "title": "『閃光のハサウェイ キルケーの魔女』3DCG制作の舞台裏、Mayaや3ds Maxの最新情報など。無料ウェビナー「Autodesk CG Festa 2026」4/22（水）開催",
+      "url": "https://gamemakers.jp/article/2026_03_26_134251/",
+      "source": "ゲームメーカーズ",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-03-26T06:46:16",
+      "image": null
+    },
+    {
+      "title": "Godot製パズルゲームの開発に役立つ無料テンプレート『Starter Kit Match-3』、Webサイト「Kenney」がリリース",
+      "url": "https://gamemakers.jp/article/2026_03_25_134196/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-03-25T07:45:04",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/03/179f56f908fe84ec0f853d2c7079895a.jpg"
+    },
+    {
+      "title": "最優秀はスクウェア・エニックス！Metacriticが2025年のパブリッシャーメタスコアランキング発表。PC版『FFVII リバース』など各作品が高スコア獲得",
+      "url": "https://www.gamebusiness.jp/article/2026/03/26/26509.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-03-26T11:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/179801.jpg"
+    },
+    {
+      "title": "『FF14』CEROレーティングが「CERO C」から「CERO D」に変更されると発表―グループポーズ機能維持のため",
+      "url": "https://www.gamebusiness.jp/article/2026/03/26/26507.html",
+      "source": "GameBusiness.jp",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-03-26T05:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/179507.png"
+    },
+    {
+      "title": "PS関連スタジオDark Outlaw Gamesの閉鎖をSIEが認める―『CoD:BO』ゾンビモードの開発者率いるスタジオ",
+      "url": "https://www.gamebusiness.jp/article/2026/03/26/26503.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-03-26T04:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/179536.jpg"
+    },
+    {
+      "title": "仏パブリッシャー「NACON」傘下の開発スタジオ3社など子会社4社が破産申請へ―司法再建手続きの開始を求める",
+      "url": "https://www.gamebusiness.jp/article/2026/03/26/26502.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-03-26T04:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/179544.png"
+    },
+    {
+      "title": "『7 Days to Die』2,000万本突破！早期アクセスから13年経て到達―正式からは2年",
+      "url": "https://www.gamebusiness.jp/article/2026/03/26/26501.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-03-26T03:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/179554.jpg"
+    },
+    {
+      "title": "『紅の砂漠』レビュー 荒削りだが、200時間プレイしても底の見えない圧倒的ボリュームの冒険とスローライフが待つ欲張りなオープンワールド",
+      "url": "https://jp.ign.com/crimson-desert/83023/review/200",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-03-26T05:02:17",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/_484b.jpg"
     },
     {
       "title": "OpenAI、動画生成AI「Sora」の提供終了を発表 ディズニーの10億ドル規模投資＆ライセンス提供も白紙に",
       "url": "https://jp.ign.com/entertainment/83010/news/openaiaisora-10",
       "source": "IGN Japan",
-      "category": "tech",
+      "category": "business",
       "importance": "high",
       "published": "2026-03-25T03:06:15",
       "image": "https://sm.ign.com/ign_jp/news/o/openai-shu/openai-shuts-down-sora-generative-video-app-disney-pulls-out_86y6.jpg"
     },
     {
-      "title": "『マーベル・ライバルズ』Switch 2版が開発中だとプロデューサーが明かす",
-      "url": "https://jp.ign.com/marvel-rivals/83007/news/switch-2",
+      "title": "HyperXの有線ゲーミングコントローラー「Clutch Gladiate」がAmazonにて20％オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83017/news/hyperxclutch-gladiateamazon20",
       "source": "IGN Japan",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-03-25T01:47:47",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/hen55o1wyaats3e_tacv.jpg"
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-03-26T11:04:31",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_wkw8.jpg"
+    },
+    {
+      "title": "『ソニックレーシング クロスワールド』でロックマン愛が炸裂！クロスオーバー試遊感想",
+      "url": "https://jp.ign.com/sonic-racing-crossworlds/83016/preview/",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-03-26T04:00:49",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/487_18ah.png"
     },
     {
       "title": "cocoparの23.8インチゲーミングモニター「HG-238H」がAmazonにて29％オフでタイムセール中",
@@ -163,150 +316,6 @@
       "importance": "normal",
       "published": "2026-03-25T10:48:31",
       "image": "https://sm.ign.com/ign_jp/screenshot/default/1_wdmh.jpg"
-    },
-    {
-      "title": "傑作の続編の実力は？『Slay the Spire 2』感想トーク：今週遊んだゲーム 03/25/2026",
-      "url": "https://jp.ign.com/gamer-1/83014/video/slay-the-spire-2-03252026",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-03-25T10:42:33",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_uq7r.png"
-    },
-    {
-      "title": "TURTLE BEACHのゲーミングヘッドセット「Recon 70 X 2024」が、Amazonにて29％オフでタイムセール中",
-      "url": "https://jp.ign.com/gaming-device/82994/news/turtle-beachrecon-70-x-2024amazon29",
-      "source": "IGN Japan",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-03-25T04:11:11",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_a89c.jpg"
-    },
-    {
-      "title": "「NVIDIA DGX Spark」×「Reachy Mini」で体験！　ローカルAIロボット開発入門　第1回：未来の音声AIロボットを「自分の手で創る」時代へ - スペシャルコンテンツ",
-      "url": "https://cgworld.jp/special-feature/202603-dgxspark-reachymini-001.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-03-25T10:24:33",
-      "image": "https://cgworld.jp/special-feature/assets_c/2026/03/vol1_top-thumb-1920x1080-81548.jpg"
-    },
-    {
-      "title": "故・飯野賢治が開発した「世界一ミニマルなゲーム」を継ぐ「ONE-DOT GAMES」が5月にリリース決定 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2603-one-dot.html",
-      "source": "CGWORLD",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-03-25T03:46:06",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/03/fytologo%20%281%29-thumb-1000x563-81153.png"
-    },
-    {
-      "title": "デジタル作画PCはなぜ128GB必要なのか――AMD×旭プロが導き出した最適解 - スペシャルコンテンツ",
-      "url": "https://cgworld.jp/special-feature/2603-amd-asahi.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-03-25T03:02:09",
-      "image": "https://cgworld.jp/special-feature/assets_c/2026/03/788ea21f19a5741a253af1adb7f5b36af63364f1-thumb-1000x563-81311.jpg"
-    },
-    {
-      "title": "【今週末オンライン開催】Blenderユーザー向けイベント「Blender Fes 2026 SS」3/28(土)・29(日)開催、前売りチケット好評発売中！ - 特集",
-      "url": "https://cgworld.jp/article/blenderblender-fes-2026-ss32829.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-03-25T02:30:00",
-      "image": "https://cgworld.jp/article/assets_c/2026/03/allsession-thumb-1920x1080-80591.jpg"
-    },
-    {
-      "title": "アニメ『DIGIMON BEATBREAK』 Unreal Engineを活用してデジタル感あふれるミラーワールドを構築！ 〜No.3／CG制作篇 - 特集",
-      "url": "https://cgworld.jp/article/cgw331-digimonbb03.html",
-      "source": "CGWORLD",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-03-25T01:00:08",
-      "image": "https://cgworld.jp/article/assets_c/2026/03/331_digimon02-thumb-1000x563-81225.png"
-    },
-    {
-      "title": "「PLATEAU SDK for Unity v4.2.0」リリース。動的タイル機能が強化されたほか、各種ツールキット・サンプルプロジェクトが一挙アップデート",
-      "url": "https://gamemakers.jp/article/2026_03_24_134082/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-03-24T07:19:12",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/03/dbe2966ed7202493d63e5e15e6c2337c.jpg"
-    },
-    {
-      "title": "Godot製パズルゲームの開発に役立つ無料テンプレート『Starter Kit Match-3』、Webサイト「Kenney」がリリース",
-      "url": "https://gamemakers.jp/article/2026_03_25_134196/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-03-25T07:45:04",
-      "image": null
-    },
-    {
-      "title": "Epic Gamesのマーケットプレイス「Fab」、4/7（火）までの期間限定で無料コンテンツを公開。スチームパンクな村落の環境アセットなど3製品",
-      "url": "https://gamemakers.jp/article/2026_03_25_134181/",
-      "source": "ゲームメーカーズ",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-03-25T06:26:32",
-      "image": null
-    },
-    {
-      "title": "「Mesh to MetaHuman」で作った顔メッシュの質感向上TIPS。リアルな皺の再現方法をsteam studioがブログで紹介",
-      "url": "https://gamemakers.jp/article/2026_03_24_134079/",
-      "source": "ゲームメーカーズ",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-03-24T09:33:24",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/03/fda8699c0dc4115ba6cc56e4384ecc52.jpg"
-    },
-    {
-      "title": "アップル、『WWDC26』を6月8日から開催へ。「AIの進化」など発表予定",
-      "url": "https://www.gamebusiness.jp/article/2026/03/24/26484.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-03-24T10:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/179474.jpg"
-    },
-    {
-      "title": "“ランダムグッズ”の魅力は何？ BANDAI SPIRITSが「大人アンケート調査」を実施ー「ドキドキ・ワクワク感」が最多に",
-      "url": "https://www.gamebusiness.jp/article/2026/03/25/26492.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-03-25T02:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/179413.png"
-    },
-    {
-      "title": "KADOKAWAとnoteが資本業務提携。AI時代の次世代IP運用エコシステム構築へ",
-      "url": "https://www.gamebusiness.jp/article/2026/03/25/26491.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-03-25T02:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/179424.png"
-    },
-    {
-      "title": "生成AI利用「増やしたい」29％…公文の家庭学習調査2025",
-      "url": "https://www.gamebusiness.jp/article/2026/03/25/26490.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-03-25T02:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/179432.png"
-    },
-    {
-      "title": "ANYCOLORが通期利益予想を下方修正、在庫の評価基準変更で中長期で利益を圧迫する？【ゲーム企業の決算を読む】",
-      "url": "https://www.gamebusiness.jp/article/2026/03/25/26489.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-03-24T23:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/179396.jpg"
     }
   ]
 }
