@@ -1,96 +1,141 @@
 {
-  "generated_at": "2026-03-28T00:11:06.604970",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、ポケモンGOの大会やブルーリフレクションシリーズの新作、オープンワールドサバイバルゲームの新作など、様々なニュースが勢揉います ✨\n特に注目すべきは、ブルーリフレクションシリーズ4作を1本にまとめた『BLUE REFLECTION Quartet: 少女たちのキセキ』の発売決定です！\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-03-29T00:11:50.866948",
+  "poem": "おはようございます！ 🌞\n今日はゲーム業界のニュースがたくさんです。『カリスマ』のゲーム化や『FGO』と『ストレンジフェイク』のコラボなど、注目すべきニュースが勢揃いしています 🎮\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "公式大会『ポケモン GO』部門のポケモンセンター予選、会場での対戦放映・観戦が中止に。メガトウキョー会場での開催中止の可能性も発表",
-      "url": "https://news.denfaminicogamer.jp/news/2603273b",
-      "source": "電ファミニコゲーマー",
-      "category": "esports",
-      "importance": "high",
-      "published": "2026-03-27T14:19:55",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/Q2E7-rLC.jpeg"
-    },
-    {
-      "title": "「ブルーリフレクション」シリーズ4作を1本にした『BLUE REFLECTION Quartet: 少女たちのキセキ』発売決定！ゲームのほか、アニメやアプリ作品も集約",
-      "url": "https://news.denfaminicogamer.jp/news/2603273a",
+      "title": "『カリスマ』初のゲーム化決定。『カリスマダミス CHARISMA de MURDER MYSTERY』発表、2026年にリリース予定。超人的な“カリスマ”たちが集い、マーダーミステリーに挑む",
+      "url": "https://news.denfaminicogamer.jp/news/260328p",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-03-27T13:21:02",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/main-82.jpg"
+      "published": "2026-03-28T09:04:49",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/5583385d90b4cb0dbd9316836c8c6291.png"
     },
     {
-      "title": "“ふたりで”協力して荷解きをするゲーム『The Spaces We Share』Steam向けに発表。何気ない配置ひとつにも、相手の価値観が見えてくる",
-      "url": "https://news.denfaminicogamer.jp/news/2603272o",
+      "title": "『FGO』と『ストレンジフェイク』のコラボが発表！参加条件は「第1部 第6章」をクリアしたユーザー、イベントシナリオの執筆は成田良悟氏",
+      "url": "https://news.denfaminicogamer.jp/news/260328m",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-03-28T08:44:49",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/fbc418fb11ab7996797b50ff02373717.png"
+    },
+    {
+      "title": "TVアニメ『Fate/strange Fake』第3弾キービジュアルと新CMが最終話放送後に公開。映像の最後には“to be continued.”の文字も",
+      "url": "https://news.denfaminicogamer.jp/news/260329a",
       "source": "電ファミニコゲーマー",
       "category": "release",
-      "importance": "high",
-      "published": "2026-03-27T10:51:43",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/Screenshot_4.png"
+      "importance": "normal",
+      "published": "2026-03-28T15:58:46",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/fake_3rd_kv_pos_n.jpg"
     },
     {
-      "title": "『攻殻機動隊 THE GHOST IN THE SHELL』キービジュアル&PV第2弾が解禁！サイエンスSARU制作の新作TVアニメとして2026年7月に放送開始",
-      "url": "https://news.denfaminicogamer.jp/news/2603282k",
+      "title": "書籍『基礎から実践まで全網羅　背景の描き方』Kindle版が50％オフの「1265円」で購入できるセール中。メイキング動画やブラシデータ、レイヤー付きPSDファイルも付属",
+      "url": "https://news.denfaminicogamer.jp/news/260328y",
       "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-03-28T00:00:51",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/02_GITS_SARU_PV02_thumbnail.png"
-    },
-    {
-      "title": "『ウルトラマン』新作と思われるプロモ映像が解禁。シリーズ60周年を記念した「アニバーサリー作品」いよいよ開幕",
-      "url": "https://news.denfaminicogamer.jp/news/2603282z",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-03-27T23:00:14",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/e6e6d892cb57d9653936efbd327d5da9.png"
-    },
-    {
-      "title": "『BLUE REFLECTION Quartet: 少女たちのキセキ』岸田メル氏・開発者インタビュー。アニメも運営型ゲームも買い切りゲーム化、つなぎあわせ整理して「ひとつの体験」にする試み",
-      "url": "https://automaton-media.com/articles/interviewsjp/blue-reflection-quartet-20260327-432714/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-03-27T13:00:20",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/blue-reflection-quartet-20260327-432714-header.jpg"
-    },
-    {
-      "title": "オープンワールド部族サバイバル『Soulmask』正式リリース時の大型拡張DLC、なんといきなり期間限定無料配布へ。定価2599円がタダに",
-      "url": "https://automaton-media.com/articles/newsjp/20260327-432797/",
-      "source": "Automaton",
       "category": "sale",
-      "importance": "high",
-      "published": "2026-03-27T13:00:01",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260327-432797-header.jpeg"
+      "importance": "normal",
+      "published": "2026-03-28T15:13:37",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/91QIUF2HZL._SL1500_.jpg"
     },
     {
-      "title": "『ブルーリフレクション カルテット: 少女たちのキセキ』発表、7月30日発売へ。初代に『燦』『帝』、アニメ「澪」まで“ブルリフ全部盛り”で蘇る",
-      "url": "https://automaton-media.com/articles/newsjp/20260327-432776/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-03-27T12:30:07",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260327-432776-header.jpg"
+      "title": "『都市伝説解体センター』が「アニメ化してほしいインディーゲームランキング2026」ノミネート35作品の中から1位に選出。AnimeJapanとBitSummitの初コラボによるユーザー投票企画",
+      "url": "https://news.denfaminicogamer.jp/news/260328x",
+      "source": "電ファミニコゲーマー",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-03-28T14:03:31",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/03/sub17-15.jpg"
     },
     {
-      "title": "大ヒット過酷ADV『飢えた子羊』開発元の新作『泣き叫ぶ雁』いよいよ4月3日発売へ。死んだ幼馴染そっくりな少女との占領下サバイバル",
-      "url": "https://automaton-media.com/articles/newsjp/20260327-432744/",
-      "source": "Automaton",
-      "category": "release",
+      "title": "裏ボス亜門も最弱クラスに！トロコン入門にもピッタリな『龍が如く 極3 / 龍が如く3外伝 Dark Ties』",
+      "url": "https://jp.ign.com/trophy-complete/83043/feature/3-3-dark-ties",
+      "source": "IGN Japan",
+      "category": "other",
       "importance": "high",
-      "published": "2026-03-27T11:28:52",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260327-432744-header.jpg"
+      "published": "2026-03-27T08:00:46",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/image4_3yt7.jpg"
     },
     {
-      "title": "悪魔量産ローグライト戦略ゲーム『Sin & Siege』発表。色欲で子孫繁栄、憤怒で戦闘など「七つの大罪」大活躍な地獄発展ゲーム",
-      "url": "https://automaton-media.com/articles/newsjp/20260327-432672/",
-      "source": "Automaton",
+      "title": "『ゼルダの伝説 時のオカリナ』がSwitch 2でリメイクか 「スターフォックス」や3Dマリオ新作など、今後の発売予定について噂が浮上",
+      "url": "https://jp.ign.com/nintendo-switch-2/83047/news/switch-2-3d",
+      "source": "IGN Japan",
       "category": "release",
       "importance": "high",
-      "published": "2026-03-27T08:19:49",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260327-432672-header.jpg"
+      "published": "2026-03-28T13:08:17",
+      "image": "https://sm.ign.com/ign_jp/news/t/the-legend/the-legend-of-zelda-ocarina-of-time-leads-2022s-world-video_vww7.jpg"
+    },
+    {
+      "title": "マウスコンピューターのノートPC「mouse K5」がAmazonにて11％オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83045/news/pcmouse-k5amazon11",
+      "source": "IGN Japan",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-03-28T04:39:26",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_zc7v.jpg"
+    },
+    {
+      "title": "Lenovoのゲーミングタブレット「Legion Tab (8.8”, 3)」がAmazonにて12％オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83030/news/lenovolegion-tab-88-3amazon12",
+      "source": "IGN Japan",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-03-27T07:01:03",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_j2m3.jpg"
+    },
+    {
+      "title": "目指すのは“コンテンツ海外売上高20兆円”―日本で創り、世界に羽ばたくコンテンツとクリエイターを育てる経産省と文化庁の取り組み",
+      "url": "https://www.gamebusiness.jp/article/2026/03/28/26534.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-03-28T11:00:05",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/179952.png"
+    },
+    {
+      "title": "海賊版問題について理解を深めるカードゲーム「HIT PLAN」発表！ゲームデザインはカナイセイジ氏、イラストはあらゐけいいち氏―児童向け施設への配布やPDF公開で展開予定",
+      "url": "https://www.gamebusiness.jp/article/2026/03/28/26533.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-03-28T10:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/179967.png"
+    },
+    {
+      "title": "中国の一部ユーザーによる「レビュー爆撃」に苦しむ状況をインディー開発者が報告。背景にフィードバック手段の制限や文化的差異の指摘も",
+      "url": "https://www.gamebusiness.jp/article/2026/03/28/26530.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-03-28T02:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/179828.jpg"
+    },
+    {
+      "title": "ホワイトハウスによる任天堂コンテンツの無断利用止まらず…政治利用が明確に禁止された『あつ森』でも",
+      "url": "https://www.gamebusiness.jp/article/2026/03/28/26537.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-03-28T11:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/179930.jpg"
+    },
+    {
+      "title": "【日本アニメ産業】3兆円超市場の成長戦略を描くシンポジウム、4月3日に衆議院議員会館で開催。人材育成と海外展開を議論",
+      "url": "https://www.gamebusiness.jp/article/2026/03/28/26536.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-03-28T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/179936.png"
+    },
+    {
+      "title": "「ARC Raiders」，3月31日配信予定の大型アップデート「Flashpoint」のティザートレイラー公開",
+      "url": "https://www.4gamer.net/games/609/G060942/20260328002/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-03-28T03:18:58",
+      "image": "https://www.4gamer.net/games/609/G060942/20260328002/SS/002.jpg"
     },
     {
       "title": "「魔法少女まどか☆マギカ Magia Exedra」，サービス開始1周年記念キャンペーンをスタート。無料ガチャ最大250連や「物語」シリーズとのコラボが発表に",
@@ -105,7 +150,7 @@
       "title": "［インタビュー］岸田メル氏が“ブルリフ”でやり残したこと。シリーズ集大成となる「BLUE REFLECTION Quartet」で，目指すところを聞いてきた",
       "url": "https://www.4gamer.net/games/990/G099078/20260316001/",
       "source": "4Gamer.net",
-      "category": "business",
+      "category": "other",
       "importance": "high",
       "published": "2026-03-27T13:00:00",
       "image": "https://www.4gamer.net/games/990/G099078/20260316001/SS/002.webp"
@@ -114,73 +159,73 @@
       "title": "4月10日に正式リリースを控える「Soulmask」，大型DLC「Shifting Sands」を発売初月に限り無料配布。受け取ったDLCは永久に保有できる",
       "url": "https://www.4gamer.net/games/767/G076739/20260326086/",
       "source": "4Gamer.net",
-      "category": "sale",
+      "category": "update",
       "importance": "high",
       "published": "2026-03-27T13:00:00",
       "image": "https://www.4gamer.net/games/767/G076739/20260326086/SS/002.jpg"
     },
     {
-      "title": "「BLUE REFLECTION Quartet: 少女たちのキセキ」，7月30日に発売。シリーズ4作品をまるごと楽しめる",
-      "url": "https://www.4gamer.net/games/990/G099078/20260326077/",
+      "title": "SFアクションRPG「EXODUS」，激しい近接戦闘の模様を収めた最新トレイラー公開",
+      "url": "https://www.4gamer.net/games/759/G075960/20260328005/",
       "source": "4Gamer.net",
       "category": "release",
-      "importance": "high",
-      "published": "2026-03-27T12:30:00",
-      "image": "https://www.4gamer.net/games/990/G099078/20260326077/SS/002.jpg"
+      "importance": "normal",
+      "published": "2026-03-28T09:57:21",
+      "image": "https://www.4gamer.net/games/759/G075960/20260328005/SS/002.jpg"
     },
     {
-      "title": "首都ベルリンを1/1スケール（実物大）で再現！ リアル志向の都市バスシム「The Bus」，正式リリース。PS5/Xbox Series X|S版も同時に登場",
-      "url": "https://www.4gamer.net/games/559/G055958/20260327070/",
-      "source": "4Gamer.net",
+      "title": "『紅の砂漠』は王道ファンタジー大作なのに、妙に“泥臭く人間臭い”。イカサマもプロレス技もある、俗っぽさが生む独特の手触り",
+      "url": "https://automaton-media.com/articles/special-column/crimson-desert-20260328-432918/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-03-28T02:38:28",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/image-46.jpeg"
+    },
+    {
+      "title": "『Fate/Grand Order（FGO）』、「Fate/strange Fake」とのコラボ発表。「Fake」原作者・成田良悟氏が自ら手がける、『FGO』「Fake」双方のスピンオフストーリー",
+      "url": "https://automaton-media.com/articles/newsjp/fgo-20260328-433076/",
+      "source": "Automaton",
       "category": "release",
       "importance": "high",
-      "published": "2026-03-27T11:39:03",
-      "image": "https://www.4gamer.net/games/559/G055958/20260327070/SS/001.jpg"
+      "published": "2026-03-28T09:46:45",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/fgo-20260328-433076-header.jpg"
     },
     {
-      "title": "2Dと3Dが融合する『RPGツクール』の新プロジェクト発表！新たな表現を盛り込み、シリーズの歴史も感じられるティーザー公開",
-      "url": "https://www.gamebusiness.jp/article/2026/03/27/26519.html",
-      "source": "GameBusiness.jp",
+      "title": "Steam開発者向け「価格換算ツール」がアップデート、“円安”も反映した最新データに。日本円でのゲーム販売価格が変わるかも",
+      "url": "https://automaton-media.com/articles/newsjp/20260328-433007/",
+      "source": "Automaton",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-03-28T04:37:25",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260328-433007-header.jpg"
+    },
+    {
+      "title": "SFアニメ「楽園追放」ゲーム化発表、2026年冬リリースへ。“完全オリジナルストーリー”で描く",
+      "url": "https://automaton-media.com/articles/newsjp/20260328-432983/",
+      "source": "Automaton",
       "category": "release",
       "importance": "high",
-      "published": "2026-03-27T04:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/179671.png"
+      "published": "2026-03-28T01:59:30",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/20260328-432983-header.jpg"
     },
     {
-      "title": "米任天堂、『ヨッシーとフカシギの図鑑』を皮切りにパッケージ版とDL版の価格設定を異なるものにすると発表。DL版は10ドル安い",
-      "url": "https://www.gamebusiness.jp/article/2026/03/27/26513.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
+      "title": "『BLUE REFLECTION Quartet: 少女たちのキセキ』岸田メル氏・開発者インタビュー。アニメも運営型ゲームも買い切りゲーム化、つなぎあわせ整理して「ひとつの体験」にする試み",
+      "url": "https://automaton-media.com/articles/interviewsjp/blue-reflection-quartet-20260327-432714/",
+      "source": "Automaton",
+      "category": "other",
       "importance": "high",
-      "published": "2026-03-27T02:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/179722.jpg"
+      "published": "2026-03-27T13:00:20",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/blue-reflection-quartet-20260327-432714-header.jpg"
     },
     {
-      "title": "『フォートナイト』の「これから先は非常に困難で辛いものになるだろう」開発者がコメント―Epic Gamesのレイオフによる影響",
-      "url": "https://www.gamebusiness.jp/article/2026/03/27/26526.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-03-27T11:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/179861.jpg"
-    },
-    {
-      "title": "スイッチ2開発メンバーも登壇！「第31回 AMDアワード授賞式」現地レポートー『都市伝説解体センター』「ガンダム ジークアクス」など、2025年注目作が集まる",
-      "url": "https://www.gamebusiness.jp/article/2026/03/27/26525.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-03-27T11:30:05",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/179880.jpg"
-    },
-    {
-      "title": "【古巣に復帰】『Highguard』開発元にレイオフされたアーティスト『Apex』のRespawnに“リスポーン”ー出戻りの喜びを語り、業界の安定願う",
-      "url": "https://www.gamebusiness.jp/article/2026/03/27/26523.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-03-27T05:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/179647.jpg"
+      "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/3/28】",
+      "url": "https://gamemakers.jp/article/2026_03_28_134130/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-03-28T01:58:04",
+      "image": null
     },
     {
       "title": "オープンソースのRust製ゲームエンジン「Fyrox」、安定版のver1.0がリリース。エディター搭載で3D/2Dに対応、オブジェクト指向で設計",
@@ -189,7 +234,7 @@
       "category": "tech",
       "importance": "normal",
       "published": "2026-03-27T09:00:44",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/03/58d1092034193397dac59bfb637d6fc2.jpg"
+      "image": null
     },
     {
       "title": "オープンソースの無料アイコン約1,700種類を揃えたライブラリ「Lucide」正式リリース。商用利用も可能",
@@ -198,33 +243,6 @@
       "category": "tech",
       "importance": "normal",
       "published": "2026-03-27T07:12:12",
-      "image": null
-    },
-    {
-      "title": "「Maya 2027」リリース。レイヤーベースのスキニングエディターが実装されたほか、スマートベベルの追加、USD連携強化など",
-      "url": "https://gamemakers.jp/article/2026_03_26_134247/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-03-26T09:21:15",
-      "image": null
-    },
-    {
-      "title": "「ゲームパビリオンjp2026」にゲームメーカーズが出展！UE5入門書や販売中のオリジナルグッズを展示します",
-      "url": "https://gamemakers.jp/article/2026_03_26_134248/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-03-26T08:47:19",
-      "image": null
-    },
-    {
-      "title": "『閃光のハサウェイ キルケーの魔女』3DCG制作の舞台裏、Mayaや3ds Maxの最新情報など。無料ウェビナー「Autodesk CG Festa 2026」4/22（水）開催",
-      "url": "https://gamemakers.jp/article/2026_03_26_134251/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-03-26T06:46:16",
       "image": null
     },
     {
@@ -249,7 +267,7 @@
       "title": "【学生無料！】クリ博  Blender×画像生成AIの3DCGブートキャンプを開催－「ミニアクアリウム」をつくろう  4/29（水） - ニュース",
       "url": "https://cgworld.jp/flashnews/02-2603-kurihaku-aqua.html",
       "source": "CGWORLD",
-      "category": "industry",
+      "category": "tech",
       "importance": "normal",
       "published": "2026-03-27T05:24:14",
       "image": "https://cgworld.jp/flashnews/assets_c/2026/03/97bc894c89d0c06f205ee761c93b0a76-thumb-1000x563-81641.jpg"
@@ -271,51 +289,6 @@
       "importance": "normal",
       "published": "2026-03-27T02:04:15",
       "image": "https://cgworld.jp/flashnews/assets_c/2026/03/244_seminar_houdininode_full-thumb-1000x563-81637.jpg"
-    },
-    {
-      "title": "裏ボス亜門も最弱クラスに！トロコン入門にもピッタリな『龍が如く 極3 / 龍が如く3外伝 Dark Ties』",
-      "url": "https://jp.ign.com/trophy-complete/83043/feature/3-3-dark-ties",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-03-27T08:00:46",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/image4_3yt7.jpg"
-    },
-    {
-      "title": "「ロード・オブ・ザ・リング」さらなる新作映画の企画が発表 映画化されなかった6つの章に着想を得た物語に",
-      "url": "https://jp.ign.com/the-lord-of-the-rings/83021/news/6",
-      "source": "IGN Japan",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-03-26T13:16:08",
-      "image": "https://sm.ign.com/ign_jp/news/l/lord-of-th/lord-of-the-rings-star-elijah-wood-says-he-doesnt-want-anyon_fa6z.jpg"
-    },
-    {
-      "title": "『紅の砂漠』レビュー 荒削りだが、200時間プレイしても底の見えない圧倒的ボリュームの冒険とスローライフが待つ欲張りなオープンワールド",
-      "url": "https://jp.ign.com/crimson-desert/83023/review/200",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-03-26T05:02:17",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/_484b.jpg"
-    },
-    {
-      "title": "Lenovoのゲーミングタブレット「Legion Tab (8.8”, 3)」がAmazonにて12％オフでタイムセール中",
-      "url": "https://jp.ign.com/gaming-device/83030/news/lenovolegion-tab-88-3amazon12",
-      "source": "IGN Japan",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-03-27T07:01:03",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_j2m3.jpg"
-    },
-    {
-      "title": "HyperXの有線ゲーミングコントローラー「Clutch Gladiate」がAmazonにて20％オフでタイムセール中",
-      "url": "https://jp.ign.com/gaming-device/83017/news/hyperxclutch-gladiateamazon20",
-      "source": "IGN Japan",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-03-26T11:04:31",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_wkw8.jpg"
     }
   ]
 }
