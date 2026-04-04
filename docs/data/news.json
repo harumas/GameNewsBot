@@ -1,51 +1,285 @@
 {
-  "generated_at": "2026-04-03T00:14:15.703639",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、犬のダイバーが深海を探索する『ソルティドッグ』や、乱戦ゴルフ『Super Battle Golf』の大型アップデートなど、エキサイティングな話題が並んでいます！ 💻\n特に注目は、Xboxシリーズの25周年を祝う「Xbox FanFest」や、新作アクションRPG『エコーズ オブ アインクラッド』のクローズドベータテストなどです。\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-04-04T00:11:49.779594",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、ゾンビサバイバル『State of Decay 3』のプレイテストや、住宅改装シム『ハウスフリッパー』の無料配布など、様々なジャンルのゲームが登場しています。\n注目すべきは、深海潜水艦ホラー『There’s Nothing Down There』の発表でしょう 💡\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "犬のダイバーが深海を探索するカオスな協力ゲーム『ソルティドッグ』Steam向けに発表。物理演算のはたらく水中で、潜水艦に乗り込み海底に眠るお宝を銛で回収",
-      "url": "https://news.denfaminicogamer.jp/news/2604023h",
+      "title": "最大4人の協力プレイに対応のゾンビサバイバル『State of Decay 3』プレイテストの参加者募集がスタート。最初の発表から約6年、最初の発表から約8年の時を経て、ついにシリーズ最新作を体験できる",
+      "url": "https://news.denfaminicogamer.jp/news/260404b",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-04-02T10:48:16",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/4-1.png"
+      "published": "2026-04-03T23:44:38",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/ss_b6ca3a5cfc5e8eb543f981dea4a09cb57f9d9789.1920x1080.jpg"
     },
     {
-      "title": "『ストリートファイター6』追加キャラ「イングリッド」のティザートレーラーが公開。2026年春の後半に参戦する予定。Year3追加キャラクターのトリを飾る",
-      "url": "https://news.denfaminicogamer.jp/news/260403g",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-02T23:10:35",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/2aad623dd0c4bbb08b8ddb8b8c36fa43.jpg"
-    },
-    {
-      "title": "【非常に好評】最大8人がロケランやゴルフカートで妨害し合う乱戦ゴルフ『Super Battle Golf』が6週間で100万本突破。初の大型アプデ予告にくわえ、4月3日から30%オフセールも開催",
-      "url": "https://news.denfaminicogamer.jp/news/2604033g",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-02T22:00:45",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/SBG_FF_Ice.png"
-    },
-    {
-      "title": "『SAO』の新作アクションRPG『エコーズ オブ アインクラッド』主人公らがクローズドベータテストに参加する新映像が公開。「ゲームオーバー＝現実世界での死」という極限状態で、プレイヤーたちが足掻く",
-      "url": "https://news.denfaminicogamer.jp/news/260403c",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-02T22:00:27",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/Snapshot_69.jpg"
-    },
-    {
-      "title": "Amazon「新生活セール Final」スタート。ゲーミングデバイスやStream Deckなどの配信者向けグッズ、モバイルバッテリーなど多数の商品がセール対象に。4月6日まで",
-      "url": "https://news.denfaminicogamer.jp/news/260403e",
+      "title": "廃屋を自らの手でリノベーションする住宅改装シム『ハウスフリッパー』Steam版が無料配布を開始。グラフィックを一新したリマスター版のプレイテストも実施中",
+      "url": "https://news.denfaminicogamer.jp/news/260404a",
       "source": "電ファミニコゲーマー",
       "category": "sale",
+      "importance": "high",
+      "published": "2026-04-03T22:41:53",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/ss_a020beb1369b9aca13a03a6bf578a04e3046b2b2.1920x1080.jpg"
+    },
+    {
+      "title": "アーケードゲーム『頭文字D THE ARCADE』が『ウマ娘 プリティーダービー』とのコラボを発表。「スペシャルウィーク」「サイレンススズカ」「トウカイテイオー」のコラボアイテムが多数登場",
+      "url": "https://news.denfaminicogamer.jp/news/2604033h",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-04-03T14:32:53",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/536c47f6979c8a822866a5a3a66f9c01.jpg"
+    },
+    {
+      "title": "「いちばん時間を溶かしたゲーム」総合ランキング結果発表！1位は、全世界での販売本数3億5000万本を突破している、やりこみ無限大な時間泥棒ゲームでした",
+      "url": "https://news.denfaminicogamer.jp/kikakuthetower/2604032a",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-04-03T10:20:38",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/5af525eed95d1d1db8b23358110bf2a3.png"
+    },
+    {
+      "title": "“地上が海に沈んだ終末世界”で海上都市を築くシミュレーションゲーム『崩壊都市』配信開始。資源や住民たちを管理したり、突発的なイベントに対処したりするストラテジー要素も楽しめる",
+      "url": "https://news.denfaminicogamer.jp/news/2604033c",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
       "importance": "normal",
-      "published": "2026-04-02T23:55:54",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/amazon_2026_03_ec4.png"
+      "published": "2026-04-03T14:00:53",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/1-2.png"
+    },
+    {
+      "title": "Steamコイン落としローグライク『RACCOIN』は「インフレと物理演算が生み出す中毒性」がすごい。『Balatro』と似てるけど違う、“ずっと何か起こってる”感",
+      "url": "https://automaton-media.com/articles/columnjp/raccoin-20260403-434439/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-03T05:29:36",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/raccoin-20260403-434439-header.jpg"
+    },
+    {
+      "title": "汚部屋清掃・リフォームゲーム『ハウスフリッパー』Steam版、期間限定で無料配布中。定価2800円のゲームが今なら無料",
+      "url": "https://automaton-media.com/articles/newsjp/20260404-434572/",
+      "source": "Automaton",
+      "category": "sale",
+      "importance": "high",
+      "published": "2026-04-03T22:30:27",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260404-434572-header.jpeg"
+    },
+    {
+      "title": "深海潜水艦ホラー『There’s Nothing Down There』発表、すぐさま注目集まる。ソナー頼みで生き延びる海底の「大穴」の先、暗闇に何かが潜む",
+      "url": "https://automaton-media.com/articles/newsjp/20260403-434477/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-03T07:59:07",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260403-434477-header.jpg"
+    },
+    {
+      "title": "『学園アイドルマスター（学マス）』また“毎日水曜日”に。混沌の「毎日学マ水曜日 ファイナルシーズン」",
+      "url": "https://automaton-media.com/articles/newsjp/20260403-434542/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-03T11:46:12",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260403-434542-header.jpg"
+    },
+    {
+      "title": "『マインクラフト』にて「式から3次元グラフを描画する」レッドストーン回路を作った人現る。大学の授業でひらめき、5年かかった集大成",
+      "url": "https://automaton-media.com/articles/newsjp/minecraft-20260403-434530/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-03T10:48:06",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/minecraft-20260403-434530-header.jpg"
+    },
+    {
+      "title": "「ドラクエウォーク」，リアルおみやげプロジェクトの新コラボ商品「スライムまんじゅう」を発表。4月17日〜7月31日の期間で販売予定",
+      "url": "https://www.4gamer.net/games/461/G046174/20260403058/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-04-03T11:55:17",
+      "image": "https://www.4gamer.net/games/461/G046174/20260403058/SS/001.jpg"
+    },
+    {
+      "title": "仕事で集めたお金とアイデアで，自分だけの拠点を作ろう。庭仕事＆リフォームシム「Beyond Yardwork Simulator」，Steamストアページを公開",
+      "url": "https://www.4gamer.net/games/996/G099638/20260403064/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-03T15:00:00",
+      "image": "https://www.4gamer.net/games/996/G099638/20260403064/SS/003.jpg"
+    },
+    {
+      "title": "「頭文字D THE ARCADE」が「ウマ娘」とコラボ。愛車を「ウマ娘痛車」にできるバイナルステッカーや「うまぴょい伝説」のBGMなどが登場",
+      "url": "https://www.4gamer.net/games/519/G051905/20260403063/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-04-03T14:19:37",
+      "image": "https://www.4gamer.net/games/519/G051905/20260403063/SS/004.jpg"
+    },
+    {
+      "title": "水没した終末世界が舞台の海上都市建設シム「崩壊都市」，Steamでリリース。崩れないようにバランスを保ちつつ，資材を積み上げよう",
+      "url": "https://www.4gamer.net/games/875/G087523/20260403039/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-03T14:00:00",
+      "image": "https://www.4gamer.net/games/875/G087523/20260403039/SS/004.jpg"
+    },
+    {
+      "title": "「Age of Empires IV」，最新DLC「岳飛の遺産」を5月7日にリリース。火薬を操る固有ユニットを持つ新文明「金王朝」が登場",
+      "url": "https://www.4gamer.net/games/391/G039193/20260403062/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-04-03T13:55:04",
+      "image": "https://www.4gamer.net/games/391/G039193/20260403062/SS/006.jpg"
+    },
+    {
+      "title": "魂が砕かれた…『The Last of Us』オンラインマルチプレイ作品はすでに80%完成していた。7年の開発、キャンセルを知らされたのは発表24時間前",
+      "url": "https://www.gamebusiness.jp/article/2026/04/03/26593.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-04-03T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180622.png"
+    },
+    {
+      "title": "ゲーム制作や共有、プレイも可能な開発プラットフォーム『s＆box』4月28日発売決定！『Garry's Mod』の精神的後継作がいよいよリリースへ",
+      "url": "https://www.gamebusiness.jp/article/2026/04/02/26585.html",
+      "source": "GameBusiness.jp",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-02T11:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180519.jpg"
+    },
+    {
+      "title": "SIEがイギリスの機械学習・コンピュータビジョン企業を買収。最先端のビジュアルコンピューティングに取り組み、ゲームの映像強化へ",
+      "url": "https://www.gamebusiness.jp/article/2026/04/03/26594.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-04-03T11:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180616.png"
+    },
+    {
+      "title": "PCインディーゲーム専門サブスク「Indie Pass」2026年4月13日サービス開始",
+      "url": "https://www.gamebusiness.jp/article/2026/04/03/26592.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-03T11:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180629.jpg"
+    },
+    {
+      "title": "『The First Descendant』は“うまくいかなかった”。リリース好調も勢いを維持できず―ネクソンが投資家向けの説明会で",
+      "url": "https://www.gamebusiness.jp/article/2026/04/03/26591.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-03T11:00:05",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180636.jpg"
+    },
+    {
+      "title": "無料出展枠にも応募可能。韓国のゲームイベント「GAME AiCON Seoul 2026」出展タイトルを4/6（月）まで募集中",
+      "url": "https://gamemakers.jp/article/2026_04_03_134950/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-04-03T09:54:31",
+      "image": null
+    },
+    {
+      "title": "5/3（日）開催のインディーゲーム展示会「東京ゲームダンジョン12」、入場チケット販売開始。初の3フロア展開、過去最多の410団体が出展",
+      "url": "https://gamemakers.jp/article/2026_04_03_134905/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-04-03T04:00:21",
+      "image": null
+    },
+    {
+      "title": "インディーゲーム展示会イベント「OSAKA INDIE GAMES SUMMIT 2026」10/3（土）・4（日）に開催決定",
+      "url": "https://gamemakers.jp/article/2026_04_02_134883/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-04-02T10:13:41",
+      "image": null
+    },
+    {
+      "title": "NVIDIA、ゲーム開発者向けカンファレンス「GDC 2026」で実施した講演のアーカイブ動画を公開",
+      "url": "https://gamemakers.jp/article/2026_04_02_134846/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-02T08:35:05",
+      "image": null
+    },
+    {
+      "title": "Microsoft、オープンソースのWebレンダリングエンジン「Babylon.js 9.0」リリース。数千規模の動的なライトを高速で描画できる「Clustered Lighting」が実装",
+      "url": "https://gamemakers.jp/article/2026_04_02_134855/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-02T07:46:01",
+      "image": null
+    },
+    {
+      "title": "『紅の砂漠』、売上はすでに2億ドルとアナリストが推定 PS5版も大きく寄与",
+      "url": "https://jp.ign.com/crimson-desert/83080/news/2-ps5",
+      "source": "IGN Japan",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-04-03T04:25:33",
+      "image": "https://sm.ign.com/ign_jp/news/c/crimson-de/crimson-desert-estimated-to-have-made-over-200-million-alrea_cdfy.jpg"
+    },
+    {
+      "title": "『SHINOBI 復讐の斬撃』による華麗なIP復活 開発にあたってキーマン2人が信じたものとは？",
+      "url": "https://jp.ign.com/shinobi-art-of-vengeance/83092/interview/shinobi-ip-2",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-03T05:01:18",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/2_vg2a.jpg"
+    },
+    {
+      "title": "真島吾朗ら、セガの三悪役が参戦 『SHINOBI 復讐の斬撃』のDLC「セガ ヴィランズ ステージ」誕生の裏側",
+      "url": "https://jp.ign.com/shinobi-art-of-vengeance/83093/interview/shinobi-dlc",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-03T05:01:13",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/kv_1rk4.jpg"
+    },
+    {
+      "title": "任天堂の「キャラクターを召喚して戦わせる」特許を米特許庁が拒絶 最終決定ではないが、『パルワールド』訴訟への影響も焦点に",
+      "url": "https://jp.ign.com/palworld/83077/news/",
+      "source": "IGN Japan",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-04-03T00:43:30",
+      "image": "https://sm.ign.com/ign_jp/news/u/uspto-reje/uspto-rejects-nintendos-controversial-summon-character-and-l_5muw.jpg"
+    },
+    {
+      "title": "県内外から34社が参加！　静岡デザイン専門学校開催の「ポートフォリオ交流会」レポート - 特集",
+      "url": "https://cgworld.jp/article/shizude-portfolio-2603.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-03T01:44:08",
+      "image": "https://cgworld.jp/article/assets_c/2026/03/5776b948e98145ddc9954bf0736820ff7dabc787-thumb-800x534-81807.jpg"
+    },
+    {
+      "title": "「大切なのは\"つくり続ける意識\"をもち続けること」2年越しの挑戦を経てカナダへ 第118回：古屋隆介（Sony Pictures Imageworks / Senior Animator） - 連載",
+      "url": "https://cgworld.jp/regular/118-furuya.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-03T01:30:00",
+      "image": "https://cgworld.jp/regular/assets_c/2026/03/22c81f426625ea9e5fa870c399ff93ea0c2a4a2f-thumb-1000x565-81369.jpg"
     },
     {
       "title": "オープンソースのAviutl2プラグイン「SAM3 BB/GB Generator」リリース！ SAM 3を活用し、クリックするだけで動画から簡単にオブジェクトを切り抜き - ニュース",
@@ -69,244 +303,10 @@
       "title": "第1回：UMGを始めよう - 連載",
       "url": "https://cgworld.jp/regular/202604-ueui-01.html",
       "source": "CGWORLD",
-      "category": "tech",
+      "category": "other",
       "importance": "normal",
       "published": "2026-04-02T02:31:00",
       "image": "https://cgworld.jp/regular/assets_c/2026/03/7e151d19e51ebf1ddbb5b15fdba45df5fc0ac2d5-thumb-1000x563-81047.jpg"
-    },
-    {
-      "title": "VRChat向けのカメラシステム「OmniVisionSystem」リリース！ VRChatワールド内の360°空間を記録・再生 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202604-OmniVisionSystem.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-02T01:07:53",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/OVS360-01-thumb-1920x1080-81913.jpg"
-    },
-    {
-      "title": "第6回 ロケットスタジオ 後編：リーダー塾が育てる、100人組織の当事者意識 - 連載",
-      "url": "https://cgworld.jp/regular/202604-manabi6-2.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-04-02T01:00:00",
-      "image": "https://cgworld.jp/regular/assets_c/2026/03/202604-manabi6_b1_2-thumb-1000x667-81773.jpg"
-    },
-    {
-      "title": "「Super Battle Golf」，雪景色の9つの新ホールや風の要素などを追加する初の大型アップデートを4月10日に配信",
-      "url": "https://www.4gamer.net/games/985/G098506/20260402041/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-04-02T22:00:00",
-      "image": "https://www.4gamer.net/games/985/G098506/20260402041/SS/009.jpg"
-    },
-    {
-      "title": "Xboxシリーズの25周年を祝う「Xbox FanFest」，日本を含む各国での“ワールドツアー”を開催。参加方法や具体的な内容は追って発表予定",
-      "url": "https://www.4gamer.net/games/991/G999111/20260402059/",
-      "source": "4Gamer.net",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-04-02T14:00:00",
-      "image": "https://www.4gamer.net/games/991/G999111/20260402059/SS/001.jpg"
-    },
-    {
-      "title": "「スレスパ」でデッキ構築ローグライクにハマった？　ならば今こそ「Monster Train 2」で遊ぶのじゃ！【放課後れびゅあーず！】",
-      "url": "https://www.4gamer.net/games/912/G091223/20260402039/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-04-02T23:00:00",
-      "image": "https://www.4gamer.net/games/912/G091223/20260402039/SS/003.jpg"
-    },
-    {
-      "title": "パリィ好きのためのメトロイドヴァニア「ソラテリア」（ほぼ日 インディーPick Up！）",
-      "url": "https://www.4gamer.net/games/950/G095079/20260329005/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-02T22:00:00",
-      "image": "https://www.4gamer.net/games/950/G095079/20260329005/SS/019.jpg"
-    },
-    {
-      "title": "［プレイレポ］「SHINOBI 復讐の斬撃」のDLC「セガ ヴィランズ ステージ」は，最強の忍者とセガの名悪役が共演。アクションとバトルは，さらなる進化を遂げていた",
-      "url": "https://www.4gamer.net/games/905/G090525/20260331049/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-04-02T16:00:00",
-      "image": "https://www.4gamer.net/games/905/G090525/20260331049/SS/022.jpg"
-    },
-    {
-      "title": "セクシーSRPG『ブラウンダスト2』にて1年半ぶりの「閃乱カグラ」コラボ発表。4人の復刻キャラに、新たな忍「斑鳩」も参戦",
-      "url": "https://automaton-media.com/articles/newsjp/20260402-434235/",
-      "source": "Automaton",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-04-02T08:05:05",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260402-434235-header.jpg"
-    },
-    {
-      "title": "任天堂ゲーム機の「サードパーティータイトル売上額」が前年比76％増の大成長との調査レポート。Switch 2タイトルの平均販売“価格”が牽引か",
-      "url": "https://automaton-media.com/articles/newsjp/20260402-434229/",
-      "source": "Automaton",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-04-02T07:50:10",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260402-434229-header.jpg"
-    },
-    {
-      "title": "木を伐採しまくるクラフトゲーム『Chop Chop Inc.』正式発表。家具や“PC”までなんでも作る木工ビジネス、すべては木こりから",
-      "url": "https://automaton-media.com/articles/newsjp/20260402-434211/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-02T07:22:47",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260402-434211-header.jpg"
-    },
-    {
-      "title": "Nintendo Switch向けセールに約440本、どっさり追加。大ヒットブロック崩しローグライト『BALL x PIT』や傑作シビアコロニーシム『Against the Storm』など人気作お安い",
-      "url": "https://automaton-media.com/articles/newsjp/nintendo-switch-sale-20260402-434193/",
-      "source": "Automaton",
-      "category": "sale",
-      "importance": "high",
-      "published": "2026-04-02T06:56:02",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/nintendo-switch-sale-20260402-434193-header.jpg"
-    },
-    {
-      "title": "1999年秋葉原ADV『世紀末之詩』、「作中の架空ゲーム20作品」を本当に作るプロジェクト始動。瀬戸口廉也・元長柾木・朱門優など夢の布陣に、ファン狂喜乱舞",
-      "url": "https://automaton-media.com/articles/newsjp/20260402-434330/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-02T12:44:53",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260402-434330-header.jpg"
-    },
-    {
-      "title": "ゲーム制作や共有、プレイも可能な開発プラットフォーム『s＆box』4月28日発売決定！『Garry's Mod』の精神的後継作がいよいよリリースへ",
-      "url": "https://www.gamebusiness.jp/article/2026/04/02/26585.html",
-      "source": "GameBusiness.jp",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-02T11:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180519.jpg"
-    },
-    {
-      "title": "任天堂の「キャラクター召喚」特許、米特許庁が全26項を却下―異例の再審査を命令",
-      "url": "https://www.gamebusiness.jp/article/2026/04/02/26582.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-04-02T10:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180567.jpg"
-    },
-    {
-      "title": "ポケットペア、ウィッシュリスト150万件超の海賊PvEサバイバル『Windrose / ウィンドローズ』日本パブリッシングを担当！",
-      "url": "https://www.gamebusiness.jp/article/2026/04/02/26586.html",
-      "source": "GameBusiness.jp",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-02T11:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180503.jpg"
-    },
-    {
-      "title": "日仏文化協力の合意書調印式が開催。VIPOとCNCの協定に海賊版対策、出版分野の協力も",
-      "url": "https://www.gamebusiness.jp/article/2026/04/02/26584.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-04-02T11:00:05",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180547.jpg"
-    },
-    {
-      "title": "ホワイトハウス、今度は『スーパーマリオギャラクシー』の映像を無断利用。月探査アルテミス計画のロケット発射成功を祝う動画に",
-      "url": "https://www.gamebusiness.jp/article/2026/04/02/26583.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-04-02T10:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180558.png"
-    },
-    {
-      "title": "『紅の砂漠』レビュー動画",
-      "url": "https://jp.ign.com/crimson-desert/83071/video/",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-04-01T03:50:36",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/cd_p29f.jpg"
-    },
-    {
-      "title": "『ザ・スーパーマリオギャラクシー・ムービー』画像ギャラリー",
-      "url": "https://jp.ign.com/untitled-the-super-mario-bros-movie-sequel/83086/gallery/",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-04-02T11:00:40",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/2570-fp-1144441u-00088906_223k.jpg"
-    },
-    {
-      "title": "宮本茂、ピクミンを任天堂のあらゆる作品に登場させるのが「使命」だと語る",
-      "url": "https://jp.ign.com/untitled-the-super-mario-bros-movie-sequel/83068/news/",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-04-01T13:07:48",
-      "image": "https://sm.ign.com/ign_jp/news/n/nintendo-r/nintendo-reveals-mysterious-animated-short-is-indeed-a-new-p_f51h.jpg"
-    },
-    {
-      "title": "『Returnal』が大きく進化！1プレイ30分の超密度『SAROS』感想トーク：今週遊んだゲーム 04/01/2026",
-      "url": "https://jp.ign.com/gamer-1/83070/video/returnal130saros-04012026",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-04-01T11:00:40",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/kg_jynm.png"
-    },
-    {
-      "title": "インディーゲーム展示会イベント「OSAKA INDIE GAMES SUMMIT 2026」10/3（土）・4（日）に開催決定",
-      "url": "https://gamemakers.jp/article/2026_04_02_134883/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-04-02T10:13:41",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/04/e04a95c30af3b6e9bb788a5e3ab720e9.jpg"
-    },
-    {
-      "title": "NVIDIA、ゲーム開発者向けカンファレンス「GDC 2026」で実施した講演のアーカイブ動画を公開",
-      "url": "https://gamemakers.jp/article/2026_04_02_134846/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-02T08:35:05",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/04/f6e36c10191c69645595927b3599a83f.png"
-    },
-    {
-      "title": "Microsoft、オープンソースのWebレンダリングエンジン「Babylon.js 9.0」リリース。数千規模の動的なライトを高速で描画できる「Clustered Lighting」が実装",
-      "url": "https://gamemakers.jp/article/2026_04_02_134855/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-02T07:46:01",
-      "image": null
-    },
-    {
-      "title": "東京・高円寺で開催されたインディーゲーム展示会「TIGS2026」フォトレポート。延べ1万人以上が来場した現地の様子と、注目の展示タイトルを紹介",
-      "url": "https://gamemakers.jp/article/2026_04_02_134315/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-04-02T06:00:29",
-      "image": null
-    },
-    {
-      "title": "「Summer Game Fest 2026」と併催のインディーゲームショーケース「Day of the Devs 2026」、出展作品を4/6まで募集中",
-      "url": "https://gamemakers.jp/article/2026_04_02_134798/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-04-01T23:28:35",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/04/c1af10c854cfd71eb0fd07a6c58c7001.webp"
     }
   ]
 }
