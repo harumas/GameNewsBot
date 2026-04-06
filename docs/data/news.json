@@ -1,87 +1,123 @@
 {
-  "generated_at": "2026-04-05T00:11:54.966861",
-  "poem": "おはようございます！ 🌞\n今日もゲーム業界は躍動しています。新作RPG『アナザーエデン ビギンズ』の発売決定や、ゾンビサバイバル『State of Decay 3』のプレイテスト参加者募集など、注目すべきニュースが多数입니다 💻\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-04-06T00:12:51.577618",
+  "poem": "おはようございます！ 🌞\n今日も新しいゲームやアニメの情報がたくさん届いています。スーパーマリオの新作映画やドラクエのスライムグッズなど、ファンの間で大きな話題になっています 😊\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "新作タイムトラベルRPG『アナザーエデン ビギンズ』が9月17日に発売決定！対応プラットフォームはSwitch 2/Switch/Steam",
-      "url": "https://news.denfaminicogamer.jp/news/260404j",
+      "title": "映画『『ザ・スーパーマリオギャラクシー・ムービー』のオープニング興行収入が3億7250万ドル（約594億円）を突破、前作に超える特大ヒット。日本では4月24日より公開予定",
+      "url": "https://news.denfaminicogamer.jp/news/2604032v",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-04-04T10:38:17",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/HFDNXNpawAA65Xc.jpeg"
+      "published": "2026-04-05T22:03:03",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/HCu7eCuaUAQVoyl.jpg"
     },
     {
-      "title": "最大4人の協力プレイに対応のゾンビサバイバル『State of Decay 3』プレイテストの参加者募集がスタート。最初の発表から約6年、最初の発表から約8年の時を経て、ついにシリーズ最新作を体験できる",
-      "url": "https://news.denfaminicogamer.jp/news/260404b",
+      "title": "アニメ『探偵はもう、死んでいる。Season2』第1弾PVとキービジュアルを公開。さらに「原作・二語十氏書き下ろしボイスドラマ」や「シエスタASMR」の制作などアニメ放送5周年5大企画の実施を発表",
+      "url": "https://news.denfaminicogamer.jp/news/260405o",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-04-03T23:44:38",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/ss_b6ca3a5cfc5e8eb543f981dea4a09cb57f9d9789.1920x1080.jpg"
+      "published": "2026-04-05T14:44:57",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/384cbecf9097317daaf9fbe286457ca5.jpg"
     },
     {
-      "title": "廃屋を自らの手でリノベーションする住宅改装シム『ハウスフリッパー』Steam版が無料配布を開始。グラフィックを一新したリマスター版のプレイテストも実施中",
-      "url": "https://news.denfaminicogamer.jp/news/260404a",
+      "title": "『大神』発売20周年を記念した企画を準備中と公式が発表。神谷英樹氏がディレクターを務める「完全新作」も開発中",
+      "url": "https://news.denfaminicogamer.jp/news/260405l",
       "source": "電ファミニコゲーマー",
-      "category": "sale",
+      "category": "release",
       "importance": "high",
-      "published": "2026-04-03T22:41:53",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/ss_a020beb1369b9aca13a03a6bf578a04e3046b2b2.1920x1080.jpg"
+      "published": "2026-04-05T09:58:59",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/HEEoc5sbcAApgdi.png"
     },
     {
-      "title": "『名探偵プリキュア！』映画化が決定。謎に包まれた状態が続く「キュアアルカナ・シャドウ」「キュアエクレール」の姿も",
-      "url": "https://news.denfaminicogamer.jp/news/2604053d",
+      "title": "映画『ズートピア２』見放題配信が決定。4月15日からディズニープラスで独占配信へ。「ずるいウサギ」と「まぬけなキツネ」の大人気バディもの。100年ぶりに現れたヘビを追い、夢の都市「ズートピア」に隠された闇に迫る",
+      "url": "https://news.denfaminicogamer.jp/news/260406c",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "normal",
-      "published": "2026-04-05T00:00:34",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/785054d96b0d8763ad868020f86dc69d.jpg"
+      "published": "2026-04-05T23:19:24",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/HE-XNDRagAAvVZk.jpg"
     },
     {
-      "title": "ピエール瀧、アニメの予告ナレーションをまさかの担当。TVアニメ『NEEDY GIRL OVERDOSE』（ニディガ）第2話予告で起用が明らかに",
-      "url": "https://news.denfaminicogamer.jp/news/260405i",
+      "title": "『ドラクエ』スライムのマルチポットが本日発売。「スライム」「スライムベス」「メタルスライム」など全6種、それぞれSサイズとMサイズが登場",
+      "url": "https://news.denfaminicogamer.jp/news/260405n",
       "source": "電ファミニコゲーマー",
-      "category": "other",
+      "category": "release",
       "importance": "normal",
-      "published": "2026-04-04T16:00:02",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/NGO_op_024.jpg"
+      "published": "2026-04-05T13:30:11",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/example_01-Bbs7P2Xi.png"
     },
     {
-      "title": "NVIDIA、キネマティック・モーション拡散モデル「Kimodo」リリース！ 大規模な光学式モーションキャプチャデータで学習、オープンソース - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202604-Kimodo.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-04T22:50:15",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/Kimodo-01-thumb-1920x1080-82006.jpg"
+      "title": "［インタビュー］インディーゲームの現場の声から設計されたMIXIの海外支援。「LVLZero Tokyo」が後押しする“世界への最初の一歩”",
+      "url": "https://www.4gamer.net/games/999/G999905/20260331037/",
+      "source": "4Gamer.net",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-04-04T03:00:00",
+      "image": "https://www.4gamer.net/games/999/G999905/20260331037/SS/009.jpg"
     },
     {
-      "title": "「Blender 5.1」リリース！ アニメーションやCycles、EEVEEのパフォーマンス向上、Raycastノード新搭載、グリースペンシルのフィルワークフロー改善など - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202604-blender51.html",
-      "source": "CGWORLD",
-      "category": "tech",
+      "title": "【今週のモチベ】対戦に特化した「Pokémon Champions」や，サイコホラー「The Occultist」が発売される 2026年4月6日〜4月12日",
+      "url": "https://www.4gamer.net/games/954/G095479/20260404003/",
+      "source": "4Gamer.net",
+      "category": "release",
       "importance": "normal",
-      "published": "2026-04-04T00:08:33",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/Blender51-01-thumb-1920x1080-81970.jpg"
+      "published": "2026-04-05T23:00:00",
+      "image": "https://www.4gamer.net/games/954/G095479/20260404003/SS/004.webp"
     },
     {
-      "title": "県内外から34社が参加！　静岡デザイン専門学校開催の「ポートフォリオ交流会」レポート - 特集",
-      "url": "https://cgworld.jp/article/shizude-portfolio-2603.html",
-      "source": "CGWORLD",
+      "title": "爆弾を武器にウサギが空の要塞を駆ける3Dアクション「Bombun」（ほぼ日 インディーPick Up！）",
+      "url": "https://www.4gamer.net/games/950/G095079/20260405002/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-05T22:00:00",
+      "image": "https://www.4gamer.net/games/950/G095079/20260405002/SS/010.jpg"
+    },
+    {
+      "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年3月30日〜4月5日",
+      "url": "https://www.4gamer.net/games/040/G004099/20260405006/",
+      "source": "4Gamer.net",
       "category": "industry",
       "importance": "normal",
-      "published": "2026-04-03T01:44:08",
-      "image": "https://cgworld.jp/article/assets_c/2026/03/5776b948e98145ddc9954bf0736820ff7dabc787-thumb-800x534-81807.jpg"
+      "published": "2026-04-05T22:00:00",
+      "image": "https://www.4gamer.net/games/040/G004099/20260405006/SS/029.jpg"
     },
     {
-      "title": "「大切なのは\"つくり続ける意識\"をもち続けること」2年越しの挑戦を経てカナダへ 第118回：古屋隆介（Sony Pictures Imageworks / Senior Animator） - 連載",
-      "url": "https://cgworld.jp/regular/118-furuya.html",
-      "source": "CGWORLD",
-      "category": "other",
+      "title": "「プロセカ」，新たな楽曲「Nyanyanyanyanyanyanya!」が登場",
+      "url": "https://www.4gamer.net/games/476/G047609/20260403055/",
+      "source": "4Gamer.net",
+      "category": "update",
       "importance": "normal",
-      "published": "2026-04-03T01:30:00",
-      "image": "https://cgworld.jp/regular/assets_c/2026/03/22c81f426625ea9e5fa870c399ff93ea0c2a4a2f-thumb-1000x565-81369.jpg"
+      "published": "2026-04-05T06:00:00",
+      "image": "https://www.4gamer.net/games/476/G047609/20260403055/SS/002.jpg"
+    },
+    {
+      "title": "RTX 3050を搭載したMSIのゲーミングノートPC「Thin 15 B13U」がAmazonにて10％オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83098/news/rtx-3050msipcthin-15-b13uamazon10",
+      "source": "IGN Japan",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-04-05T07:35:52",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_dfs6.jpg"
+    },
+    {
+      "title": "透明感あるデザインが特徴のワイヤレスイヤホン「Nothing Ear (a)」がAmazonにて34％オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83097/news/nothing-ear-aamazon34",
+      "source": "IGN Japan",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-04-04T09:13:21",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_veuq.jpg"
+    },
+    {
+      "title": "クトゥルフ神話・絶壁登頂ローグライト『Ascenders: Beyond the Peak』発表。生首育成恋愛シム『TOMAK』は今ならまだ無料DL可。今週の見逃せないゲーム記事7選",
+      "url": "https://automaton-media.com/articles/newsjp/20260405-434753/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-05T05:02:58",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260405-434753-header.jpg"
     },
     {
       "title": "未来都市で家庭菜園シム『Tiny Eden』正式発表。プランターをならべてのんびり水やり、自分だけの穏やかガーデニング",
@@ -102,31 +138,31 @@
       "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260404-434601-header.jpg"
     },
     {
-      "title": "汚部屋清掃・リフォームゲーム『ハウスフリッパー』Steam版、期間限定で無料配布中。定価2800円のゲームが今なら無料",
-      "url": "https://automaton-media.com/articles/newsjp/20260404-434572/",
+      "title": "Steamセールで『バイオハザード RE:3』がなんと90％オフの399円。好評“壁登り”採掘ローグライト『Wall World』は85％オフ。今週の高割引率PCゲーム",
+      "url": "https://automaton-media.com/articles/newsjp/steam-sale-20260405-434742/",
       "source": "Automaton",
       "category": "sale",
-      "importance": "high",
-      "published": "2026-04-03T22:30:27",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260404-434572-header.jpeg"
+      "importance": "normal",
+      "published": "2026-04-05T07:10:56",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/steam-sale-20260405-434742-header.jpg"
     },
     {
-      "title": "タイムトラベル・コマンドバトルRPG『アナザーエデン ビギンズ』9月17日発売へ。古代・現代・未来と時を駆け仲間と出会う、『アナザーエデン』シリーズ最新作",
-      "url": "https://automaton-media.com/articles/newsjp/anothereden-bigins-20260404-434693/",
+      "title": "基本プレイ無料『サカつく2026』強豪ひしめく“魔境”スペインでもがき苦しむガチプレイ日記。久保建英に敗れて思い知る、「負けないサッカー」の向こう側",
+      "url": "https://automaton-media.com/articles/special-column/20260405-434725/",
       "source": "Automaton",
-      "category": "release",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-04-04T13:00:14",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/anothereden-bigins-20260404-434693-header.jpeg"
+      "published": "2026-04-05T03:00:01",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260405-434725-001.jpg"
     },
     {
-      "title": "好評SCPサバイバルホラー『SCP:Fragmented Minds』アプデで「新SCP」複数登場の新章が追加。SCPらの“弱点”を見極め、収容違反だらけの施設を探索",
-      "url": "https://automaton-media.com/articles/newsjp/scp-fragmented-minds-20260404-434666/",
-      "source": "Automaton",
-      "category": "update",
+      "title": "NVIDIA、キネマティック・モーション拡散モデル「Kimodo」リリース！ 大規模な光学式モーションキャプチャデータで学習、オープンソース - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202604-Kimodo.html",
+      "source": "CGWORLD",
+      "category": "tech",
       "importance": "normal",
-      "published": "2026-04-04T09:17:59",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/scp-fragmented-minds-20260404-434666-header.jpg"
+      "published": "2026-04-04T22:50:15",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/Kimodo-01-thumb-1920x1080-82006.jpg"
     },
     {
       "title": "ブリザード「AAAオープンワールドシューター」を開発へ。未発表ゲームの制作に向け、15年以上の経験者を募る野心的な求人が公開",
@@ -138,19 +174,10 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/180600.jpg"
     },
     {
-      "title": "魂が砕かれた…『The Last of Us』オンラインマルチプレイ作品はすでに80%完成していた。7年の開発、キャンセルを知らされたのは発表24時間前",
-      "url": "https://www.gamebusiness.jp/article/2026/04/03/26593.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-04-03T11:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180622.png"
-    },
-    {
       "title": "「プレイ時間に基づく支払いはひどい」月額6.99ドルのインディーゲームサブスクに様々な声―「Indie Pass」は海外で不評？「開発者を直接支援する機会を奪う」とも",
       "url": "https://www.gamebusiness.jp/article/2026/04/04/26601.html",
       "source": "GameBusiness.jp",
-      "category": "other",
+      "category": "industry",
       "importance": "normal",
       "published": "2026-04-04T11:30:04",
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/180644.jpg"
@@ -174,94 +201,13 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/180697.jpg"
     },
     {
-      "title": "『紅の砂漠』、売上はすでに2億ドルとアナリストが推定 PS5版も大きく寄与",
-      "url": "https://jp.ign.com/crimson-desert/83080/news/2-ps5",
-      "source": "IGN Japan",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-04-03T04:25:33",
-      "image": "https://sm.ign.com/ign_jp/news/c/crimson-de/crimson-desert-estimated-to-have-made-over-200-million-alrea_cdfy.jpg"
-    },
-    {
-      "title": "透明感あるデザインが特徴のワイヤレスイヤホン「Nothing Ear (a)」がAmazonにて34％オフでタイムセール中",
-      "url": "https://jp.ign.com/gaming-device/83097/news/nothing-ear-aamazon34",
-      "source": "IGN Japan",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-04-04T09:13:21",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_veuq.jpg"
-    },
-    {
-      "title": "「ロード・オブ・ザ・リング」新作映画、アラゴルン役ヴィゴ・モーテンセンは復帰しないことが判明 新たな俳優をキャスティングへ",
-      "url": "https://jp.ign.com/lord-of-the-rings-the-hunt-for-gollum/83099/news/",
-      "source": "IGN Japan",
+      "title": "『Slay the Spire 2』、「低評価爆撃に動揺しなかった」と開発元の共同創設者が語る。最終的なエンディングは？海外メディアの様々な疑問に回答",
+      "url": "https://www.gamebusiness.jp/article/2026/04/04/26598.html",
+      "source": "GameBusiness.jp",
       "category": "other",
       "importance": "normal",
-      "published": "2026-04-04T08:15:07",
-      "image": "https://sm.ign.com/ign_jp/news/t/the-lord-o/the-lord-of-the-rings-the-hunt-for-gollum-will-not-see-viggo_ad32.jpg"
-    },
-    {
-      "title": "『SHINOBI 復讐の斬撃』による華麗なIP復活 開発にあたってキーマン2人が信じたものとは？",
-      "url": "https://jp.ign.com/shinobi-art-of-vengeance/83092/interview/shinobi-ip-2",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-03T05:01:18",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/2_vg2a.jpg"
-    },
-    {
-      "title": "真島吾朗ら、セガの三悪役が参戦 『SHINOBI 復讐の斬撃』のDLC「セガ ヴィランズ ステージ」誕生の裏側",
-      "url": "https://jp.ign.com/shinobi-art-of-vengeance/83093/interview/shinobi-dlc",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-03T05:01:13",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/kv_1rk4.jpg"
-    },
-    {
-      "title": "［インタビュー］インディーゲームの現場の声から設計されたMIXIの海外支援。「LVLZero Tokyo」が後押しする“世界への最初の一歩”",
-      "url": "https://www.4gamer.net/games/999/G999905/20260331037/",
-      "source": "4Gamer.net",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-04-04T03:00:00",
-      "image": "https://www.4gamer.net/games/999/G999905/20260331037/SS/009.jpg"
-    },
-    {
-      "title": "「ドラクエウォーク」，リアルおみやげプロジェクトの新コラボ商品「スライムまんじゅう」を発表。4月17日〜7月31日の期間で販売予定",
-      "url": "https://www.4gamer.net/games/461/G046174/20260403058/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-04-03T11:55:17",
-      "image": "https://www.4gamer.net/games/461/G046174/20260403058/SS/001.jpg"
-    },
-    {
-      "title": "週刊Steam広場 第147号：ローグライクコイン落とし「RACCOIN」や，「Super Meat Boy 3D」が発売に",
-      "url": "https://www.4gamer.net/games/038/G003821/20260404002/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-04T09:00:00",
-      "image": "https://www.4gamer.net/games/038/G003821/20260404002/TN/014.jpg"
-    },
-    {
-      "title": "「プロセカ」，フロイライン＝オジョウサマを5.5周年記念楽曲追加キャンペーンで実装",
-      "url": "https://www.4gamer.net/games/476/G047609/20260403054/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-04-04T06:00:00",
-      "image": "https://www.4gamer.net/games/476/G047609/20260403054/SS/002.jpg"
-    },
-    {
-      "title": "結のほえほえゲーム演説：第262回「オーバーウォッチ，パラノマサイト……最近プレイしているゲームの話」",
-      "url": "https://www.4gamer.net/games/326/G032635/20260402042/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-04-04T03:00:00",
-      "image": "https://www.4gamer.net/games/326/G032635/20260402042/SS/003.jpg"
+      "published": "2026-04-04T02:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180583.jpg"
     },
     {
       "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/4/4】",
@@ -270,24 +216,6 @@
       "category": "tech",
       "importance": "high",
       "published": "2026-04-04T01:28:08",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/04/9138ba59525be2d757c8a1205fb7bbc7.jpg"
-    },
-    {
-      "title": "無料出展枠にも応募可能。韓国のゲームイベント「GAME AiCON Seoul 2026」出展タイトルを4/6（月）まで募集中",
-      "url": "https://gamemakers.jp/article/2026_04_03_134950/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-04-03T09:54:31",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/04/9324977dd7804927f467b05d6cd4f692.jpg"
-    },
-    {
-      "title": "5/3（日）開催のインディーゲーム展示会「東京ゲームダンジョン12」、入場チケット販売開始。初の3フロア展開、過去最多の410団体が出展",
-      "url": "https://gamemakers.jp/article/2026_04_03_134905/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-04-03T04:00:21",
       "image": null
     }
   ]
