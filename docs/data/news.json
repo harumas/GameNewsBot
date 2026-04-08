@@ -1,168 +1,303 @@
 {
-  "generated_at": "2026-04-07T00:13:26.307895",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、多くの新作発表やセール、人気ゲームのアップデートなどで溢れています。特に注目できるのは、初代『フロストパンク』Nintendo Switch版や『フロストパンク 2』の新DLCなど 🔥\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-04-08T00:14:39.290305",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、Steamワークショップの刷新やプレイステーションの新プロジェクト「プレイヤーベース」が話題です 💻\nゲーム業界はいつも nhưく進化を続けているようですね、それでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "初代『フロストパンク』Nintendo Switch版や『フロストパンク 2』第2弾DLC「破局の都」など、シリーズの今後の新展開が多数発表。Steamでは最大90%オフのセールも実施中",
-      "url": "https://news.denfaminicogamer.jp/news/260407b",
+      "title": "「Steamワークショップ」閲覧ページを刷新するベータ版が提供開始。より多くのアイテムが大きなプレビュー画面で表示され、表示も高速化。スマホやSteam Deckにも最適化され、より快適にアイテムやModを探せるように",
+      "url": "https://news.denfaminicogamer.jp/news/260408a",
       "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-06T22:51:32",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/The-Future-of-the-Frost-_-Frostpunk-Franchise-Fest-3-53-screenshot.png"
-    },
-    {
-      "title": "『好きな惣菜発表ドラゴン』公式Xアカウントが誕生したことが発表。お知らせや、好きな惣菜、たまに好きな惣菜以外の好きなものが発表される予定",
-      "url": "https://news.denfaminicogamer.jp/news/2604062w",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-04-06T12:40:04",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/maxresdefault-1.jpg"
-    },
-    {
-      "title": "『ライアーゲーム』全19巻が「LINEマンガ」で3日間限定の全話無料公開へ。TVアニメ放送開始にあわせたキャンペーン、期間は4月9日まで",
-      "url": "https://news.denfaminicogamer.jp/news/260407c",
-      "source": "電ファミニコゲーマー",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-04-06T23:57:36",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/main-13.png"
-    },
-    {
-      "title": "『ナムコ クロス カプコン』OP『すばらしき新世界』とED曲『いつかきっと、月光の下で』の配信が決定。2005年のゲーム発売から約20年を経て",
-      "url": "https://news.denfaminicogamer.jp/news/2604062y",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-06T14:10:09",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/6d4fd0a8f4f1cba7b81eccb77b94cdd0.png"
-    },
-    {
-      "title": "杉田智和、スタンミじゃぱん、k4senら豪華ゲストが“リアル性格診断”に挑む。特別企画「超・思考実験展」ニコニコ超会議2026で開催、ニコ生で独占配信",
-      "url": "https://news.denfaminicogamer.jp/news/2604062x",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-04-06T12:49:42",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/2026040612260169d327c9432bd.jpg"
-    },
-    {
-      "title": "colyが過去最高売上70億円を達成、推し活によるグッズ販売好調【ゲーム企業の決算を読む】",
-      "url": "https://www.gamebusiness.jp/article/2026/04/07/26612.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-04-06T23:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180852.jpg"
-    },
-    {
-      "title": "2026年3月の世界モバイルゲームランキング―『ラストウォー：サバイバル』が売上首位を維持、『プロスピA』が収益成長率トップに",
-      "url": "https://www.gamebusiness.jp/article/2026/04/06/26605.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-04-06T09:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180725.png"
-    },
-    {
-      "title": "子供のスマホ利用、中学生は11年で2倍に…高校生2時間超",
-      "url": "https://www.gamebusiness.jp/article/2026/04/06/26611.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-04-06T11:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180837.jpg"
-    },
-    {
-      "title": "【IP360】経産省、令和7年度コンテンツ産業支援、大規模作品にAI・XR開発や個人申請可能なIP新規創出メニューなどの公募を開始",
-      "url": "https://www.gamebusiness.jp/article/2026/04/06/26610.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-04-06T11:30:05",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180839.jpg"
-    },
-    {
-      "title": "アニプレックスとCrunchyrollの合弁会社HAYATE、アニメ制作スタジオ「Lay-duce」を完全子会社化",
-      "url": "https://www.gamebusiness.jp/article/2026/04/06/26609.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-04-06T11:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180842.jpg"
-    },
-    {
-      "title": "一度は体験したい平面駆動型スピーカー＋開放型のゲーミングヘッドセット「ROG Kithara」をレビュー",
-      "url": "https://www.4gamer.net/games/047/G004755/20260401029/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-04-06T22:30:00",
-      "image": "https://www.4gamer.net/games/047/G004755/20260401029/SS/002.jpg"
-    },
-    {
-      "title": "慈善企画として，1本売れるごとに現実世界に1本の木を植えるシミュレーション「Treeplanter」，2026年4月18日に発売決定",
-      "url": "https://www.4gamer.net/games/984/G098447/20260406041/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-06T10:09:24",
-      "image": "https://www.4gamer.net/games/984/G098447/20260406041/SS/002.jpg"
-    },
-    {
-      "title": "「Stellar Blade」続編や「NIKKE」，新作プロジェクトを開発中のSHIFT UP本社を訪問。ゲームは“お尻で作るもの”――キム・ヒョンテ氏とちょっとだけ雑談もしてきた",
-      "url": "https://www.4gamer.net/games/594/G059407/20260209001/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-04-06T23:00:00",
-      "image": "https://www.4gamer.net/games/594/G059407/20260209001/SS/010.jpg"
-    },
-    {
-      "title": "iPlay 80 mini Ultraは，低価格ゲーミングタブレットの“答え”になるのか。発売前に，その強みと弱みをまとめてみよう",
-      "url": "https://www.4gamer.net/games/999/G999902/20260303043/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-06T23:00:00",
-      "image": "https://www.4gamer.net/games/999/G999902/20260303043/SS/027.jpg"
-    },
-    {
-      "title": "「崩壊：スターレイル」のVer.4.2予告番組は4月10日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
-      "url": "https://www.4gamer.net/games/421/G042182/20260406042/",
-      "source": "4Gamer.net",
       "category": "update",
-      "importance": "normal",
-      "published": "2026-04-06T23:00:00",
-      "image": "https://www.4gamer.net/games/421/G042182/20260406042/SS/004.jpg"
+      "importance": "high",
+      "published": "2026-04-07T21:43:41",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/788cec7812fb9e7822aa3908c1f19e49.jpg"
     },
     {
-      "title": "4/21（火）「W Creators Conference」開催－クリエイターが働きやすい環境づくりのヒントを配信！ ※現地参加枠もあり - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2604-wcc.html",
+      "title": "“プレイヤー自身を3Dスキャンし、ゲームに登場させる”プレイステーションの新プロジェクト「プレイヤーベース」始動。まずは『グランツーリスモ7』で選ばれた1名がゲーム内に期間限定で登場",
+      "url": "https://news.denfaminicogamer.jp/news/2604072z",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-04-07T13:13:11",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/HFTNbPKaUAAKfBr.jpg"
+    },
+    {
+      "title": "『魔法科高校の劣等生』と「豆しば」伝説のコラボが帰ってきた！9年の時を経て、“豆司波達也”が登場するコラボCMが公開",
+      "url": "https://news.denfaminicogamer.jp/news/2604082p",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-07T23:10:05",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/2691e6887431372dee0f13448d626ddb.jpg"
+    },
+    {
+      "title": "『ぽこ あ ポケモン』でユーザーが建築した“サイバーパンク風の地下都市”が海外で話題に。「細部へのこだわりが凄まじい」「発売以来見た中で最も素晴らしい建築」と、圧倒的な作り込みに絶賛の声",
+      "url": "https://news.denfaminicogamer.jp/news/260408b",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-07T23:10:04",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/cyberpunk-underground-city-v0-5in5n7v41gsg1.webp"
+    },
+    {
+      "title": "『ポケモンチャンピオンズ』4月8日昼頃よりSwitch版が配信スタート！努力値や個体値など初心者の頭を悩ませる複雑な要素も大きく見直したバトル特化ゲーム",
+      "url": "https://news.denfaminicogamer.jp/news/2604082s",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-07T15:00:08",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/HFNxPzaWAAAl_H7.jpg"
+    },
+    {
+      "title": "次世代クリエイターの世界進出を後押し。IMAGICA GROUPオリジナル映画製作プロジェクト第2弾、カンヌで発表 - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2604-imagica.html",
       "source": "CGWORLD",
       "category": "industry",
-      "importance": "normal",
-      "published": "2026-04-06T22:47:26",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/21976-57-36c907f19150d4410a1b59dd13c07e8a-1200x630-thumb-1000x563-82081.jpg"
+      "importance": "high",
+      "published": "2026-04-07T03:36:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/20260403-thumb-744x430-82074.png"
     },
     {
-      "title": "Blenderアドオン「GUI Slider」リリース！ シェイプキーやカスタムプロパティ、データパスをスライダとジョイスティックに統合して調整を効率化 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202604-GUISlider.html",
+      "title": "自己回帰的3DGSシーン生成技術「GaussianGPT」発表！  GPT形式のトランスフォーマーを用いて3D空間の構造と外観を段階的に生成 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202604-GaussianGPT.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-04-07T00:32:16",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/GaussianGPT-01-thumb-1920x1080-82082.jpg"
+    },
+    {
+      "title": "WOW、国土交通省「PLATEAU」活用の映像制作技術チュートリアル第3弾公開！ 広島市の3D都市モデルを用いたミニチュアルックの作品 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202604-WOW-PLATEAU.html",
       "source": "CGWORLD",
       "category": "tech",
       "importance": "normal",
-      "published": "2026-04-06T00:21:37",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/GUISlider-01-thumb-1920x1080-82016.jpg"
+      "published": "2026-04-07T22:59:36",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/WoW_PLATEAU-01-thumb-1920x1080-82103.jpg"
+    },
+    {
+      "title": "ソフトウェアに依存しないアーティストの共通点とは？ 反響を呼んだ『上手いエフェクトアーティストのエッセンス』が5/13（水）再講演決定 - ニュース",
+      "url": "https://cgworld.jp/flashnews/0513-plusone-sakaguchi.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-07T08:00:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/f45cd778d9439c5945c39345060c9078a7af4e6d-thumb-960x540-82060.jpg"
+    },
+    {
+      "title": "アーティストが\"そこにいる\"という没入体験のつくりかた。HYBE JAPAN×IMAGICA EEX×ヒビノが挑むロケーションベースエンターテインメント - 特集",
+      "url": "https://cgworld.jp/article/2604-enypen.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-04-07T03:00:59",
+      "image": "https://cgworld.jp/article/assets_c/2026/04/0de53f2d451a6deab6cb66b60d828163bea1464a-thumb-1000x562-81946.jpg"
+    },
+    {
+      "title": "「アイカツスターズ！」10周年で劇場版リバイバル上映や記念イベントが発表。「オケカツ！」2026のチケットも一般発売中",
+      "url": "https://www.4gamer.net/games/334/G033471/20260407050/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-04-07T12:23:53",
+      "image": "https://www.4gamer.net/games/334/G033471/20260407050/SS/001.jpg"
+    },
+    {
+      "title": "かわいらしい猫となり，死後の世界を旅するアクションADV「Savi's Tale」が発表に。アナウンストレイラーも公開",
+      "url": "https://www.4gamer.net/games/996/G099681/20260407049/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-07T12:00:06",
+      "image": "https://www.4gamer.net/games/996/G099681/20260407049/SS/007.jpg"
+    },
+    {
+      "title": "板垣伴信氏 追悼企画。「勝つ」ことにこだわり，モノ作りに執着したゲーム開発者人生を辿る　ビデオゲームの語り部たち：第44部",
+      "url": "https://www.4gamer.net/games/999/G999905/20260403045/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-07T22:00:00",
+      "image": "https://www.4gamer.net/games/999/G999905/20260403045/SS/019.jpg"
+    },
+    {
+      "title": "なんでも鍋に突っ込んでレシピを発掘せよ！　謎解き料理ゲーム「Little Chef: Cozy Cooking」（ほぼ日 インディーPick Up！）",
+      "url": "https://www.4gamer.net/games/985/G098512/20260405004/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-07T22:00:00",
+      "image": "https://www.4gamer.net/games/985/G098512/20260405004/SS/006.jpg"
+    },
+    {
+      "title": "［プレイレポ］「KAZUMA KANEKO'S ツクヨミ」は，金子一馬氏デザインの神魔をカードで使役するデッキ構築型ローグライク。「DMC5」の3人も参戦し，さらに派手な戦いを楽しめる",
+      "url": "https://www.4gamer.net/games/979/G097936/20260406019/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-07T15:00:00",
+      "image": "https://www.4gamer.net/games/979/G097936/20260406019/SS/002.jpg"
+    },
+    {
+      "title": "Nintendo Switch金子一馬ローグライク『KAZUMA KANEKO’S ツクヨミ』先行プレイ感想。『デビル メイ クライ 5』とのコラボレーションもあり、独自の味付けのデッキ構築RPG",
+      "url": "https://automaton-media.com/articles/reportjp/20260408-435240/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-07T15:34:52",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260408-435240-header.jpg"
+    },
+    {
+      "title": "『ぽこ あ ポケモン』内に“『Only Up!』風ステージ”を作るゲーム開発者あらわる。スローライフポケモン世界に突如出現、イライラ空登り",
+      "url": "https://automaton-media.com/articles/newsjp/20260407-435244/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-07T10:49:50",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260407-435244-header.jpg"
+    },
+    {
+      "title": "超リアル志向FPS『OPERATOR』配信から2年半たって人気爆発中。アプデで進化続けるマルチ対応ハードコアすぎシューター、一気に大盛況に",
+      "url": "https://automaton-media.com/articles/newsjp/fps-operator-20260407-435223/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-07T08:32:06",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/fps-operator-20260407-435223-header.jpg"
+    },
+    {
+      "title": "「イエス・キリスト」追体験シム『I am Jesus Christ』、「真面目に勉強になる」として好評集まる。新約聖書をしっかり再現、イエス誕生から復活まで奇跡体験“神”シミュレーション",
+      "url": "https://automaton-media.com/articles/newsjp/20260407-435198/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-07T07:34:44",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260407-435198-header.jpg"
+    },
+    {
+      "title": "“歩いて一周可能”な惑星サンドボックス『PlanetSmith』がクラファンで大注目。「六角柱ブロック」の球形世界で、宇宙船建造も目指す星系規模サバイバル",
+      "url": "https://automaton-media.com/articles/newsjp/20260407-435187/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-07T07:17:20",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260407-435187-header.jpg"
+    },
+    {
+      "title": "元『Halo』アートディレクターが組織的な不正やハラスメントを告発。報復行為や人事の隠蔽体質を痛烈に批判",
+      "url": "https://www.gamebusiness.jp/article/2026/04/07/26618.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-04-07T03:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180780.jpg"
+    },
+    {
+      "title": "日本のゲームユーザーは「スマホでRPGをひとりで楽しむ」—レポートオーシャンが1,250人調査",
+      "url": "https://www.gamebusiness.jp/article/2026/04/07/26631.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-04-07T12:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180913.jpg"
+    },
+    {
+      "title": "U-22プログラミング・コンテスト2026、賞金50万円…応募7/1開始",
+      "url": "https://www.gamebusiness.jp/article/2026/04/07/26630.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-04-07T11:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180872.jpg"
+    },
+    {
+      "title": "世田谷区で小中学生向けプログラミング部活…完全無料の「第三の居場所」",
+      "url": "https://www.gamebusiness.jp/article/2026/04/07/26629.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-04-07T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180876.png"
+    },
+    {
+      "title": "「AIにアイデアを盗まれるかもしれない」―『Papers, Please』のLucas Pope氏、開発中タイトルを口にすることへ不安を語る",
+      "url": "https://www.gamebusiness.jp/article/2026/04/07/26628.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-07T11:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180879.jpg"
+    },
+    {
+      "title": "「どうぶつの森」はどう変わる？『ぽこ あ ポケモン』旋風から考えるスローライフゲームの未来：#484 しゃべりすぎGAMER：#484 しゃべりすぎGAMER",
+      "url": "https://jp.ign.com/gamer-1/83111/video/484-gamer484-gamer",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-07T11:00:42",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1280_56vw.png"
+    },
+    {
+      "title": "『ゼルダの伝説 ティアーズ オブ ザ キングダム』では週に一度、チーム全員参加の会議が行われていた 数百人が参加するような規模に",
+      "url": "https://jp.ign.com/the-legend-of-zelda-tears-of-the-kingdom/83104/news/",
+      "source": "IGN Japan",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-04-06T07:36:37",
+      "image": "https://sm.ign.com/ign_jp/news/l/legend-of-/legend-of-zelda-ocarina-of-time-switch-2-remake-reportedly-c_u3s2.jpg"
+    },
+    {
+      "title": "ジャック・ブラックが「スーパーマリオ」の新曲を披露！映画『ザ・スーパーマリオギャラクシー・ムービー』で使用されていない理由は？",
+      "url": "https://jp.ign.com/untitled-the-super-mario-bros-movie-sequel/83090/news/",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-06T05:06:42",
+      "image": "https://sm.ign.com/ign_jp/news/j/jack-black/jack-black-debuts-new-super-mario-song-but-why-wasnt-this-in_nnm7.jpg"
+    },
+    {
+      "title": "スポーツに最適なゼンハイザーのワイヤレスイヤホン「SPORT True Wireless」が54％オフで販売中",
+      "url": "https://jp.ign.com/gaming-device/83065/news/sport-true-wireless54",
+      "source": "IGN Japan",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-04-06T04:59:40",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_j3gf.jpg"
+    },
+    {
+      "title": "ゲームも応募できる「U-22プログラミング・コンテスト2026」、開催概要が発表。応募期間は7/1（水）～8/31（月）",
+      "url": "https://gamemakers.jp/article/2026_04_07_135162/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-04-07T08:19:24",
+      "image": null
     },
     {
       "title": "2025年ドイツゲーム市場はサブスク売上が約1,800億円、アプリ内課金の売上が約7,500億円を記録。「gamescom」ドイツゲーム産業協会のレポート記事が公開",
       "url": "https://gamemakers.jp/article/2026_04_06_134923/",
       "source": "ゲームメーカーズ",
-      "category": "business",
+      "category": "industry",
       "importance": "high",
       "published": "2026-04-06T11:57:15",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/04/4da91140d15c4c6f3b76fb43bd4c5419.jpg"
+      "image": null
+    },
+    {
+      "title": "モバイルでも60fps流体シミュレーションを実現。スパーククリエイティブ、ボリュームレンダリング最適化手法をブログで解説",
+      "url": "https://gamemakers.jp/article/2026_04_07_135165/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-07T10:54:36",
+      "image": null
+    },
+    {
+      "title": "「Unite Tokyo」は7年ぶり。Unity開発者向け年次カンファレンス「Unite 2026」、東京とソウルで開催",
+      "url": "https://gamemakers.jp/article/2026_04_07_135178/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-04-07T05:24:07",
+      "image": null
     },
     {
       "title": "「gamescom」無料出展も可能。MIXIのインディーゲーム海外展開支援プログラム「LVLZero Tokyo」、エントリーを4/25（土）まで受付中",
@@ -171,61 +306,7 @@
       "category": "industry",
       "importance": "normal",
       "published": "2026-04-06T06:59:55",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/04/a358f95320fda6193011de1afbbeffe2.jpg"
-    },
-    {
-      "title": "Steam壮絶ADV『泣き叫ぶ雁』は「過酷」で有名な前作から過酷大増量で、ひたすら重い。虐殺・狂気・三角関係、それでも最後に待つのは“日の光”（ネタバレなし）",
-      "url": "https://automaton-media.com/articles/special-column/20260406-434685/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-04-06T03:28:08",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/434685-header.jpg"
-    },
-    {
-      "title": "NVIDIAのDLSS 4.5「フレーム6倍」でどれだけ変わるのか実際に検証してみた。ヌルヌル動いて自然さも前進、着実な進化を感じた最新アップデート",
-      "url": "https://automaton-media.com/articles/reportjp/nvidia-dlss-20260406-434976/",
-      "source": "Automaton",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-04-06T08:15:12",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/nvidia-dlss-20260406-434976-header.jpg"
-    },
-    {
-      "title": "Steamでは3月、『Slay the Spire 2』が売上本数ダントツ1位だったとの調査報告。大作を超える絶好調ぶり、推計約172億円",
-      "url": "https://automaton-media.com/articles/newsjp/20260406-434937/",
-      "source": "Automaton",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-04-06T06:22:24",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260406-434937-header.jpeg"
-    },
-    {
-      "title": "Steam長寿ハクスラARPG『Hero Siege』13年目にして“ログイン戦争”も発生の大盛況。賛否ありつつも人気爆発",
-      "url": "https://automaton-media.com/articles/newsjp/20260406-435044/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-04-06T11:57:09",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260406-435044-header.jpg"
-    },
-    {
-      "title": "レトロ風ゲームショップ経営シム『ゲームショップ斜陽』4月22日発売へ。やがて消えゆく町のショップから、ゲーム業界“激動の25年”をまるごと追体験",
-      "url": "https://automaton-media.com/articles/newsjp/20260406-435050/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-06T11:46:43",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260406-435050-header.jpg"
-    },
-    {
-      "title": "『ゼルダの伝説 ティアーズ オブ ザ キングダム』では週に一度、チーム全員参加の会議が行われていた 数百人が参加するような規模に",
-      "url": "https://jp.ign.com/the-legend-of-zelda-tears-of-the-kingdom/83104/news/",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-04-06T07:36:37",
-      "image": "https://sm.ign.com/ign_jp/news/l/legend-of-/legend-of-zelda-ocarina-of-time-switch-2-remake-reportedly-c_u3s2.jpg"
+      "image": null
     }
   ]
 }
