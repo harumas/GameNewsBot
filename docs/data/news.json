@@ -1,141 +1,231 @@
 {
-  "generated_at": "2026-04-09T00:11:07.377257",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、DualSense ワイヤレスコントローラーの新作や『アレサ』の復活、さらに『VALORANT』の世界大会の新たな形式など、様々なニュースが届いています！\n特に注目すべきは、『アレサCOLLECTION 1993-1995』の発売決定が目立ちます！\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-04-10T00:13:48.939615",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、様々なジャンルの新作発表やアップデートが勢揃いです。注目するのは、モンスター収集・オープンワールドサバイバル『Temtem: Pioneers』や極限サバイバル「ドンスタ」新作『Don’t Starve Elsewhere』などです！ \nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "『007 First Light』のDualSense ワイヤレスコントローラーが5月27日より発売決定。タッチパッドには「ジェームズ・ボンド」の象徴的なコードネームと武器をあしらう",
-      "url": "https://news.denfaminicogamer.jp/news/260409c",
+      "title": "暗黒の墓守生活ゲーム『Graveyard Keeper』Steamにて3日間限定で無料配布中。定価2300円日本語対応の“闇スローライフ”ゲームが今なら無料",
+      "url": "https://automaton-media.com/articles/newsjp/gk-20260410-435973/",
+      "source": "Automaton",
+      "category": "sale",
+      "importance": "high",
+      "published": "2026-04-10T00:08:34",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/ss_9533ec3b7abd3300e9873dcd0d2bd5794a8fe54b.1920x1080.jpg"
+    },
+    {
+      "title": "暗黒の墓守生活ゲーム『Graveyard Keeper 2』発表。牧場生活ゲーム……かと思いきや死体埋めをやらされゾンビを殺し利益を得る",
+      "url": "https://automaton-media.com/articles/newsjp/graveyard-keeper-2-20260410-435961/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-09T23:56:37",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/graveyard-keeper-2-20260410-435961-header.jpg"
+    },
+    {
+      "title": "モンスター収集・オープンワールドサバイバル『Temtem: Pioneers』発表。広大な未開の地でテムテムたちと大冒険、人気シリーズ最新作お披露目",
+      "url": "https://automaton-media.com/articles/newsjp/temtem-pioneers-20260410-435953/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-09T23:31:55",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/temtem-pioneers-20260410-435953-header.jpg"
+    },
+    {
+      "title": "『Buckshot Roulette』開発者の新作はなんと「パーティーゲーム」、『Machine Party』発表。最大4人マルチ専用、残酷ワイワイ命がけゲームいっぱい",
+      "url": "https://automaton-media.com/articles/newsjp/20260410-435882/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-09T17:25:20",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260410-435882-header.jpeg"
+    },
+    {
+      "title": "極限サバイバル「ドンスタ」完全新作『Don’t Starve Elsewhere』発表。マルチ対応、正気を蝕む“霧”に立ち向かう10年ぶりシリーズ新作",
+      "url": "https://automaton-media.com/articles/newsjp/20260410-435875/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-09T17:07:56",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260410-435875-header.jpg"
+    },
+    {
+      "title": "原始の大陸で部族を率いながら生き延びるオープンワールドゲーム『Soulmask』正式版がリリース。“ピラミッド飛空艇”が登場する新DLCも無料配布中",
+      "url": "https://news.denfaminicogamer.jp/news/260410k",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-04-08T15:53:27",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/9b44d4dd640ff2370e669fcd0c42c1305dbab199.jpg.webp"
+      "published": "2026-04-10T00:00:51",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/ss_391bc8f8b77ba186c3bdea7431cf6b39b2dfe26a.1920x1080.jpg"
     },
     {
-      "title": "90年代の名作RPG『アレサ』SFC版3作がSwitch/PS5で復活。『アレサCOLLECTION 1993-1995』が7月30日に発売決定",
-      "url": "https://news.denfaminicogamer.jp/news/260409s",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-08T15:00:53",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/1ab6747578a7609644d807dcf73b4aea.jpg"
-    },
-    {
-      "title": "『VALORANT』の世界大会「VCT」がオープン予選を含むトーナメント主導の方式へ。新たなオフライン大会「VCT Cups」に、新パートナーシップ制度など、「VCT」2027シーズンの構想が発表",
-      "url": "https://news.denfaminicogamer.jp/news/2604083k",
-      "source": "電ファミニコゲーマー",
-      "category": "esports",
-      "importance": "high",
-      "published": "2026-04-08T14:14:09",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/main-31.jpg"
-    },
-    {
-      "title": "冨樫義博氏が『ハンターハンター』の掲載時期について「ジャンプ編集部の発表をお待ちください」とポスト。クラピカとともに『美少女戦士セーラームーン』のアルテミス、セーラーマーズがならんだイラストも公開",
-      "url": "https://news.denfaminicogamer.jp/news/2604083a",
+      "title": "実写映画『メタルギアソリッド』の新監督がザック・リポフスキー氏とアダム・B・スタイン氏に決定と海外報道。『ファイナル・デスティネーション』最新作を大ヒットに導いた気鋭のコンビ",
+      "url": "https://news.denfaminicogamer.jp/news/260410w",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-04-08T09:59:40",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/arutemis.jpg"
+      "published": "2026-04-09T22:09:41",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/mgs1_pkg.jpg"
     },
     {
-      "title": "『機動戦士ガンダム』とマクドナルド「チキンタツタ」コラボが4月15日より開催決定。アムロがコラボ機体「ガンダム チキンタツタ専用」に乗り込む特別CMも",
-      "url": "https://news.denfaminicogamer.jp/news/260409g",
+      "title": "収穫量が生死をわける農業ホラーゲーム『Crop』が発表。農業で食いつなぎながら、世界から切り離された小さな村の秘密を暴く",
+      "url": "https://news.denfaminicogamer.jp/news/260410v",
       "source": "電ファミニコゲーマー",
       "category": "release",
-      "importance": "normal",
-      "published": "2026-04-09T00:06:08",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/top.jpg"
-    },
-    {
-      "title": "「アークナイツ」に限定★6凛御シルバーアッシュ参戦。4月14日スタートのイベント「聖山降臨1101」など，公式配信で発表された最新情報まとめ",
-      "url": "https://www.4gamer.net/games/442/G044288/20260408045/",
-      "source": "4Gamer.net",
-      "category": "update",
       "importance": "high",
-      "published": "2026-04-08T13:44:47",
-      "image": "https://www.4gamer.net/games/442/G044288/20260408045/SS/015.jpg"
+      "published": "2026-04-09T18:24:38",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/videoframe_53202.png"
     },
     {
-      "title": "［インタビュー］「ボーダーランズ4」のストーリーパック第1弾“マッド・エリーと忌まわしのヴォルト”で何が変化するのか。開発チームに聞いた",
-      "url": "https://www.4gamer.net/games/830/G083016/20260408055/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-04-08T10:54:15",
-      "image": "https://www.4gamer.net/games/830/G083016/20260408055/SS/004.jpg"
-    },
-    {
-      "title": "スマホゲームのセルラン分析（2026年3月26日〜4月1日）。今週の1位は「ラストウォー：サバイバル」。1月〜3月の国内収益ランキングも紹介",
-      "url": "https://www.4gamer.net/games/793/G079368/20260406004/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-09T00:00:00",
-      "image": "https://www.4gamer.net/games/793/G079368/20260406004/SS/002.jpg"
-    },
-    {
-      "title": "コインも時間も飛ぶローグライクなコイン落とし「RACCOIN」（ほぼ日 インディーPick Up！）",
-      "url": "https://www.4gamer.net/games/950/G095079/20260408031/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-08T22:00:00",
-      "image": "https://www.4gamer.net/games/950/G095079/20260408031/SS/006.jpg"
-    },
-    {
-      "title": "「アレサCOLLECTION 1993-1995」，7月30日に発売。アレサシリーズ6作品のうち，SFC向けに発売された3作品をPS5/PS4，Switchに移植",
-      "url": "https://www.4gamer.net/games/996/G099651/20260403050/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-08T15:00:00",
-      "image": "https://www.4gamer.net/games/996/G099651/20260403050/SS/001.jpg"
-    },
-    {
-      "title": "弾幕STG『新約・怒首領蜂大復活』突如発表。ケイブの傑作『怒首領蜂大復活』のリファイン版、新要素やアシスト機能とともに蘇る",
-      "url": "https://automaton-media.com/articles/newsjp/20260408-435453/",
-      "source": "Automaton",
+      "title": "最大8人乱戦のハチャメチャゴルフゲーム『Super Battle Golf』コンソール版が発表。Switch2、PS5、Xbox向けに今夏発売",
+      "url": "https://news.denfaminicogamer.jp/news/260410u",
+      "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-04-08T07:46:45",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260408-435453-header.jpg"
+      "published": "2026-04-09T17:40:01",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/d8299eac2087150262a14b7675eb703c.png"
     },
     {
-      "title": "『No Man’s Sky』サプライズ大型アプデで、なんと「モンスター対戦アリーナ」実装。手懐けた野生生物を戦わせるターン制バトル",
-      "url": "https://automaton-media.com/articles/newsjp/20260408-435519/",
-      "source": "Automaton",
-      "category": "update",
+      "title": "『Don’t Starve』シリーズ新作『Don’t Starve Elsewhere』が発表。触れるものすべてに呪いをもたらす「霧」に覆われた大地で、“餓えない”よう生き延びる",
+      "url": "https://news.denfaminicogamer.jp/news/260410g",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-09T17:17:46",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/ss_c0576ed8132b1b2c3b8d09c41f440c8509911d68.1920x1080.jpg"
+    },
+    {
+      "title": "「Temtem: Pioneers」が発表に。モンスター収集やサバイバル要素，アクションバトルを融合させた「TemTem」ユニバースの新作",
+      "url": "https://www.4gamer.net/games/997/G099782/20260410017/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-09T18:43:22",
+      "image": "https://www.4gamer.net/games/997/G099782/20260410017/SS/006.jpg"
+    },
+    {
+      "title": "人気2Dサバイバルゲームの完全新作「Don't Starve Elsewhere」が発表に",
+      "url": "https://www.4gamer.net/games/997/G099780/20260410013/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-09T18:08:57",
+      "image": "https://www.4gamer.net/games/997/G099780/20260410013/SS/006.jpg"
+    },
+    {
+      "title": "パペット達が呪われた寺院に挑む協力アクション「Too Deep To Quit」が発表。2026年内のリリースを予定",
+      "url": "https://www.4gamer.net/games/997/G099781/20260410014/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-09T18:06:27",
+      "image": "https://www.4gamer.net/games/997/G099781/20260410014/SS/002.jpg"
+    },
+    {
+      "title": "墓守の仕事は「経営」から「街の再建」へ。ゾンビによる自動化もさらなる進化を遂げる「Graveyard Keeper 2」が正式発表",
+      "url": "https://www.4gamer.net/games/997/G099775/20260410011/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-09T17:46:30",
+      "image": "https://www.4gamer.net/games/997/G099775/20260410011/SS/001.jpg"
+    },
+    {
+      "title": "ヴァンサバライクなウォーハンマー「Warhammer Survivors」が発表に。発売は2026年後半を予定",
+      "url": "https://www.4gamer.net/games/997/G099766/20260410009/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-09T17:30:01",
+      "image": "https://www.4gamer.net/games/997/G099766/20260410009/SS/007.jpg"
+    },
+    {
+      "title": "3Dシーン補完生成技術「Seen2Scene」発表！ 不完全な実世界の3Dスキャンデータから現実的な3Dシーンを補完・生成 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202604-Seen2Scene.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-04-09T01:28:35",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/Seen2Scene-01-thumb-1920x1080-82127.jpg"
+    },
+    {
+      "title": "#18：人体構造と画づくりから学ぶローポリキャラクター制作『ローポリで極めるキャラクターモデリング』 - 連載",
+      "url": "https://cgworld.jp/regular/202604-cgw333-book.html",
+      "source": "CGWORLD",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-04-08T14:46:17",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260408-435519-header.jpg"
+      "published": "2026-04-09T19:14:00",
+      "image": "https://cgworld.jp/regular/assets_c/2026/04/book_of_the_month_202604-thumb-1000x563-81986.jpg"
     },
     {
-      "title": "『原神』アプデで「ログイン画面」に行けるようになったと沸き立つ。雰囲気そっくり、でもよく見ると結構違う",
-      "url": "https://automaton-media.com/articles/newsjp/20260408-435505/",
-      "source": "Automaton",
-      "category": "update",
+      "title": "ドローイングアンドマニュアルが映像クリエイター向け実践プログラム「TILL」の6月開講期受講生を募集 - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2604-till.html",
+      "source": "CGWORLD",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-04-08T12:37:11",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260408-435505-header.jpg"
+      "published": "2026-04-08T03:35:48",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/100day_main%20%281%29-thumb-1000x563-82115.png"
     },
     {
-      "title": "オープンワールド日本レース『Forza Horizon 6』マップ公開で、“妙に見覚えのある道路”がさっそく見つかる。「頭文字D」の聖地っぽい道も詰め込んだ、走り屋興奮マップ",
-      "url": "https://automaton-media.com/articles/newsjp/20260408-435498/",
-      "source": "Automaton",
+      "title": "「3ds Max 2027」がリリース　新規モディファイアの追加など機能強化 - ニュース",
+      "url": "https://cgworld.jp/flashnews/2604-3dsmax2027.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-08T02:00:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/3dsmax_04-thumb-1000x563-81969.png"
+    },
+    {
+      "title": "Autodesk、「Maya 2027」をリリースースキニングやモデリング機能、USDワークフローなどを強化 - ニュース",
+      "url": "https://cgworld.jp/flashnews/2604-maya2027.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-08T02:00:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/maya2027_main-thumb-1000x563-81965.png"
+    },
+    {
+      "title": "Razerの左手用キーパッド「Tartarus V2」がAmazonにて26％オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83117/news/razertartarus-v2amazon26",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-09T12:09:55",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_zra9.jpg"
+    },
+    {
+      "title": "『Forza Horizon 6』道路標識いろいろ",
+      "url": "https://jp.ign.com/forza-horizon-6/83095/gallery/forza-horizon-6",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-09T09:45:15",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/screenshot-2026-04-02-12-35-40_ya6z.jpg"
+    },
+    {
+      "title": "あらゆる存在を再現可能！令和に甦った『トモダチコレクション わくわく生活』体験版感想トーク：今週遊んだゲーム 04/08/2026",
+      "url": "https://jp.ign.com/gamer-1/83114/video/04082026",
+      "source": "IGN Japan",
       "category": "release",
       "importance": "normal",
-      "published": "2026-04-08T11:40:18",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260408-435498-header.jpg"
+      "published": "2026-04-08T11:00:43",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/2_g1jq.png"
     },
     {
-      "title": "世紀末キッチンカー営業シム『Wasteland Bites』Steamでさっそく高評価どしどし集まる。お料理ときどき銃撃、“FNAF風”大忙しお仕事ホラー",
-      "url": "https://automaton-media.com/articles/newsjp/wasteland-bites-20260408-435461/",
-      "source": "Automaton",
-      "category": "release",
+      "title": "：今週遊んだゲーム 音声版 04/08/2026",
+      "url": "https://jp.ign.com/shaberisugi-gamer/83113/podcast/04082026",
+      "source": "IGN Japan",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-04-08T10:17:03",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/wasteland-bites-20260408-435461-header.jpg"
+      "published": "2026-04-08T11:00:42",
+      "image": null
+    },
+    {
+      "title": "カプコン強し 2026年3月のPS5国内DLランキングで「バイオハザード」と「モンハンストーリーズ3」がワンツーフィニッシュ",
+      "url": "https://jp.ign.com/resident-evil-9/83115/news/20263ps5dl3",
+      "source": "IGN Japan",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-04-08T08:26:15",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/cap_wqtz.png"
     },
     {
       "title": "「ひらめきは宇宙から受信するもの」!?  金子一馬氏の創作論も飛び出した 『KAZUMA KANEKO'S ツクヨミ』 スタッフインタビュー",
@@ -150,72 +240,54 @@
       "title": "アカマイがAI推論に注力―「世界最大級のAI実行プラットフォーム」を目指す【事業戦略発表会レポート】",
       "url": "https://www.gamebusiness.jp/article/2026/04/08/26634.html",
       "source": "GameBusiness.jp",
-      "category": "tech",
+      "category": "business",
       "importance": "high",
       "published": "2026-04-08T05:15:04",
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/180935.jpg"
     },
     {
-      "title": "「生成AIが、最初からなかったことにするみたいに 新しい世界を始めようとしている」　そんな感傷的な曲ができたから、Claude Codeで歌詞同期ビジュアライザーを作った（CloseBox）",
-      "url": "https://www.gamebusiness.jp/article/2026/04/08/26642.html",
+      "title": "リリースから1ヶ月経たずサ終決定。近接主体の脱出PvPvEアクション『THE CUBE, SAVE US』早期アクセス開始当初から酷評続出",
+      "url": "https://www.gamebusiness.jp/article/2026/04/09/26647.html",
       "source": "GameBusiness.jp",
       "category": "other",
       "importance": "normal",
-      "published": "2026-04-08T11:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/180957.jpg"
+      "published": "2026-04-09T11:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181096.jpg"
     },
     {
-      "title": "『アークナイツ：エンドフィールド』開発者「モバイルの成長は鈍化、PCプレイヤーが重要」―ハイエンドPC重視の姿勢を語る。ガチャ見直しも検討中",
-      "url": "https://www.gamebusiness.jp/article/2026/04/08/26640.html",
+      "title": "リュウズオフィス、ゲームマーケティングの知見を公開する無料セミナーを5月14日に開催",
+      "url": "https://www.gamebusiness.jp/article/2026/04/09/26646.html",
       "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-04-08T11:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181004.png"
-    },
-    {
-      "title": "Netflixが子ども向けゲームアプリ「Netflix Playground」を提供開始、キッズコンテンツ戦略を大幅拡充",
-      "url": "https://www.gamebusiness.jp/article/2026/04/08/26639.html",
-      "source": "GameBusiness.jp",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-08T11:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181021.jpg"
-    },
-    {
-      "title": "あらゆる存在を再現可能！令和に甦った『トモダチコレクション わくわく生活』体験版感想トーク：今週遊んだゲーム 04/08/2026",
-      "url": "https://jp.ign.com/gamer-1/83114/video/04082026",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-08T11:00:43",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/2_g1jq.png"
-    },
-    {
-      "title": "カプコン強し 2026年3月のPS5国内DLランキングで「バイオハザード」と「モンハンストーリーズ3」がワンツーフィニッシュ",
-      "url": "https://jp.ign.com/resident-evil-9/83115/news/20263ps5dl3",
-      "source": "IGN Japan",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-04-08T08:26:15",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/cap_wqtz.png"
-    },
-    {
-      "title": "「どうぶつの森」はどう変わる？『ぽこ あ ポケモン』旋風から考えるスローライフゲームの未来：#484 しゃべりすぎGAMER：#484 しゃべりすぎGAMER",
-      "url": "https://jp.ign.com/gamer-1/83111/video/484-gamer484-gamer",
-      "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-04-07T11:00:42",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1280_56vw.png"
+      "published": "2026-04-09T09:00:05",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181034.jpg"
     },
     {
-      "title": "ゲームも応募できる「U-22プログラミング・コンテスト2026」、開催概要が発表。応募期間は7/1（水）～8/31（月）",
-      "url": "https://gamemakers.jp/article/2026_04_07_135162/",
+      "title": "GLOEが2割の増収で1Qを通過、インフルエンサー活用と新規領域が拡大【ゲーム企業の決算を読む】",
+      "url": "https://www.gamebusiness.jp/article/2026/04/09/26645.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-04-09T02:50:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181025.jpg"
+    },
+    {
+      "title": "「どんなゲームか説明できない」、それでもいい。クリエイターの哲学が生んだ意欲作『Dreams of Another』のコンセプトを紐解く【簗瀬×神山のゲームデザインインタビュー #2】",
+      "url": "https://gamemakers.jp/article/2026_04_09_132883/",
       "source": "ゲームメーカーズ",
-      "category": "industry",
+      "category": "other",
       "importance": "high",
-      "published": "2026-04-07T08:19:24",
+      "published": "2026-04-09T02:53:15",
+      "image": null
+    },
+    {
+      "title": "UE5の新マテリアルシステム「Substrate」をエピック ゲームズ ジャパンが解説。旧来機能との互換性やパフォーマンスについて語った「GCC 2026」講演資料が公開",
+      "url": "https://gamemakers.jp/article/2026_04_09_135292/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-09T09:56:46",
       "image": null
     },
     {
@@ -235,69 +307,6 @@
       "importance": "normal",
       "published": "2026-04-08T06:44:11",
       "image": null
-    },
-    {
-      "title": "モバイルでも60fps流体シミュレーションを実現。スパーククリエイティブ、ボリュームレンダリング最適化手法をブログで解説",
-      "url": "https://gamemakers.jp/article/2026_04_07_135165/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-07T10:54:36",
-      "image": null
-    },
-    {
-      "title": "「Unite Tokyo」は7年ぶり。Unity開発者向け年次カンファレンス「Unite 2026」、東京とソウルで開催",
-      "url": "https://gamemakers.jp/article/2026_04_07_135178/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-04-07T05:24:07",
-      "image": null
-    },
-    {
-      "title": "次世代クリエイターの世界進出を後押し。IMAGICA GROUPオリジナル映画製作プロジェクト第2弾、カンヌで発表 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2604-imagica.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-04-07T03:36:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/20260403-thumb-744x430-82074.png"
-    },
-    {
-      "title": "自己回帰的3DGSシーン生成技術「GaussianGPT」発表！  GPT形式のトランスフォーマーを用いて3D空間の構造と外観を段階的に生成 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202604-GaussianGPT.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-04-07T00:32:16",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/GaussianGPT-01-thumb-1920x1080-82082.jpg"
-    },
-    {
-      "title": "【4/24（金）開催】「船場の実践！ 内装BIMビジュアライゼーションの取り組みと成果」オンラインセミナー - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2604-senba.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-04-08T08:20:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/8a91e1f7b51d3cf7c8203b4049783639d580e73e-thumb-1000x563-82121.jpg"
-    },
-    {
-      "title": "ドローイングアンドマニュアルが映像クリエイター向け実践プログラム「TILL」の6月開講期受講生を募集 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2604-till.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-04-08T03:35:48",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/100day_main%20%281%29-thumb-1000x563-82115.png"
-    },
-    {
-      "title": "「3ds Max 2027」がリリース　新規モディファイアの追加など機能強化 - ニュース",
-      "url": "https://cgworld.jp/flashnews/2604-3dsmax2027.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-08T02:00:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/3dsmax_04-thumb-1000x563-81969.png"
     }
   ]
 }
