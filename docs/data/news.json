@@ -1,96 +1,24 @@
 {
-  "generated_at": "2026-04-12T00:13:26.786830",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、レベルファイブの新作クライムサスペンスRPG『デカポリス』や、魔女少女爽快スタイリッシュACT『Mahou Arms』のリリース延期、さらに『オーバーウォッチ』のボイスチャット機能追加など、様々なニュースが届けています！ 🎮\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-04-13T00:14:27.411361",
+  "poem": "おはようございます！🌞\n今日のゲームニュースは、ドンキホーテ新作や海賊ローグライトアクションの発表など、多くの新作が登場しています。\n注目は「Don't Starve Elsewhere」や「カミとミコ」などが集まっています！ 🎮\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "『パルワールド』があるからこそ生まれる「売上至上主義ではない余裕」―Pocketpair Publishingにインタビュー！新作海賊サバイバル『Windrose』についても訊いてみた",
-      "url": "https://www.gamebusiness.jp/article/2026/04/10/26657.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-04-10T11:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181146.png"
-    },
-    {
-      "title": "アプリブがゲーム特化のアワード「アプリブ Best Mobile Game Award 2026」設立―「GAME FUTURE SUMMIT 2026」との連携、特別審査員4名を発表",
-      "url": "https://www.gamebusiness.jp/article/2026/04/12/26669.html",
-      "source": "GameBusiness.jp",
+      "title": "10年振り“ドンスタ新作”『Don’t Starve Elsewhere』発表。「イエス・キリスト」追体験シム『I am Jesus Christ』が好評。今週の見逃せないゲーム記事7選",
+      "url": "https://automaton-media.com/articles/newsjp/20260412-436774/",
+      "source": "Automaton",
       "category": "release",
       "importance": "high",
-      "published": "2026-04-12T00:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181231.jpg"
+      "published": "2026-04-12T05:18:34",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260412-436774-header.jpg"
     },
     {
-      "title": "MURA選手に無期限出場禁止処分―『シャドバWB』公式がペナルティを発表…配信内で他チーム選手への誹謗中傷や実在しない談合を示唆",
-      "url": "https://www.gamebusiness.jp/article/2026/04/10/26656.html",
-      "source": "GameBusiness.jp",
-      "category": "esports",
-      "importance": "high",
-      "published": "2026-04-10T04:00:05",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181036.jpg"
-    },
-    {
-      "title": "魔法少女爽快スタイリッシュACT『Mahou Arms』正式リリースを7月27日に延期。99.9%完成しているが傑作へと磨き上げるために見直しを行う",
-      "url": "https://www.gamebusiness.jp/article/2026/04/11/26668.html",
-      "source": "GameBusiness.jp",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-11T11:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181189.jpg"
-    },
-    {
-      "title": "レベルファイブ新作クライムサスペンスRPG『デカポリス』対応機種からPS4/スイッチがひっそり削除。PS5/スイッチ2/Steam向けに発売予定",
-      "url": "https://www.gamebusiness.jp/article/2026/04/11/26666.html",
-      "source": "GameBusiness.jp",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-11T11:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181209.jpg"
-    },
-    {
-      "title": "「木を切る」作業に没頭する伐採ゲーム『A Game About Chopping Trees』がSteam向けに発表。静かな風景の中をトロッコで移動したり、コーヒーを飲んでひと息つくこともできる",
-      "url": "https://news.denfaminicogamer.jp/news/260411n",
-      "source": "電ファミニコゲーマー",
+      "title": "無料もふもふ春探しゲーム『ドロチェの箱庭』Steam版発表。寒さに負けずにちいさな春を集めてぬくぬく、ときたま泥酔",
+      "url": "https://automaton-media.com/articles/newsjp/simulation-20260412-436709/",
+      "source": "Automaton",
       "category": "release",
       "importance": "high",
-      "published": "2026-04-11T14:04:43",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/ss_b4188e843bf676430345db6a1b727caa271e9204.1920x1080.jpg"
-    },
-    {
-      "title": "ゾンビが蔓延る森でひたすら生き延びるサバイバルゲーム『LivingForest』がSteamにて無料配布中。森を探索し、斧や銃器でゾンビや兵士と戦いながら、資源や食料を集めて拠点を築く",
-      "url": "https://news.denfaminicogamer.jp/news/260411j",
-      "source": "電ファミニコゲーマー",
-      "category": "sale",
-      "importance": "high",
-      "published": "2026-04-11T08:31:41",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/ss_b1b3b4ec516f291d78c7ef13aa7f99e810bca765.1920x1080.jpg"
-    },
-    {
-      "title": "『オーバーウォッチ』マッチ終了後に“敵味方全員”と話せるボイスチャット機能がシーズン2で追加へ。マーシーなど一部ヒーローのパークの基本アビリティへの統合など、今後のアップデート方針が開発者ブログで公開",
-      "url": "https://news.denfaminicogamer.jp/news/260411d",
-      "source": "電ファミニコゲーマー",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-04-11T01:13:15",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/6YB2AWM7M4SY1775255418709.png"
-    },
-    {
-      "title": "“チェックポイント”が存在しないハイテンポFPS『TAMASHIKA』が本日発売。一丁の銃と一振りの短刀を手に、プレイするたびに姿を変える世界で敵を倒しまくる",
-      "url": "https://news.denfaminicogamer.jp/news/260411o",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-11T14:52:09",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/ss_0718fb4bd3ed7a4ce94198bf04735e89716e1962.1920x1080.jpg"
-    },
-    {
-      "title": "Xの収益、拡散した第三者だけでなく「オリジナルの投稿者」を特定し分配へ。新ツールの試験運用を開始",
-      "url": "https://news.denfaminicogamer.jp/news/260411l",
-      "source": "電ファミニコゲーマー",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-04-11T12:29:58",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/1500x500-1.jpg.webp"
+      "published": "2026-04-12T01:17:53",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/simulation-20260412-436709-header.jpg"
     },
     {
       "title": "アメリカ連邦航空局、なんと「ゲーマー特化」の航空管制官の求人を発表。若者ゲーマーは“優秀な管制官向き”のスキルを備えているとして",
@@ -111,37 +39,28 @@
       "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260411-436521-header-1.jpg"
     },
     {
-      "title": "『スナックワールド』の“新作級リメイク”、『スナックワールド リローデッド』発表。レベルファイブのローグライトARPGが蘇る",
-      "url": "https://automaton-media.com/articles/newsjp/20260410-436273/",
+      "title": "“現代知識無双”謎解きゲーム『カミとミコ』4月23日リリースへ。シナリオは「【推しの子】」赤坂アカ氏、転生するミコと歩む人類の歴史",
+      "url": "https://automaton-media.com/articles/newsjp/20260410-436241/",
       "source": "Automaton",
       "category": "release",
+      "importance": "normal",
+      "published": "2026-04-13T00:10:54",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260410-436241-header.jpg"
+    },
+    {
+      "title": "PCやスマホのブラウザで楽しめるADV「カミとミコ」，4月23日に発売決定。特装版の詳細解禁に加えて，予約受付もスタート",
+      "url": "https://www.4gamer.net/games/962/G096266/20260410037/",
+      "source": "4Gamer.net",
+      "category": "release",
       "importance": "high",
-      "published": "2026-04-10T12:18:39",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/436273-header.jpg"
-    },
-    {
-      "title": "『アークナイツ：エンドフィールド』新バージョンではスタミナ消費2倍チケット「理性消費許可証」配布がめちゃくちゃ増量。とめどない超速スタミナ消費ができそう",
-      "url": "https://automaton-media.com/articles/newsjp/20260411-436622/",
-      "source": "Automaton",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-04-11T13:09:57",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260411-436622-header.jpg"
-    },
-    {
-      "title": "『アークナイツ：エンドフィールド』新バージョンでは集成工業システム追加要素いろいろ。新たな液体に生産ライン省スペース化設備、役には立たない装飾品も",
-      "url": "https://automaton-media.com/articles/newsjp/20260411-436614/",
-      "source": "Automaton",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-04-11T13:04:16",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260411-436614-header-1.jpg"
+      "published": "2026-04-13T00:00:00",
+      "image": "https://www.4gamer.net/games/962/G096266/20260410037/SS/001.jpg"
     },
     {
       "title": "［インタビュー］歴史ある町にインディーゲームイベントが“爆誕”した理由とは？　「ぶらり川越 GAME DIGG」が目指す，町おこしではない地域密着",
       "url": "https://www.4gamer.net/games/991/G999110/20260330032/",
       "source": "4Gamer.net",
-      "category": "other",
+      "category": "industry",
       "importance": "high",
       "published": "2026-04-11T01:30:00",
       "image": "https://www.4gamer.net/games/991/G999110/20260330032/SS/001.jpg"
@@ -156,31 +75,76 @@
       "image": "https://www.4gamer.net/games/991/G999110/20260410047/SS/014.jpg"
     },
     {
-      "title": "「スナックワールド リローデット」が発表に。ゲーム性と操作感が大幅に見直され，ストーリー面も強化された“新作級リメイク”",
-      "url": "https://www.4gamer.net/games/998/G099821/20260410079/",
+      "title": "［プレイレポ］恋愛ADV「バニーガーデン2」は“お紳士の遊び”もパワーアップ。ASMR系はヘッドホン推奨！",
+      "url": "https://www.4gamer.net/games/986/G098647/20260409043/",
       "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-12T23:00:00",
+      "image": "https://www.4gamer.net/games/986/G098647/20260409043/SS/005.jpg"
+    },
+    {
+      "title": "おばあちゃんの肉団子麺レストランを再建せよ。料理ADV「KuloNiku: Bowl Up!」（ほぼ日 インディーPick Up！）",
+      "url": "https://www.4gamer.net/games/989/G098944/20260410043/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-12T22:00:00",
+      "image": "https://www.4gamer.net/games/989/G098944/20260410043/SS/015.jpg"
+    },
+    {
+      "title": "「木を切る」作業に没頭する伐採ゲーム『A Game About Chopping Trees』がSteam向けに発表。静かな風景の中をトロッコで移動したり、コーヒーを飲んでひと息つくこともできる",
+      "url": "https://news.denfaminicogamer.jp/news/260411n",
+      "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-04-10T13:06:49",
-      "image": "https://www.4gamer.net/games/998/G099821/20260410079/SS/009.png"
+      "published": "2026-04-11T14:04:43",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/ss_b4188e843bf676430345db6a1b727caa271e9204.1920x1080.jpg"
     },
     {
-      "title": "「ステラソラ」，イベント「夜暗に踊る狐独な影」を4月16日に開始。限定巡遊者「オトハ」も同時に登場",
-      "url": "https://www.4gamer.net/games/867/G086701/20260411007/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-04-11T12:39:14",
-      "image": "https://www.4gamer.net/games/867/G086701/20260411007/SS/016.jpg"
-    },
-    {
-      "title": "週刊Steam広場 第148号：ミュージカルRPG「People of Note」や，SFアクション「Super Alloy Crush」が発売に",
-      "url": "https://www.4gamer.net/games/038/G003821/20260410069/",
-      "source": "4Gamer.net",
+      "title": "『タルコフ』生みの親が主導するハードコアSFシューター『Fragmentary Order』の新映像が公開。2251年の宇宙が舞台に、人類が争う。謎解きで情報を得るARG形式の公式サイトではAct3が解禁",
+      "url": "https://news.denfaminicogamer.jp/news/260413b",
+      "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "normal",
-      "published": "2026-04-11T09:00:00",
-      "image": "https://www.4gamer.net/games/038/G003821/20260410069/TN/003.jpg"
+      "published": "2026-04-12T22:34:23",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/6b9fc25beb6cd1c1276cf7d98a0e1acc.jpg"
+    },
+    {
+      "title": "『うたわれるもの ロストフラグ』ストーリー版『物語記録保存領域（ストーリーアーカイブス）』の制作が決定。本作で綴られた数々の物語をいつでも振り返り可能に",
+      "url": "https://news.denfaminicogamer.jp/news/260412m",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-04-12T14:24:43",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/sub1-66.png"
+    },
+    {
+      "title": "リズムに合わせてタイピングし、魔法を唱えるローグライト『BEAT SPELLER!!』Steamストアページが公開。リズムは毎回ランダムに生成、正確にノればノるほど魔法が強力に",
+      "url": "https://news.denfaminicogamer.jp/news/260412l",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-12T13:48:41",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/ss_91569ca9c622970020c5a3acb7c860e6a2110874.1920x1080.jpg"
+    },
+    {
+      "title": "『ディシディア デュエルム FF』新キャラクター「フリオニール（CV.緑川光）」と「バルフレア（CV.平田広明）」が4月14日より参戦。新キャラ専用アビリティが入手できるイベントもあわせて開催へ",
+      "url": "https://news.denfaminicogamer.jp/news/260412k",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-04-12T12:43:56",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/7b7d1a8e2627f0b4f13d0b2478130480.png"
+    },
+    {
+      "title": "アニメイラスト画像のパーツ分割技術「See-through」オープンソース化　1枚のイラスト画像から奥行き順序付けされたレイヤー状態のPSDを - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202604-See-through.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-12T21:56:58",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/SeeThrough-01-thumb-1920x1080-82213.jpg"
     },
     {
       "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/4/11】",
@@ -189,61 +153,61 @@
       "category": "tech",
       "importance": "high",
       "published": "2026-04-11T01:58:43",
-      "image": null
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/04/34e2a69613f3c6d58451ccd246138701.jpg"
     },
     {
-      "title": "4/25（土）開催のインディーゲームイベント「ぶらり川越 GAME DIGG2」、全85団体の出展情報が一挙発表",
-      "url": "https://gamemakers.jp/article/2026_04_10_135309/",
+      "title": "SIE、PlayStation Store上でのインディーゲーム販売に関する申請ガイドを公開。パートナー登録やタイトル応募の手順を紹介",
+      "url": "https://gamemakers.jp/article/2026_04_12_135341/",
       "source": "ゲームメーカーズ",
-      "category": "other",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-04-12T03:00:16",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/04/14cff3b4196f14a13c718ae2df6633d0.jpg"
+    },
+    {
+      "title": "アプリブがゲーム特化のアワード「アプリブ Best Mobile Game Award 2026」設立―「GAME FUTURE SUMMIT 2026」との連携、特別審査員4名を発表",
+      "url": "https://www.gamebusiness.jp/article/2026/04/12/26669.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
       "importance": "high",
-      "published": "2026-04-10T07:06:48",
-      "image": null
+      "published": "2026-04-12T00:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181231.jpg"
     },
     {
-      "title": "『ライフ イズ ストレンジ リユニオン』レビュー　「青春ミステリ」の輝きを復活させた最終章としてふさわしい作品",
-      "url": "https://jp.ign.com/life-is-strange-reunion/83131/review/",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-04-10T07:31:02",
-      "image": "https://sm.ign.com/ign_jp/news/s/square-eni/square-enix-reveals-life-is-strange-reunion-will-be-the-seri_bdxy.jpg"
-    },
-    {
-      "title": "1万円台で買えるMSIの23.6インチ湾曲ゲーミングモニター「MAG 242C」がAmazonにて29％オフでタイムセール中",
-      "url": "https://jp.ign.com/gaming-device/83126/news/1msi236mag-242camazon29",
-      "source": "IGN Japan",
+      "title": "『Concord』『Highguard』について「あの状況でどうすれば良かったか」と考える―『PUBG』責任者が「毎回成功するのは本当に難しい」との考え明かす",
+      "url": "https://www.gamebusiness.jp/article/2026/04/12/26671.html",
+      "source": "GameBusiness.jp",
       "category": "other",
       "importance": "normal",
-      "published": "2026-04-10T01:57:45",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_qjyr.png"
+      "published": "2026-04-12T02:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181158.jpg"
     },
     {
-      "title": "AKIHABARA STUDIO【モーションキャプチャスタジオ】 - 連載",
-      "url": "https://cgworld.jp/regular/2510-akihabara-studio.html",
-      "source": "CGWORLD",
+      "title": "ベセスダ元幹部、好きな場所へ行き好きなことをできる複雑なゲームを開発したことを「リスペクトして欲しい」と語る",
+      "url": "https://www.gamebusiness.jp/article/2026/04/12/26670.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-04-12T02:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181169.jpg"
+    },
+    {
+      "title": "魔法少女爽快スタイリッシュACT『Mahou Arms』正式リリースを7月27日に延期。99.9%完成しているが傑作へと磨き上げるために見直しを行う",
+      "url": "https://www.gamebusiness.jp/article/2026/04/11/26668.html",
+      "source": "GameBusiness.jp",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-11T11:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181189.jpg"
+    },
+    {
+      "title": "サム・アルトマン邸、火炎瓶投げ込まれボヤに。容疑の20歳男性はOpenAIのオフィス前にも現れ脅迫",
+      "url": "https://www.gamebusiness.jp/article/2026/04/11/26667.html",
+      "source": "GameBusiness.jp",
       "category": "other",
       "importance": "normal",
-      "published": "2026-04-10T02:24:49",
-      "image": "https://cgworld.jp/regular/assets_c/2025/11/akihabara-thumb-1000x563-75861.jpg"
-    },
-    {
-      "title": "無料のBlenderアドオン「Bezier Curve Editor」リリース　タイムライン上でキーフレームのイージングカーブを直感的に編集 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202604-BezierCurve.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-10T02:10:04",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/e85cc4694be8b8b8deee8ea94159c7d32fce5954-thumb-1920x1080-82184.jpg"
-    },
-    {
-      "title": "5/21（木）東京にて海外ゼネラリスト竹本宏樹氏による効率の良い背景制作のロジックセミナー開催。広大な背景を「最小の労力」で構築するための思考法を公開 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2604-haikei.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-04-10T01:26:47",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/248_seminar_generalist_page-1536x665-thumb-1000x563-82180.jpg"
+      "published": "2026-04-11T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181199.jpg"
     }
   ]
 }
