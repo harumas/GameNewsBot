@@ -1,141 +1,213 @@
 {
-  "generated_at": "2026-04-13T00:14:27.411361",
-  "poem": "おはようございます！🌞\n今日のゲームニュースは、ドンキホーテ新作や海賊ローグライトアクションの発表など、多くの新作が登場しています。\n注目は「Don't Starve Elsewhere」や「カミとミコ」などが集まっています！ 🎮\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-04-14T00:18:06.319633",
+  "poem": "おはようございます！ \n今日はゲーム業界が大いに賑やかです 🎮。『プラグマタ』が海外レビューで高得点を獲得しているようですね。ほかにも『チクタクバンバン』の令和進化版や『バイオハザード レクイエム』のクリア率が話題に上がっています。 \nそれでは今日のニュースをどうぞ！",
   "articles": [
+    {
+      "title": "『プラグマタ』海外レビューでメタスコアが平均「86/100」と高得点。「今年のGOTY候補」「戦闘要素が面白すぎる。待った甲斐があった」「ディアナと別れたくない」とと絶賛の声相次ぐ",
+      "url": "https://news.denfaminicogamer.jp/news/260414a",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-04-13T22:11:58",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/maxresdefault-5-1.jpg"
+    },
+    {
+      "title": "昭和の名作玩具『チクタクバンバン』令和進化版が4月下旬に発売決定。チクタクの進む道がとぎれないようパネルをつなぐ、ハラハラドキドキの対戦パズル",
+      "url": "https://news.denfaminicogamer.jp/news/2604132k",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-04-13T10:17:04",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/sub5-33.jpg"
+    },
+    {
+      "title": "『バイオハザード レクイエム』クリア率の高さが海外掲示板で話題に。Steam版では約70%のプレイヤーがエンディングに到達。テンポの良さや、グレースとレオンのプレイ体験の対比が好評",
+      "url": "https://news.denfaminicogamer.jp/news/260414b",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-13T23:18:20",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/maxresdefault-11.jpg"
+    },
+    {
+      "title": "「きたきたのこのこの山里」本日4月14日より発売開始！「きのこの山」「たけのこの里」が融合を果たしたAI発案の新商品",
+      "url": "https://news.denfaminicogamer.jp/news/260414q",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-13T15:00:58",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/HFR4yyuaAAAcpYk.jpg"
+    },
+    {
+      "title": "『Among Us』のクルーメイトが大きなソフビになってプライズ景品に。赤と青の2色展開で、4月16日より順次登場",
+      "url": "https://news.denfaminicogamer.jp/news/2604132n",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-13T11:51:26",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/668w_668h-2.jpg"
+    },
+    {
+      "title": "［インタビュー］マイクで吠えて勝負する対戦ゲーム「ワンワンバトル」，着想は近所の公園で見た犬の喧嘩ーー開発者M.Katsu氏に聞く",
+      "url": "https://www.4gamer.net/games/996/G099664/20260413012/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-04-13T09:00:00",
+      "image": "https://www.4gamer.net/games/996/G099664/20260413012/SS/007.jpg"
+    },
+    {
+      "title": "「ゲーム・オブ・スローンズ：キングスロード」オンラインショーケースは4月17日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+      "url": "https://www.4gamer.net/games/421/G042182/20260413042/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-13T23:00:00",
+      "image": "https://www.4gamer.net/games/421/G042182/20260413042/SS/003.jpg"
+    },
+    {
+      "title": "魅力的なアンジェラのおしゃれな生活をプロデュース！　「マイ・トーキング・アンジェラ2+」（今日から始めろApple Arcade #67）",
+      "url": "https://www.4gamer.net/games/998/G099849/20260413032/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-13T22:00:00",
+      "image": "https://www.4gamer.net/games/998/G099849/20260413032/SS/012.jpg"
+    },
+    {
+      "title": "［プレイレポ］「プラグマタ」は王道ともいえるSFアクションアドベンチャー。銃撃戦とパズルを組み合わせた独特な戦闘や，少女アンドロイドとのエモーショナルな触れ合いを楽しめる",
+      "url": "https://www.4gamer.net/games/512/G051239/20260413046/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-13T15:00:00",
+      "image": "https://www.4gamer.net/games/512/G051239/20260413046/SS/025.jpg"
+    },
+    {
+      "title": "4月23日発売の第二次世界大戦RTS「サドン ストライク5」のウォークスルーが公開に。プレスツアーで判明した新情報をレポート",
+      "url": "https://www.4gamer.net/games/929/G092965/20260413043/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-13T13:21:38",
+      "image": "https://www.4gamer.net/games/929/G092965/20260413043/SS/005.webp"
+    },
+    {
+      "title": "『プラグマタ』レビュー 細部まで計算された緻密さゆえに気になるところもある完全新作TPS",
+      "url": "https://jp.ign.com/pragmata/83140/review/tps",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-04-13T15:01:01",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/top_qyvb.jpg"
+    },
+    {
+      "title": "『プラグマタ』をSwitch 2でクリアした感想――開発地獄を感じさせない完成度とコンパクトな面白さ",
+      "url": "https://jp.ign.com/pragmata/83137/opinion/switch-2",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-13T15:00:05",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/129033-0_9dzf.jpg"
+    },
+    {
+      "title": "Unity Asset Storeの大型セール「スプリングセール」開催！「Odin」「Final IK」など、各種製品が5/7（木）まで50％オフ",
+      "url": "https://gamemakers.jp/article/2026_04_14_135478/",
+      "source": "ゲームメーカーズ",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-04-13T15:00:38",
+      "image": null
+    },
+    {
+      "title": "オープンソースの2Dゲーム開発フレームワーク「Phaser 4」正式リリース。WebGLレンダラーが刷新され、100万個以上のスプライトを描画可能に",
+      "url": "https://gamemakers.jp/article/2026_04_13_135440/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-13T08:48:11",
+      "image": null
+    },
+    {
+      "title": "SIE、PlayStation Store上でのインディーゲーム販売に関する申請ガイドを公開。パートナー登録やタイトル応募の手順を紹介",
+      "url": "https://gamemakers.jp/article/2026_04_12_135341/",
+      "source": "ゲームメーカーズ",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-04-12T03:00:16",
+      "image": null
+    },
+    {
+      "title": "荒廃ロシアサバイバルホラーFPS新作『Metro 2039』発表、4月17日お披露目へ。約7年越しのシリーズ新作",
+      "url": "https://automaton-media.com/articles/newsjp/20260415-437143/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-13T13:29:47",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260415-437143-header.jpg"
+    },
+    {
+      "title": "人気都市づくりシム『Cities: Skylines』に「約3万時間プレイ」した不評レビューが投じられる。なぜか今こぼれた、積年の“ぼやき”",
+      "url": "https://automaton-media.com/articles/newsjp/20260413-437065/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-04-13T08:29:06",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260413-437065-header.jpg"
+    },
+    {
+      "title": "「ダンジョン探索×販売戦略」融合ゲーム『ダンジョン4X』発表。根回し作戦でライバル蹴落とし、ときに“パワー”で成り上がるギルド運営",
+      "url": "https://automaton-media.com/articles/newsjp/20260413-437049/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-13T06:49:24",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260413-437049-header.jpg"
+    },
+    {
+      "title": "『Escape from Tarkov』生みの親による謎の新作未来FPS『Fragmentary Order』正式発表。“レイド制・持ち物ロスト”などタルコフ風のゲームになりそう",
+      "url": "https://automaton-media.com/articles/newsjp/20260413-436980/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-13T02:33:49",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260413-436980-header.jpg"
+    },
     {
       "title": "10年振り“ドンスタ新作”『Don’t Starve Elsewhere』発表。「イエス・キリスト」追体験シム『I am Jesus Christ』が好評。今週の見逃せないゲーム記事7選",
       "url": "https://automaton-media.com/articles/newsjp/20260412-436774/",
       "source": "Automaton",
-      "category": "release",
+      "category": "other",
       "importance": "high",
       "published": "2026-04-12T05:18:34",
       "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260412-436774-header.jpg"
     },
     {
-      "title": "無料もふもふ春探しゲーム『ドロチェの箱庭』Steam版発表。寒さに負けずにちいさな春を集めてぬくぬく、ときたま泥酔",
-      "url": "https://automaton-media.com/articles/newsjp/simulation-20260412-436709/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-12T01:17:53",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/simulation-20260412-436709-header.jpg"
-    },
-    {
-      "title": "アメリカ連邦航空局、なんと「ゲーマー特化」の航空管制官の求人を発表。若者ゲーマーは“優秀な管制官向き”のスキルを備えているとして",
-      "url": "https://automaton-media.com/articles/newsjp/faa-hiring-20260411-436583/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-04-11T09:57:17",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/faa-hiring-20260411-436583-header.jpg"
-    },
-    {
-      "title": "最大4人協力・海賊ローグライトアクション『Plunder Rush』発表。手漕ぎボートから大海原で成り上がる、航海中は「水漏れ」に注意",
-      "url": "https://automaton-media.com/articles/newsjp/20260411-436251/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-11T04:50:03",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260411-436521-header-1.jpg"
-    },
-    {
-      "title": "“現代知識無双”謎解きゲーム『カミとミコ』4月23日リリースへ。シナリオは「【推しの子】」赤坂アカ氏、転生するミコと歩む人類の歴史",
-      "url": "https://automaton-media.com/articles/newsjp/20260410-436241/",
-      "source": "Automaton",
-      "category": "release",
+      "title": "【クリ博】5/8（金）オンラインにて3DCGアニメーター講座（サブリメイション×サムライピクチャーズ）開催－OK例・NG例で学ぶポートフォリオ制作のポイント - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2604-kurihaku.html",
+      "source": "CGWORLD",
+      "category": "tech",
       "importance": "normal",
-      "published": "2026-04-13T00:10:54",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260410-436241-header.jpg"
+      "published": "2026-04-13T07:25:51",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/2605_3dcg_animator_v5-thumb-1000x563-82225.jpg"
     },
     {
-      "title": "PCやスマホのブラウザで楽しめるADV「カミとミコ」，4月23日に発売決定。特装版の詳細解禁に加えて，予約受付もスタート",
-      "url": "https://www.4gamer.net/games/962/G096266/20260410037/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-13T00:00:00",
-      "image": "https://www.4gamer.net/games/962/G096266/20260410037/SS/001.jpg"
-    },
-    {
-      "title": "［インタビュー］歴史ある町にインディーゲームイベントが“爆誕”した理由とは？　「ぶらり川越 GAME DIGG」が目指す，町おこしではない地域密着",
-      "url": "https://www.4gamer.net/games/991/G999110/20260330032/",
-      "source": "4Gamer.net",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-04-11T01:30:00",
-      "image": "https://www.4gamer.net/games/991/G999110/20260330032/SS/001.jpg"
-    },
-    {
-      "title": "［インタビュー］「日本コンテンツは石油のようなもの」――マンガプロダクションズCEOに聞く，中東市場の特色とAnimeJapan出展の狙い",
-      "url": "https://www.4gamer.net/games/991/G999110/20260410047/",
-      "source": "4Gamer.net",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-04-11T01:00:00",
-      "image": "https://www.4gamer.net/games/991/G999110/20260410047/SS/014.jpg"
-    },
-    {
-      "title": "［プレイレポ］恋愛ADV「バニーガーデン2」は“お紳士の遊び”もパワーアップ。ASMR系はヘッドホン推奨！",
-      "url": "https://www.4gamer.net/games/986/G098647/20260409043/",
-      "source": "4Gamer.net",
-      "category": "release",
+      "title": "デジタルスケープ、東京にて「さつき先生によるHoudini基礎講座」全3日間のライブ形式で開催 - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2604-houdini.html",
+      "source": "CGWORLD",
+      "category": "tech",
       "importance": "normal",
-      "published": "2026-04-12T23:00:00",
-      "image": "https://www.4gamer.net/games/986/G098647/20260409043/SS/005.jpg"
+      "published": "2026-04-13T06:31:36",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/247_seminar_houdini_full-thumb-1000x563-82222.jpg"
     },
     {
-      "title": "おばあちゃんの肉団子麺レストランを再建せよ。料理ADV「KuloNiku: Bowl Up!」（ほぼ日 インディーPick Up！）",
-      "url": "https://www.4gamer.net/games/989/G098944/20260410043/",
-      "source": "4Gamer.net",
-      "category": "release",
+      "title": "TVアニメ『鎧真伝サムライトルーパー』ヨロイギア姿のキャラクターを3DCGで表現！ 〜No.1／モデリング＆ルックデヴ篇 - 特集",
+      "url": "https://cgworld.jp/article/cgw332-samuraitrooper01.html",
+      "source": "CGWORLD",
+      "category": "cg",
       "importance": "normal",
-      "published": "2026-04-12T22:00:00",
-      "image": "https://www.4gamer.net/games/989/G098944/20260410043/SS/015.jpg"
-    },
-    {
-      "title": "「木を切る」作業に没頭する伐採ゲーム『A Game About Chopping Trees』がSteam向けに発表。静かな風景の中をトロッコで移動したり、コーヒーを飲んでひと息つくこともできる",
-      "url": "https://news.denfaminicogamer.jp/news/260411n",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-11T14:04:43",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/ss_b4188e843bf676430345db6a1b727caa271e9204.1920x1080.jpg"
-    },
-    {
-      "title": "『タルコフ』生みの親が主導するハードコアSFシューター『Fragmentary Order』の新映像が公開。2251年の宇宙が舞台に、人類が争う。謎解きで情報を得るARG形式の公式サイトではAct3が解禁",
-      "url": "https://news.denfaminicogamer.jp/news/260413b",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-12T22:34:23",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/6b9fc25beb6cd1c1276cf7d98a0e1acc.jpg"
-    },
-    {
-      "title": "『うたわれるもの ロストフラグ』ストーリー版『物語記録保存領域（ストーリーアーカイブス）』の制作が決定。本作で綴られた数々の物語をいつでも振り返り可能に",
-      "url": "https://news.denfaminicogamer.jp/news/260412m",
-      "source": "電ファミニコゲーマー",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-04-12T14:24:43",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/sub1-66.png"
-    },
-    {
-      "title": "リズムに合わせてタイピングし、魔法を唱えるローグライト『BEAT SPELLER!!』Steamストアページが公開。リズムは毎回ランダムに生成、正確にノればノるほど魔法が強力に",
-      "url": "https://news.denfaminicogamer.jp/news/260412l",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-12T13:48:41",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/ss_91569ca9c622970020c5a3acb7c860e6a2110874.1920x1080.jpg"
-    },
-    {
-      "title": "『ディシディア デュエルム FF』新キャラクター「フリオニール（CV.緑川光）」と「バルフレア（CV.平田広明）」が4月14日より参戦。新キャラ専用アビリティが入手できるイベントもあわせて開催へ",
-      "url": "https://news.denfaminicogamer.jp/news/260412k",
-      "source": "電ファミニコゲーマー",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-04-12T12:43:56",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/7b7d1a8e2627f0b4f13d0b2478130480.png"
+      "published": "2026-04-13T01:00:55",
+      "image": "https://cgworld.jp/article/assets_c/2026/03/01_main_-thumb-1000x563-81446.jpg"
     },
     {
       "title": "アニメイラスト画像のパーツ分割技術「See-through」オープンソース化　1枚のイラスト画像から奥行き順序付けされたレイヤー状態のPSDを - ニュース",
@@ -147,37 +219,10 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/04/SeeThrough-01-thumb-1920x1080-82213.jpg"
     },
     {
-      "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/4/11】",
-      "url": "https://gamemakers.jp/article/2026_04_11_135416/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-04-11T01:58:43",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/04/34e2a69613f3c6d58451ccd246138701.jpg"
-    },
-    {
-      "title": "SIE、PlayStation Store上でのインディーゲーム販売に関する申請ガイドを公開。パートナー登録やタイトル応募の手順を紹介",
-      "url": "https://gamemakers.jp/article/2026_04_12_135341/",
-      "source": "ゲームメーカーズ",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-04-12T03:00:16",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/04/14cff3b4196f14a13c718ae2df6633d0.jpg"
-    },
-    {
-      "title": "アプリブがゲーム特化のアワード「アプリブ Best Mobile Game Award 2026」設立―「GAME FUTURE SUMMIT 2026」との連携、特別審査員4名を発表",
-      "url": "https://www.gamebusiness.jp/article/2026/04/12/26669.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-04-12T00:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181231.jpg"
-    },
-    {
       "title": "『Concord』『Highguard』について「あの状況でどうすれば良かったか」と考える―『PUBG』責任者が「毎回成功するのは本当に難しい」との考え明かす",
       "url": "https://www.gamebusiness.jp/article/2026/04/12/26671.html",
       "source": "GameBusiness.jp",
-      "category": "other",
+      "category": "business",
       "importance": "normal",
       "published": "2026-04-12T02:15:04",
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/181158.jpg"
@@ -190,24 +235,6 @@
       "importance": "normal",
       "published": "2026-04-12T02:00:04",
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/181169.jpg"
-    },
-    {
-      "title": "魔法少女爽快スタイリッシュACT『Mahou Arms』正式リリースを7月27日に延期。99.9%完成しているが傑作へと磨き上げるために見直しを行う",
-      "url": "https://www.gamebusiness.jp/article/2026/04/11/26668.html",
-      "source": "GameBusiness.jp",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-11T11:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181189.jpg"
-    },
-    {
-      "title": "サム・アルトマン邸、火炎瓶投げ込まれボヤに。容疑の20歳男性はOpenAIのオフィス前にも現れ脅迫",
-      "url": "https://www.gamebusiness.jp/article/2026/04/11/26667.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-04-11T11:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181199.jpg"
     }
   ]
 }
