@@ -1,114 +1,294 @@
 {
-  "generated_at": "2026-04-14T00:18:06.319633",
-  "poem": "おはようございます！ \n今日はゲーム業界が大いに賑やかです 🎮。『プラグマタ』が海外レビューで高得点を獲得しているようですね。ほかにも『チクタクバンバン』の令和進化版や『バイオハザード レクイエム』のクリア率が話題に上がっています。 \nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-04-15T00:18:11.375098",
+  "poem": "おはようございます！ 💻\n今日もゲーム業界は活発に動いています。LEGOの「遊戯王」コンテストや新作ゲームのリリース、CGキャラクターのアニメーション講座など、多くのニュースが発表されています 🎉\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "『プラグマタ』海外レビューでメタスコアが平均「86/100」と高得点。「今年のGOTY候補」「戦闘要素が面白すぎる。待った甲斐があった」「ディアナと別れたくない」とと絶賛の声相次ぐ",
-      "url": "https://news.denfaminicogamer.jp/news/260414a",
+      "title": "アニメ『遊戯王』をテーマにしたLEGOの公式コンテスト「It’s Time To Duel!」の最終選考5作品が発表、ファン投票が開始。「青眼の白龍」や「オシリスの天空竜」「千年パズル」などがレゴブロックで見事に立体化",
+      "url": "https://news.denfaminicogamer.jp/news/260415d",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-04-13T22:11:58",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/maxresdefault-5-1.jpg"
+      "published": "2026-04-14T22:33:47",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/1bf43261-1c9e-4ceb-a3b0-0ba86304e36b-original-0x0-1.webp"
     },
     {
-      "title": "昭和の名作玩具『チクタクバンバン』令和進化版が4月下旬に発売決定。チクタクの進む道がとぎれないようパネルをつなぐ、ハラハラドキドキの対戦パズル",
-      "url": "https://news.denfaminicogamer.jp/news/2604132k",
+      "title": "海賊PvEサバイバルゲーム『ウィンドローズ』発売から1日経たずに同接数“約7万人”に。Steamレビューは「非常に好評」を記録し人気爆発",
+      "url": "https://news.denfaminicogamer.jp/news/260415b",
       "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-14T21:52:53",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/Windrose_-Early-Access-Release-Trailer-1-32-screenshot.jpg"
+    },
+    {
+      "title": "『トモコレ』最新作の新要素「Miiをつまむ」はもともとデバッグ機能だった。任天堂の開発者インタビュー「開発者に訊きました」が公開",
+      "url": "https://news.denfaminicogamer.jp/news/2604143n",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-04-14T15:15:32",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/hero_pc.jpg"
+    },
+    {
+      "title": "新作映画『ゴジラ-0.0』ゴジラが「アメリカ」上陸！初映像が解禁。前作『ゴジラ-1.0』から2年後、神木隆之介さんと浜辺美波さんの続投が決定。自由の女神が立つニューヨークにゴジラが登場",
+      "url": "https://news.denfaminicogamer.jp/news/260415g",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-14T23:04:11",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/maxresdefault-8-1.jpg"
+    },
+    {
+      "title": "『MOUSE：やとわれの探偵』のメタスコアが平均「81/100」を記録。レトロなカートゥーン世界に「ジェットコースターのような体験」「音楽がいい。ジャズのファンになる」「土曜日の朝アニメを観るときのように楽しい」と称賛相次ぐ",
+      "url": "https://news.denfaminicogamer.jp/news/260415f",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-14T22:48:55",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/MOUSE_-P.I.-For-Hire-_-Official-Launch-Trailer-0-42-screenshot.jpg"
+    },
+    {
+      "title": "ソニー、「XYN」空間キャプチャーソリューションを法人提供開始　現実空間を高品位な3DCGアセットへ変換し、バーチャルプロダクション制作を支援 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202604-SonyXYN.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-14T23:02:03",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/SonyXYN-01-thumb-1920x1080-82296.jpg"
+    },
+    {
+      "title": "Scanline VFX・坂口 亮氏の特別講座がリバイバル開催！ロジックに基づく運営指針を学ぶ『プロジェクトマネージメントのエッセンス』5/20（水）開催 - ニュース",
+      "url": "https://cgworld.jp/flashnews/0520-plusone-sakaguchi.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-04-14T08:00:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/43eebd7e9de208ab3f6aeef012bcd64a15af7695-thumb-1000x563-82072.jpg"
+    },
+    {
+      "title": "CGキャラクターに自然な演技をさせるには...俳優メソッドで学ぶ『演技の構造』オンライン講座が5/21（木）に開催決定 - ニュース",
+      "url": "https://cgworld.jp/flashnews/-521.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-04-14T01:25:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/252_seminar_hasegawa_full_2-thumb-1000x563-82137.jpg"
+    },
+    {
+      "title": "TVアニメ『鎧真伝サムライトルーパー』ヨロイギア姿のキャラクターを3DCGで表現！ 〜No.2／リギング篇 - 特集",
+      "url": "https://cgworld.jp/article/cgw332-samuraitrooper02.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-04-14T01:00:52",
+      "image": "https://cgworld.jp/article/assets_c/2026/03/a7c0a15d94ed3ab23f6a446c282df2d746f4edfc-thumb-1000x563-81516.jpg"
+    },
+    {
+      "title": "【クリ博】5/8（金）オンラインにて3DCGアニメーター講座（サブリメイション×サムライピクチャーズ）開催－OK例・NG例で学ぶポートフォリオ制作のポイント - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2604-kurihaku.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-04-13T07:25:51",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/2605_3dcg_animator_v5-thumb-1000x563-82225.jpg"
+    },
+    {
+      "title": "恋人になったあとの物語が描かれるファンディスク「あやかしごはん 〜おかわりっ！〜 for S」，8月20日に発売決定",
+      "url": "https://www.4gamer.net/games/998/G099898/20260414041/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-14T09:40:46",
+      "image": "https://www.4gamer.net/games/998/G099898/20260414041/SS/001.jpg"
+    },
+    {
+      "title": "発展するほど生存が厳しくなる。成長とリスクのジレンマを管理するタクティカルタワーディフェンス「THE AEON FALL」発表",
+      "url": "https://www.4gamer.net/games/999/G099901/20260414044/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-14T09:35:44",
+      "image": "https://www.4gamer.net/games/999/G099901/20260414044/SS/002.jpg"
+    },
+    {
+      "title": "［プレイレポ］敵チームの旗を探し出せ！ キャプチャー・ザ・フラッグをベースに，現代的なヒーローシューターのエッセンスを取り入れた「Last Flag」は流行るのか",
+      "url": "https://www.4gamer.net/games/917/G091716/20260409063/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-14T17:00:00",
+      "image": "https://www.4gamer.net/games/917/G091716/20260409063/SS/002.jpg"
+    },
+    {
+      "title": "誰もが知る「マインスイーパー」をベースに，ローグライト要素を融合したタクティカルゲーム「インフィニティ・マインスイーパー：戦術領域」，2026年5月7日に発売",
+      "url": "https://www.4gamer.net/games/999/G099903/20260414055/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-14T11:38:24",
+      "image": "https://www.4gamer.net/games/999/G099903/20260414055/SS/005.jpg"
+    },
+    {
+      "title": "「ドットアビス」の事前登録受付が開始に。ゲーム内アイテム「アビスジェム」の配布に加えて，事前登録ガチャにも挑戦できる",
+      "url": "https://www.4gamer.net/games/998/G099816/20260414054/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-14T11:32:29",
+      "image": "https://www.4gamer.net/games/998/G099816/20260414054/SS/001.jpg"
+    },
+    {
+      "title": "AIならサッカーくじを当てられる？英プレミアリーグで主要AIモデルに賭けさせた研究結果が発表",
+      "url": "https://www.gamebusiness.jp/article/2026/04/14/26672.html",
+      "source": "GameBusiness.jp",
       "category": "other",
       "importance": "high",
-      "published": "2026-04-13T10:17:04",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/sub5-33.jpg"
+      "published": "2026-04-14T02:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181268.jpg"
     },
     {
-      "title": "『バイオハザード レクイエム』クリア率の高さが海外掲示板で話題に。Steam版では約70%のプレイヤーがエンディングに到達。テンポの良さや、グレースとレオンのプレイ体験の対比が好評",
-      "url": "https://news.denfaminicogamer.jp/news/260414b",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-04-13T23:18:20",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/maxresdefault-11.jpg"
-    },
-    {
-      "title": "「きたきたのこのこの山里」本日4月14日より発売開始！「きのこの山」「たけのこの里」が融合を果たしたAI発案の新商品",
-      "url": "https://news.denfaminicogamer.jp/news/260414q",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-13T15:00:58",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/HFR4yyuaAAAcpYk.jpg"
-    },
-    {
-      "title": "『Among Us』のクルーメイトが大きなソフビになってプライズ景品に。赤と青の2色展開で、4月16日より順次登場",
-      "url": "https://news.denfaminicogamer.jp/news/2604132n",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-04-13T11:51:26",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/668w_668h-2.jpg"
-    },
-    {
-      "title": "［インタビュー］マイクで吠えて勝負する対戦ゲーム「ワンワンバトル」，着想は近所の公園で見た犬の喧嘩ーー開発者M.Katsu氏に聞く",
-      "url": "https://www.4gamer.net/games/996/G099664/20260413012/",
-      "source": "4Gamer.net",
-      "category": "other",
+      "title": "『GTA6』開発のロックスターがハッキング被害、海外メディアに事実と認める―「支払いか流出か」と脅迫、期限は4月14日まで",
+      "url": "https://www.gamebusiness.jp/article/2026/04/14/26673.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
       "importance": "high",
-      "published": "2026-04-13T09:00:00",
-      "image": "https://www.4gamer.net/games/996/G099664/20260413012/SS/007.jpg"
+      "published": "2026-04-14T02:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181261.jpg"
     },
     {
-      "title": "「ゲーム・オブ・スローンズ：キングスロード」オンラインショーケースは4月17日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
-      "url": "https://www.4gamer.net/games/421/G042182/20260413042/",
-      "source": "4Gamer.net",
+      "title": "DLEはなぜ今、AIスタジオを立ち上げたのか。新代表FROGMANに聞く映像産業の次の競争軸",
+      "url": "https://www.gamebusiness.jp/article/2026/04/14/26680.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-04-14T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181355.jpg"
+    },
+    {
+      "title": "『ポケモン』『パルワールド』っぽい新作『ピックモン』、タイトルを『ピックモス』に変更。ブランド識別性の向上&世界観の追求のため",
+      "url": "https://www.gamebusiness.jp/article/2026/04/14/26678.html",
+      "source": "GameBusiness.jp",
       "category": "release",
       "importance": "normal",
-      "published": "2026-04-13T23:00:00",
-      "image": "https://www.4gamer.net/games/421/G042182/20260413042/SS/003.jpg"
+      "published": "2026-04-14T11:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181375.jpg"
     },
     {
-      "title": "魅力的なアンジェラのおしゃれな生活をプロデュース！　「マイ・トーキング・アンジェラ2+」（今日から始めろApple Arcade #67）",
-      "url": "https://www.4gamer.net/games/998/G099849/20260413032/",
-      "source": "4Gamer.net",
+      "title": "オンラインゲームの完全サ終に異唱える「Stop Killing Games」運動、カリフォルニア州の提出法案を全面支持―サーバー終了時のオフライン対応か全額返金を義務化",
+      "url": "https://www.gamebusiness.jp/article/2026/04/14/26677.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-04-14T10:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181388.png"
+    },
+    {
+      "title": "『プラグマタ』レビュー。カプコンの新規IPとしての一定のミッションは果たすも歯がゆさあり、楽しさと惜しさが押し寄せるゲーム",
+      "url": "https://automaton-media.com/articles/impressionjp/20260414-437352/",
+      "source": "Automaton",
       "category": "release",
-      "importance": "normal",
-      "published": "2026-04-13T22:00:00",
-      "image": "https://www.4gamer.net/games/998/G099849/20260413032/SS/012.jpg"
+      "importance": "high",
+      "published": "2026-04-14T10:04:19",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260414-437352-header.jpg"
     },
     {
-      "title": "［プレイレポ］「プラグマタ」は王道ともいえるSFアクションアドベンチャー。銃撃戦とパズルを組み合わせた独特な戦闘や，少女アンドロイドとのエモーショナルな触れ合いを楽しめる",
-      "url": "https://www.4gamer.net/games/512/G051239/20260413046/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-04-13T15:00:00",
-      "image": "https://www.4gamer.net/games/512/G051239/20260413046/SS/025.jpg"
+      "title": "“数日限定無料配布”された『Graveyard Keeper』販売元、「配布期間中に約4000万円稼いだ」と報告。無料なのに儲かるスキーム",
+      "url": "https://automaton-media.com/articles/newsjp/20260414-437307/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-04-14T05:35:02",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260414-437307-header.jpeg"
     },
     {
-      "title": "4月23日発売の第二次世界大戦RTS「サドン ストライク5」のウォークスルーが公開に。プレスツアーで判明した新情報をレポート",
-      "url": "https://www.4gamer.net/games/929/G092965/20260413043/",
-      "source": "4Gamer.net",
+      "title": "「開発期間7年・初週売上300本未満」の早期アクセスゲーム開発者、“損切りせず”正式リリースに漕ぎつける。ウィッシュリスト登録者の購入率わずか1％、それでもファンは裏切れない",
+      "url": "https://automaton-media.com/articles/newsjp/20260414-437278/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-04-14T04:56:25",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260414-437278-header-1.jpg"
+    },
+    {
+      "title": "大ヒットサンドボックスRPG『Hytale』の“偽物”がニンテンドーeショップに出現も、開発元が「法務部で対応中」と表明。悪質コピーに本家が動く",
+      "url": "https://automaton-media.com/articles/newsjp/20260414-437277/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-04-14T04:38:26",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260414-437277-header2.jpg"
+    },
+    {
+      "title": "刀と拳の2Dアクション『The Concrete Sutra #1』発表。レベルもスキルツリーもない超硬派、壮大アウトロー物語の“エピソード1”が出る",
+      "url": "https://automaton-media.com/articles/newsjp/20260414-437254/",
+      "source": "Automaton",
       "category": "release",
-      "importance": "normal",
-      "published": "2026-04-13T13:21:38",
-      "image": "https://www.4gamer.net/games/929/G092965/20260413043/SS/005.webp"
+      "importance": "high",
+      "published": "2026-04-14T04:22:43",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260414-437254-header.jpg"
     },
     {
       "title": "『プラグマタ』レビュー 細部まで計算された緻密さゆえに気になるところもある完全新作TPS",
-      "url": "https://jp.ign.com/pragmata/83140/review/tps",
+      "url": "https://jp.ign.com/pragmata/83140/tps",
       "source": "IGN Japan",
-      "category": "other",
+      "category": "release",
       "importance": "high",
       "published": "2026-04-13T15:01:01",
       "image": "https://sm.ign.com/ign_jp/screenshot/default/top_qyvb.jpg"
     },
     {
-      "title": "『プラグマタ』をSwitch 2でクリアした感想――開発地獄を感じさせない完成度とコンパクトな面白さ",
-      "url": "https://jp.ign.com/pragmata/83137/opinion/switch-2",
+      "title": "ゲーム初心者におすすめの入門タイトルをご紹介！「カービィ」から『ホグワーツ・レガシー』まで：#485 しゃべりすぎGAMER",
+      "url": "https://jp.ign.com/gamer-1/83156/485-gamer",
       "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
+      "published": "2026-04-14T11:01:12",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/sg_zu1p.png"
+    },
+    {
+      "title": "KTCの24インチモニター「H24V27」がAmazonにて20％オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83139/ktc24h24v27amazon20",
+      "source": "IGN Japan",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-04-14T06:47:15",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_ujed.png"
+    },
+    {
+      "title": "『プラグマタ』をSwitch 2でクリアした感想――開発地獄を感じさせない完成度とコンパクトな面白さ",
+      "url": "https://jp.ign.com/pragmata/83137/opinion/switch-2",
+      "source": "IGN Japan",
+      "category": "release",
+      "importance": "normal",
       "published": "2026-04-13T15:00:05",
       "image": "https://sm.ign.com/ign_jp/screenshot/default/129033-0_9dzf.jpg"
+    },
+    {
+      "title": "Xiaomiの8.7インチタブレット「Redmi Pad SE 8.7 4G」がAmazonにて最大25%オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83135/news/xiaomi87redmi-pad-se-87-4gamazon25",
+      "source": "IGN Japan",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-04-13T01:51:08",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_u1hy.jpg"
+    },
+    {
+      "title": "インディーゲーム紹介番組「INDIE Live Expo 2026.4.25」の内容が発表。無料公募コーナー「INDIE Waves」での紹介作品は約100→160に拡大",
+      "url": "https://gamemakers.jp/article/2026_04_14_135516/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-04-14T10:19:05",
+      "image": null
+    },
+    {
+      "title": "大阪のインディーゲーム展示会「ゲームパビリオンjp2026夏」、7/25（土）に開催決定。出展募集は4/28（火）より開始予定",
+      "url": "https://gamemakers.jp/article/2026_04_14_135510/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-04-14T04:08:53",
+      "image": null
     },
     {
       "title": "Unity Asset Storeの大型セール「スプリングセール」開催！「Odin」「Final IK」など、各種製品が5/7（木）まで50％オフ",
@@ -127,114 +307,6 @@
       "importance": "normal",
       "published": "2026-04-13T08:48:11",
       "image": null
-    },
-    {
-      "title": "SIE、PlayStation Store上でのインディーゲーム販売に関する申請ガイドを公開。パートナー登録やタイトル応募の手順を紹介",
-      "url": "https://gamemakers.jp/article/2026_04_12_135341/",
-      "source": "ゲームメーカーズ",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-04-12T03:00:16",
-      "image": null
-    },
-    {
-      "title": "荒廃ロシアサバイバルホラーFPS新作『Metro 2039』発表、4月17日お披露目へ。約7年越しのシリーズ新作",
-      "url": "https://automaton-media.com/articles/newsjp/20260415-437143/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-13T13:29:47",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260415-437143-header.jpg"
-    },
-    {
-      "title": "人気都市づくりシム『Cities: Skylines』に「約3万時間プレイ」した不評レビューが投じられる。なぜか今こぼれた、積年の“ぼやき”",
-      "url": "https://automaton-media.com/articles/newsjp/20260413-437065/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-04-13T08:29:06",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260413-437065-header.jpg"
-    },
-    {
-      "title": "「ダンジョン探索×販売戦略」融合ゲーム『ダンジョン4X』発表。根回し作戦でライバル蹴落とし、ときに“パワー”で成り上がるギルド運営",
-      "url": "https://automaton-media.com/articles/newsjp/20260413-437049/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-13T06:49:24",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260413-437049-header.jpg"
-    },
-    {
-      "title": "『Escape from Tarkov』生みの親による謎の新作未来FPS『Fragmentary Order』正式発表。“レイド制・持ち物ロスト”などタルコフ風のゲームになりそう",
-      "url": "https://automaton-media.com/articles/newsjp/20260413-436980/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-13T02:33:49",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260413-436980-header.jpg"
-    },
-    {
-      "title": "10年振り“ドンスタ新作”『Don’t Starve Elsewhere』発表。「イエス・キリスト」追体験シム『I am Jesus Christ』が好評。今週の見逃せないゲーム記事7選",
-      "url": "https://automaton-media.com/articles/newsjp/20260412-436774/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-04-12T05:18:34",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260412-436774-header.jpg"
-    },
-    {
-      "title": "【クリ博】5/8（金）オンラインにて3DCGアニメーター講座（サブリメイション×サムライピクチャーズ）開催－OK例・NG例で学ぶポートフォリオ制作のポイント - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2604-kurihaku.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-13T07:25:51",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/2605_3dcg_animator_v5-thumb-1000x563-82225.jpg"
-    },
-    {
-      "title": "デジタルスケープ、東京にて「さつき先生によるHoudini基礎講座」全3日間のライブ形式で開催 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2604-houdini.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-13T06:31:36",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/247_seminar_houdini_full-thumb-1000x563-82222.jpg"
-    },
-    {
-      "title": "TVアニメ『鎧真伝サムライトルーパー』ヨロイギア姿のキャラクターを3DCGで表現！ 〜No.1／モデリング＆ルックデヴ篇 - 特集",
-      "url": "https://cgworld.jp/article/cgw332-samuraitrooper01.html",
-      "source": "CGWORLD",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-04-13T01:00:55",
-      "image": "https://cgworld.jp/article/assets_c/2026/03/01_main_-thumb-1000x563-81446.jpg"
-    },
-    {
-      "title": "アニメイラスト画像のパーツ分割技術「See-through」オープンソース化　1枚のイラスト画像から奥行き順序付けされたレイヤー状態のPSDを - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202604-See-through.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-12T21:56:58",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/SeeThrough-01-thumb-1920x1080-82213.jpg"
-    },
-    {
-      "title": "『Concord』『Highguard』について「あの状況でどうすれば良かったか」と考える―『PUBG』責任者が「毎回成功するのは本当に難しい」との考え明かす",
-      "url": "https://www.gamebusiness.jp/article/2026/04/12/26671.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-04-12T02:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181158.jpg"
-    },
-    {
-      "title": "ベセスダ元幹部、好きな場所へ行き好きなことをできる複雑なゲームを開発したことを「リスペクトして欲しい」と語る",
-      "url": "https://www.gamebusiness.jp/article/2026/04/12/26670.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-04-12T02:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181169.jpg"
     }
   ]
 }
