@@ -1,141 +1,114 @@
 {
-  "generated_at": "2026-04-18T00:14:44.758013",
-  "poem": "おはようございます！ 🌞\n今日もゲーム業界は賑わっています。オープンワールドの新作「紅の砂漠」が好評となり、「餓狼伝説 CotW」には新キャラクターが登場します。\n特に注目されるのは、「NEOGEO AES+」の復活と「プラグマタ」の好調なスタートです 🎮\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-04-19T00:14:03.048166",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、様々なタイトルが新しいアップデートやコラボを発表しています。特に、『勝利の女神：NIKKE』の新SSRニケや『コルセア・コーヴ』の発表が注目されています 💻\nそれでは今日のニュースをどうぞ！",
   "articles": [
+    {
+      "title": "『勝利の女神：NIKKE』新SSRニケ「アニス：スター（CV.岡咲美保）」「アビスタ（CV.星谷美緒）」「ネオン：ビジョン・アイ（CV.日高里菜）」が発表！アビスタはログインボーナスとして無料で入手可能",
+      "url": "https://news.denfaminicogamer.jp/news/260418s",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-04-18T10:36:50",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/6bb1946dd6869307a57d85ff0cf58e6c.png"
+    },
+    {
+      "title": "『勝利の女神：NIKKE』「第4回NIKKEグローバル人気投票」の結果が発表。「シンデレラ」が1位に輝く！",
+      "url": "https://news.denfaminicogamer.jp/news/260418r",
+      "source": "電ファミニコゲーマー",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-04-18T10:23:09",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/WS000974.jpg"
+    },
+    {
+      "title": "荒くれ者の海賊たちを統治する都市建設ゲーム『コルセア・コーヴ』発表。崖や丘を活かした高低差のある拠点づくりや、50種類以上の資源による生産ラインを構築する",
+      "url": "https://news.denfaminicogamer.jp/news/260418m",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-18T08:22:56",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/Corsair-cove-beauty-shot-3.png"
+    },
+    {
+      "title": "『アップルシード』Kindle版が最大44％オフの1冊「385円」で購入できるセール中。主人公デュナンとサイボーグの恋人ブリアレオスの活躍を描くSFアクション",
+      "url": "https://news.denfaminicogamer.jp/news/260418w",
+      "source": "電ファミニコゲーマー",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-04-18T14:36:35",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/91xsYW3ipcL._SL1500_.jpg"
+    },
+    {
+      "title": "『リバース：1999』と『アトミックハート』のコラボが7月より開催決定！予告PVでは、妖艶な双子型ロボット「レフト」「ライト」とルーシーが共演するシーンも",
+      "url": "https://news.denfaminicogamer.jp/news/260418v",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-18T13:24:38",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/maxresdefault-16.jpg"
+    },
+    {
+      "title": "「Shadowverse: Worlds Beyond」，新たなカードパックやアップデート情報を発表する公式番組を4月24日に実施",
+      "url": "https://www.4gamer.net/games/760/G076035/20260417042/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-04-18T03:10:00",
+      "image": "https://www.4gamer.net/games/760/G076035/20260417042/SS/001.jpg"
+    },
+    {
+      "title": "［インタビュー］「GUILTY GEAR -STRIVE-」で実装された「Ver.2.00」アップデートの狙いと展望。まもなく5年目を迎える同作について話を聞いた",
+      "url": "https://www.4gamer.net/games/527/G052700/20260417012/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-04-18T03:00:00",
+      "image": "https://www.4gamer.net/games/527/G052700/20260417012/TN/003.jpg"
+    },
+    {
+      "title": "海賊と都市建設，自動化，そして探索が楽しめる新作「コルセア・コーヴ」発表。あの手この手で海賊の黄金時代を取り戻せ",
+      "url": "https://www.4gamer.net/games/000/G100030/20260418004/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-18T06:45:11",
+      "image": "https://www.4gamer.net/games/000/G100030/20260418004/SS/005.jpg"
+    },
+    {
+      "title": "シリーズ最大の進化を遂げる「Construction Simulator: Evolution」発表。建機180種類以上，ファン待望の解体要素も導入",
+      "url": "https://www.4gamer.net/games/000/G100027/20260418002/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-18T04:40:15",
+      "image": "https://www.4gamer.net/games/000/G100027/20260418002/SS/001.jpg"
+    },
     {
       "title": "オープンワールドの新しい基準となりえるか？ 「紅の砂漠」はなぜ賛否両論から好評へと覆ったのか。発売後1か月のいま，改めてレビューしてみよう",
       "url": "https://www.4gamer.net/games/484/G048495/20260417032/",
       "source": "4Gamer.net",
-      "category": "release",
+      "category": "other",
       "importance": "high",
       "published": "2026-04-18T00:00:00",
       "image": "https://www.4gamer.net/games/484/G048495/20260417032/SS/001.jpg"
     },
     {
-      "title": "「餓狼伝説 CotW」，復活せし闇の帝王「ヴォルフガング・クラウザー」をDLCキャラクターとして4月24日に配信。同時に大型アップデートも実施",
-      "url": "https://www.4gamer.net/games/649/G064915/20260417070/",
-      "source": "4Gamer.net",
+      "title": "Steamプレイヤー数が約80％減の『ARC Raiders』、「遠征」内容変更を発表―「金銭的価値を稼ぐ周回が、最も魅力的な体験ではない」",
+      "url": "https://www.gamebusiness.jp/article/2026/04/18/26716.html",
+      "source": "GameBusiness.jp",
       "category": "update",
       "importance": "high",
-      "published": "2026-04-17T14:11:33",
-      "image": "https://www.4gamer.net/games/649/G064915/20260417070/SS/001.jpg"
+      "published": "2026-04-18T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181607.jpg"
     },
     {
-      "title": "「ペルソナ5: The Phantom X」，Ver.3.6アップデートを実施。新★5怪盗「明智吾郎」がPICKUP怪ドル契約に登場",
-      "url": "https://www.4gamer.net/games/693/G069335/20260417051/",
-      "source": "4Gamer.net",
-      "category": "update",
+      "title": "『Clair Obscur: Expedition 33』がベストゲームに選出！ 英国アカデミー賞ゲーム部門「BAFTA Games Awards 2026」受賞作発表",
+      "url": "https://www.gamebusiness.jp/article/2026/04/18/26715.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
       "importance": "high",
-      "published": "2026-04-17T11:14:41",
-      "image": "https://www.4gamer.net/games/693/G069335/20260417051/SS/010.jpg"
-    },
-    {
-      "title": "100メガショックの「NEOGEO」が「NEOGEO AES+」として復活。エミュレーションではない高い再現度でゲームを楽しめる",
-      "url": "https://www.4gamer.net/games/999/G999903/20260417054/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-17T10:44:27",
-      "image": "https://www.4gamer.net/games/999/G999903/20260417054/SS/001.jpg"
-    },
-    {
-      "title": "空に浮かぶ都市を運営しながらオープンワールドを冒険できるRPG「Airborne Empire」，正式版をリリース",
-      "url": "https://www.4gamer.net/games/720/G072038/20260417021/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-17T15:00:00",
-      "image": "https://www.4gamer.net/games/720/G072038/20260417021/SS/001.jpg"
-    },
-    {
-      "title": "麒麟・川島が『超かぐや姫！』を語りまくる特別インタビュー解禁。普段アニメを観ないと言うわりには“解像度”が高すぎる",
-      "url": "https://news.denfaminicogamer.jp/news/2604173c",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-04-17T09:00:00",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2027/04/WhiteCanvas.jpg"
-    },
-    {
-      "title": "『プラグマタ』発売初日で最大同接「3万7000人」以上を記録。Steamで「圧倒的好評」のスタート",
-      "url": "https://news.denfaminicogamer.jp/news/2604173t",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-17T12:11:41",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/ss_9699288b90d0aad320e998f107b59edd27e9ea61.1920x1080-1.jpg"
-    },
-    {
-      "title": "『Among Us』スマホ版が“10億ダウンロード”を突破、Google Playにて。公式は「プレイしてくれてありがとう……興奮しすぎて通気口に吐きそう……最高だ……」とコメント",
-      "url": "https://news.denfaminicogamer.jp/news/2604173n",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-04-17T10:22:47",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/ss_1fbd9dc9fd6a2710d233a088ef426a6d78fcf884.1920x1080.jpg"
-    },
-    {
-      "title": "『餓狼伝説CotW』シーズン2のDLCキャラクター「ヴォルフガング・クラウザー」が4月24日より参戦。『餓狼伝説2』で初登場の、裏社会に君臨する「闇の帝王」",
-      "url": "https://news.denfaminicogamer.jp/news/2604173w",
-      "source": "電ファミニコゲーマー",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-04-17T14:26:15",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/main-66.jpg"
-    },
-    {
-      "title": "『新テニプリ』コラボカフェの原作再現がすごい。手塚のコラボドリンクを「コピー」した樺地の「コピードリンク」や「跡部王国アフタヌーンティーセット」など、個性的なコラボメニューが勢ぞろい",
-      "url": "https://news.denfaminicogamer.jp/news/2604173u",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-04-17T13:34:03",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/main-65.jpg"
-    },
-    {
-      "title": "PCゲーム市場では2025年、売上の半分以上が「トップ20圏外のゲーム」だったとの最新調査。実は“古株ゲーム”がどっしり支えてる",
-      "url": "https://automaton-media.com/articles/newsjp/20260417-438202/",
-      "source": "Automaton",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-04-17T10:17:05",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260417-438202-header.jpg"
-    },
-    {
-      "title": "TRPGルールブック閲覧アプリ「Rulebook App」正式発表、クローズドベータテスト募集開始。TRPGのいろんなルルブが、サプリも込みで読み放題",
-      "url": "https://automaton-media.com/articles/newsjp/rulebook-app-20260417-438133/",
-      "source": "Automaton",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-04-17T04:08:03",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/rulebook-app-20260417-438133-header.jpg"
-    },
-    {
-      "title": "『空の軌跡 the 2nd（ザ・セカンド）』9月17日発売へ。大ヒット『the 1st』に続くフルリメイク作、なんと1年経たずに出る",
-      "url": "https://automaton-media.com/articles/newsjp/20260416-437884/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-17T04:00:13",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260416-437884-header.jpg"
-    },
-    {
-      "title": "「壁面コロニー」建設運営シム『Wall World Strategy』発表。人気壁面探索ローグライトシリーズ新作は、壁面コロニー設営＆探索ゲームに",
-      "url": "https://automaton-media.com/articles/newsjp/wall-world-strategy-20260417-438115/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-17T03:29:22",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/wall-world-strategy-20260417-438115-header.jpg"
-    },
-    {
-      "title": "カプコン新作SFアクション『プラグマタ』初動でSteam同接約4万人の上々スタート。こだわり抜いた“斬新さ”押しハッキング×TPSが評判に",
-      "url": "https://automaton-media.com/articles/newsjp/20260417-438193/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-17T09:42:20",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260417-438193-header.jpg"
+      "published": "2026-04-18T11:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181614.jpg"
     },
     {
       "title": "100メガショック！家庭用ネオジオ本体がエミュ無しの互換性を維持し新機能と共に復刻「NEOGEO AES+」11月12日発売決定＆予約受付開始",
@@ -150,37 +123,91 @@
       "title": "スタンドアローンVR/MR機「Meta Quest 3/3S」値上げ発表・3が2万円強・3Sが1万円強―4月19日より",
       "url": "https://www.gamebusiness.jp/article/2026/04/17/26705.html",
       "source": "GameBusiness.jp",
-      "category": "industry",
+      "category": "tech",
       "importance": "high",
       "published": "2026-04-17T10:45:04",
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/181593.jpg"
     },
     {
-      "title": "『シムアース』ジャンルの復興を願って完全無料公開された惑星SLG『Gaia Maker』開発者インタビュー！『シムアース』愛とこだわり溢れる",
-      "url": "https://www.gamebusiness.jp/article/2026/04/17/26701.html",
+      "title": "一時公開停止となっていたSteam版『スターサンド・アイランド』のストアページが無事復活―懸念された『テトリス』風ミニゲーム削除に",
+      "url": "https://www.gamebusiness.jp/article/2026/04/18/26717.html",
       "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-04-17T03:00:05",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181467.jpg"
-    },
-    {
-      "title": "突撃！隣のAI活用術：ぴちきょさん：AIに「キャラ」を与えて先延ばし撃退！＆初心者向けClaude導入ガイド",
-      "url": "https://www.gamebusiness.jp/article/2026/04/17/26709.html",
-      "source": "GameBusiness.jp",
-      "category": "tech",
+      "category": "update",
       "importance": "normal",
-      "published": "2026-04-17T11:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181555.png"
+      "published": "2026-04-18T11:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181599.jpg"
     },
     {
-      "title": "子供の生成AI利用、保護者5割が前向きも使わせ方に悩み…花まる教育研究所",
-      "url": "https://www.gamebusiness.jp/article/2026/04/17/26708.html",
-      "source": "GameBusiness.jp",
+      "title": "Game Passに“ファーストパーティタイトル限定”の新プラン浮上か Xbox新トップが検討中と報じられる",
+      "url": "https://jp.ign.com/xbox-series-x/83184/game-pass-xbox",
+      "source": "IGN Japan",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-04-18T10:50:08",
+      "image": "https://sm.ign.com/ign_jp/news/g/game-pass-/game-pass-rumor-details_qgvz.jpg"
+    },
+    {
+      "title": "LenovoのフルHDモニター「ThinkVision E22-30」がAmazonにて10％オフ 過去最安値でタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83182/lenovohdthinkvision-e22-30amazon10",
+      "source": "IGN Japan",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-04-18T06:53:56",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_bw5h.jpg"
+    },
+    {
+      "title": "海賊成り上がり探索＆コロニー運営シム『コルセア・コーヴ』発表。断崖絶壁に拠点建築、王国を打倒しいずれ「海の覇者」を目指す",
+      "url": "https://automaton-media.com/articles/newsjp/corsair-cove-20260418-438252/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-18T01:02:09",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/corsair-cove-20260418-438252-header.jpg"
+    },
+    {
+      "title": "PCゲーム市場では2025年、売上の半分以上が「トップ20圏外のゲーム」だったとの最新調査。実は“古株ゲーム”がどっしり支えてる",
+      "url": "https://automaton-media.com/articles/newsjp/20260417-438202/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-04-17T10:17:05",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260417-438202-header.jpg"
+    },
+    {
+      "title": "『Clair Obscur:Expedition 33』がBAFTAのBest Gameを受賞し、“5大GOTY”完全制覇達成。史上2作目の快挙",
+      "url": "https://automaton-media.com/articles/newsjp/20260418-438247/",
+      "source": "Automaton",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-04-18T00:19:38",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260418-438247-header.jpg"
+    },
+    {
+      "title": "カプコン新作SFアクション『プラグマタ』初動でSteam同接約4万人の上々スタート。こだわり抜いた“斬新さ”押しハッキング×TPSが評判に",
+      "url": "https://automaton-media.com/articles/newsjp/20260417-438193/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-17T09:42:20",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260417-438193-header.jpg"
+    },
+    {
+      "title": "『Warframe』開発元新作『Soulframe』、タイトルに「ソウル」を付けなきゃよかったと開発者が猛烈に後悔。“ソウルライクと勘違い”多発した過去",
+      "url": "https://automaton-media.com/articles/newsjp/soulframe-20260418-438315/",
+      "source": "Automaton",
       "category": "industry",
       "importance": "normal",
-      "published": "2026-04-17T11:30:05",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181570.jpg"
+      "published": "2026-04-18T09:43:57",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/soulframe-20260418-438315-header.jpg"
+    },
+    {
+      "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/4/18】",
+      "url": "https://gamemakers.jp/article/2026_04_18_135660/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-04-18T01:58:03",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/04/846f4507280305e5eba7c9248efa4e4a.jpg"
     },
     {
       "title": "「Adobe Substance 3D Designer」を使った雷のエフェクトテクスチャ制作手法、C&R Creative Studiosがブログで解説",
@@ -189,7 +216,7 @@
       "category": "tech",
       "importance": "normal",
       "published": "2026-04-17T07:47:22",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/04/4907924aac8b6346f5ded5ae8e2494f7.jpg"
+      "image": null
     },
     {
       "title": "Canvaが提供する2Dモーショングラフィックス制作ツール「Cavalry」が無料化。個人利用は商用・非商用に問わず利用可能",
@@ -201,33 +228,6 @@
       "image": null
     },
     {
-      "title": "ソニーが展開するゲーミングギアブランド「INZONE」より、背面開放型ゲーミングヘッドセット「INZONE H6 Air」、有機ELゲーミングモニター「INZONE M10S II」が発売",
-      "url": "https://gamemakers.jp/article/2026_04_16_135667/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-16T10:35:42",
-      "image": null
-    },
-    {
-      "title": "アークシステムワークス、キャラクターデザインを目指す人向けに「デザインを決定するまでの社内フロー」を解説した動画を公開",
-      "url": "https://gamemakers.jp/article/2026_04_16_135671/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-16T08:48:37",
-      "image": null
-    },
-    {
-      "title": "Maxon、VFX＆コンポジットツール「Autograph 2026.0.0」リリース。個人ユーザーなら商用も含めて無料で使える",
-      "url": "https://gamemakers.jp/article/2026_04_16_135666/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-16T08:26:55",
-      "image": null
-    },
-    {
       "title": "3Dプリント用データ最適化ソフト「3DP3」最新版をミマキエンジニアリングが発表。6月提供開始 - ニュース",
       "url": "https://cgworld.jp/flashnews/02-2604-mimaki.html",
       "source": "CGWORLD",
@@ -235,51 +235,6 @@
       "importance": "high",
       "published": "2026-04-17T06:35:23",
       "image": null
-    },
-    {
-      "title": "国内初！VICON認定講座！モーションキャプチャ・スペシャリスト養成講座が5月より開催 - ニュース",
-      "url": "https://cgworld.jp/flashnews/2605-vicon.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-16T10:29:29",
-      "image": "https://cgworld.jp/flashnews/assets_c/2025/07/vicon_main-thumb-1920x1080-71251.jpg"
-    },
-    {
-      "title": "Blenderアドオン「Gemgen」リリース　宝石特有の複雑なカット形状をパラメトリックに表現、ギズモ操作による直感的な形状調整が可能 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202604-Gemgen.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-16T00:23:24",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/GemGen-01-thumb-1920x960-82316.jpg"
-    },
-    {
-      "title": "『トモダチコレクション わくわく生活』はプレイヤーの情熱次第で評価が変わるゲーム？海外レビュー分析で見えてくる魅力と問題点",
-      "url": "https://jp.ign.com/tomodachi-collection-wakuwaku-seikatsu/83172/",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-04-16T01:30:28",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/tom_ka6t.jpg"
-    },
-    {
-      "title": "『トモダチコレクション わくわく生活』は異常に厳しい共有制限に泣く、最高に笑えるシミュレーションゲーム――IGN USのレビューを全文掲載",
-      "url": "https://jp.ign.com/tomodachi-collection-wakuwaku-seikatsu/83170/ign-us",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-04-16T01:02:35",
-      "image": "https://sm.ign.com/ign_jp/review/t/tomodachi-/tomodachi-life-living-the-dream-review_abns.jpg"
-    },
-    {
-      "title": "Philipsの超軽量ゲーミングマウス「SPK9418」が26%オフでセール中 本体重量わずか52g、2025年末発売の製品が早くもお買い得に",
-      "url": "https://jp.ign.com/gaming-device/83169/philipsspk941826-52g2025",
-      "source": "IGN Japan",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-16T05:11:51",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_55d6.png"
     }
   ]
 }
