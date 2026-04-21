@@ -1,141 +1,168 @@
 {
-  "generated_at": "2026-04-20T00:15:19.128724",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、 '_ドラゴンボール ゼノバース3_' の発表や '_メタルスラッグ_' シリーズの30周年プロジェクトなど、注目の情報がたくさんです。\nそれでは今日のニュースをどうぞ！ 👋",
+  "generated_at": "2026-04-21T00:17:39.868884",
+  "poem": "おはようございます！ 🌞\n今日もゲーム業界は活発に動いています。Netflixによる『ガンダム』の実写映画や、『エルデンリング』の映画化が決定したり、人気ゲームのアップデートや新作発表など、注目すべきニュースがたくさんです。 \nそれでは今日のニュースをどうぞ！ 🎮",
   "articles": [
     {
-      "title": "『ドラゴンボール ゼノバース3』発表、来年発売へ。「未来のドラゴンボール世界」にて、 鳥山明氏が描いた新キャラたちと共に活躍する",
-      "url": "https://automaton-media.com/articles/newsjp/20260420-438424/",
-      "source": "Automaton",
+      "title": "『LINE: ガンダム ウォーズ』6月30日15時にサービスを終了すると発表。約10年間の歴史に幕を下ろす",
+      "url": "https://news.denfaminicogamer.jp/news/2604202x",
+      "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-04-19T23:36:04",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260420-438424-header.jpeg"
+      "published": "2026-04-20T10:37:04",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/main-76.jpg"
     },
     {
-      "title": "『Metro』シリーズ最新作『METRO 2039』がついに発表、今冬リリースへ。傑作『洞窟物語』Steam版にまさかの大型アプデ。今週の見逃せないゲーム記事7選",
-      "url": "https://automaton-media.com/articles/newsjp/20260419-438354/",
-      "source": "Automaton",
+      "title": "実写映画版『ガンダム』制作開始、主演キャスト一覧が公開。Netflixが配信するシリーズ初の実写映画版で、地球とスペースコロニーとの間で勃発した戦争の中、パイロットたちの苦闘が描かれる",
+      "url": "https://news.denfaminicogamer.jp/news/260421f",
+      "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-04-19T03:21:12",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260419-438354-header.jpg"
+      "published": "2026-04-20T23:37:44",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/HGXSRiAWkAAPGau.jpg"
     },
     {
-      "title": "海賊成り上がり探索＆コロニー運営シム『コルセア・コーヴ』発表。断崖絶壁に拠点建築、王国を打倒しいずれ「海の覇者」を目指す",
-      "url": "https://automaton-media.com/articles/newsjp/corsair-cove-20260418-438252/",
-      "source": "Automaton",
+      "title": "Appleのティム・クック氏がCEOを退任へ。クック氏は取締役会の会長となり、次期CEOにはハードウェア・エンジニアリング担当のジョン・ターナス氏が2026年9月1日付で就任。この人事は長期的な後継者育成計画に基づいて全会一致で承認",
+      "url": "https://news.denfaminicogamer.jp/news/260421a",
+      "source": "電ファミニコゲーマー",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-04-20T21:11:50",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/792374b96ded0236ff28fa09850ee820.png"
+    },
+    {
+      "title": "『エルデンリング』の映画が2028年3月3日に公開決定。キット・コナー氏やベン・ウィショー氏ら、キャスト情報も解禁",
+      "url": "https://news.denfaminicogamer.jp/news/2604203c",
+      "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-04-18T01:02:09",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/corsair-cove-20260418-438252-header.jpg"
+      "published": "2026-04-20T13:10:21",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/HGWHWBCaIAAIdtV.jpg"
     },
     {
-      "title": "ゲームフリーク新作『Beast of Reincarnation』国内PS5版も8月4日リリースへ。4026年の日本を“1人と1匹”が旅する、「アクション×コマンド」ハイブリッド型RPG",
-      "url": "https://automaton-media.com/articles/newsjp/20260419-438362/",
-      "source": "Automaton",
+      "title": "『ヴァンサバ』開発元の新作デッキ構築ローグライク『Vampire Crawlers』がメタスコア80点の高評価を獲得。ジャンルが変わっても前作譲りの中毒性は健在",
+      "url": "https://news.denfaminicogamer.jp/news/260421e",
+      "source": "電ファミニコゲーマー",
       "category": "release",
-      "importance": "high",
-      "published": "2026-04-20T00:01:50",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260419-438362-header.jpg"
-    },
-    {
-      "title": "『プラグマタ』はカプコンのセクシー技術力炸裂。『Windrose / ウィンドローズ』の海賊特化なユニークさ。『Gaia Maker』で『シムアース』気分を取り戻す。今週のゲーミング",
-      "url": "https://automaton-media.com/articles/now-gaming/20260419-438391/",
-      "source": "Automaton",
-      "category": "other",
       "importance": "normal",
-      "published": "2026-04-19T08:03:23",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260419-438391-005.jpg"
+      "published": "2026-04-20T23:10:25",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/ss_b13c774f5b111e8be93312d1f98fa11ed7e3a981.1920x1080.jpg"
     },
     {
-      "title": "「Shadowverse: Worlds Beyond」，新たなカードパックやアップデート情報を発表する公式番組を4月24日に実施",
-      "url": "https://www.4gamer.net/games/760/G076035/20260417042/",
+      "title": "『アサシン クリード ブラック フラッグ RE:シンクロ』いよいよ4月24日正式発表へ。『アサクリ4』のリメイク作がついに来る",
+      "url": "https://automaton-media.com/articles/newsjp/20260421-438687/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-20T23:30:44",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260421-438687-header.jpg"
+    },
+    {
+      "title": "『サカつく2026』Ver.1.3アプデ4月23日配信へ。アーリング・ハーランドなど登場のマンC記念SP選手スカウト発表、「油野茂一」復活の新イベントなど情報盛りだくさんのサカつくTVまとめ",
+      "url": "https://automaton-media.com/articles/newsjp/20260420-438659/",
+      "source": "Automaton",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-04-20T13:18:36",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260420-438659-header.jpg"
+    },
+    {
+      "title": "『怪獣８号 THE GAME』新★5キャラクター「五十嵐ジュラ」無料配布アプデ配信。実装と同時に1体太っ腹プレゼント",
+      "url": "https://automaton-media.com/articles/newsjp/20260420-438589/",
+      "source": "Automaton",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-04-20T09:00:07",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260420-438589-header.jpg"
+    },
+    {
+      "title": "大ヒット中のカプコン新作『プラグマタ』オープニング画面には、実は仕掛けがある。待ち時間約3分40秒",
+      "url": "https://automaton-media.com/articles/newsjp/20260420-438549/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-20T08:23:20",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260420-438549-header.jpg"
+    },
+    {
+      "title": "人狼ゲーム×デッキ構築ローグライク『Demon Bluff』正式発表。“職業詐称”ウソつき悪魔を処刑、大物配信者も携わる期待作",
+      "url": "https://automaton-media.com/articles/newsjp/20260420-438524/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-20T06:50:24",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260420-438524-header.jpg"
+    },
+    {
+      "title": "「刀剣乱舞ONLINE」，新たな刀剣男士「柏太刀」（CV：岩中睦樹）を発表。山の頂点に君臨する高位神格の大太刀",
+      "url": "https://www.4gamer.net/games/274/G027460/20260420039/",
       "source": "4Gamer.net",
       "category": "update",
       "importance": "high",
-      "published": "2026-04-18T03:10:00",
-      "image": "https://www.4gamer.net/games/760/G076035/20260417042/SS/001.jpg"
+      "published": "2026-04-20T09:55:32",
+      "image": "https://www.4gamer.net/games/274/G027460/20260420039/SS/001.jpg"
     },
     {
-      "title": "ゲームフリークの新作アクションRPG「Beast of Reincarnation」，PS5向けパッケージ版が8月4日にハピネットから発売決定",
-      "url": "https://www.4gamer.net/games/918/G091816/20260417066/",
+      "title": "「ELDEN RING」の実写映画が2028年3月公開を目指して今春制作開始。出演者も明らかに",
+      "url": "https://www.4gamer.net/games/463/G046388/20260420056/",
       "source": "4Gamer.net",
       "category": "release",
       "importance": "high",
-      "published": "2026-04-20T00:00:00",
-      "image": "https://www.4gamer.net/games/918/G091816/20260417066/SS/004.jpg"
+      "published": "2026-04-20T14:34:53",
+      "image": "https://www.4gamer.net/games/463/G046388/20260420056/SS/002.jpg"
     },
     {
-      "title": "海賊と都市建設，自動化，そして探索が楽しめる新作「コルセア・コーヴ」発表。あの手この手で海賊の黄金時代を取り戻せ",
-      "url": "https://www.4gamer.net/games/000/G100030/20260418004/",
+      "title": "インディーゲーム紹介番組「INDIE Live Expo」は4月25日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+      "url": "https://www.4gamer.net/games/421/G042182/20260420052/",
       "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-18T06:45:11",
-      "image": "https://www.4gamer.net/games/000/G100030/20260418004/SS/005.jpg"
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-04-20T23:00:00",
+      "image": "https://www.4gamer.net/games/421/G042182/20260420052/SS/004.png"
     },
     {
-      "title": "シリーズ最大の進化を遂げる「Construction Simulator: Evolution」発表。建機180種類以上，ファン待望の解体要素も導入",
-      "url": "https://www.4gamer.net/games/000/G100027/20260418002/",
+      "title": "AIが宿った肉体で企業都市の闇に挑む「REPLACED」（ほぼ日 インディーPick Up！）",
+      "url": "https://www.4gamer.net/games/577/G057752/20260416022/",
       "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-18T04:40:15",
-      "image": "https://www.4gamer.net/games/000/G100027/20260418002/SS/001.jpg"
-    },
-    {
-      "title": "「メタルスラッグ」シリーズ30周年を記念するプロジェクト始動。新作の開発を含むさまざまな企画を展開予定",
-      "url": "https://www.4gamer.net/games/811/G081100/20260419001/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-19T04:20:17",
-      "image": "https://www.4gamer.net/games/811/G081100/20260419001/SS/002.jpg"
-    },
-    {
-      "title": "海賊PvEサバイバルゲーム『ウィンドローズ』発売から約1週間で売上本数“100万本”を突破、同接数は“22万人”を超える人気ぶり。ユーザーからは「こういうのでいいんだよ」「ハマりすぎる」とコメント相次ぐ",
-      "url": "https://news.denfaminicogamer.jp/news/260420e",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-04-19T23:05:59",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/Windrose_-Raging-Seas-Trailer-0-50-screenshot.jpg"
-    },
-    {
-      "title": "新作『ドラゴンボール ゼノバース3』発表！2027年に発売予定。プレイヤーは『ドラゴンボール』の未来の世界「AGE 1000」で、「GS戦隊（グレートサイヤ戦隊）」の一員として闘う",
-      "url": "https://news.denfaminicogamer.jp/news/260420b",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-19T21:41:27",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/DRAGON-BALL-XENOVERSE-3-Announcement-Trailer-0-29-screenshot.jpg"
-    },
-    {
-      "title": "『メタルスラッグ』2026年4月19日でシリーズ30周年を迎える。新作ゲーム開発を含む記念プロジェクト始動",
-      "url": "https://news.denfaminicogamer.jp/news/260419d",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-19T04:47:31",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/main-67.jpg"
-    },
-    {
-      "title": "キーボードの形をした農園を育てるデスクトップアプリ『指先農園』Steamで4月20日発売。タイピングやクリックと連動して作物が育っていく",
-      "url": "https://news.denfaminicogamer.jp/news/260419n",
-      "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "normal",
-      "published": "2026-04-19T13:52:52",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/ss_356a34e0720d1583fc11804d17fd995fb10adacd.1920x1080.jpg"
+      "published": "2026-04-20T22:00:00",
+      "image": "https://www.4gamer.net/games/577/G057752/20260416022/SS/010.jpg"
     },
     {
-      "title": "『Forza Horizon 5』を50％オフの3795円で買えるセールがSteamで開催中。オープンワールドで描かれるメキシコを数百台の名車でドライブできる",
-      "url": "https://news.denfaminicogamer.jp/news/260419m",
-      "source": "電ファミニコゲーマー",
-      "category": "sale",
+      "title": "「崩壊：スターレイル」×スシロー，コラボ「黄金の一皿」が4月27日より全国で開催。限定グッズ付きメニューやコラボ店舗が登場",
+      "url": "https://www.4gamer.net/games/599/G059954/20260420051/",
+      "source": "4Gamer.net",
+      "category": "industry",
       "importance": "normal",
-      "published": "2026-04-19T12:45:35",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/ss_00f0090174380eeaf8753bd3d1028b6772c3aebf.1920x1080.jpg"
+      "published": "2026-04-20T11:35:03",
+      "image": "https://www.4gamer.net/games/599/G059954/20260420051/SS/001.jpg"
+    },
+    {
+      "title": "オートデスク、Maya・3ds Max・Flow Studioの最新AIツール群を紹介　Mayaの自動モーション生成からパイプラインのアップデートまで - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202604-Autodesk-AI.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-04-20T22:27:20",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/AutodeskAI-01-thumb-1920x1080-82442.jpg"
+    },
+    {
+      "title": "「Marvelous Designer 2026」リリース ― 3Dペンシルや衣装リギング自動化機能を搭載 - ニュース",
+      "url": "https://cgworld.jp/flashnews/03-2604-marvelousdesigner.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-20T06:40:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/maxresdefault%20%285%29-thumb-1280x720-82326.jpg"
+    },
+    {
+      "title": "劇場版『チェンソーマン レゼ篇』縁の下からキャラクターの完成度を引き上げる\"見えない工程\"の3DCG 〜No.1／デザイン＆モデリング篇 - 特集",
+      "url": "https://cgworld.jp/article/cgw330-chainsawreze01.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-04-20T01:00:52",
+      "image": "https://cgworld.jp/article/assets_c/2026/04/b4e217e65e329e61c8916447ec5775b8733e37dc-thumb-1000x417-81900.png"
     },
     {
       "title": "スタジオブロス、6/11（木）より全10回のTwinmotionで建築パース制作を体系的に学ぶセミナー開講 - ニュース",
@@ -156,6 +183,78 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/04/OpenUSD2603-01-thumb-1920x1080-82426.jpg"
     },
     {
+      "title": "海賊オープンワールドサバイバルクラフト『Windrose』発売から6日で売上本数100万本突破！Steam同時接続プレイヤー数は20万人超え",
+      "url": "https://www.gamebusiness.jp/article/2026/04/20/26723.html",
+      "source": "GameBusiness.jp",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-20T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181717.png"
+    },
+    {
+      "title": "コーエーテクモ、経常利益予想を50％上方修正——売上高・純利益ともに過去最高の見込み",
+      "url": "https://www.gamebusiness.jp/article/2026/04/20/26722.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-04-20T10:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181656.png"
+    },
+    {
+      "title": "アプリのアップデート、半数超がネガティブな印象──NEXER調査で浮かぶ「面倒」「不具合が心配」の本音",
+      "url": "https://www.gamebusiness.jp/article/2026/04/20/26720.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-04-20T09:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181648.png"
+    },
+    {
+      "title": "10年ぶりシリーズ最新作『ドラゴンボール ゼノバース3』2027年発売！これまで見たことのない未来の世界が舞台",
+      "url": "https://www.gamebusiness.jp/article/2026/04/20/26724.html",
+      "source": "GameBusiness.jp",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-20T11:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181702.png"
+    },
+    {
+      "title": "ドスパラ、生成AIと著作権を弁護士が解説する無料オンラインセミナーを5月18日に開催",
+      "url": "https://www.gamebusiness.jp/article/2026/04/20/26721.html",
+      "source": "GameBusiness.jp",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-20T09:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181653.webp"
+    },
+    {
+      "title": "新作「どうぶつの森」のカギとなるのは“ユーザー生成コンテンツ”ではないか？マンネリを解消する「危険な銀の弾丸」",
+      "url": "https://jp.ign.com/animal-crossing-switch/83191/",
+      "source": "IGN Japan",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-20T09:59:01",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/dmori_qvfe.png"
+    },
+    {
+      "title": "海賊オープンワールドサバイバルクラフト『Windrose』が早くも100万本を突破",
+      "url": "https://jp.ign.com/windrose/83187/windrose100",
+      "source": "IGN Japan",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-20T03:29:44",
+      "image": "https://sm.ign.com/ign_jp/blogroll/default/windrose-1776619841895_g333.jpg"
+    },
+    {
+      "title": "Epic Games、インディーゲーム開発スタジオへのインタビュー記事などを「Indie Games Week 2026」にて公開",
+      "url": "https://gamemakers.jp/article/2026_04_20_135864/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-04-20T08:06:59",
+      "image": null
+    },
+    {
       "title": "工場設備をモチーフにした90種類以上の3Dモデルが収録。アセットパック『Conveyor Kit』アップデート版、Webサイト「Kenney」にて無料で公開",
       "url": "https://gamemakers.jp/article/2026_04_19_135745/",
       "source": "ゲームメーカーズ",
@@ -165,76 +264,13 @@
       "image": null
     },
     {
-      "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/4/18】",
-      "url": "https://gamemakers.jp/article/2026_04_18_135660/",
+      "title": "ゲーム制作プラットフォーム「EdenSpark」によるコンテスト型ゲームジャム「EdenSpark Game Jam」が2026年5月より開催",
+      "url": "https://gamemakers.jp/article/2026_04_20_135856/",
       "source": "ゲームメーカーズ",
       "category": "tech",
-      "importance": "high",
-      "published": "2026-04-18T01:58:03",
+      "importance": "normal",
+      "published": "2026-04-20T06:53:44",
       "image": null
-    },
-    {
-      "title": "Steamプレイヤー数が約80％減の『ARC Raiders』、「遠征」内容変更を発表―「金銭的価値を稼ぐ周回が、最も魅力的な体験ではない」",
-      "url": "https://www.gamebusiness.jp/article/2026/04/18/26716.html",
-      "source": "GameBusiness.jp",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-04-18T11:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181607.jpg"
-    },
-    {
-      "title": "『Clair Obscur: Expedition 33』がベストゲームに選出！ 英国アカデミー賞ゲーム部門「BAFTA Games Awards 2026」受賞作発表",
-      "url": "https://www.gamebusiness.jp/article/2026/04/18/26715.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-04-18T11:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181614.jpg"
-    },
-    {
-      "title": "一時公開停止となっていたSteam版『スターサンド・アイランド』のストアページが無事復活―懸念された『テトリス』風ミニゲーム削除に",
-      "url": "https://www.gamebusiness.jp/article/2026/04/18/26717.html",
-      "source": "GameBusiness.jp",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-04-18T11:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181599.jpg"
-    },
-    {
-      "title": "12年の歴史に幕…宇宙TPS『Star Conflict』10月10日サービス終了。サーバー停止前に全プレイヤー完全無料のゲーム内アクティビティ提供予定",
-      "url": "https://www.gamebusiness.jp/article/2026/04/18/26714.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-04-18T11:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181619.jpg"
-    },
-    {
-      "title": "『PUBG Mobile』『スト6』『ポケモンユナイト』など、アジア大会eスポーツ日本代表候補が全種目決定！",
-      "url": "https://www.gamebusiness.jp/article/2026/04/18/26713.html",
-      "source": "GameBusiness.jp",
-      "category": "esports",
-      "importance": "normal",
-      "published": "2026-04-18T10:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181626.jpg"
-    },
-    {
-      "title": "Game Passに“ファーストパーティタイトル限定”の新プラン浮上か Xbox新トップが検討中と報じられる",
-      "url": "https://jp.ign.com/xbox-series-x/83184/game-pass-xbox",
-      "source": "IGN Japan",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-04-18T10:50:08",
-      "image": "https://sm.ign.com/ign_jp/news/g/game-pass-/game-pass-rumor-details_qgvz.jpg"
-    },
-    {
-      "title": "LenovoのフルHDモニター「ThinkVision E22-30」がAmazonにて10％オフ 過去最安値でタイムセール中",
-      "url": "https://jp.ign.com/gaming-device/83182/lenovohdthinkvision-e22-30amazon10",
-      "source": "IGN Japan",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-18T06:53:56",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_bw5h.jpg"
     }
   ]
 }
