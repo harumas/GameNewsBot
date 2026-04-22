@@ -1,141 +1,96 @@
 {
-  "generated_at": "2026-04-21T00:17:39.868884",
-  "poem": "おはようございます！ 🌞\n今日もゲーム業界は活発に動いています。Netflixによる『ガンダム』の実写映画や、『エルデンリング』の映画化が決定したり、人気ゲームのアップデートや新作発表など、注目すべきニュースがたくさんです。 \nそれでは今日のニュースをどうぞ！ 🎮",
+  "generated_at": "2026-04-22T00:14:45.756842",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、スプラトゥーン レイダースの発売決定や大作MMORPGの続編AION2の日本配信決定など、盛り沢山です！\n注目のニュースは、Xbox Game Passの値下げや新作ゲームの公開などが目玉です！ 🎮\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "『LINE: ガンダム ウォーズ』6月30日15時にサービスを終了すると発表。約10年間の歴史に幕を下ろす",
-      "url": "https://news.denfaminicogamer.jp/news/2604202x",
+      "title": "『スプラトゥーン レイダース』が7月23日に発売決定！！斧のような新ブキ「ズバットスラッシャー」やマンタローに乗って戦う姿を映したゲームプレイ映像公開",
+      "url": "https://news.denfaminicogamer.jp/news/2604213m",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-04-20T10:37:04",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/main-76.jpg"
+      "published": "2026-04-21T12:51:28",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/small.webp"
     },
     {
-      "title": "実写映画版『ガンダム』制作開始、主演キャスト一覧が公開。Netflixが配信するシリーズ初の実写映画版で、地球とスペースコロニーとの間で勃発した戦争の中、パイロットたちの苦闘が描かれる",
-      "url": "https://news.denfaminicogamer.jp/news/260421f",
+      "title": "クトゥルフ神話「狂気の山脈にて」をよちよち歩きのペンギン目線で見届けるゲーム『Penguin Colony』の新映像公開。『ディスコエリジウム』のナレーターLenval Brown氏による激渋ナレーションで送る、探索者の独白",
+      "url": "https://news.denfaminicogamer.jp/news/260422d",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-04-20T23:37:44",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/HGXSRiAWkAAPGau.jpg"
+      "published": "2026-04-21T22:53:41",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/PENGUIN-COLONY-Coming-2026-0-50-screenshot.jpg"
     },
     {
-      "title": "Appleのティム・クック氏がCEOを退任へ。クック氏は取締役会の会長となり、次期CEOにはハードウェア・エンジニアリング担当のジョン・ターナス氏が2026年9月1日付で就任。この人事は長期的な後継者育成計画に基づいて全会一致で承認",
-      "url": "https://news.denfaminicogamer.jp/news/260421a",
-      "source": "電ファミニコゲーマー",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-04-20T21:11:50",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/792374b96ded0236ff28fa09850ee820.png"
-    },
-    {
-      "title": "『エルデンリング』の映画が2028年3月3日に公開決定。キット・コナー氏やベン・ウィショー氏ら、キャスト情報も解禁",
-      "url": "https://news.denfaminicogamer.jp/news/2604203c",
+      "title": "大作MMORPGの続編『AION2』2026年に日本でも配信決定。前作の“約36倍”に及ぶ超広大な世界を舞台に冒険できる。200項目以上のキャラメイクを搭載し、倒したモンスターを騎乗用に解放する新機能も実装",
+      "url": "https://news.denfaminicogamer.jp/news/260422f",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-04-20T13:10:21",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/HGWHWBCaIAAIdtV.jpg"
+      "published": "2026-04-21T23:47:28",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/maxresdefault-18.jpg"
     },
     {
-      "title": "『ヴァンサバ』開発元の新作デッキ構築ローグライク『Vampire Crawlers』がメタスコア80点の高評価を獲得。ジャンルが変わっても前作譲りの中毒性は健在",
-      "url": "https://news.denfaminicogamer.jp/news/260421e",
+      "title": "「Xbox Game Pass」値下げ。「Ultimate」が月額2750円→1550円、「PC Game Pass」が1550円→1300円へ。一方で今後発売される『CoD』新作は、「Game Pass」への初日からの追加を廃止",
+      "url": "https://news.denfaminicogamer.jp/news/260422c",
       "source": "電ファミニコゲーマー",
-      "category": "release",
+      "category": "sale",
+      "importance": "high",
+      "published": "2026-04-21T22:03:27",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/JA-JP_Xbox-Game-Pass-Update-1-2b6eb543fd2a70c1a32e-1536x864-1.jpg"
+    },
+    {
+      "title": "中国のeスポーツチームJD Gamingに「子犬」が加入。“おやつ満載”の契約を経て仲間入り、トレーニング施設の「社交家」に",
+      "url": "https://news.denfaminicogamer.jp/news/2604213o",
+      "source": "電ファミニコゲーマー",
+      "category": "esports",
       "importance": "normal",
-      "published": "2026-04-20T23:10:25",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/ss_b13c774f5b111e8be93312d1f98fa11ed7e3a981.1920x1080.jpg"
+      "published": "2026-04-21T15:12:22",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/HGaG0aoaIAAdJa1.jpeg"
     },
     {
-      "title": "『アサシン クリード ブラック フラッグ RE:シンクロ』いよいよ4月24日正式発表へ。『アサクリ4』のリメイク作がついに来る",
-      "url": "https://automaton-media.com/articles/newsjp/20260421-438687/",
-      "source": "Automaton",
+      "title": "「スプラトゥーン レイダース」，7月23日に発売決定。ゲームプレイ映像を収録したトレイラーが公開に",
+      "url": "https://www.4gamer.net/games/919/G091973/20260421045/",
+      "source": "4Gamer.net",
       "category": "release",
       "importance": "high",
-      "published": "2026-04-20T23:30:44",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260421-438687-header.jpg"
+      "published": "2026-04-21T13:26:14",
+      "image": "https://www.4gamer.net/games/919/G091973/20260421045/SS/001.jpg"
     },
     {
-      "title": "『サカつく2026』Ver.1.3アプデ4月23日配信へ。アーリング・ハーランドなど登場のマンC記念SP選手スカウト発表、「油野茂一」復活の新イベントなど情報盛りだくさんのサカつくTVまとめ",
-      "url": "https://automaton-media.com/articles/newsjp/20260420-438659/",
-      "source": "Automaton",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-04-20T13:18:36",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260420-438659-header.jpg"
-    },
-    {
-      "title": "『怪獣８号 THE GAME』新★5キャラクター「五十嵐ジュラ」無料配布アプデ配信。実装と同時に1体太っ腹プレゼント",
-      "url": "https://automaton-media.com/articles/newsjp/20260420-438589/",
-      "source": "Automaton",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-04-20T09:00:07",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260420-438589-header.jpg"
-    },
-    {
-      "title": "大ヒット中のカプコン新作『プラグマタ』オープニング画面には、実は仕掛けがある。待ち時間約3分40秒",
-      "url": "https://automaton-media.com/articles/newsjp/20260420-438549/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-20T08:23:20",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260420-438549-header.jpg"
-    },
-    {
-      "title": "人狼ゲーム×デッキ構築ローグライク『Demon Bluff』正式発表。“職業詐称”ウソつき悪魔を処刑、大物配信者も携わる期待作",
-      "url": "https://automaton-media.com/articles/newsjp/20260420-438524/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-20T06:50:24",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260420-438524-header.jpg"
-    },
-    {
-      "title": "「刀剣乱舞ONLINE」，新たな刀剣男士「柏太刀」（CV：岩中睦樹）を発表。山の頂点に君臨する高位神格の大太刀",
-      "url": "https://www.4gamer.net/games/274/G027460/20260420039/",
+      "title": "「Delta Force」，シーズンアップデート「エコー」を本日実施。索敵や妨害を得意とするオペレーター「ルーク・エバリー」が参戦",
+      "url": "https://www.4gamer.net/games/732/G073256/20260421030/",
       "source": "4Gamer.net",
       "category": "update",
       "importance": "high",
-      "published": "2026-04-20T09:55:32",
-      "image": "https://www.4gamer.net/games/274/G027460/20260420039/SS/001.jpg"
+      "published": "2026-04-21T09:12:12",
+      "image": "https://www.4gamer.net/games/732/G073256/20260421030/SS/001.jpg"
     },
     {
-      "title": "「ELDEN RING」の実写映画が2028年3月公開を目指して今春制作開始。出演者も明らかに",
-      "url": "https://www.4gamer.net/games/463/G046388/20260420056/",
+      "title": "はじめてでも安心！ 2人の主人公＆ニャンコと旅する「モンギル：STAR DIVE」序盤の進め方",
+      "url": "https://www.4gamer.net/games/857/G085718/20260420049/",
       "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-20T14:34:53",
-      "image": "https://www.4gamer.net/games/463/G046388/20260420056/SS/002.jpg"
-    },
-    {
-      "title": "インディーゲーム紹介番組「INDIE Live Expo」は4月25日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
-      "url": "https://www.4gamer.net/games/421/G042182/20260420052/",
-      "source": "4Gamer.net",
-      "category": "industry",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-04-20T23:00:00",
-      "image": "https://www.4gamer.net/games/421/G042182/20260420052/SS/004.png"
+      "published": "2026-04-21T23:00:00",
+      "image": "https://www.4gamer.net/games/857/G085718/20260420049/SS/002.jpg"
     },
     {
-      "title": "AIが宿った肉体で企業都市の闇に挑む「REPLACED」（ほぼ日 インディーPick Up！）",
-      "url": "https://www.4gamer.net/games/577/G057752/20260416022/",
+      "title": "手紙が形を変えながら時空を越える旅へ。折り紙アドベンチャー「Origament: A Paper Adventure」（ほぼ日 インディーPick Up！）",
+      "url": "https://www.4gamer.net/games/984/G098499/20260416025/",
       "source": "4Gamer.net",
       "category": "release",
       "importance": "normal",
-      "published": "2026-04-20T22:00:00",
-      "image": "https://www.4gamer.net/games/577/G057752/20260416022/SS/010.jpg"
+      "published": "2026-04-21T22:00:00",
+      "image": "https://www.4gamer.net/games/984/G098499/20260416025/SS/009.jpg"
     },
     {
-      "title": "「崩壊：スターレイル」×スシロー，コラボ「黄金の一皿」が4月27日より全国で開催。限定グッズ付きメニューやコラボ店舗が登場",
-      "url": "https://www.4gamer.net/games/599/G059954/20260420051/",
+      "title": "「チェンクロ」，時の楔を所持するSSR「ミズクン」が登場。森永製菓コラボ 第8弾もスタート",
+      "url": "https://www.4gamer.net/games/223/G022384/20260421044/",
       "source": "4Gamer.net",
-      "category": "industry",
+      "category": "update",
       "importance": "normal",
-      "published": "2026-04-20T11:35:03",
-      "image": "https://www.4gamer.net/games/599/G059954/20260420051/SS/001.jpg"
+      "published": "2026-04-21T11:30:32",
+      "image": "https://www.4gamer.net/games/223/G022384/20260421044/SS/003.jpg"
     },
     {
       "title": "オートデスク、Maya・3ds Max・Flow Studioの最新AIツール群を紹介　Mayaの自動モーション生成からパイプラインのアップデートまで - ニュース",
@@ -147,6 +102,33 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/04/AutodeskAI-01-thumb-1920x1080-82442.jpg"
     },
     {
+      "title": "HoudiniとUnreal Engineによるプロシージャルジェネレータのブレイクダウン公開　『ゼルダの伝説 ティアーズ オブ ザ キングダム』の空島にインスパイア - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202604-SkyIsland.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-21T22:40:10",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/Houdini_UE_SkyIsland-01-thumb-1920x1080-82480.jpg"
+    },
+    {
+      "title": "Whateverが開発中のストップモーション時代劇『HIDARI』、カンヌ国際映画祭「Annecy Animation Showcase」に選出 - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2604-hidari.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-21T02:21:18",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/40758-53-0652cc76be66bedfc0beacb26592edf0-1920x1080-thumb-1000x563-82447.jpg"
+    },
+    {
+      "title": "エプソンダイレクトが、高性能ミニタワーPC『Endeavor MR8500』を新発売。高負荷業務に応える処理性能と省スペース性を両立 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-2604-epsondirect.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-21T02:00:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/f04a37c11e09cfa2fa3faca4fbcde70f30f1169b-thumb-807x480-82441.jpeg"
+    },
+    {
       "title": "「Marvelous Designer 2026」リリース ― 3Dペンシルや衣装リギング自動化機能を搭載 - ニュース",
       "url": "https://cgworld.jp/flashnews/03-2604-marvelousdesigner.html",
       "source": "CGWORLD",
@@ -156,31 +138,58 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/04/maxresdefault%20%285%29-thumb-1280x720-82326.jpg"
     },
     {
-      "title": "劇場版『チェンソーマン レゼ篇』縁の下からキャラクターの完成度を引き上げる\"見えない工程\"の3DCG 〜No.1／デザイン＆モデリング篇 - 特集",
-      "url": "https://cgworld.jp/article/cgw330-chainsawreze01.html",
-      "source": "CGWORLD",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-04-20T01:00:52",
-      "image": "https://cgworld.jp/article/assets_c/2026/04/b4e217e65e329e61c8916447ec5775b8733e37dc-thumb-1000x417-81900.png"
+      "title": "大ヒットローグライト『BALL x PIT』無料大型アプデ4月27日リリースへ。予測不能「ワープ」や“割合ダメージ持ち”など新ボール11種類どどんと追加",
+      "url": "https://automaton-media.com/articles/newsjp/20260421-438793/",
+      "source": "Automaton",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-04-21T07:57:38",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260421-438793-header.jpg"
     },
     {
-      "title": "スタジオブロス、6/11（木）より全10回のTwinmotionで建築パース制作を体系的に学ぶセミナー開講 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2604-twinmotion.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-19T22:10:02",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/d90bac65df659cc7ea25fe30bbbc86f25cf51cda-thumb-840x473-82415.jpg"
+      "title": "異変探し・ピザ屋ホラー『Standard Human Pizza』発表。異形だらけの村落にてワンオペピザ作り、ルールを破れば“営業終了”",
+      "url": "https://automaton-media.com/articles/newsjp/20260421-438782/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-21T06:47:34",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260421-438782-header.jpg"
     },
     {
-      "title": "「OpenUSD v26.03」リリース　3DGSのネイティブサポート、テスト用レンダラ同梱によりusdview内で表示確認可能 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202604-OpenUSDv26.03.html",
-      "source": "CGWORLD",
-      "category": "tech",
+      "title": "Xbox Game Pass UltimateとPC Game Passの月額がまさかの値下げ。『Call of Duty』シリーズ新作の発売初日提供の終了と引き換えに",
+      "url": "https://automaton-media.com/articles/newsjp/20260422-438897/",
+      "source": "Automaton",
+      "category": "sale",
+      "importance": "high",
+      "published": "2026-04-21T22:03:26",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260422-438897-header.jpeg"
+    },
+    {
+      "title": "『スプラトゥーン レイダース』7月23日発売へ。すりみ連合と共に冒険する“初スピンオフ”がついに来る",
+      "url": "https://automaton-media.com/articles/newsjp/20260421-438875/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-21T12:53:25",
+      "image": "https://automaton-media.com/wp-content/uploads/2025/06/splatoon-20250610-343772-header.jpg"
+    },
+    {
+      "title": "『Dead by Daylight』にて「進撃の巨人」との再コラボ決定、4月29日より。お掃除リヴァイやサシャの兵服など新スキンも来る",
+      "url": "https://automaton-media.com/articles/newsjp/20260421-438774/",
+      "source": "Automaton",
+      "category": "update",
       "importance": "normal",
-      "published": "2026-04-19T22:08:01",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/OpenUSD2603-01-thumb-1920x1080-82426.jpg"
+      "published": "2026-04-21T15:00:01",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260421-438774-header.jpg"
+    },
+    {
+      "title": "『Slay the Spire 2』最新アプデで再び「レビュー爆撃」。無限コンボ抑制やボス「ドアメーカー」の調整を巡り不満噴出",
+      "url": "https://www.gamebusiness.jp/article/2026/04/21/26725.html",
+      "source": "GameBusiness.jp",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-04-21T02:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181689.jpg"
     },
     {
       "title": "海賊オープンワールドサバイバルクラフト『Windrose』発売から6日で売上本数100万本突破！Steam同時接続プレイヤー数は20万人超え",
@@ -192,22 +201,13 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/181717.png"
     },
     {
-      "title": "コーエーテクモ、経常利益予想を50％上方修正——売上高・純利益ともに過去最高の見込み",
-      "url": "https://www.gamebusiness.jp/article/2026/04/20/26722.html",
+      "title": "『プラグマタ』発売から2日で販売本数100万本突破！Steam“圧倒的に好評”キープ&同時プレイヤー数更新など絶好調",
+      "url": "https://www.gamebusiness.jp/article/2026/04/21/26727.html",
       "source": "GameBusiness.jp",
       "category": "business",
       "importance": "high",
-      "published": "2026-04-20T10:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181656.png"
-    },
-    {
-      "title": "アプリのアップデート、半数超がネガティブな印象──NEXER調査で浮かぶ「面倒」「不具合が心配」の本音",
-      "url": "https://www.gamebusiness.jp/article/2026/04/20/26720.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-04-20T09:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181648.png"
+      "published": "2026-04-21T02:30:05",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181672.jpg"
     },
     {
       "title": "10年ぶりシリーズ最新作『ドラゴンボール ゼノバース3』2027年発売！これまで見たことのない未来の世界が舞台",
@@ -219,31 +219,67 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/181702.png"
     },
     {
-      "title": "ドスパラ、生成AIと著作権を弁護士が解説する無料オンラインセミナーを5月18日に開催",
-      "url": "https://www.gamebusiness.jp/article/2026/04/20/26721.html",
+      "title": "THE SEVENとディズニーが実写ドラマ共同開発契約を締結。日本の制作スタジオと初の長期パートナーシップ",
+      "url": "https://www.gamebusiness.jp/article/2026/04/21/26737.html",
       "source": "GameBusiness.jp",
-      "category": "tech",
+      "category": "business",
       "importance": "normal",
-      "published": "2026-04-20T09:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181653.webp"
-    },
-    {
-      "title": "新作「どうぶつの森」のカギとなるのは“ユーザー生成コンテンツ”ではないか？マンネリを解消する「危険な銀の弾丸」",
-      "url": "https://jp.ign.com/animal-crossing-switch/83191/",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-20T09:59:01",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/dmori_qvfe.png"
+      "published": "2026-04-21T11:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181791.jpg"
     },
     {
       "title": "海賊オープンワールドサバイバルクラフト『Windrose』が早くも100万本を突破",
       "url": "https://jp.ign.com/windrose/83187/windrose100",
       "source": "IGN Japan",
       "category": "release",
-      "importance": "normal",
+      "importance": "high",
       "published": "2026-04-20T03:29:44",
       "image": "https://sm.ign.com/ign_jp/blogroll/default/windrose-1776619841895_g333.jpg"
+    },
+    {
+      "title": "『プラグマタ』も大人気！カプコン快進撃の理由を探る：#486 しゃべりすぎGAMER",
+      "url": "https://jp.ign.com/bangumi/83204/486-gamer",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-21T10:03:51",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1280_f6j3.png"
+    },
+    {
+      "title": "INNOCNの24.5インチゲーミングモニター「25G2S」がAmazonにて26％オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83195/innocn24525g2samazon26",
+      "source": "IGN Japan",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-04-21T05:30:07",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_9wye.jpg"
+    },
+    {
+      "title": "「どうぶつの森」に似すぎ？それでも夢中になってしまう『原神』クリエイター初のスローライフゲーム『プチプラネット』プレイ感想",
+      "url": "https://jp.ign.com/petit-planet/83196/",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-21T01:00:23",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/907_uznv.png"
+    },
+    {
+      "title": "新作「どうぶつの森」のカギとなるのは“ユーザー生成コンテンツ”ではないか？マンネリを解消する「危険な銀の弾丸」",
+      "url": "https://jp.ign.com/animal-crossing-switch/83191/",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-20T09:59:01",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/dmori_qvfe.png"
+    },
+    {
+      "title": "東映のゲーム事業ブランド「東映ゲームズ」創設。初回リリースタイトルは4/24（金）に発表予定",
+      "url": "https://gamemakers.jp/article/2026_04_21_135904/",
+      "source": "ゲームメーカーズ",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-04-21T04:00:13",
+      "image": null
     },
     {
       "title": "Epic Games、インディーゲーム開発スタジオへのインタビュー記事などを「Indie Games Week 2026」にて公開",
@@ -255,19 +291,28 @@
       "image": null
     },
     {
-      "title": "工場設備をモチーフにした90種類以上の3Dモデルが収録。アセットパック『Conveyor Kit』アップデート版、Webサイト「Kenney」にて無料で公開",
-      "url": "https://gamemakers.jp/article/2026_04_19_135745/",
+      "title": "インディーゲームはどうすれば投資を受けられる？ゲーム事業ならではの投資の判断基準も語り合ったIGDAセミナーをレポート",
+      "url": "https://gamemakers.jp/article/2026_04_21_135773/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-04-21T07:53:24",
+      "image": null
+    },
+    {
+      "title": "ゲームシナリオ制作に役立つ無料オープンソースツールの使用事例、Unity公式ブログ記事で紹介",
+      "url": "https://gamemakers.jp/article/2026_04_21_135906/",
       "source": "ゲームメーカーズ",
       "category": "tech",
-      "importance": "high",
-      "published": "2026-04-19T03:00:55",
+      "importance": "normal",
+      "published": "2026-04-21T05:30:47",
       "image": null
     },
     {
       "title": "ゲーム制作プラットフォーム「EdenSpark」によるコンテスト型ゲームジャム「EdenSpark Game Jam」が2026年5月より開催",
       "url": "https://gamemakers.jp/article/2026_04_20_135856/",
       "source": "ゲームメーカーズ",
-      "category": "tech",
+      "category": "industry",
       "importance": "normal",
       "published": "2026-04-20T06:53:44",
       "image": null
