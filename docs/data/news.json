@@ -1,96 +1,204 @@
 {
-  "generated_at": "2026-04-23T00:19:47.943233",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、オーストラリアのSteamへの対策命令や、米任天堂の集団訴訟など、注目すべき話題がいくつかあります。さらに、新作ゲームの発売決定や、XboxとDiscordの新たな取り組みも発表されています！ 🎮\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-04-24T00:19:10.505458",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、注目度の高い『アサシン クリード ブラック フラッグ RE:シンクロ』の7月9日リリースがアナウンスされたり、ホラーアクションゲーム『Victor’s Video Vault』が発表されたりと、興味深い情報がたくさんです！ 💻\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "「オンラインゲームは子どもと“加害者・過激思想”との接点になりうる」として、オーストラリア当局がSteamなどに対策と透明性開示を命令。応じなければ最大約1億円の罰金",
-      "url": "https://automaton-media.com/articles/newsjp/20260422-439119/",
+      "title": "「非常に好評」火炎斬撃アクション『Nocturnal』Steamにて期間限定で無料配布中。定価1900円が今なら無料",
+      "url": "https://automaton-media.com/articles/newsjp/nocturnal-20260424-439429/",
       "source": "Automaton",
-      "category": "business",
+      "category": "sale",
       "importance": "high",
-      "published": "2026-04-22T11:43:26",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260422-439119-header.jpg"
+      "published": "2026-04-23T23:20:01",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/nocturnal-20260424-439429-header.jpg"
     },
     {
-      "title": "米任天堂、「値上げ」を巡って集団訴訟を提起される。“トランプ関税に基づく値上げ分は消費者に返還すべき”との主張",
-      "url": "https://automaton-media.com/articles/newsjp/20260423-439164/",
+      "title": "『アサシン クリード ブラック フラッグ RE:シンクロ』正式発表、7月9日発売へ。最新Anvilエンジンで描かれる『アサクリ4』リメイク、全貌明らかに",
+      "url": "https://automaton-media.com/articles/newsjp/20260424-439410/",
       "source": "Automaton",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-04-23T00:13:36",
-      "image": "https://automaton-media.com/wp-content/uploads/2025/05/nintendo-switch-20250110-324821.jpg"
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-23T16:12:27",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260424-439410-header.jpg"
     },
     {
-      "title": "ファンタジー動乱SLG『ブリガンダイン アビス』8月27日発売へ。群雄割拠の大陸で巨悪に抗う、6つの国の戦いを描く",
-      "url": "https://automaton-media.com/articles/newsjp/20260423-439070/",
+      "title": "レトロアニメ協力プレイアクション『オービタルズ Orbitals』開発者インタビュー。『It Takes Two』などにも携わった開発者らが「日本」で作るゲーム、絵づくりの執念",
+      "url": "https://automaton-media.com/articles/interviewsjp/orbitals-interview-20260423-439382/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-04-23T13:00:05",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/orbitals-interview-20260423-439382-image1.jpg"
+    },
+    {
+      "title": "夜勤レンタルビデオ店異変ホラー『Victor’s Video Vault』発表。浸水の次はエイリアン、夜な夜な起こる“現実改変”の謎に迫る",
+      "url": "https://automaton-media.com/articles/newsjp/20260423-439346/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-23T07:46:19",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260423-439346-header.jpg"
+    },
+    {
+      "title": "グロかわ殺人推理論戦ゲーム『くみたんてい：昭和の殺戮無感動学園』第1章リリース。『ダンガンロンパ』や「うる星やつら」などの影響受ける、“負けたら死”議論カードバトル",
+      "url": "https://automaton-media.com/articles/newsjp/20260424-439437/",
       "source": "Automaton",
       "category": "release",
       "importance": "normal",
-      "published": "2026-04-23T00:00:07",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260423-439070-header.jpg"
+      "published": "2026-04-24T00:00:07",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260424-439437-header.jpg"
     },
     {
-      "title": "『ストリートファイター6』新キャラ「イングリッド」は5月28日実装へ。『ZERO3↑↑』以来のシリーズ参戦、太陽の力で好き勝手動く",
-      "url": "https://automaton-media.com/articles/newsjp/street-fighter-6-20260423-439155/",
-      "source": "Automaton",
+      "title": "「アサシンクリード ブラックフラッグ Re: シンクロ」の7月9日リリースがアナウンス。アクションアドベンチャーの原点へ立ち返るフルリメイクの全貌",
+      "url": "https://www.4gamer.net/games/002/G100200/20260423044/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-23T16:15:00",
+      "image": "https://www.4gamer.net/games/002/G100200/20260423044/SS/001.jpg"
+    },
+    {
+      "title": "廃遊園地で突如開かれた格闘大会に挑め！ 相棒のニワトリと共に暴れまわる2DアクションADV「Knuckle Paradise」，Steamストアページを公開",
+      "url": "https://www.4gamer.net/games/002/G100210/20260424003/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-23T23:57:10",
+      "image": "https://www.4gamer.net/games/002/G100210/20260424003/SS/001.jpg"
+    },
+    {
+      "title": "2周年を迎えた「百英雄伝」がコラボカフェを実施。12名の描き下ろしイラストが飾られている店内の様子をレポート",
+      "url": "https://www.4gamer.net/games/520/G052085/20260423032/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-23T23:00:00",
+      "image": "https://www.4gamer.net/games/520/G052085/20260423032/SS/019.jpg"
+    },
+    {
+      "title": "図形を切って，塗って，重ねて――自動化の沼が待ち受ける工場シム「Shapez 2」（ほぼ日 インディーPick Up！）",
+      "url": "https://www.4gamer.net/games/821/G082165/20260418005/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-23T22:00:00",
+      "image": "https://www.4gamer.net/games/821/G082165/20260418005/SS/004.jpg"
+    },
+    {
+      "title": "初見殺し上等。チマチマ系ホラーアクション「ベリーリトルナイトメア+」（今日から始めろApple Arcade #68）",
+      "url": "https://www.4gamer.net/games/000/G100031/20260419007/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-23T22:00:00",
+      "image": "https://www.4gamer.net/games/000/G100031/20260419007/SS/004.jpg"
+    },
+    {
+      "title": "OpenAI、最新AIモデル「GPT-5.5」を発表。資料作成からPC操作、自律的なコーディング支援まで実務能力を大幅に強化",
+      "url": "https://news.denfaminicogamer.jp/news/260424h",
+      "source": "電ファミニコゲーマー",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-04-23T23:34:43",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/gpt-5.5.jpg"
+    },
+    {
+      "title": "人間を“奴隷”にできるサバイバルゲーム『Conan Exiles』大規模アップデートが5月5日に配信決定。『Conan Exiles Enhanced』としてグラフィックが刷新、「追放の地」と「シプター島」が統合と大幅に改善",
+      "url": "https://news.denfaminicogamer.jp/news/260424g",
+      "source": "電ファミニコゲーマー",
       "category": "update",
-      "importance": "normal",
-      "published": "2026-04-22T23:25:02",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/street-fighter-6-20260423-439155-header.jpg"
+      "importance": "high",
+      "published": "2026-04-23T23:06:38",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/a82c5cba16b3dfc290166a045b80ff5d.jpg"
     },
     {
-      "title": "硬派戦略シム『大戦略SSB2』4月30日の無料アプデで「インド対中国」「スウェーデン対ロシア」新シナリオ2本追加へ。さらにシナリオマップはどちらの陣営でもプレイ可能に",
-      "url": "https://automaton-media.com/articles/newsjp/20260422-439109/",
-      "source": "Automaton",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-04-22T23:00:01",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260422-439109-header.jpg"
-    },
-    {
-      "title": "内田雄馬や鬼頭明里、古賀葵ら豪華声優陣が出演するファンタジー戦略ゲーム『ブリガンダイン アビス』が8月27日に発売決定。勢力が割拠する大陸で帝国に立ち向かうターン制ストラテジー",
-      "url": "https://news.denfaminicogamer.jp/news/260423z",
+      "title": "『アサクリ4』リメイク『アサシン クリード ブラック フラッグ RE:シンクロ』2026年7月9日に発売決定。現代向けにグラフィックを一新し、新シナリオや海戦の新要素などが追加",
+      "url": "https://news.denfaminicogamer.jp/news/260424d",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-04-23T00:00:52",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/KeyVisual_LOGO.jpg"
+      "published": "2026-04-23T22:06:58",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/699e938f2f25b911ef69de95-h.jpg"
     },
     {
-      "title": "XboxとDiscordによる「新たな取り組み」が告知される。近日中に詳細発表へ。Microsoft Gamingの新CEOが「デバイスを越えた遊びと、Game Passをより柔軟にする施策を進めている」と予告",
-      "url": "https://news.denfaminicogamer.jp/news/260423d",
+      "title": "『らんま1/2』『エヴァ』『ドラゴンボール』。日本アニメに魂を形作られた開発者たちが贈る、「希望の時代」へのラブレター『オービタルズ』開発者インタビュー",
+      "url": "https://news.denfaminicogamer.jp/interview/2604233a",
       "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-04-23T13:00:04",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/image2-8.jpg"
+    },
+    {
+      "title": "『ドカ食いダイスキ！ もちづきさん』コラボカフェ第2弾が5月下旬に東京で開催決定！巨大な“もちづきさん盛り”フードメニューや限定グッズを展開予定",
+      "url": "https://news.denfaminicogamer.jp/news/260424f",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-23T15:21:03",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/HGmTtuUa0AAHolo.jpeg"
+    },
+    {
+      "title": "「デジタルアートの島」を目指す天草市が、地域おこし協力隊員を募集中！コンテンツ産業創出で若年層定着へ【5/29（金）〆切】 - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2604-amakusa.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-04-23T22:11:53",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/71a83a51891ad923d8fc0a9b6b9f2df0aa416bb4-thumb-1008x756-82583.jpg"
+    },
+    {
+      "title": "「NVIDIA DGX Spark」×「Reachy Mini」で体験！　ローカルAIロボット開発入門　第3回：AIロボットのキャラクター性と実用性を拡張する - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/202604-dgxspark-reachymini-003.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-23T05:14:41",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/04/dgxsprk_03_top-thumb-1920x1080-82607.jpg"
+    },
+    {
+      "title": "D1-Lab スタジオ【モーションキャプチャスタジオ】 - 連載",
+      "url": "https://cgworld.jp/regular/2510-d1-lab.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-04-23T02:47:00",
+      "image": "https://cgworld.jp/regular/assets_c/2025/11/d1studio-thumb-1000x563-75859.jpg"
+    },
+    {
+      "title": "サンジゲンが語る「Blenderで作るTVアニメ最新事情」、Blender導入の背景から今後の展望を解説 ～ACTF2026 in TAAF（1） - 特集",
+      "url": "https://cgworld.jp/article/202604-actf-sanzigen.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-04-23T01:00:55",
+      "image": "https://cgworld.jp/article/assets_c/2026/04/c574bf57d9c77823c87b32d7355b3cbe6c6e1ba1-thumb-1000x563-82194.jpg"
+    },
+    {
+      "title": "劇場版『チェンソーマン レゼ篇』縁の下からキャラクターの完成度を引き上げる\"見えない工程\"の3DCG 〜No.2／カット制作篇 - 特集",
+      "url": "https://cgworld.jp/article/cgw330-chainsaw-reze02.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-04-22T01:00:52",
+      "image": "https://cgworld.jp/article/assets_c/2026/03/reze_01-thumb-1000x563-81864.jpg"
+    },
+    {
+      "title": "SteelSeriesの超軽量な有線ゲーミングマウス「Aerox 5」がAmazonにて21％オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83211/steelseriesaerox-5amazon21",
+      "source": "IGN Japan",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-04-23T12:40:13",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_gzba.png"
+    },
+    {
+      "title": "米国在住のゲーマー、任天堂を相手に集団訴訟を起こす トランプ関税による値上げ分を消費者に返還するよう要求",
+      "url": "https://jp.ign.com/nintendo/83212/",
+      "source": "IGN Japan",
       "category": "business",
-      "importance": "high",
-      "published": "2026-04-22T22:02:22",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/HGhfthPawAAaZT_.jpg"
-    },
-    {
-      "title": "『R-TYPE DX』の復刻版『R-TYPE DX: Music Encore』がSwitch/PS4/Xbox/Steam向けに4月30日より発売決定！『R-TYPE』『R-TYPE II』を通しで戦う「アルティメットチャレンジ」搭載",
-      "url": "https://news.denfaminicogamer.jp/news/2604223b",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-22T12:09:54",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/ss_d6263c1319b38efcb14e62976b6523809d95b4d4.1920x1080.jpg"
-    },
-    {
-      "title": "『星のカービィ』とコラボした『UNO』が発売決定。オリジナルカード「すいこみ」でワドルドゥやチリーのコピー能力がゲットできる",
-      "url": "https://news.denfaminicogamer.jp/news/2604222w",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-22T10:39:17",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/HGEQPrhaoAAaoU8_j.jpg"
-    },
-    {
-      "title": "『勝利の女神：NIKKE』の最新バージョン「STAR ANIS」が実装。新SSRニケ「アニス：スター」「ネオン：ビジョン・アイ」「アビスタ」が登場",
-      "url": "https://news.denfaminicogamer.jp/news/2604233e",
-      "source": "電ファミニコゲーマー",
-      "category": "update",
       "importance": "normal",
-      "published": "2026-04-23T00:00:28",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/01Top.jpg"
+      "published": "2026-04-23T03:57:54",
+      "image": "https://sm.ign.com/ign_jp/news/n/nintendo-f/nintendo-fans-demand-tariff-refunds-returned-to-customers_eshy.jpg"
     },
     {
       "title": "『ブリガンダイン アビス』の発売日が8月27日に決定 豪華特装版には伝統ボードゲーム「十六むさし」を遊べるアクスタセットが付属",
@@ -114,126 +222,45 @@
       "title": "UGREENのオープンイヤー型ワイヤレスイヤホン「FitBuds」がAmazonにて40%オフでタイムセール中",
       "url": "https://jp.ign.com/gaming-device/83205/ugreenfitbudsamazon40",
       "source": "IGN Japan",
-      "category": "other",
+      "category": "sale",
       "importance": "normal",
       "published": "2026-04-22T09:04:44",
       "image": "https://sm.ign.com/ign_jp/screenshot/default/1_rvdr.jpg"
     },
     {
-      "title": "JBLのワイヤレスイヤホン「TUNE FLEX GHOST」のホワイトがAmazonにて最大42％オフでタイムセール中",
-      "url": "https://jp.ign.com/gaming-device/68524/news/jbltune-flex-ghostamazon24",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-04-22T05:25:48",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/_qj4y.jpg"
-    },
-    {
-      "title": "『プラグマタ』も大人気！カプコン快進撃の理由を探る：#486 しゃべりすぎGAMER",
-      "url": "https://jp.ign.com/bangumi/83204/486-gamer",
-      "source": "IGN Japan",
+      "title": "海外ゲームイベントと連携するSteam特設ページ「MADE IN JAPAN COLLECTION」の2026年度版、参加者を募集。参加費は無料",
+      "url": "https://gamemakers.jp/article/2026_04_23_136125/",
+      "source": "ゲームメーカーズ",
       "category": "industry",
       "importance": "normal",
-      "published": "2026-04-21T10:03:51",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1280_f6j3.png"
+      "published": "2026-04-23T12:21:39",
+      "image": null
     },
     {
-      "title": "「大戦略SSB2」，シナリオマップで敵勢力を選んでプレイ可能になるアップデートを4月30日に実施。スウェーデンがテーマのDLCも発売",
-      "url": "https://www.4gamer.net/games/946/G094686/20260422050/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-04-22T23:00:00",
-      "image": "https://www.4gamer.net/games/946/G094686/20260422050/SS/003.jpg"
-    },
-    {
-      "title": "「Enshrouded〜霧の王国〜」，正式リリース前最後の大型アップデート“Forging the Path”を配信開始",
-      "url": "https://www.4gamer.net/games/712/G071291/20260422056/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-04-22T11:46:05",
-      "image": "https://www.4gamer.net/games/712/G071291/20260422056/SS/008.jpg"
-    },
-    {
-      "title": "スマホゲームのセルラン分析（2026年4月9日〜4月15日）。今週の1位は「eFootball」。1月〜3月のパブリッシャ別国内収益ランキングも",
-      "url": "https://www.4gamer.net/games/536/G053628/20260420009/",
-      "source": "4Gamer.net",
-      "category": "business",
+      "title": "Ruby採用の2Dゲームエンジン「DragonRuby GTK」が無償提供中。4/28（火）まで期間限定で入手可能",
+      "url": "https://gamemakers.jp/article/2026_04_23_136046/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
       "importance": "normal",
-      "published": "2026-04-23T00:00:00",
-      "image": "https://www.4gamer.net/games/536/G053628/20260420009/SS/002.jpg"
+      "published": "2026-04-23T09:57:04",
+      "image": null
     },
     {
-      "title": "ヴァンサバのあの爽快感をデッキ構築に凝縮した「Vampire Crawlers」（ほぼ日 インディーPick Up！）",
-      "url": "https://www.4gamer.net/games/963/G096302/20260422033/",
-      "source": "4Gamer.net",
-      "category": "release",
+      "title": "経産省のクリエイター支援施策「創風」、2026年度ゲーム部門の公募を5/13（水）まで受付中。補助金最大1,000万円、メンタリングや海外展開サポートなど",
+      "url": "https://gamemakers.jp/article/2026_04_23_136035/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
       "importance": "normal",
-      "published": "2026-04-22T22:00:00",
-      "image": "https://www.4gamer.net/games/963/G096302/20260422033/SS/009.jpg"
+      "published": "2026-04-23T05:58:02",
+      "image": null
     },
     {
-      "title": "［プレイレポ］新作アドベンチャー「D-topia」は，直感的に解けるパズルと，プレイヤーの選択に左右される住人たちの運命を組み合わせた意欲作だ",
-      "url": "https://www.4gamer.net/games/948/G094833/20260422042/",
-      "source": "4Gamer.net",
+      "title": "Robloxで楽しくゲーム開発を学べる入門書『ゆるっとはじめるRobloxゲームプログラミング』、日経BPが4/24（金）に発売",
+      "url": "https://gamemakers.jp/article/2026_04_23_135999/",
+      "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "normal",
-      "published": "2026-04-22T15:00:00",
-      "image": "https://www.4gamer.net/games/948/G094833/20260422042/SS/001.jpg"
-    },
-    {
-      "title": "OpenAI、ChatGPT Images 2.0発表。「思考機能」備え画像出力の精度、一貫性、視覚的な整合性高める。日本語も上達",
-      "url": "https://www.gamebusiness.jp/article/2026/04/22/26750.html",
-      "source": "GameBusiness.jp",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-04-22T11:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181904.jpg"
-    },
-    {
-      "title": "Xboxゲームパス大幅値下げ、月2750円が1550円に。マイクロソフトで何が起きているのか",
-      "url": "https://www.gamebusiness.jp/article/2026/04/22/26751.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-04-22T11:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181972.jpg"
-    },
-    {
-      "title": "Brave group、シリーズEで80億円超を調達——グリーグループが筆頭株主に",
-      "url": "https://www.gamebusiness.jp/article/2026/04/22/26741.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-04-22T02:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181831.png"
-    },
-    {
-      "title": "Appleの次期CEOはジョン・ターナス、ハードウェア担当ベテラン　ティム・クックは9月1日から取締役会長に就任",
-      "url": "https://www.gamebusiness.jp/article/2026/04/22/26739.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-04-22T02:15:05",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181780.jpg"
-    },
-    {
-      "title": "マイクロソフトに28年在籍し『Halo』シリーズなどのエグゼクティブプロデューサーも務めたベテラン開発者が退社",
-      "url": "https://www.gamebusiness.jp/article/2026/04/22/26749.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-04-22T11:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181914.jpg"
-    },
-    {
-      "title": "東映のゲーム事業ブランド「東映ゲームズ」創設。初回リリースタイトルは4/24（金）に発表予定",
-      "url": "https://gamemakers.jp/article/2026_04_21_135904/",
-      "source": "ゲームメーカーズ",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-04-21T04:00:13",
+      "published": "2026-04-23T03:16:21",
       "image": null
     },
     {
@@ -246,49 +273,49 @@
       "image": null
     },
     {
-      "title": "GodotをUnity開発の補完として採用するアプローチや、Godot用ローカルTTSアドオンなどを紹介。「Godot Meetup Tokyo Vol.7」講演資料が公開",
-      "url": "https://gamemakers.jp/article/2026_04_22_135945/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-22T02:50:37",
-      "image": null
+      "title": "【インタビュー】アニメには時代を超える力がある　「ドラえもん」から「あかね噺」へ、テレビ朝日が挑む“愛され続ける物語”づくり／AnimeJapan 2026",
+      "url": "https://www.gamebusiness.jp/article/2026/04/23/26766.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-04-23T11:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182068.jpg"
     },
     {
-      "title": "インディーゲームはどうすれば投資を受けられる？ゲーム事業ならではの投資の判断基準も語り合ったIGDAセミナーをレポート",
-      "url": "https://gamemakers.jp/article/2026_04_21_135773/",
-      "source": "ゲームメーカーズ",
+      "title": "Steamの市場動向を読み解く週報コンテンツが登場——ゲーム発掘サイト「Steamトレンド」が大型アップデート",
+      "url": "https://www.gamebusiness.jp/article/2026/04/23/26759.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-04-23T08:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182010.webp"
+    },
+    {
+      "title": "「このプロジェクトは単なる娯楽を超えたもの」―ウクライナベースの『S.T.A.L.K.E.R.』開発スタッフがインタビューにて語る",
+      "url": "https://www.gamebusiness.jp/article/2026/04/23/26756.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-04-23T03:00:05",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/181861.jpg"
+    },
+    {
+      "title": "違憲判決が下った「トランプ関税」を巡り、米国ゲーマー2名が任天堂を提訴。関税のタイミングで値上げした上、「払い戻し」まで受けるのは二重取りとして",
+      "url": "https://www.gamebusiness.jp/article/2026/04/23/26765.html",
+      "source": "GameBusiness.jp",
       "category": "business",
       "importance": "normal",
-      "published": "2026-04-21T07:53:24",
-      "image": null
+      "published": "2026-04-23T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182079.png"
     },
     {
-      "title": "ゲームシナリオ制作に役立つ無料オープンソースツールの使用事例、Unity公式ブログ記事で紹介",
-      "url": "https://gamemakers.jp/article/2026_04_21_135906/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
+      "title": "ChatGPT・Geminiに選ばれる会社になる方法｜AI検索時代のブランド露出戦略【全マーケター必見無料ウェビナー】",
+      "url": "https://www.gamebusiness.jp/article/2026/04/23/26764.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
       "importance": "normal",
-      "published": "2026-04-21T05:30:47",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/04/ea2adb0e63c1d210a63d115146af4211.jpg"
-    },
-    {
-      "title": "HoudiniとUnreal Engineによるプロシージャルジェネレータのブレイクダウン公開　『ゼルダの伝説 ティアーズ オブ ザ キングダム』の空島にインスパイア - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202604-SkyIsland.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-21T22:40:10",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/Houdini_UE_SkyIsland-01-thumb-1920x1080-82480.jpg"
-    },
-    {
-      "title": "エプソンダイレクトが、高性能ミニタワーPC『Endeavor MR8500』を新発売。高負荷業務に応える処理性能と省スペース性を両立 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-2604-epsondirect.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-04-21T02:00:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/f04a37c11e09cfa2fa3faca4fbcde70f30f1169b-thumb-807x480-82441.jpeg"
+      "published": "2026-04-23T11:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182086.jpg"
     }
   ]
 }
