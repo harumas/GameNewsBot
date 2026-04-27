@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T00:16:19.980665",
-  "poem": "おはようございます！ 🌞\n今日はゲーム業界が大いに動き出しているようです。INDIE Live Expo 2026.4.25の発表情報や、「.45 パラベラム ブラッドハウンド」の発売決定が話題です 😊\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-04-27T00:17:12.930333",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、INDIE Live Expo 2026.4.25の発表情報や、VA-11 HALL-Aの開発元の新作ゲーム「.45 パラベラム ブラッドハウンド」の発売決定など、注目すべきニュースがいくつもあります！ 💻\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
       "title": "「INDIE Live Expo 2026.4.25」，注目発表情報をまとめてチェック。世界初公開の9タイトルに加え，複数作品の発売日などが明らかにされた",
@@ -30,31 +30,31 @@
       "image": "https://www.4gamer.net/games/793/G079329/20260425022/SS/002.jpg"
     },
     {
-      "title": "13人の魔女が戦う“死にゲーローグライトカードゲーム”「ルナパルス」が発表に。発売時期は2027年",
-      "url": "https://www.4gamer.net/games/002/G100269/20260425021/",
+      "title": "【今週のモチベ】「NTE: Neverness to Everness」や「SAROS」がリリースされる 2026年4月27日〜5月3日",
+      "url": "https://www.4gamer.net/games/954/G095479/20260426002/",
       "source": "4Gamer.net",
       "category": "release",
-      "importance": "high",
-      "published": "2026-04-25T12:25:37",
-      "image": "https://www.4gamer.net/games/002/G100269/20260425021/SS/002.jpg"
+      "importance": "normal",
+      "published": "2026-04-26T23:00:00",
+      "image": "https://www.4gamer.net/games/954/G095479/20260426002/SS/010.jpg"
     },
     {
-      "title": "異世界作業用アドベンチャー「Memory of Memorie」，2026年夏に発売決定。魔法使い見習いの少女と一緒にデスクワークしよう",
-      "url": "https://www.4gamer.net/games/002/G100245/20260424054/",
+      "title": "この博物館どうかしてるぜっ！　とにかく“変”な「ツーポイントミュージアム」【放課後れびゅあーず！】",
+      "url": "https://www.4gamer.net/games/925/G092590/20260426008/",
       "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-25T12:15:57",
-      "image": "https://www.4gamer.net/games/002/G100245/20260424054/SS/003.jpg"
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-26T22:00:00",
+      "image": "https://www.4gamer.net/games/925/G092590/20260426008/SS/005.jpg"
     },
     {
-      "title": "Maxon One アップデートをリリース―新たなコンポジットツールAutograph、Cinema 4DのUnreal連携強化、ZBrushのSubstance連携ほか - ニュース",
-      "url": "https://cgworld.jp/flashnews/2604-03-maxonone.html",
+      "title": "Houdiniによるジオメトリ分解・消失表現のチュートリアル動画公開　VOPと空間ノイズで緻密に制御するディゾルブエフェクト - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202604-Houdini-dissolve.html",
       "source": "CGWORLD",
       "category": "tech",
-      "importance": "high",
-      "published": "2026-04-24T08:43:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/HGCOjx2WwAAHE8B-thumb-680x383-82568.jpg"
+      "importance": "normal",
+      "published": "2026-04-26T22:52:34",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/Houdini_dissolve-01-thumb-1920x1080-82711.jpg"
     },
     {
       "title": "オートデスク、Bifrostのリギングノウハウチュートリアル動画公開　EA SportsのTA・Darren Rudy氏によるワークフロー解説 - ニュース",
@@ -64,24 +64,6 @@
       "importance": "normal",
       "published": "2026-04-25T23:24:31",
       "image": "https://cgworld.jp/flashnews/assets_c/2026/04/Bifrost_EASports-01-thumb-1920x1080-82700.jpg"
-    },
-    {
-      "title": "UE5による日本の桜舞う風景環境制作のブレイクダウン動画　MegaPlants、Cine カメラ、パーティクル、ムービー レンダー キューなど活用、プロジェクトファイル無償配布 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202604-UE5CherryBlossom.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-24T22:05:08",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/UE5CherryBlossom-01-thumb-1920x1080-82680.jpg"
-    },
-    {
-      "title": "#08【Nuke】機械学習やディープコンポジットでラクラク合成！ - 連載",
-      "url": "https://cgworld.jp/regular/202604-cgw329-tr08.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-24T06:10:00",
-      "image": "https://cgworld.jp/regular/assets_c/2026/04/techroom_08_web-thumb-1000x563-82606.jpg"
     },
     {
       "title": "【最大10人マルチ】消防士に紛れ込む敵を探す人狼系アクションゲーム『OCTOPinbs』Steamにて5月12日に発売決定。議論なしで進むアクション特化の人狼ゲーム、公式XやDiscordで3種のキャンペーン実施中",
@@ -111,22 +93,40 @@
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/PUKEY-GODDESS-SHOT-TRICK_KV.jpg"
     },
     {
-      "title": "電波ソングにノせて“怪文書”を発信するリズムゲーム『ゆんゆん電波シンドローム』が「非常に好評」スタート。すでに650件以上もレビューを集め、Steam最高同接は3200人を突破。ウィッシュリスト30万件超えの注目作",
-      "url": "https://news.denfaminicogamer.jp/news/260425s",
+      "title": "『FF7 リバース』セフィロスが「未来のレモンサワー」を飲む特別ムービーが公開。正宗でレモンをスライスし、美味しそうにレモンサワーを飲む絵面がシュールすぎる",
+      "url": "https://news.denfaminicogamer.jp/news/260427z",
       "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-25T12:33:33",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/PhotoshopExtension_Image_2-22.png"
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-26T15:00:47",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/mirai_FF_1.png"
     },
     {
-      "title": "“本の世界”を冒険する「ゲームブック」風RPG『ヴェリタステイルズ：暗黒城の魔女』発表！2026年に発売へ。“約30万字”の超ボリュームに期待大。“手描きイラスト”付きのページをめくって物語を読み進める",
-      "url": "https://news.denfaminicogamer.jp/news/260425j",
+      "title": "アニメ『ワールドトリガー』REBOOTプロジェクト「黒トリガー争奪編」の制作が進行中。空閑遊真を村中知さん、三雲修を梶裕貴さんが演じるなどメインキャスト情報も公開",
+      "url": "https://news.denfaminicogamer.jp/news/260426h",
       "source": "電ファミニコゲーマー",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-04-26T14:44:56",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/G7u1j7taQAAlvh4.png"
+    },
+    {
+      "title": "不穏メルヘン探索アドベンチャー『アリスインワンダーアンダーランド』は、“かつてのインターネット体験”を呼び覚ます。何が起きるかわからない不安とワクワクに満ちたカオス探索",
+      "url": "https://automaton-media.com/articles/special-column/aiwu-20260426-439548/",
+      "source": "Automaton",
       "category": "release",
       "importance": "high",
-      "published": "2026-04-25T12:31:05",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/Capsule_Image_JP.png"
+      "published": "2026-04-26T04:00:04",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/aiwu-20260426-439548-header.jpg"
+    },
+    {
+      "title": "基本プレイ無料「街」オープンワールド『NTE』の街には「謎の作り込み」がめちゃくちゃある。ほぼ現実",
+      "url": "https://automaton-media.com/articles/special-column/20260426-439833/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-04-26T03:30:01",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260426-439833-header.jpg"
     },
     {
       "title": "地獄のお酒ロシアンルーレットゲーム『PUKEY GODDES SHOT TRICK』発表。美少女悪魔と魂を吐くまで飲む、破滅的“酒飲みサバイバル”",
@@ -156,28 +156,28 @@
       "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260425-439741-header.jpg"
     },
     {
-      "title": "フリュー『クライムライト／CRYMELIGHT』発表、11月発売へ。“懺悔するだけ強くなる”、『クライスタ』の流れを汲むローグライクアクション",
-      "url": "https://automaton-media.com/articles/newsjp/20260425-439734/",
-      "source": "Automaton",
-      "category": "release",
+      "title": "「BitSummit PUNCH」会場マップ・イベント特設ページが公開。展示会場の詳細や、ステージイベントなどの情報が一部発表",
+      "url": "https://gamemakers.jp/article/2026_04_26_136184/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
       "importance": "high",
-      "published": "2026-04-25T12:00:04",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260425-439734-header.jpg"
+      "published": "2026-04-26T03:00:29",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/04/b053dc13566fc37ef72645a6b1e1750c.jpg"
     },
     {
-      "title": "未解決事件ホラー『SOS Recordings』正式発表。北海道・旭岳の“現実の遭難事件”を題材に、消えた登山者の謎を追う",
-      "url": "https://automaton-media.com/articles/newsjp/sos-recordings-20260425-439682/",
-      "source": "Automaton",
-      "category": "release",
+      "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/4/25】",
+      "url": "https://gamemakers.jp/article/2026_04_25_135897/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
       "importance": "high",
-      "published": "2026-04-25T03:20:39",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/sos-recordings-20260425-439682-header.jpg"
+      "published": "2026-04-25T01:58:37",
+      "image": null
     },
     {
       "title": "『Clair Obscur: Expedition 33』リリース一周年で全世界売上800万本突破を報告！記念アートやヘアスタイル追加のアップデートも",
       "url": "https://www.gamebusiness.jp/article/2026/04/25/26787.html",
       "source": "GameBusiness.jp",
-      "category": "business",
+      "category": "other",
       "importance": "high",
       "published": "2026-04-25T11:15:03",
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/182351.jpg"
@@ -201,15 +201,6 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/182173.jpg"
     },
     {
-      "title": "OpenAI、GPT-5.5発表。「これまでで最もスマートな最先端モデル」",
-      "url": "https://www.gamebusiness.jp/article/2026/04/24/26776.html",
-      "source": "GameBusiness.jp",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-04-24T11:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182198.jpg"
-    },
-    {
       "title": "スイッチ2版『ファイナルファンタジーXIV』2026年8月に発売！新拡張「白銀のワンダラー」ティザーサイトやトレイラーも公開",
       "url": "https://www.gamebusiness.jp/article/2026/04/25/26789.html",
       "source": "GameBusiness.jp",
@@ -217,6 +208,15 @@
       "importance": "high",
       "published": "2026-04-25T11:45:04",
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/182324.jpg"
+    },
+    {
+      "title": "文系年金受給記者がAIハッカソンでゲームプログラミング。富士山麓にMacBook Neoを持ち込みヴァイブコーディングした結末（CloseBox）",
+      "url": "https://www.gamebusiness.jp/article/2026/04/26/26790.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-26T02:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182304.jpg"
     },
     {
       "title": "『バイオハザード レクイエム』販売本数が700万本を突破した模様 「RE:4」が1年で記録した数字に約2カ月で到達",
@@ -240,64 +240,10 @@
       "title": "任天堂は「映画の論理」ではなく、「ビデオゲームの論理」で『ザ・スーパーマリオギャラクシー・ムービー』を作ったのではないか",
       "url": "https://jp.ign.com/untitled-the-super-mario-bros-movie-sequel/83215/",
       "source": "IGN Japan",
-      "category": "industry",
+      "category": "business",
       "importance": "normal",
       "published": "2026-04-25T03:00:53",
       "image": "https://sm.ign.com/ign_jp/screenshot/default/image5_ufhw.jpg"
-    },
-    {
-      "title": "『ザ・スーパーマリオギャラクシー・ムービー』感想トーク！ゲーマーと映画ファン、それぞれの立場で考えたこと：第433回 音声版 銀幕にポップコーン",
-      "url": "https://jp.ign.com/ginmaku-podcast/83216/433",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-04-24T10:45:05",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/blob_2r67.jpg"
-    },
-    {
-      "title": "ゲーマーと映画ファン、それぞれの正直な感想は？『ザ・スーパーマリオギャラクシー・ムービー』を観て考えたこと：第433回 銀幕にポップコーン",
-      "url": "https://jp.ign.com/ginmaku-pop/83217/433",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-04-24T10:43:40",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_g8ce.jpg"
-    },
-    {
-      "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/4/25】",
-      "url": "https://gamemakers.jp/article/2026_04_25_135897/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-04-25T01:58:37",
-      "image": null
-    },
-    {
-      "title": "「東映ゲームズ」パブリッシングタイトル第1弾が発表。『KILLA』『HINO』『DEBUG NEPHEMEE』の3作品がラインナップ",
-      "url": "https://gamemakers.jp/article/2026_04_24_136122/",
-      "source": "ゲームメーカーズ",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-24T04:00:04",
-      "image": null
-    },
-    {
-      "title": "ゲームプログラミング向けOSSライブラリ「raylib v6.0」リリース。GPU不要のソフトウェアレンダラー「rlsw」正式導入など",
-      "url": "https://gamemakers.jp/article/2026_04_24_136145/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-24T08:07:13",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/04/a748249e7f3ece32127e357bd7493366.jpg"
-    },
-    {
-      "title": "「Unity Hub 3.18 beta」でスタンドアロンCLIが導入。起動時間が短縮され、コマンド実行速度も最大10倍へ",
-      "url": "https://gamemakers.jp/article/2026_04_24_136155/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-24T06:46:06",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/04/eec01dfcab0c14f36dc8f5bd32a2c02b.jpg"
     }
   ]
 }
