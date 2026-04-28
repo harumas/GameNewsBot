@@ -1,159 +1,231 @@
 {
-  "generated_at": "2026-04-27T00:17:12.930333",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、INDIE Live Expo 2026.4.25の発表情報や、VA-11 HALL-Aの開発元の新作ゲーム「.45 パラベラム ブラッドハウンド」の発売決定など、注目すべきニュースがいくつもあります！ 💻\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-04-28T00:20:43.828370",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、Valveの「Steam Deck 2」や新しい「Steam コントローラー」の発売決定など、面白い情報がたくさんあります 💻\n特に注目されるのは、「ガングレイヴ」IPの完全取得や「ディアブロIV：憎悪の帝王」のローンチイベントなど、様々なジャンルのゲームファンにワクワクするニュースが揃っています！\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "「INDIE Live Expo 2026.4.25」，注目発表情報をまとめてチェック。世界初公開の9タイトルに加え，複数作品の発売日などが明らかにされた",
-      "url": "https://www.4gamer.net/games/991/G999110/20260425001/",
-      "source": "4Gamer.net",
-      "category": "industry",
+      "title": "Valve、「Steam Deck 2」は現在も「開発に懸命に取り組んでいる」と海外メディアのインタビューで明らかに。発売時期は未定ながら、明確な次世代機としての性能向上を目指す",
+      "url": "https://news.denfaminicogamer.jp/news/260428i",
+      "source": "電ファミニコゲーマー",
+      "category": "tech",
       "importance": "high",
-      "published": "2026-04-25T12:54:00",
-      "image": "https://www.4gamer.net/games/991/G999110/20260425001/SS/001.jpg"
+      "published": "2026-04-27T23:36:15",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/steam-deck-product-image-1.jpg"
     },
     {
-      "title": "「VA-11 HALL-A」を手がけたSukeban Gamesの最新作「.45 パラベラム ブラッドハウンド」，2026年夏ごろに発売決定",
-      "url": "https://www.4gamer.net/games/815/G081534/20260425023/",
-      "source": "4Gamer.net",
-      "category": "release",
+      "title": "韓国のゲームスタジオIGGYMOB、『ガングレイヴ』IPをレッド・エンタテインメントから完全取得したと発表。原作者・内藤泰弘氏とともにシリーズの新たな未来を築く",
+      "url": "https://news.denfaminicogamer.jp/news/260428g",
+      "source": "電ファミニコゲーマー",
+      "category": "business",
       "importance": "high",
-      "published": "2026-04-25T12:47:17",
-      "image": "https://www.4gamer.net/games/815/G081534/20260425023/SS/001.jpg"
+      "published": "2026-04-27T22:30:08",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/HG5PlgkagAAIWV4.jpg"
     },
     {
-      "title": "「ダンジョンクロウラー：幸運ウサギと魔法の爪」，正式版が2026年5月1日にリリース決定。同日には大型アップデートも",
-      "url": "https://www.4gamer.net/games/793/G079329/20260425022/",
-      "source": "4Gamer.net",
+      "title": "「Steam コントローラー」5月4日（太平洋時間）に発売決定！ 価格は99ドル（約1万6000円）。スティック下にふたつのトラックパッド、背面に4つのグリップボタンを搭載した高性能コントローラー",
+      "url": "https://news.denfaminicogamer.jp/news/260428o",
+      "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-04-25T12:44:07",
-      "image": "https://www.4gamer.net/games/793/G079329/20260425022/SS/002.jpg"
+      "published": "2026-04-27T17:00:39",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/controller_small.jpg"
     },
     {
-      "title": "【今週のモチベ】「NTE: Neverness to Everness」や「SAROS」がリリースされる 2026年4月27日〜5月3日",
-      "url": "https://www.4gamer.net/games/954/G095479/20260426002/",
-      "source": "4Gamer.net",
-      "category": "release",
+      "title": "「恐竜をエスカレーターでハメれる」サバイバルステルスアクション『TOKYO SCRAMBLE』を25%オフの2458円で買える初セールが開催中。現代文明のパワーを用いて恐竜たちに対抗しつつ、地下世界からの脱出を目指す",
+      "url": "https://news.denfaminicogamer.jp/news/260428z",
+      "source": "電ファミニコゲーマー",
+      "category": "sale",
       "importance": "normal",
-      "published": "2026-04-26T23:00:00",
-      "image": "https://www.4gamer.net/games/954/G095479/20260426002/SS/010.jpg"
+      "published": "2026-04-28T00:00:17",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/Aaron_GWSaleBanner_Jp.png"
     },
     {
-      "title": "この博物館どうかしてるぜっ！　とにかく“変”な「ツーポイントミュージアム」【放課後れびゅあーず！】",
-      "url": "https://www.4gamer.net/games/925/G092590/20260426008/",
-      "source": "4Gamer.net",
-      "category": "other",
+      "title": "『スト6』の実況機能にハイタニ選手が参戦！5月7日に実装予定。公式YouTubeチャンネルに公開された映像では、自身のコーチング経験を活かした実況シーンを披露",
+      "url": "https://news.denfaminicogamer.jp/news/260428j",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
       "importance": "normal",
-      "published": "2026-04-26T22:00:00",
-      "image": "https://www.4gamer.net/games/925/G092590/20260426008/SS/005.jpg"
+      "published": "2026-04-27T23:51:03",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/maxresdefault-24.jpg"
     },
     {
-      "title": "Houdiniによるジオメトリ分解・消失表現のチュートリアル動画公開　VOPと空間ノイズで緻密に制御するディゾルブエフェクト - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202604-Houdini-dissolve.html",
+      "title": "Niantic Spatial、空間知能プラットフォームの新「Scaniverse」リリース　iOS&PC対応、一度のキャプチャでVPSマップとメッシュと3DGSを同時生成 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202604-Scaniverse.html",
       "source": "CGWORLD",
       "category": "tech",
       "importance": "normal",
-      "published": "2026-04-26T22:52:34",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/Houdini_dissolve-01-thumb-1920x1080-82711.jpg"
+      "published": "2026-04-27T23:15:39",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/Scaniverse-01-thumb-1920x1080-82748.jpg"
     },
     {
-      "title": "オートデスク、Bifrostのリギングノウハウチュートリアル動画公開　EA SportsのTA・Darren Rudy氏によるワークフロー解説 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202604-Bifrost-EASports.html",
+      "title": "《クリエイター》を表現した3DCG作品を大募集！　「CGWORLD GALLERY」作品応募受付は5/24（日）まで - ニュース",
+      "url": "https://cgworld.jp/flashnews/cgwg-v030.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-04-27T14:00:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/vol.030_gallery_banner_30_web-thumb-1000x563-82734.jpg"
+    },
+    {
+      "title": "【新講座】あれいら氏による『【Blender Fes Extra】3D衣装の作り方』が6/26(金)にオンライン開催決定！ - ニュース",
+      "url": "https://cgworld.jp/flashnews/academy-plusone-0626.html",
       "source": "CGWORLD",
       "category": "tech",
       "importance": "normal",
-      "published": "2026-04-25T23:24:31",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/Bifrost_EASports-01-thumb-1920x1080-82700.jpg"
+      "published": "2026-04-27T03:52:18",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/261_seminar_areira_full%20%281%29%20%281%29-thumb-1920x1080-82727.jpg"
     },
     {
-      "title": "【最大10人マルチ】消防士に紛れ込む敵を探す人狼系アクションゲーム『OCTOPinbs』Steamにて5月12日に発売決定。議論なしで進むアクション特化の人狼ゲーム、公式XやDiscordで3種のキャンペーン実施中",
-      "url": "https://news.denfaminicogamer.jp/news/260425g",
-      "source": "電ファミニコゲーマー",
+      "title": "CGWORLD vol.334（2026年6月号）「WEB ✕ 3DCG」特集号を先行告知！ - ニュース",
+      "url": "https://cgworld.jp/flashnews/cgw334-pr.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-04-27T03:00:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/web_334_infobanner_before-thumb-1000x563-82725.jpg"
+    },
+    {
+      "title": "コンテンツ制作ワークフローに浸透するAIと&quot;世界シミュレータ&quot;となる動画生成AIを紹介！ GTC 2026レポート - 特集",
+      "url": "https://cgworld.jp/article/202604-gtc.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-27T01:09:00",
+      "image": "https://cgworld.jp/article/assets_c/2026/04/image1-thumb-1000x473-82639.jpg"
+    },
+    {
+      "title": "「ディアブロIV：憎悪の帝王」ローンチイベントが韓国で開催に。新要素もりだくさんの拡張をプレゼンと合同インタビューで紹介",
+      "url": "https://www.4gamer.net/games/484/G048447/20260427009/",
+      "source": "4Gamer.net",
       "category": "release",
       "importance": "high",
-      "published": "2026-04-25T12:45:53",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/d618814c17e325b4b81cf589b2887d9f.png"
+      "published": "2026-04-27T23:00:51",
+      "image": "https://www.4gamer.net/games/484/G048447/20260427009/TN/006.jpg"
     },
     {
-      "title": "『VA-11 Hall-A』開発元の新作ゲーム『.45 パラベラム ブラッドハウンド』2026年夏ごろに発売決定。人生に疲れた殺し屋が「楽園」を目指して“ぼやく”哀愁漂う映像も公開",
-      "url": "https://news.denfaminicogamer.jp/news/260425t",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-25T12:39:15",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/main-52.png"
-    },
-    {
-      "title": "ヤンデレ悪魔と「飲みサバイバル」をするゲーム『PUKEY GODDESS SHOT TRICK』発表。ロシアンルーレット×飲酒で“魂を吐かせる”",
-      "url": "https://news.denfaminicogamer.jp/news/2604253e",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-25T12:36:53",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/PUKEY-GODDESS-SHOT-TRICK_KV.jpg"
-    },
-    {
-      "title": "『FF7 リバース』セフィロスが「未来のレモンサワー」を飲む特別ムービーが公開。正宗でレモンをスライスし、美味しそうにレモンサワーを飲む絵面がシュールすぎる",
-      "url": "https://news.denfaminicogamer.jp/news/260427z",
-      "source": "電ファミニコゲーマー",
+      "title": "「ウマ娘 プリティーダービー」の公式番組「ぱかライブTV' #2」は本日配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+      "url": "https://www.4gamer.net/games/421/G042182/20260427049/",
+      "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-04-26T15:00:47",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/mirai_FF_1.png"
+      "published": "2026-04-27T23:00:00",
+      "image": "https://www.4gamer.net/games/421/G042182/20260427049/SS/003.jpg"
     },
     {
-      "title": "アニメ『ワールドトリガー』REBOOTプロジェクト「黒トリガー争奪編」の制作が進行中。空閑遊真を村中知さん、三雲修を梶裕貴さんが演じるなどメインキャスト情報も公開",
-      "url": "https://news.denfaminicogamer.jp/news/260426h",
-      "source": "電ファミニコゲーマー",
-      "category": "industry",
+      "title": "言葉を見つけて戦うローグライクワードパズル「Cursed Words: The Word Game That Isn't」（ほぼ日 インディーPick Up！）",
+      "url": "https://www.4gamer.net/games/950/G095079/20260426004/",
+      "source": "4Gamer.net",
+      "category": "release",
       "importance": "normal",
-      "published": "2026-04-26T14:44:56",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/G7u1j7taQAAlvh4.png"
+      "published": "2026-04-27T22:00:00",
+      "image": "https://www.4gamer.net/games/950/G095079/20260426004/SS/011.jpg"
     },
     {
-      "title": "不穏メルヘン探索アドベンチャー『アリスインワンダーアンダーランド』は、“かつてのインターネット体験”を呼び覚ます。何が起きるかわからない不安とワクワクに満ちたカオス探索",
-      "url": "https://automaton-media.com/articles/special-column/aiwu-20260426-439548/",
+      "title": "Valveの新世代ゲームパッド「Steam Controller」をテスト。シンプルさとカスタマイズ性を兼ね備えた面白いゲームパッドだ",
+      "url": "https://www.4gamer.net/games/999/G999902/20260427041/",
+      "source": "4Gamer.net",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-27T17:00:00",
+      "image": "https://www.4gamer.net/games/999/G999902/20260427041/SS/041.jpg"
+    },
+    {
+      "title": "NBAスター選手がその手で躍る。「NBAダンクシティ」はスマホでサクッと気軽にバスケの魅力を味わえる。日本展開に向けて着々と準備中",
+      "url": "https://www.4gamer.net/games/001/G100120/20260427029/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-27T15:00:00",
+      "image": "https://www.4gamer.net/games/001/G100120/20260427029/SS/001.jpg"
+    },
+    {
+      "title": "新型Steamコントローラー開発者インタビュー。新型は「キーボード＆マウス向け」「パッド向け」ゲーム含む“Steamのすべてのゲームに対応する純正コントローラー”を目指して開発",
+      "url": "https://automaton-media.com/articles/interviewsjp/steamcon-20260328-440112/",
+      "source": "Automaton",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-04-27T17:32:33",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/SC_front_b.jpg"
+    },
+    {
+      "title": "発表から3年以上音沙汰なし『アサシン クリード コードネームHexe』、ゲームディレクターがスタジオを退職。“今年2人目”の開発リーダー離脱、雲行き怪しく",
+      "url": "https://automaton-media.com/articles/newsjp/20260427-440008/",
       "source": "Automaton",
       "category": "release",
       "importance": "high",
-      "published": "2026-04-26T04:00:04",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/aiwu-20260426-439548-header.jpg"
+      "published": "2026-04-27T03:03:10",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260427-440008-header.jpg"
     },
     {
-      "title": "基本プレイ無料「街」オープンワールド『NTE』の街には「謎の作り込み」がめちゃくちゃある。ほぼ現実",
-      "url": "https://automaton-media.com/articles/special-column/20260426-439833/",
+      "title": "新型Steamコントローラーをいち早く触ったら「尖りすぎコントローラー」から「優秀コントローラー」に進化していた。先行ハンズオンで見えた機能性と汎用性",
+      "url": "https://automaton-media.com/articles/reportjp/steacon-20260428-440144/",
       "source": "Automaton",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-27T17:22:21",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/steacon-20260428-440144-header.jpg"
+    },
+    {
+      "title": "新型Steamコントローラー5月5日発売へ。馴染みある形状と独特な機能を有する、PC向けコントローラー",
+      "url": "https://automaton-media.com/articles/newsjp/stecom2-20260428-440154/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-27T17:20:48",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/stecom2-20260428-440154-header.webp"
+    },
+    {
+      "title": "基本プレイ無料「3～5分で決着」ストリートバスケゲーム『NBAダンクシティ』はさくっと遊べるけどコアゲーマー向けやり込みもあり。遊びやすさとNBA選手の魅力凝縮ゲーム",
+      "url": "https://automaton-media.com/articles/reportjp/20260427-440111/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-27T15:00:36",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260427-440111-header-1.jpg"
+    },
+    {
+      "title": "今夏、Swtich 2に『ファイナルファンタジーXIV』がやってくる！2026年8月リリース予定",
+      "url": "https://jp.ign.com/final-fantasy-xiv-online-2010-version/83223/swtich-2xiv20268",
+      "source": "IGN Japan",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-27T05:17:10",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/videoframe-11581701_jr7v.png"
+    },
+    {
+      "title": "『Alien: Isolation 2』と思しきティーザートレーラーが公開 「エイリアンの日」に合わせた予告に",
+      "url": "https://jp.ign.com/games/83227/alien-isolation-2",
+      "source": "IGN Japan",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-27T05:10:27",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/false-sense-of-security-0-19-screenshot_6n9v.png"
+    },
+    {
+      "title": "低音域が強化されたSHUREの有線イヤホン「SE215 Special Edition」がAmazonにて20％オフで販売中",
+      "url": "https://jp.ign.com/gaming-device/79898/news/shurese215-special-editionamazon28",
+      "source": "IGN Japan",
       "category": "other",
-      "importance": "high",
-      "published": "2026-04-26T03:30:01",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260426-439833-header.jpg"
+      "importance": "normal",
+      "published": "2026-04-27T08:50:26",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_9b6y.png"
     },
     {
-      "title": "地獄のお酒ロシアンルーレットゲーム『PUKEY GODDES SHOT TRICK』発表。美少女悪魔と魂を吐くまで飲む、破滅的“酒飲みサバイバル”",
-      "url": "https://automaton-media.com/articles/newsjp/pukey-goddes-shot-trick-20260425-439753/",
-      "source": "Automaton",
+      "title": "『Karma Exorcist』アナウンストレイラー",
+      "url": "https://jp.ign.com/games/83233/karma-exorcist",
+      "source": "IGN Japan",
       "category": "release",
-      "importance": "high",
-      "published": "2026-04-25T12:37:43",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/pukey-goddes-shot-trick-20260425-439753-header.jpg"
+      "importance": "normal",
+      "published": "2026-04-27T05:16:09",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/screenshot4_c3js.jpg"
     },
     {
-      "title": "緊迫短期決戦ローグライトカードゲーム『ルナパルス』発表。「死にゲー」の戦闘に再構築した、明けない月夜の魔女たちの儀式",
-      "url": "https://automaton-media.com/articles/newsjp/20260425-439726/",
-      "source": "Automaton",
+      "title": "『Karma Exorcist』Black Impermanenceボス戦プレイ動画",
+      "url": "https://jp.ign.com/games/83228/karma-exorcistblack-impermanence",
+      "source": "IGN Japan",
       "category": "release",
-      "importance": "high",
-      "published": "2026-04-25T12:22:49",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260425-439726-header.jpg"
-    },
-    {
-      "title": "ファンタジー“作業集中”アドベンチャー『Memory of Memorie : A Chill Story』発表。魔法使い見習いの少女と一緒にがんばる異世界作業通話",
-      "url": "https://automaton-media.com/articles/newsjp/20260425-439741/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-25T12:13:44",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260425-439741-header.jpg"
+      "importance": "normal",
+      "published": "2026-04-27T05:16:09",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/screenshot-2026-04-27-at-125604_68gm.png"
     },
     {
       "title": "「BitSummit PUNCH」会場マップ・イベント特設ページが公開。展示会場の詳細や、ステージイベントなどの情報が一部発表",
@@ -162,52 +234,25 @@
       "category": "industry",
       "importance": "high",
       "published": "2026-04-26T03:00:29",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/04/b053dc13566fc37ef72645a6b1e1750c.jpg"
-    },
-    {
-      "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/4/25】",
-      "url": "https://gamemakers.jp/article/2026_04_25_135897/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-04-25T01:58:37",
       "image": null
     },
     {
-      "title": "『Clair Obscur: Expedition 33』リリース一周年で全世界売上800万本突破を報告！記念アートやヘアスタイル追加のアップデートも",
-      "url": "https://www.gamebusiness.jp/article/2026/04/25/26787.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-04-25T11:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182351.jpg"
+      "title": "Microsoft製オープンソースWebレンダリングエンジン「Babylon.js 9.0」開発者が最新機能を紹介。第5回Babylon.js勉強会のアーカイブ・一部資料が公開",
+      "url": "https://gamemakers.jp/article/2026_04_27_136237/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-27T08:05:45",
+      "image": null
     },
     {
-      "title": "セガ往年のIPに光を当てる新プロジェクト「SEGA UNIVERSE」発表！第1弾は『ガーディアンヒーローズ』『セガガガ』など周年迎える9タイトル",
-      "url": "https://www.gamebusiness.jp/article/2026/04/25/26783.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-04-25T03:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182151.jpg"
-    },
-    {
-      "title": "【インタビュー】“独立局の力”でアニメをもっと自由に。TOKYO MXが描く、これからのアニメのかたち／AnimeJapan 2026",
-      "url": "https://www.gamebusiness.jp/article/2026/04/25/26780.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-04-25T02:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182173.jpg"
-    },
-    {
-      "title": "スイッチ2版『ファイナルファンタジーXIV』2026年8月に発売！新拡張「白銀のワンダラー」ティザーサイトやトレイラーも公開",
-      "url": "https://www.gamebusiness.jp/article/2026/04/25/26789.html",
-      "source": "GameBusiness.jp",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-25T11:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182324.jpg"
+      "title": "Blenderで2D背景制作を効率化。パース・ライティング技法などを学べる書籍『Blender マンガ・イラスト背景制作実践テクニック』販売中",
+      "url": "https://gamemakers.jp/article/2026_04_27_136233/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-27T06:11:54",
+      "image": null
     },
     {
       "title": "文系年金受給記者がAIハッカソンでゲームプログラミング。富士山麓にMacBook Neoを持ち込みヴァイブコーディングした結末（CloseBox）",
@@ -217,33 +262,6 @@
       "importance": "normal",
       "published": "2026-04-26T02:00:04",
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/182304.jpg"
-    },
-    {
-      "title": "『バイオハザード レクイエム』販売本数が700万本を突破した模様 「RE:4」が1年で記録した数字に約2カ月で到達",
-      "url": "https://jp.ign.com/resident-evil-9/83219/700-re412",
-      "source": "IGN Japan",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-04-25T07:47:09",
-      "image": "https://sm.ign.com/ign_jp/news/r/resident-e/resident-evil-requiem-hits-7-million-sales-milestone_nqq4.jpg"
-    },
-    {
-      "title": "RTX 3050を搭載したASUSのゲーミングノートPC「TUF Gaming A15 FA506NCQ」がAmazonにて13％オフでタイムセール中",
-      "url": "https://jp.ign.com/gaming-device/83218/rtx-3050asuspctuf-gaming-a15-fa506ncqamazon13",
-      "source": "IGN Japan",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-25T05:45:24",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_qnft.jpg"
-    },
-    {
-      "title": "任天堂は「映画の論理」ではなく、「ビデオゲームの論理」で『ザ・スーパーマリオギャラクシー・ムービー』を作ったのではないか",
-      "url": "https://jp.ign.com/untitled-the-super-mario-bros-movie-sequel/83215/",
-      "source": "IGN Japan",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-04-25T03:00:53",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/image5_ufhw.jpg"
     }
   ]
 }
