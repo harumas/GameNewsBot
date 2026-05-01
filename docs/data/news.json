@@ -1,303 +1,321 @@
 {
-  "generated_at": "2026-04-30T00:21:52.215934",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、Epic Games対Appleの訴訟や新作ゲーム『SAROS』の発売、そして『ペルソナ3』『ペルソナ4』のライブ映像の無料配信など、多くの注目すべきトピックがあります 💻\n特に『ソードアート・オンライン』の新作劇場版の制作中というニュースが光っています！\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-05-01T00:22:16.749357",
+  "poem": "おはようございます！ 🌞\n今日もゲームの世界は新しいニュースでいっぱいです。早期アクセス開始が間近に迫った「サブノーティカ2」や、新しいレースゲーム「スター・ウォーズ：ギャラクティック・レーサー」が話題です 💻\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "Epic Games対Appleの訴訟にて、アプリ外決済の手数料徴収を禁じる命令に対するApple側の猶予申し立てが却下。一度は認められたApple側の要求が覆る形に",
-      "url": "https://news.denfaminicogamer.jp/news/260430d",
-      "source": "電ファミニコゲーマー",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-04-30T00:00:35",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/ecosystem-w-fn-1920x1080-6d0b8c3e74ff.webp"
-    },
-    {
-      "title": "『ソードアート・オンライン』完全新作オリジナル劇場版が制作中！2026年7月に情報解禁",
-      "url": "https://news.denfaminicogamer.jp/news/2604293a",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-04-29T08:34:53",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/b96f8a61c3693617fd6433cfe6091fda.png"
-    },
-    {
-      "title": "死ぬたびに姿を変える異星で怒涛の弾幕を捌く。高難度SFアクションゲーム『SAROS』発売開始。『Returnal』開発陣が贈る、海外メタスコア「88点」と好評の注目タイトル",
-      "url": "https://news.denfaminicogamer.jp/news/260430c",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-29T23:35:10",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/ed6f200de6143684d28cf4286fbd5897.jpg"
-    },
-    {
-      "title": "『ペルソナ3』『ペルソナ4』2013年の武道館ライブ映像がYouTubeにて無料で配信開始。「mass destruction」「キミの記憶」「Never More」など名曲だらけのステージはファン必見",
-      "url": "https://news.denfaminicogamer.jp/news/260430b",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-29T22:11:40",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/maxresdefault-4-2.jpg"
-    },
-    {
-      "title": "『FGO』の概念礼装「カレイドスコープ」のカードアクリル＆キーホルダーが8月に発売。イラストはホログラム加工で、クリアケースが付属し、飾る・持ち歩く両方に対応する2WAY仕様",
-      "url": "https://news.denfaminicogamer.jp/news/2604293e",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-29T14:31:32",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/HHEIQHPbcAAiEjE.jpeg"
-    },
-    {
-      "title": "［インタビュー］「カオスゼロナイトメア」がハーフアニバーサリー。開発背景や新しいコンテンツなど，気になる点を開発プロデューサーに聞いた",
-      "url": "https://www.4gamer.net/games/793/G079349/20260428031/",
-      "source": "4Gamer.net",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-04-29T08:00:00",
-      "image": "https://www.4gamer.net/games/793/G079349/20260428031/SS/001.jpg"
-    },
-    {
-      "title": "「シブヤスクランブルストーリーズ」新情報発表イベントレポート。メインキャストとキャラクター5名がついに決定。ジャジーなサウンドのティザーPVも公開",
-      "url": "https://www.4gamer.net/games/905/G090534/20260429005/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-04-29T06:15:00",
-      "image": "https://www.4gamer.net/games/905/G090534/20260429005/SS/004.jpg"
-    },
-    {
-      "title": "スマホゲームのセルラン分析（2026年4月16日〜4月22日）。今週の1位は「Gジェネ エターナル」。1月〜3月のパブリッシャ別世界収益ランキングも",
-      "url": "https://www.4gamer.net/games/633/G063395/20260427006/",
+      "title": "早期アクセス開始が間近に迫った「サブノーティカ2」開発陣にメールインタビュー。新たな海洋惑星探査に期待が高まる",
+      "url": "https://www.4gamer.net/games/848/G084886/20260430046/",
       "source": "4Gamer.net",
       "category": "release",
-      "importance": "normal",
-      "published": "2026-04-30T00:00:00",
-      "image": "https://www.4gamer.net/games/633/G063395/20260427006/SS/002.jpg"
+      "importance": "high",
+      "published": "2026-05-01T00:00:00",
+      "image": "https://www.4gamer.net/games/848/G084886/20260430046/SS/004.jpg"
     },
     {
-      "title": "中世写本をドラッグ＆ドロップで描く創作シム「Scriptorium: Master of Manuscripts」（ほぼ日 インディーPick Up！）",
-      "url": "https://www.4gamer.net/games/833/G083395/20260426007/",
+      "title": "［インタビュー］伝説の殺し屋から伝説のスパイへ。フランチャイズが築いてきた“お約束”を踏まえ，「007 First Light」はいかにしてボンドの始まりを描くのか",
+      "url": "https://www.4gamer.net/games/916/G091663/20260430021/",
       "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-29T22:00:00",
-      "image": "https://www.4gamer.net/games/833/G083395/20260426007/SS/002.jpg"
-    },
-    {
-      "title": "銃と魔法で“奇妙な西部開拓時代”を生き延びろ！ 最大4人チームで戦う協力型シューター「Far Far West」，アーリーアクセスを本日開始",
-      "url": "https://www.4gamer.net/games/985/G098546/20260429004/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-29T13:00:00",
-      "image": "https://www.4gamer.net/games/985/G098546/20260429004/SS/001.jpg"
-    },
-    {
-      "title": "ローグライト格闘ゲーム『Shot One Fighters』正式発表。バトルシステムは2D格ゲー、ビルドを構築し理想のキャラを作り上げる",
-      "url": "https://automaton-media.com/articles/newsjp/20260429-440493/",
-      "source": "Automaton",
       "category": "release",
       "importance": "high",
-      "published": "2026-04-29T07:13:58",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260429-440493-header.jpeg"
+      "published": "2026-04-30T16:00:00",
+      "image": "https://www.4gamer.net/games/916/G091663/20260430021/SS/014.jpg"
     },
     {
-      "title": "“推理小説を読む程度の集中力”でプレイできる推理ADV『真ッ赤の太陽』Steamにてお披露目。怪しい箇所でトリガーを引いて迫る、女子大生の失踪事件と二重太陽の謎",
-      "url": "https://automaton-media.com/articles/newsjp/20260429-440536/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-29T10:15:28",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260429-440536-header.jpg"
-    },
-    {
-      "title": "「無限成長」デッキ構築ローグライク『Cubic Cosmos』正式リリース。“永続強化”で壊れカード作り放題、シナジー炸裂のお手軽インフレ",
-      "url": "https://automaton-media.com/articles/newsjp/20260429-440530/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-29T09:47:33",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260429-440530-header.jpg"
-    },
-    {
-      "title": "基本プレイ無料“街”オープンワールド『NTE』の戦闘をナメてたら半殺しにされた。わかってくるほど忙しい4人連携チーム戦で、気づけば戦闘狂に",
-      "url": "https://automaton-media.com/articles/special-column/20260429-440508/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-04-29T09:00:07",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260429-440508-header.jpg"
-    },
-    {
-      "title": "精神崩壊デッキ構築ローグライク『カオスゼロナイトメア』の弱点は“ソシャゲなのに育成幅を狭くしたこと”だった。0.5周年を機にどう変えていくのか",
-      "url": "https://automaton-media.com/articles/interviewsjp/chaos-zero-nightmare-20260429-440089/",
-      "source": "Automaton",
+      "title": "[インタビュー]「Apex Legends」新シーズン“オーバークロック”について，新レジェンドからゲームシステムまでいろいろ聞いてみた",
+      "url": "https://www.4gamer.net/games/449/G044914/20260430065/",
+      "source": "4Gamer.net",
       "category": "update",
-      "importance": "normal",
-      "published": "2026-04-29T08:06:46",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/04/chaos-zero-nightmare-20260429-440089-header.jpg"
+      "importance": "high",
+      "published": "2026-04-30T15:00:00",
+      "image": "https://www.4gamer.net/games/449/G044914/20260430065/SS/009.jpg"
     },
     {
-      "title": "『Above Land: Rhapsody』アナウンストレイラー",
-      "url": "https://jp.ign.com/games/83243/above-land-rhapsody",
-      "source": "IGN Japan",
+      "title": "「うたわれるもの 白への道標」，5名のキャラクターや，専用戦技を繰り出せる「仮神権現」を含むシステム面の新要素などを発表",
+      "url": "https://www.4gamer.net/games/855/G085527/20260430071/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-30T14:11:36",
+      "image": "https://www.4gamer.net/games/855/G085527/20260430071/SS/001.jpg"
+    },
+    {
+      "title": "「サイレントヒル」シリーズで知られる作曲家・山岡晃氏，サバイバルホラー「Remothered：赤き修道女の遺産」のサウンドトラックを担当することが発表",
+      "url": "https://www.4gamer.net/games/990/G099022/20260430063/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-30T11:03:25",
+      "image": "https://www.4gamer.net/games/990/G099022/20260430063/SS/002.jpg"
+    },
+    {
+      "title": "『ホグワーツ・レガシー』PC版いきなり無料配布開始、Epic Gamesストアにて。期間短めの独自配布",
+      "url": "https://automaton-media.com/articles/newsjp/20260501-440708/",
+      "source": "Automaton",
+      "category": "sale",
+      "importance": "high",
+      "published": "2026-04-30T15:40:57",
+      "image": "https://automaton-media.com/wp-content/uploads/2024/09/hogwartslegacy-20240905-309285-header.jpg"
+    },
+    {
+      "title": "『ブルアカ』元開発者集うディナミス・ワンの新作『アストラエ・オラティオ』発表。“魔法と行政”テーマのサブカルRPG、いよいよお披露目へ",
+      "url": "https://automaton-media.com/articles/newsjp/20260430-440612/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-30T04:56:45",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260430-440612-header.jpg"
+    },
+    {
+      "title": "PS5新作ローグライトシューター『SAROS（サロス）』、“今年トップクラス”のメタスコア＆高評価殺到。『Returnal』の正統進化作が絶好スタート",
+      "url": "https://automaton-media.com/articles/newsjp/20260430-440613/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-30T05:33:24",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/20260430-440613-header.jpg"
+    },
+    {
+      "title": "海洋惑星オープンワールドサバイバル『サブノーティカ2』、5月15日より早期アクセス配信へ。シリーズ初マルチプレイ対応、進化する海洋探検",
+      "url": "https://automaton-media.com/articles/newsjp/subnautica-2-20260501-440747/",
+      "source": "Automaton",
       "category": "release",
       "importance": "normal",
-      "published": "2026-04-29T05:03:30",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/3-foldingchair_c555.png"
+      "published": "2026-04-30T23:57:48",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/subnautica-2-20260501-440747-header.jpg"
     },
     {
-      "title": "武器はバスケットボールに“巨大入れ歯”？中国の新人チームが作る異色のアクションRPG『Above Land: Rhapsody』試遊レポート",
-      "url": "https://jp.ign.com/games/83240/rpgabove-land-rhapsody",
-      "source": "IGN Japan",
+      "title": "『スター・ウォーズ：ギャラクティック・レーサー』10月6日発売へ。『バーンアウト』などのクリエイター携わる“フォースなし”ガチンコ無法レース",
+      "url": "https://automaton-media.com/articles/newsjp/20260501-440738/",
+      "source": "Automaton",
       "category": "release",
       "importance": "normal",
-      "published": "2026-04-29T05:03:30",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/aboveland-keyvisual_h6j2.png"
+      "published": "2026-04-30T23:38:06",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260501-440738-header.jpg"
     },
     {
-      "title": "「一本道＝古臭い」認識は消えかけている？ リニアなゲームの価値を再考する：#487 音声版 しゃべりすぎGAMER",
-      "url": "https://jp.ign.com/shaberisugi-gamer/83235/487-gamer",
-      "source": "IGN Japan",
+      "title": "『スター・ウォーズ：ギャラクティック・レーサー』PC版が10月6日に発売決定。フォースに頼らず、純粋なスキルと戦略で勝利をもぎ取る新作レースゲーム",
+      "url": "https://news.denfaminicogamer.jp/news/260501g",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-04-30T23:41:22",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_3d1f5528d060715a7cb3f1360ac5b033db7b8927.1920x1080.jpg"
+    },
+    {
+      "title": "『ホグワーツ・レガシー』無料配布。Epic Gamesにて、5月4日までの期間限定。『ハリー・ポッター』の魔法学園でひとりの生徒として暮らせるRPG。。組み分け帽や空飛ぶほうきなど、おなじみの要素が盛りだくさん",
+      "url": "https://news.denfaminicogamer.jp/news/260501c",
+      "source": "電ファミニコゲーマー",
+      "category": "sale",
+      "importance": "high",
+      "published": "2026-04-30T21:35:17",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_df93b5e8a183f7232d68be94ae78920a90de1443.1920x1080.jpg"
+    },
+    {
+      "title": "『機動戦士ガンダム ジークアクス』マチュの制服が発売決定。マチュの着ている「ハイバリーハウス学園」の制服のワンピースとセーターを再現",
+      "url": "https://news.denfaminicogamer.jp/news/2604303h",
+      "source": "電ファミニコゲーマー",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-04-30T14:44:33",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/04/C_01_16dcdcf947.webp"
+    },
+    {
+      "title": "『呪術廻戦』のスピンオフ『呪術廻戦≡』最終3巻の発売を記念した映像が公開。SNSでは「これもうアニメ化だろ」「再び真人の声を聞けるとは」「良すぎる」と絶賛される。アニメ版のMAPPAが制作を担当",
+      "url": "https://news.denfaminicogamer.jp/news/260501f",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-30T23:18:36",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/maxresdefault-5.jpg"
+    },
+    {
+      "title": "深海サ探索ゲームの新作『サブノーティカ2』早期アクセス版が5月15日に配信決定。最大4人で協力プレイ可能。海底で“複眼を持つ超巨大な二枚貝”に襲撃されるスリリングな映像も公開",
+      "url": "https://news.denfaminicogamer.jp/news/260501e",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-30T22:42:31",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/Subnautica-2-Early-Access-Cinematic-Trailer-1-48-screenshot.jpg"
+    },
+    {
+      "title": "「V-Ray for Blender Community Edition」リリース　個人・小規模クリエイター向け、90日間ごとのライセンス更新により無償利用を継続可能 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202605-V-Ray-Blender.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-30T23:06:21",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/Vray_Blender-01-thumb-1920x1080-83151.jpg"
+    },
+    {
+      "title": "【イベントレポート】ダンデライオン西川氏×マンガボックス安江氏が語る「ヒット作を生む組織」――Flow PT×freee連携が見据える、クリエイターファーストなプロジェクト管理 - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/flowpt-freee-202604.html",
+      "source": "CGWORLD",
       "category": "industry",
       "importance": "normal",
-      "published": "2026-04-28T11:03:30",
-      "image": null
+      "published": "2026-04-30T07:45:00",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/04/efe90a1be5415fca90bc033ec7b9be2a6c22c1b4-thumb-1000x563-82608.jpg"
     },
     {
-      "title": "The Best PlayStation Game of 2025",
-      "url": "https://jp.ign.com/gallery/83238/the-best-playstation-game-of-2025",
+      "title": "Foundry Japan、ノードベースのAIツール「Griptape Nodes」の日本語インストールガイドを公開 - ニュース",
+      "url": "https://cgworld.jp/flashnews/03-2604-griptapenodes.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-30T03:27:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/maxresdefault%20%286%29-thumb-1280x720-82744.jpg"
+    },
+    {
+      "title": "【CG講師求人特集】次世代のCGクリエイターの育成に携わりませんか？ - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/recruit-cgteacher-202604.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-04-30T03:00:00",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/04/c2b3cc1efb831164a1b1c490127786364eaed02e-thumb-1000x563-81572-thumb-1000x563-81878.jpg"
+    },
+    {
+      "title": "Embark Studiosが手掛けたFPSゲーム『THE FINALS』のプロシージャル建築制作のメイキング日本語版を公開──Houdiniで実現する破壊と再構築のワークフロー - ニュース",
+      "url": "https://cgworld.jp/flashnews/03-2604-thefinals.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-30T02:55:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/Making-the-Procedural-Buildings-of-THE-FINALS-thumb-908x489-82740.jpg"
+    },
+    {
+      "title": "『SAROS』レビュー 30時間プレイしても色褪せない銃撃戦の快楽に、歪なローグライト要素が絡む",
+      "url": "https://jp.ign.com/saros/83244/saros-30",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-04-30T10:24:26",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/00-main_1dxq.jpg"
+    },
+    {
+      "title": "『007 First Light』戦闘スクリーンショット",
+      "url": "https://jp.ign.com/project-007/83250/007-first-light",
+      "source": "IGN Japan",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-30T15:00:41",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/screenshot-2026-04-30-at-185431_5hsm.png"
+    },
+    {
+      "title": "「アンチャ」×「ヒットマン」？『007 First Light』先行プレイ感想",
+      "url": "https://jp.ign.com/project-007/83247/007-first-light",
       "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-04-28T08:01:09",
-      "image": "https://sm.ign.com/ign_jp/gallery/t/the-best-p/the-best-playstation-game-of-2025_tyve.jpg"
+      "published": "2026-04-30T15:00:41",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/007_jk36.jpg"
     },
     {
-      "title": "BenQの220Hz対応ゲーミングモニター「MOBIUZ EX251」が20%オフでタイムセール中",
-      "url": "https://jp.ign.com/amazon-smile-sale-2025-spring/78828/benq220hzmobiuz-ex25120",
+      "title": "これぞ理想の“ボンドゲー”か？『007 First Light』を3時間プレイした感想",
+      "url": "https://jp.ign.com/project-007/83246/007-first-light3",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-04-30T15:00:41",
+      "image": "https://sm.ign.com/ign_jp/photo/default/007-first-light-blog-1756992493915_xfab.jpg"
+    },
+    {
+      "title": "Ankerのワイヤレスイヤホン「Soundcore Liberty 5」がAmazonにて14％オフでセール中【スマイルSale ゴールデンウィーク】",
+      "url": "https://jp.ign.com/gaming-device/83241/ankersoundcore-liberty-5amazon14sale",
       "source": "IGN Japan",
       "category": "sale",
       "importance": "normal",
-      "published": "2026-04-28T02:16:19",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_7tbw.png"
+      "published": "2026-04-30T09:25:18",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_sef3.png"
     },
     {
-      "title": "ZETA所属の配信者「ファン太」が退団処分にー複数女性との不貞行為を認め、本人も無期限活動休止を発表",
-      "url": "https://www.gamebusiness.jp/article/2026/04/28/26805.html",
-      "source": "GameBusiness.jp",
-      "category": "esports",
-      "importance": "high",
-      "published": "2026-04-28T05:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182383.jpg"
-    },
-    {
-      "title": "コーエーテクモHD「当期純利益は過去最高の業績」と報告―『仁王3』100万本突破など大型新作が牽引",
-      "url": "https://www.gamebusiness.jp/article/2026/04/29/26813.html",
+      "title": "ニンテンドースイッチ2の通期業績への影響が明らかになる任天堂に注目―5月に決算を発表するゲーム関連企業一覧【決算発表スケジュール】",
+      "url": "https://www.gamebusiness.jp/article/2026/04/30/26816.html",
       "source": "GameBusiness.jp",
       "category": "business",
       "importance": "high",
-      "published": "2026-04-29T02:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182555.jpg"
+      "published": "2026-04-30T10:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182603.jpg"
     },
     {
-      "title": "プロデューサー退社などの情報も…中国ダークファンタジーACT『明末：ウツロノハネ』、505 Games親会社・Digital BrosがIP取得",
-      "url": "https://www.gamebusiness.jp/article/2026/04/29/26814.html",
+      "title": "「Steamで新作を出したけど100本も売れていない...」デッキ構築型ローグライク『DUNGEON WALK4』を手掛ける個人開発者が切実な苦境を訴える",
+      "url": "https://www.gamebusiness.jp/article/2026/04/30/26820.html",
       "source": "GameBusiness.jp",
-      "category": "business",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-04-29T02:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182548.jpg"
+      "published": "2026-04-30T11:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182721.jpg"
     },
     {
-      "title": "次世代Xboxがメモリ不足に影響されるであろうことをXbox CEOが認める。世界中のハードに影響を与えるメモリ・ストレージ不足問題",
-      "url": "https://www.gamebusiness.jp/article/2026/04/29/26812.html",
+      "title": "YouTube、AI活用の対話型検索機能「Ask YouTube」をテスト中",
+      "url": "https://www.gamebusiness.jp/article/2026/04/30/26819.html",
       "source": "GameBusiness.jp",
       "category": "tech",
       "importance": "normal",
-      "published": "2026-04-29T02:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182561.png"
+      "published": "2026-04-30T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182728.png"
     },
     {
-      "title": "OpenAI、マイクロソフトとのクラウド独占契約を解消、すべてのクラウドで同社サービスを提供へ",
-      "url": "https://www.gamebusiness.jp/article/2026/04/29/26811.html",
+      "title": "『Garry's Mod』精神的後継作『s&box』Steamで発売―作ったゲームで収益も得られるゲーム制作プラットフォーム",
+      "url": "https://www.gamebusiness.jp/article/2026/04/30/26818.html",
+      "source": "GameBusiness.jp",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-04-30T11:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182742.jpg"
+    },
+    {
+      "title": "スポーツ用品メーカーのミズノ、eスポーツギアに参入！ゲーミングチェア＆コントローラーがMakuakeで受注販売",
+      "url": "https://www.gamebusiness.jp/article/2026/04/30/26817.html",
       "source": "GameBusiness.jp",
       "category": "business",
       "importance": "normal",
-      "published": "2026-04-29T02:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182570.jpg"
+      "published": "2026-04-30T11:00:05",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182767.jpg"
     },
     {
-      "title": "『NTE: Neverness to Everness』UE5採用事例が紹介。モバイルで大規模オープンワールドを動作させる工夫など、Epic Gamesがインタビュー記事を公開",
-      "url": "https://gamemakers.jp/article/2026_04_28_136388/",
+      "title": "ミズノ初のeスポーツギアが5/1（金）より予約販売開始。『スト6』コラボのゲーミングチェア・レバーレスアケコンなど",
+      "url": "https://gamemakers.jp/article/2026_04_30_136544/",
       "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-04-28T08:54:03",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-04-30T10:22:24",
       "image": null
     },
     {
-      "title": "Valve、新型「Steam Controller」の発売日や製品詳細を発表。磁気サムスティックやトラックパッドを搭載し、充電とワイヤレス送信機を兼ねた「Puck」も付属したゲームパッド",
-      "url": "https://gamemakers.jp/article/2026_04_28_136406/",
+      "title": "大阪で開催のインディーゲーム展示会「OSAKA INDIE GAMES SUMMIT 2026」、出展者の募集を開始。出展費用は無料",
+      "url": "https://gamemakers.jp/article/2026_04_30_136552/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-04-30T09:26:05",
+      "image": null
+    },
+    {
+      "title": "フリーゲーム投稿サイト「unityroom」でGodot Engine製ゲームの投稿が可能に",
+      "url": "https://gamemakers.jp/article/2026_04_30_136512/",
       "source": "ゲームメーカーズ",
       "category": "tech",
-      "importance": "high",
-      "published": "2026-04-28T08:10:36",
+      "importance": "normal",
+      "published": "2026-04-30T06:59:14",
+      "image": null
+    },
+    {
+      "title": "業界標準のオーディオ修復ソフトウェア「iZotope RX 12」リリース。セリフ、BGM、SEを自動分離するScene Rebalanceなどを新搭載",
+      "url": "https://gamemakers.jp/article/2026_04_30_136501/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-04-30T03:14:55",
       "image": null
     },
     {
       "title": "ゲーム音楽の没入効果を心理学的見地で洞察した研究や、ゲーム音楽研究史の変遷・成り立ちなど。「ゲームオーディオ研究」シンポジウムの報告書が公開",
       "url": "https://gamemakers.jp/article/2026_04_29_136474/",
       "source": "ゲームメーカーズ",
-      "category": "industry",
+      "category": "tech",
       "importance": "normal",
       "published": "2026-04-29T01:58:11",
       "image": null
-    },
-    {
-      "title": "『Garry’s Mod』の精神的後継と謳われるゲームエンジン＆配信プラットフォーム「s&box」、Steam版が発売。ライセンス料なしで収益化も可能",
-      "url": "https://gamemakers.jp/article/2026_04_28_136449/",
-      "source": "ゲームメーカーズ",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-04-28T11:07:09",
-      "image": null
-    },
-    {
-      "title": "Substance 3D Painterチュートリアル動画公開　ヘルメットのモデルを対象に金属から塗装、プラスチック、革までのテクスチャリングノウハウを約3時間解説 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202604-SP-Texturing.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-04-28T23:42:35",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/SubstancePainter-01-thumb-1920x1080-82827.jpg"
-    },
-    {
-      "title": "無料オンラインイベント「Live2D JUKU EX 2026」5/23（土）開催決定。ディープブリザード氏、ののん。氏、fumi氏、瀬兎一也氏、Kuroama氏が登壇、Live2Dの実践ノウハウを一挙公開【事前登録制】 - ニュース",
-      "url": "https://cgworld.jp/flashnews/2604-live2d-juku-ex.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-04-28T20:21:59",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/c5ea2b55a9025c62e65c618d824a0c616dd80412-thumb-1000x563-82765.jpg"
-    },
-    {
-      "title": "Houdini IGNITE Workshopが5/16（土）・17（日）の2日間にわたって開催、3つのワークショップを実施 - ニュース",
-      "url": "https://cgworld.jp/flashnews/03-2604-houdiniignite.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-04-28T09:25:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/04/ignite-thumb-1920x1047-82736.jpg"
-    },
-    {
-      "title": "『機動戦士ガンダム 閃光のハサウェイ キルケーの魔女』増尾隆幸氏×濱中 裕氏が語る、CG制作の舞台裏 - 特集",
-      "url": "https://cgworld.jp/article/202604-hathaway.html",
-      "source": "CGWORLD",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-04-28T02:00:00",
-      "image": "https://cgworld.jp/interview/images/202604-hathaway/subsc_banner.jpg"
     }
   ]
 }
