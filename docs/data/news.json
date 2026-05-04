@@ -1,7 +1,97 @@
 {
-  "generated_at": "2026-05-03T00:19:55.226884",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、様々な新作発表やアップデートが話題になりそうです。特に『メルブラ』の新作『MELTY BLOOD: TWI-LUMINA』や『ドルフロ』シリーズの新作が注目を集めています 🎮\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-05-04T00:20:37.094301",
+  "poem": "おはようございます！🌞\n今日のゲームニュースは、EVO Japan 2026の「ストリートファイター6」部門優勝や、新しいゲームの発売など、様々な情報が盛りだくさんです 💻\n特に、EVO Japan 2026の参加人数がギネス記録を樹立したのも注目です！\nそれでは今日のニュースをどうぞ！",
   "articles": [
+    {
+      "title": "［EVO Japan］「GUILTY GEAR ‐STRIVE‐」の一部バトルバランスや不具合の調整を行うアップデートパッチ「Ver.2.01」が5月14日に配信",
+      "url": "https://www.4gamer.net/games/527/G052700/20260502011/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-05-02T09:21:47",
+      "image": "https://www.4gamer.net/games/527/G052700/20260502011/SS/002.jpg"
+    },
+    {
+      "title": "EVO Japan 2026の「ストリートファイター6」部門優勝はヤマグチ選手。忍びの教えを受け継ぐ若者がついにビッグタイトルを獲得",
+      "url": "https://www.4gamer.net/games/618/G061884/20260503009/",
+      "source": "4Gamer.net",
+      "category": "esports",
+      "importance": "high",
+      "published": "2026-05-03T09:10:58",
+      "image": "https://www.4gamer.net/games/618/G061884/20260503009/SS/002.jpg"
+    },
+    {
+      "title": "「EVO Japan 2026」の「ストリートファイター6」部門が，単一の格闘ゲームにおける最大参加人数のギネス記録を樹立。従来の7083人を超える7168人を記録",
+      "url": "https://www.4gamer.net/games/635/G063504/20260503007/",
+      "source": "4Gamer.net",
+      "category": "esports",
+      "importance": "high",
+      "published": "2026-05-03T05:57:54",
+      "image": "https://www.4gamer.net/games/635/G063504/20260503007/SS/002.jpg"
+    },
+    {
+      "title": "【今週のモチベ】リズムアクション「Dead as Disco」や，チェーンソー少女が主人公の「MOTORSLICE」が発売される 2026年5月4日〜5月10日",
+      "url": "https://www.4gamer.net/games/954/G095479/20260502007/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-03T23:00:00",
+      "image": "https://www.4gamer.net/games/954/G095479/20260502007/TN/003.jpg"
+    },
+    {
+      "title": "［EVO Japan］「三国群英伝：Arena」インプレッション。三国志の猛将たちが2種の武器を切り替え，相手のモーションを見切って戦う，駆け引き重視の3D格ゲー",
+      "url": "https://www.4gamer.net/games/003/G100381/20260504001/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-03T22:00:00",
+      "image": "https://www.4gamer.net/games/003/G100381/20260504001/SS/004.jpg"
+    },
+    {
+      "title": "「メガドライブ」を再現できるレゴセットが2026年6月に発売決定。「セガ ジェネシス」と「セガ メガドライブ」の2パターンにカスタマイズできる",
+      "url": "https://news.denfaminicogamer.jp/news/260503o",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-03T13:19:31",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ebf2181fe5b9b2673207958d554ee4fc.jpg"
+    },
+    {
+      "title": "『ドルフロ2』が『ビーロボカブタック』とのコラボ発表。予想外すぎる組み合わせに日本や中国を問わず驚きの声",
+      "url": "https://news.denfaminicogamer.jp/news/260503f",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-03T04:43:07",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/81t_RXiPKjL__AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "title": "『マーベル闘魂：ファイティングソウル』に新キャラクター「ハルク」「ブラックパンサー」が参戦決定！キャプテン・アメリカ、アイアンマンにくわわり新チーム「ファイティング・アベンジャーズ」が結成。新ステージ「ワカンダ」も発表",
+      "url": "https://news.denfaminicogamer.jp/news/260503c",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-03T01:51:27",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/39f169a28138fe133daab10721a68f5e78f2fdc1.webp"
+    },
+    {
+      "title": "「EVO Japan 2026」『スト6』部門優勝はヤマグチ選手！Punk選手との激闘を制し、出場者約7100人の頂点に立つ",
+      "url": "https://news.denfaminicogamer.jp/news/260503l",
+      "source": "電ファミニコゲーマー",
+      "category": "esports",
+      "importance": "high",
+      "published": "2026-05-03T09:02:39",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/WS006501.jpg"
+    },
+    {
+      "title": "実写ドラマ『岸辺露伴は動かない』シリーズ最新作『泉京香は黙らない』5月4日21時30分より放送。原作者の荒木飛呂彦先生が脚本協力に参加",
+      "url": "https://news.denfaminicogamer.jp/news/260504n",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-03T22:00:03",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/maxresdefault-2.jpg"
+    },
     {
       "title": "『ヘルダイバー2』新アプデ後に不評レビュー「3000件超え」、公式はすぐさまバランス再調整を発表。サービス3年目にして再燃する“バランス調整批判”",
       "url": "https://automaton-media.com/articles/newsjp/20260501-440937/",
@@ -10,6 +100,15 @@
       "importance": "high",
       "published": "2026-05-02T02:14:31",
       "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260501-440937-header.jpg"
+    },
+    {
+      "title": "基本プレイ無料「街」オープンワールド『NTE』のマルチプレイは“何かをする”より“誰かといる”のが楽しい。麻雀にスクーター旅、一緒にいるだけで生まれる遊び",
+      "url": "https://automaton-media.com/articles/special-column/nte-20260503-441106/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-05-03T03:00:26",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/nte-20260503-441106-006.jpg"
     },
     {
       "title": "『ドルフロ』シリーズ新作2タイトル『少女前线：蓝蝶契约』『Reverse Collapse: F』がどどんと発表。美少女ミリタリーSRPG新作は“協力プレイTPS”に",
@@ -39,31 +138,40 @@
       "image": "https://automaton-media.com/wp-content/uploads/2026/05/heroes-of-might-and-magic-20260502-441023-header.jpg"
     },
     {
-      "title": "『メルブラ』新作『MELTY BLOOD: TWI-LUMINA』発表。新キャラ・システムを搭載し、ついに新作が登場へ",
-      "url": "https://automaton-media.com/articles/newsjp/melty-blood-twi-lumina-20260502-440982/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-02T04:17:29",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/melty-blood-twi-lumina-20260502-440982-header.jpg"
+      "title": "Ankerのモバイルレーザープロジェクター「Nebula Capsule 3 Laser」がAmazonにて27％オフでタイムセール中【スマイルSale ゴールデンウィーク】",
+      "url": "https://jp.ign.com/gaming-device/83264/ankernebula-capsule-3-laseramazon27sale",
+      "source": "IGN Japan",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-05-03T05:49:13",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_jrem.jpg"
+    },
+    {
+      "title": "『アベンジャーズ／ドゥームズデイ』のAIフェイク予告編がネットに氾濫 あえて“イベント会場で盗撮した風”の演出で、真偽の見極めはいよいよ困難に",
+      "url": "https://jp.ign.com/avengers-doomsday/83265/ai",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-02T10:24:06",
+      "image": "https://sm.ign.com/ign_jp/news/f/fake-ai-le/fake-ai-leak-trailers-are-filling-the-avengers-doomsday-void_hr4w.jpg"
     },
     {
       "title": "Apple決算発表、iPhone 17好調で売上・純利益ともQ2過去最高を更新。メモリ高騰は第三四半期以降に影響拡大",
       "url": "https://www.gamebusiness.jp/article/2026/05/02/26847.html",
       "source": "GameBusiness.jp",
-      "category": "business",
+      "category": "tech",
       "importance": "high",
       "published": "2026-05-02T04:15:04",
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/182847.jpg"
     },
     {
-      "title": "【インタビュー】「けいおん！」「五等分の花嫁」、そして「氷の城壁」へ TBSアニメが挑む“放送のその先”、ファンと歩むアニメーション／AnimeJapan2026",
-      "url": "https://www.gamebusiness.jp/article/2026/05/02/26843.html",
+      "title": "話題の都市オープンワールド『NTE』グローバルリリース初日で20億円超の売上―コア指標で『幻塔』の水準を大幅に上回る",
+      "url": "https://www.gamebusiness.jp/article/2026/05/03/26854.html",
       "source": "GameBusiness.jp",
-      "category": "industry",
+      "category": "business",
       "importance": "high",
-      "published": "2026-05-02T03:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182876.jpg"
+      "published": "2026-05-03T03:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182975.png"
     },
     {
       "title": "フィギュアスケーター・宇野昌磨、プロeスポーツチーム入り！ときど選手と共に「VARREL」加入が電撃発表",
@@ -84,112 +192,13 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/182904.png"
     },
     {
-      "title": "オープンワールド海賊サバイバル『Windrose』全世界売上150万本を突破！接続の安定性やCPU使用量などの改善、新たな建築追加などの最新アプデも配信",
-      "url": "https://www.gamebusiness.jp/article/2026/05/01/26837.html",
+      "title": "『紅の砂漠』Pearl Abyssが『EVE Online』手がけるCCP Gamesを売却―売却額は約188億円",
+      "url": "https://www.gamebusiness.jp/article/2026/05/02/26849.html",
       "source": "GameBusiness.jp",
-      "category": "other",
+      "category": "business",
       "importance": "high",
-      "published": "2026-05-01T11:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182938.jpg"
-    },
-    {
-      "title": "『メルブラ』の新作『MELTY BLOOD TWI-LUMINA』発表！！！2027年初頭に発売決定。EVOの決勝戦後にタイトルとロゴが公開され、グラフィックが刷新されたキャラが動きまくる初映像もお披露目",
-      "url": "https://news.denfaminicogamer.jp/news/260502f",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-02T03:59:04",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/JP_02.jpg"
-    },
-    {
-      "title": "『.hack』シリーズのビジュアル資料集Kindle版が“半額”の「1760円」で購入できるセール開催中。貴重な設定資料や開発者インタビュー、オリジナルマンガなどが掲載",
-      "url": "https://news.denfaminicogamer.jp/news/260502o",
-      "source": "電ファミニコゲーマー",
-      "category": "sale",
-      "importance": "high",
-      "published": "2026-05-02T07:56:48",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/81LMmZr9YAL._SL1500_.jpg"
-    },
-    {
-      "title": "『夜廻』公式アートワークスKindle版が“半額”の「1650円」で購入できるセールが開催中。キャラクターやお化けのイラストにくわえ、溝上侑氏によるデザインコメントなどを収録",
-      "url": "https://news.denfaminicogamer.jp/news/260502u",
-      "source": "電ファミニコゲーマー",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-05-02T10:49:50",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/91MJ65g-vrL._SL1500_.jpg"
-    },
-    {
-      "title": "『FGO』に★5アヴェンジャー「ジョン・ラックランド（声：山崎岳彦さん＆小市眞琴さん）」実装！『Fate/strange Fake』のコラボイベントで対峙した“黒獅子”がピックアップ召喚に登場。リチャード1世の弟で、イングランドの王",
-      "url": "https://news.denfaminicogamer.jp/news/260502p",
-      "source": "電ファミニコゲーマー",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-05-02T09:05:40",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/e85cfd04c9aa4f6e444bde4955b8213c.jpg"
-    },
-    {
-      "title": "「マーベル」の格ゲー『マーベル闘魂：ファイティングソウル』で、ウルヴァリンやペニー・パーカーを先行プレイ。4vs4チームマッチでのド派手なバトルがたまらない。こんなマーベルはじめて！ でも好き！",
-      "url": "https://news.denfaminicogamer.jp/kikakuthetower/260502r",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-05-02T09:00:37",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/image10-1.jpg"
-    },
-    {
-      "title": "［EVO Japan］「GUILTY GEAR ‐STRIVE‐」の一部バトルバランスや不具合の調整を行うアップデートパッチ「Ver.2.01」が5月14日に配信",
-      "url": "https://www.4gamer.net/games/527/G052700/20260502011/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-05-02T09:21:47",
-      "image": "https://www.4gamer.net/games/527/G052700/20260502011/SS/002.jpg"
-    },
-    {
-      "title": "［EVO Japan］「MELTY BLOOD: TWI-LUMINA」発表。新システムとキャラクターが追加されたメルブラシリーズの最新作",
-      "url": "https://www.4gamer.net/games/004/G100427/20260502003/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-02T04:02:54",
-      "image": "https://www.4gamer.net/games/004/G100427/20260502003/SS/009.jpg"
-    },
-    {
-      "title": "「Magical Blush」制作発表。呪文コンボシステムとメトロイドヴァニア風の探索を組み合わせた2Dアクションアドベンチャー",
-      "url": "https://www.4gamer.net/games/004/G100422/20260502002/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-02T03:28:57",
-      "image": "https://www.4gamer.net/games/004/G100422/20260502002/SS/002.jpg"
-    },
-    {
-      "title": "「EVO Japan 2026」会場レポート。メーカーブースにフォトスポット，コスプレ撮影，新作格ゲーのプレイアブル出展と見どころ満載！",
-      "url": "https://www.4gamer.net/games/807/G080724/20260502012/",
-      "source": "4Gamer.net",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-05-02T10:45:22",
-      "image": "https://www.4gamer.net/games/807/G080724/20260502012/SS/028.jpg"
-    },
-    {
-      "title": "週刊Steam広場 第151号：「Heroes of Might and Magic: Olden Era」や「Far Far West」が発売に",
-      "url": "https://www.4gamer.net/games/038/G003821/20260502004/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-05-02T09:00:00",
-      "image": "https://www.4gamer.net/games/038/G003821/20260502004/TN/008.jpg"
-    },
-    {
-      "title": "『アベンジャーズ／ドゥームズデイ』のAIフェイク予告編がネットに氾濫 あえて“イベント会場で盗撮した風”の演出で、真偽の見極めはいよいよ困難に",
-      "url": "https://jp.ign.com/avengers-doomsday/83265/ai",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-05-02T10:24:06",
-      "image": "https://sm.ign.com/ign_jp/news/f/fake-ai-le/fake-ai-leak-trailers-are-filling-the-avengers-doomsday-void_hr4w.jpg"
+      "published": "2026-05-02T11:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183004.png"
     },
     {
       "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/5/2】",
@@ -198,7 +207,16 @@
       "category": "tech",
       "importance": "high",
       "published": "2026-05-02T01:58:08",
-      "image": null
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/71a6d7517a42d569442ded92b7246916.jpg"
+    },
+    {
+      "title": "パブリッシャーとのゲーム収益分配・リクープ率など、130件以上の契約事例を調査。法律事務所Voyer Lawがレポートを公開",
+      "url": "https://gamemakers.jp/article/2026_05_03_136632/",
+      "source": "ゲームメーカーズ",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-05-03T01:58:40",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/04/653b9a33204785e8a6fc8ef41ffa58bb.jpg"
     },
     {
       "title": "小江戸・川越の町中でインディーゲームを遊べる「ぶらり川越 GAME DIGG2」フォトレポート。地域のお祭り風味もある周遊イベントで出会った注目タイトルを紹介",
@@ -208,42 +226,6 @@
       "importance": "normal",
       "published": "2026-05-02T04:33:26",
       "image": null
-    },
-    {
-      "title": "「東京ゲームダンジョン12」にゲームメーカーズが出展！UE5入門書や販売中のオリジナルグッズを展示します",
-      "url": "https://gamemakers.jp/article/2026_05_01_136671/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-05-01T10:15:03",
-      "image": null
-    },
-    {
-      "title": "ゲーム開発ソリューションの無料イベント「GTMF 2026」、大阪で12/2（水）・東京で12/8（火）に開催決定",
-      "url": "https://gamemakers.jp/article/2026_05_01_136645/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-05-01T03:36:32",
-      "image": null
-    },
-    {
-      "title": "【5/12（火）開催】『NINJA GAIDEN 4』Houdini活用事例をプラチナゲームズが解説。自社エンジンとの連携パイプライン実装などを語る無料ウェビナー、参加登録を受付中",
-      "url": "https://gamemakers.jp/article/2026_05_01_136587/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-05-01T02:38:20",
-      "image": null
-    },
-    {
-      "title": "「チャンスが巡ってきたとき、自分を信じて前向きに挑戦してください」カナダでキャリアを築き、シンガポールで活躍中！ 第119回：安田 明日葉（Digital Matte Painter &amp; Set Extension Artist / Freelance） - 連載",
-      "url": "https://cgworld.jp/regular/119-yasuda.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-05-01T01:30:00",
-      "image": "https://cgworld.jp/regular/assets_c/2026/04/489d0e656a6759b9d10f7fa307cba9d712d49031-thumb-1000x563-82463.jpg"
     }
   ]
 }
