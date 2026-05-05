@@ -1,16 +1,7 @@
 {
-  "generated_at": "2026-05-04T00:20:37.094301",
-  "poem": "おはようございます！🌞\n今日のゲームニュースは、EVO Japan 2026の「ストリートファイター6」部門優勝や、新しいゲームの発売など、様々な情報が盛りだくさんです 💻\n特に、EVO Japan 2026の参加人数がギネス記録を樹立したのも注目です！\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-05-05T00:21:41.393483",
+  "poem": "おはようございます！ 🌞\n今日はゲーム業界のニュースがとても豊富です。特にEVO Japan 2026の「ストリートファイター6」部門がギネス記録を樹立したり、『Forza Horizon 6』が開発完了したりと、注目のニュースが多くあります ❗️\nそれでは今日のニュースをどうぞ！",
   "articles": [
-    {
-      "title": "［EVO Japan］「GUILTY GEAR ‐STRIVE‐」の一部バトルバランスや不具合の調整を行うアップデートパッチ「Ver.2.01」が5月14日に配信",
-      "url": "https://www.4gamer.net/games/527/G052700/20260502011/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-05-02T09:21:47",
-      "image": "https://www.4gamer.net/games/527/G052700/20260502011/SS/002.jpg"
-    },
     {
       "title": "EVO Japan 2026の「ストリートファイター6」部門優勝はヤマグチ選手。忍びの教えを受け継ぐ若者がついにビッグタイトルを獲得",
       "url": "https://www.4gamer.net/games/618/G061884/20260503009/",
@@ -30,184 +21,94 @@
       "image": "https://www.4gamer.net/games/635/G063504/20260503007/SS/002.jpg"
     },
     {
-      "title": "【今週のモチベ】リズムアクション「Dead as Disco」や，チェーンソー少女が主人公の「MOTORSLICE」が発売される 2026年5月4日〜5月10日",
-      "url": "https://www.4gamer.net/games/954/G095479/20260502007/",
+      "title": "「SEVENTEEN 2026 JAPAN FANMEETING 'YAKUSOKU'」POP-UPに「パズルSEVENTEEN」期間限定ブースを出展。ラッキードローでキャラクターステッカーが当たる",
+      "url": "https://www.4gamer.net/games/899/G089909/20260503003/",
       "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-05-03T23:00:00",
-      "image": "https://www.4gamer.net/games/954/G095479/20260502007/TN/003.jpg"
-    },
-    {
-      "title": "［EVO Japan］「三国群英伝：Arena」インプレッション。三国志の猛将たちが2種の武器を切り替え，相手のモーションを見切って戦う，駆け引き重視の3D格ゲー",
-      "url": "https://www.4gamer.net/games/003/G100381/20260504001/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-05-03T22:00:00",
-      "image": "https://www.4gamer.net/games/003/G100381/20260504001/SS/004.jpg"
-    },
-    {
-      "title": "「メガドライブ」を再現できるレゴセットが2026年6月に発売決定。「セガ ジェネシス」と「セガ メガドライブ」の2パターンにカスタマイズできる",
-      "url": "https://news.denfaminicogamer.jp/news/260503o",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-03T13:19:31",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ebf2181fe5b9b2673207958d554ee4fc.jpg"
-    },
-    {
-      "title": "『ドルフロ2』が『ビーロボカブタック』とのコラボ発表。予想外すぎる組み合わせに日本や中国を問わず驚きの声",
-      "url": "https://news.denfaminicogamer.jp/news/260503f",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-03T04:43:07",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/81t_RXiPKjL__AC_UL480_FMwebp_QL65_.jpg"
-    },
-    {
-      "title": "『マーベル闘魂：ファイティングソウル』に新キャラクター「ハルク」「ブラックパンサー」が参戦決定！キャプテン・アメリカ、アイアンマンにくわわり新チーム「ファイティング・アベンジャーズ」が結成。新ステージ「ワカンダ」も発表",
-      "url": "https://news.denfaminicogamer.jp/news/260503c",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-03T01:51:27",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/39f169a28138fe133daab10721a68f5e78f2fdc1.webp"
-    },
-    {
-      "title": "「EVO Japan 2026」『スト6』部門優勝はヤマグチ選手！Punk選手との激闘を制し、出場者約7100人の頂点に立つ",
-      "url": "https://news.denfaminicogamer.jp/news/260503l",
-      "source": "電ファミニコゲーマー",
       "category": "esports",
       "importance": "high",
-      "published": "2026-05-03T09:02:39",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/WS006501.jpg"
+      "published": "2026-05-03T01:30:00",
+      "image": "https://www.4gamer.net/games/899/G089909/20260503003/SS/003.jpg"
     },
     {
-      "title": "実写ドラマ『岸辺露伴は動かない』シリーズ最新作『泉京香は黙らない』5月4日21時30分より放送。原作者の荒木飛呂彦先生が脚本協力に参加",
-      "url": "https://news.denfaminicogamer.jp/news/260504n",
-      "source": "電ファミニコゲーマー",
+      "title": "「今週の公式配信番組」休載のお知らせ",
+      "url": "https://www.4gamer.net/games/000/G000000/20260501054/",
+      "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-05-03T22:00:03",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/maxresdefault-2.jpg"
+      "published": "2026-05-04T23:00:00",
+      "image": "https://www.4gamer.net/games/000/G000000/20260501054/TN/001.jpg"
     },
     {
-      "title": "『ヘルダイバー2』新アプデ後に不評レビュー「3000件超え」、公式はすぐさまバランス再調整を発表。サービス3年目にして再燃する“バランス調整批判”",
-      "url": "https://automaton-media.com/articles/newsjp/20260501-440937/",
-      "source": "Automaton",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-05-02T02:14:31",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260501-440937-header.jpg"
+      "title": "電気自動車の流れに取り残されたガソリンスタンドを建て直す経営シム「The Last Gas Station」（ほぼ日 インディーPick Up！）",
+      "url": "https://www.4gamer.net/games/979/G097993/20260501036/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-04T22:00:00",
+      "image": "https://www.4gamer.net/games/979/G097993/20260501036/SS/016.jpg"
     },
     {
-      "title": "基本プレイ無料「街」オープンワールド『NTE』のマルチプレイは“何かをする”より“誰かといる”のが楽しい。麻雀にスクーター旅、一緒にいるだけで生まれる遊び",
-      "url": "https://automaton-media.com/articles/special-column/nte-20260503-441106/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-05-03T03:00:26",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/nte-20260503-441106-006.jpg"
-    },
-    {
-      "title": "『ドルフロ』シリーズ新作2タイトル『少女前线：蓝蝶契约』『Reverse Collapse: F』がどどんと発表。美少女ミリタリーSRPG新作は“協力プレイTPS”に",
-      "url": "https://automaton-media.com/articles/newsjp/girls-frontline-20260503-441070/",
-      "source": "Automaton",
+      "title": "日本舞台の新作レースゲーム『Forza Horizon 6』開発完了！ゲーム内ラジオにONE OK ROCK、BABYMETAL、BAND-MAID、打首獄門同好会など著名アーティストが参加決定。今後も追加発表される予定",
+      "url": "https://news.denfaminicogamer.jp/news/260505c",
+      "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-05-03T00:03:30",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/girls-frontline-20260503-441070-header.jpg"
+      "published": "2026-05-04T22:40:48",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/HHCMxdtXYAEbnZ0.jpg"
     },
     {
-      "title": "VHS風一人称視点サイコホラー『Overcome Your Fears – Caretaker』、Steamにて期間限定で無料配布中",
-      "url": "https://automaton-media.com/articles/newsjp/overcome-your-fears-20260502-441039/",
-      "source": "Automaton",
+      "title": "Valveの新型コントローラー「Steam Controller」発売開始。アクセス集中で一時サイトが重くなる盛況ぶりに。高耐久のTMR磁気スティックやジャイロを備えた大注目コントローラー、価格は1万7800円（税込）",
+      "url": "https://news.denfaminicogamer.jp/news/260505b",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-04T21:36:31",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/main-6.png"
+    },
+    {
+      "title": "“アライグマ”になって宇宙でカフェを経営するシミュレーションゲーム『Coffee Raccoons』がかわいい。最大2人協力で遠い惑星から「エイリアン豆」や「コズミック素材」を収集、自分だけの一杯を提供する",
+      "url": "https://news.denfaminicogamer.jp/news/2605042d",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-04T15:21:43",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/PhotoshopExtension_Image_1-8.png"
+    },
+    {
+      "title": "【最大4人マルチ】カフェ店員として働き人気店を目指すシミュレーションゲーム『Cafe Crew Simulator』が面白そう。エスプレッソやラテなど要望通りに作って提供、「猫」に変身してライバルを経営難に追い込むことも",
+      "url": "https://news.denfaminicogamer.jp/news/260504t",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-04T13:59:23",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/PhotoshopExtension_Image_1-6.png"
+    },
+    {
+      "title": "『アトリエ』シリーズを安く買えるセールが開催中。『ライザのアトリエ』DX版3作品が25%オフ、『ソフィーのアトリエ』DX版2作品が50%オフなど、気になる作品をお得に始めるチャンス",
+      "url": "https://news.denfaminicogamer.jp/news/2605042c",
+      "source": "電ファミニコゲーマー",
       "category": "sale",
-      "importance": "high",
-      "published": "2026-05-02T10:27:05",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/overcome-your-fears-20260502-441039-header.jpg"
-    },
-    {
-      "title": "ターン制ストラテジー『Heroes of Might and Magic: Olden Era』、なんとリリース初日で開発費を回収していた。開発元はシリーズ再始動作の大ヒットに歓喜",
-      "url": "https://automaton-media.com/articles/newsjp/heroes-of-might-and-magic-20260502-441023/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-02T08:51:29",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/heroes-of-might-and-magic-20260502-441023-header.jpg"
-    },
-    {
-      "title": "Ankerのモバイルレーザープロジェクター「Nebula Capsule 3 Laser」がAmazonにて27％オフでタイムセール中【スマイルSale ゴールデンウィーク】",
-      "url": "https://jp.ign.com/gaming-device/83264/ankernebula-capsule-3-laseramazon27sale",
-      "source": "IGN Japan",
-      "category": "tech",
       "importance": "normal",
-      "published": "2026-05-03T05:49:13",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_jrem.jpg"
+      "published": "2026-05-04T13:51:26",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_259755ebdc20ba1326a305f3851543d8fad3407b.1920x1080.jpg"
     },
     {
-      "title": "『アベンジャーズ／ドゥームズデイ』のAIフェイク予告編がネットに氾濫 あえて“イベント会場で盗撮した風”の演出で、真偽の見極めはいよいよ困難に",
-      "url": "https://jp.ign.com/avengers-doomsday/83265/ai",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-05-02T10:24:06",
-      "image": "https://sm.ign.com/ign_jp/news/f/fake-ai-le/fake-ai-leak-trailers-are-filling-the-avengers-doomsday-void_hr4w.jpg"
-    },
-    {
-      "title": "Apple決算発表、iPhone 17好調で売上・純利益ともQ2過去最高を更新。メモリ高騰は第三四半期以降に影響拡大",
-      "url": "https://www.gamebusiness.jp/article/2026/05/02/26847.html",
-      "source": "GameBusiness.jp",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-05-02T04:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182847.jpg"
-    },
-    {
-      "title": "話題の都市オープンワールド『NTE』グローバルリリース初日で20億円超の売上―コア指標で『幻塔』の水準を大幅に上回る",
-      "url": "https://www.gamebusiness.jp/article/2026/05/03/26854.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-03T03:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182975.png"
-    },
-    {
-      "title": "フィギュアスケーター・宇野昌磨、プロeスポーツチーム入り！ときど選手と共に「VARREL」加入が電撃発表",
-      "url": "https://www.gamebusiness.jp/article/2026/05/02/26842.html",
-      "source": "GameBusiness.jp",
-      "category": "esports",
-      "importance": "high",
-      "published": "2026-05-02T03:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182885.jpg"
-    },
-    {
-      "title": "レイオフ後も『フォートナイト』への投資は継続、『Roblox』のようなエコシステムへ―Epic Gamesティム・スウィーニーがiOS版ストア発表会で語る。争い続くAppleの姿勢は「特有の\"病\"」と糾弾",
-      "url": "https://www.gamebusiness.jp/article/2026/05/02/26840.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-02T02:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182904.png"
-    },
-    {
-      "title": "『紅の砂漠』Pearl Abyssが『EVE Online』手がけるCCP Gamesを売却―売却額は約188億円",
-      "url": "https://www.gamebusiness.jp/article/2026/05/02/26849.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-02T11:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183004.png"
-    },
-    {
-      "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/5/2】",
-      "url": "https://gamemakers.jp/article/2026_05_02_136630/",
+      "title": "Unity公式AIエージェント「Unity AI」がオープンベータ開始。Unityの文脈に沿ったコーディングやアセット・シーン生成が可能",
+      "url": "https://gamemakers.jp/article/2026_05_05_136667/",
       "source": "ゲームメーカーズ",
       "category": "tech",
-      "importance": "high",
-      "published": "2026-05-02T01:58:08",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/71a6d7517a42d569442ded92b7246916.jpg"
+      "importance": "normal",
+      "published": "2026-05-04T15:59:01",
+      "image": null
+    },
+    {
+      "title": "Rust製コードエディター「Zed」バージョン1.0がリリース。独自フレームワークで高速・協働・AIネイティブを実現",
+      "url": "https://gamemakers.jp/article/2026_05_04_136760/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-05-04T01:58:51",
+      "image": null
     },
     {
       "title": "パブリッシャーとのゲーム収益分配・リクープ率など、130件以上の契約事例を調査。法律事務所Voyer Lawがレポートを公開",
@@ -219,13 +120,112 @@
       "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/04/653b9a33204785e8a6fc8ef41ffa58bb.jpg"
     },
     {
-      "title": "小江戸・川越の町中でインディーゲームを遊べる「ぶらり川越 GAME DIGG2」フォトレポート。地域のお祭り風味もある周遊イベントで出会った注目タイトルを紹介",
-      "url": "https://gamemakers.jp/article/2026_05_02_136695/",
-      "source": "ゲームメーカーズ",
+      "title": "基本プレイ無料「街」オープンワールド『NTE』のマルチプレイは“何かをする”より“誰かといる”のが楽しい。麻雀にスクーター旅、一緒にいるだけで生まれる遊び",
+      "url": "https://automaton-media.com/articles/special-column/nte-20260503-441106/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-03T03:00:26",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/nte-20260503-441106-006.jpg"
+    },
+    {
+      "title": "仏ゲーム産業労働組合が、大手パブリッシャーNaconタイトルの不買運動を開始。資金難による傘下スタジオ切りを“第一級殺人”と非難",
+      "url": "https://automaton-media.com/articles/newsjp/nacon-20260504-441215/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-04T07:41:39",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/nacon-20260504-441215-header.jpg"
+    },
+    {
+      "title": "ステルスアクション×お店経営シム『ゴブリン ヴァイク：ヌスビトタイクーン』人集まる好調スタート。ダンジョンでこっそり宝を盗み、客に“ぼったくり価格”で売りつけるアコギ商売",
+      "url": "https://automaton-media.com/articles/newsjp/20260504-441057/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-04T09:28:08",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260504-441057-header.jpg"
+    },
+    {
+      "title": "“ルール破壊”チェスローグライク『Gambonanza』リリース直後から大好評。多彩な強化で駒たちが躍動する、チェス版『Balatro』のようだとして",
+      "url": "https://automaton-media.com/articles/newsjp/gambonanza-20260504-441205/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-04T08:49:02",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/gambonanza-20260504-441205-header.jpg"
+    },
+    {
+      "title": "魔法図書館お片付けシム『司書のお仕事：魔導図書館を片付けろ！』さっそく盛況。散らかった3072冊の本をひたすら整理、「なぜか止められない」と評判の魔法司書ワーク",
+      "url": "https://automaton-media.com/articles/newsjp/20260504-441046/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-04T08:10:51",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260504-441046-header.jpg"
+    },
+    {
+      "title": "『Forza Horizon 6』日本の四季はここまで再現される――膨大な作業量でめざした“日本らしさ”、開発陣が語るプレイ体験へのこだわり",
+      "url": "https://jp.ign.com/forza-horizon-6/83266/forza-horizon-6",
+      "source": "IGN Japan",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-04T04:17:29",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/00_fpyu.jpg"
+    },
+    {
+      "title": "コーエーテクモ、売上高・経常利益・純利益が過去最高も、今期は営業減益予想――900億円の壁を越えられるか【ゲーム企業の決算を読む】",
+      "url": "https://www.gamebusiness.jp/article/2026/05/04/26855.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-04T01:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182845.jpg"
+    },
+    {
+      "title": "話題の都市オープンワールド『NTE』グローバルリリース初日で20億円超の売上―コア指標で『幻塔』の水準を大幅に上回る",
+      "url": "https://www.gamebusiness.jp/article/2026/05/03/26854.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-03T03:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182975.png"
+    },
+    {
+      "title": "ネクソンとの裁判が決着した『Dark and Darker』、今後はサービス停止の危険性なく前進できると宣言。著作権侵害は認められず",
+      "url": "https://www.gamebusiness.jp/article/2026/05/03/26850.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-03T02:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182998.jpg"
+    },
+    {
+      "title": "現在のプレイヤー数は長期の開発を支えていくのに十分でない―半月前リリースのチームシューター『Last Flag』が苦境を報告",
+      "url": "https://www.gamebusiness.jp/article/2026/05/03/26853.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-05-03T02:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182984.jpg"
+    },
+    {
+      "title": "高知県、アニメ産業集積へプロの「中割り」技術を学ぶ作画基礎講座を開講。トムス・エンタテインメントが協力",
+      "url": "https://www.gamebusiness.jp/article/2026/05/03/26852.html",
+      "source": "GameBusiness.jp",
       "category": "industry",
       "importance": "normal",
-      "published": "2026-05-02T04:33:26",
-      "image": null
+      "published": "2026-05-03T02:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/182991.jpg"
+    },
+    {
+      "title": "World Labs、Web向け3DGSストリーミングLoDシステム「Spark 2.0」リリース　Three.jsを基盤に構築、オープンソース - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202605-Spark20.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-05-03T23:56:48",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/Spark2-01-thumb-1920x1080-83182.jpg"
     }
   ]
 }
