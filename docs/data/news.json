@@ -1,96 +1,78 @@
 {
-  "generated_at": "2026-05-08T00:21:33.591970",
-  "poem": "おはようございます！🌞\n今日はゲーム業界のニュースが多く届いています。最大6人協力ギャンブルゲーム『Gamble With Your Friends』が売上70万本を達成したほか、人気シリーズの新作も発表されています 🎮\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-05-09T00:22:50.192281",
+  "poem": "おはようございます！ 🌞\n今日のゲーム業界は多くのニュースが飛び交っています。任天堂の手塚卓志氏の執行役員退任やコナミグループの好調な業績など、注目すべきニュースが揃っています！\nそれでは今日のニュースをどうぞ！ 🎮",
   "articles": [
     {
-      "title": "最大6人協力ギャンブルゲーム『Gamble With Your Friends』あっという間に売上70万本達成。わずか数時間前に60万本突破の報告、発表が追いつかない怒涛の売れっぷり",
-      "url": "https://automaton-media.com/articles/newsjp/20260507-441590/",
-      "source": "Automaton",
-      "category": "sale",
-      "importance": "high",
-      "published": "2026-05-07T09:25:08",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260507-441590-header.jpeg"
-    },
-    {
-      "title": "最大4人協力・サバイバルTPS『Aliens: Fireteam Elite 2』発表。海兵隊員となってゼノモーフの大群に立ち向かう、人気「エイリアン」ゲーム待望の新作",
-      "url": "https://automaton-media.com/articles/newsjp/20260508-441688/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-07T23:36:16",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260508-441688-header.jpg"
-    },
-    {
-      "title": "ガラクタ発掘作業ゲーム『Trash Goblin』が無料配布中、Epic Gamesストアにて。“人気作2本立て”で合計約5000円分もらえる",
-      "url": "https://automaton-media.com/articles/newsjp/20260507-441664/",
-      "source": "Automaton",
-      "category": "sale",
-      "importance": "high",
-      "published": "2026-05-07T15:02:20",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260507-441664-header.jpg"
-    },
-    {
-      "title": "「PCゲーマーは“定価が安い”新作を買いまくるので市場全体がどんどん成長中」とのアナリスト分析。続々と出てくる低価格大ヒット作",
-      "url": "https://automaton-media.com/articles/newsjp/20260507-441616/",
-      "source": "Automaton",
+      "title": "任天堂、『スーパーマリオ』や『ゼルダの伝説』で知られる手塚卓志氏の執行役員退任を発表。故・岩田聡氏が、宮本茂氏、中郷俊彦氏とともに“黄金のトライアングル”と語った人物",
+      "url": "https://news.denfaminicogamer.jp/news/2605083k",
+      "source": "電ファミニコゲーマー",
       "category": "business",
       "importance": "high",
-      "published": "2026-05-07T10:03:51",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260507-441616-header.jpg"
+      "published": "2026-05-08T14:53:29",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/fig_chapter01-01.png.jpeg"
     },
     {
-      "title": "モンスターは“食材”なアクションRPG『Dungeon Munchies 2』発表。「圧倒的に好評」尖り重厚物語ゲームに続編が来る",
-      "url": "https://automaton-media.com/articles/newsjp/20260507-441591/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-07T09:26:36",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260507-441591-header.jpg"
-    },
-    {
-      "title": "協力ホラー『R.E.P.O.』500種類以上のパーツでキャラをカスタマイズできる最新アップデート「The Cosmetic Update」が配信開始。対象を吹き飛ばす“魔法の杖”やレースモードなど新要素も登場",
-      "url": "https://news.denfaminicogamer.jp/news/260508b",
+      "title": "『原神』新キャラクター「ニコ（CV.豊口めぐみ）」「プルーネ（CV.長月あおい）」「ローエン（CV.天﨑滉平）」の性能が公開！予告番組内では「スネージナヤ」プレビュー動画も解禁",
+      "url": "https://news.denfaminicogamer.jp/news/2605083f",
       "source": "電ファミニコゲーマー",
       "category": "update",
       "importance": "high",
-      "published": "2026-05-07T22:35:00",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/REPO.png"
+      "published": "2026-05-08T12:20:27",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/WS000259.jpg"
     },
     {
-      "title": "【人気】老舗ターン制ストラテジー『HoMM』の新作『オルデン・エラ』が早期アクセス開始から1週間で65万本突破。約20年ぶりの新作に対し、Steamレビューも「非常に好評」、最大同接6万人の人気ぶり",
-      "url": "https://news.denfaminicogamer.jp/news/2605073v",
+      "title": "コナミグループ、売上高・事業利益・営業利益など“3期連続で過去最高”を更新。シリーズ累計10億ダウンロードを超える『eFootball』や、累計出荷本数200万本を突破した『メタルギアソリッドΔ』がゲーム事業をけん引",
+      "url": "https://news.denfaminicogamer.jp/news/2605082u",
       "source": "電ファミニコゲーマー",
       "category": "business",
       "importance": "high",
-      "published": "2026-05-07T14:10:46",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/Heroes-of-Might-and-Magic-Olden-Era-Temple.png"
+      "published": "2026-05-08T09:55:31",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/PhotoshopExtension_Image-74.png"
     },
     {
-      "title": "『仮面ライダーアギト』新作映画『超能力戦争』には津上翔一が変身する“アギト”も登場！『百獣戦隊ガオレンジャー』ガオレッド/獅子走役の金子昇さんの友情出演も含めた新カット解禁",
-      "url": "https://news.denfaminicogamer.jp/news/2605082z",
+      "title": "ソニー、“PS6”と目される次世代機の発売時期や価格は「未定」。メモリ価格高騰の継続を前提に、ビジネスモデル含めあらゆるシミュレーションで最適解を模索。PS5については「当面は値上げの予定はない」と明言",
+      "url": "https://news.denfaminicogamer.jp/news/260509b",
       "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-05-08T00:00:09",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/d2c9fab3f5bd97cab6b680d7a0ca4803.jpg"
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-08T23:58:31",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/unnamed.jpg"
     },
     {
-      "title": "『ドラクエ』が2026年の「世界のビデオゲーム殿堂」に選ばれる。米博物館が選出。『ドラクエ』が巻き起こした社会現象や功績、ゲーム史に与えた影響が讃えられた。ほか、『サイレントヒル』『アングリーバード』『FIFA』も",
-      "url": "https://news.denfaminicogamer.jp/news/260508c",
+      "title": "ソニーセミコンダクタソリューションズ、半導体受諾製造の大手・TSMCと戦略的提携に向けた基本合意書を締結。合弁会社の設立も検討",
+      "url": "https://news.denfaminicogamer.jp/news/2605083d",
       "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-05-07T23:29:33",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/Snapshot_41.jpg"
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-08T10:31:28",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/aaaa.jpg"
     },
     {
-      "title": "『Forza Horizon 6』のゲーム内ラジオに「Ado」が登場。YOASOBI、クリーピーナッツ、宇多田ヒカル、櫻坂46、小野賢章など、著名なアーティストの楽曲が多数登場することが明かされる",
-      "url": "https://news.denfaminicogamer.jp/news/260508a",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
+      "title": "アドビ、Firefly AIアシスタントのパブリックベータ版を提供開始　言葉での指示によりCreative Cloudアプリ全体で複雑なマルチステップワークフローを自動実行 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202605-FireflyAI-Assist.html",
+      "source": "CGWORLD",
+      "category": "tech",
       "importance": "normal",
-      "published": "2026-05-07T22:02:19",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/Forza-Horizon-6-Official-Initial-Drive-Gameplay-3-0-screenshot-2-1.jpg"
+      "published": "2026-05-08T22:55:22",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/Firefly_Assist-01-thumb-1920x1080-83341.jpg"
+    },
+    {
+      "title": "#09【Marvelous Designer】トップス制作！　服飾の基礎知識と実践Tips集 - 連載",
+      "url": "https://cgworld.jp/regular/202605-cgw330-tr09.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-05-08T07:30:00",
+      "image": "https://cgworld.jp/regular/assets_c/2026/04/techroom_09_resize-thumb-1000x563-82798.jpg"
+    },
+    {
+      "title": "資金も映像も音楽も監督もひとり。CGアニメ映画『ボーイズ・ゴー・トゥー・ジュピター』が国内劇場公開へ - 特集",
+      "url": "https://cgworld.jp/article/2605-bgtj.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-05-08T00:47:14",
+      "image": "https://cgworld.jp/article/assets_c/2026/05/sub1_jupiter-thumb-1000x563-83303.jpg"
     },
     {
       "title": "Bambu Lab、新3Dプリンタ「X2D」発売開始　デュアルノズル3D造形、300 °C ノズル & 65 °C アクティブチャンバー加熱、12万6千円から - ニュース",
@@ -102,94 +84,175 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/05/X2D-01-thumb-1920x1080-83293.jpg"
     },
     {
-      "title": "「Path of Exile 2」大型アップデート0.5.0でエンドゲームを大幅刷新。新要素の詳細や正式リリースへの展望が語られたブリーフィングをレポート",
-      "url": "https://www.4gamer.net/games/486/G048642/20260507069/",
+      "title": "ラヴクラフト風の世界を舞台にしたクリッカー系ローグライト採掘ゲーム「Drill Deep」が発表に",
+      "url": "https://www.4gamer.net/games/005/G100527/20260508068/",
       "source": "4Gamer.net",
-      "category": "update",
+      "category": "release",
       "importance": "high",
-      "published": "2026-05-07T21:30:00",
-      "image": "https://www.4gamer.net/games/486/G048642/20260507069/SS/002.jpg"
+      "published": "2026-05-08T12:20:47",
+      "image": "https://www.4gamer.net/games/005/G100527/20260508068/SS/005.jpg"
     },
     {
-      "title": "「アンリアルライフ」のヨカゼによる情報番組「ヨカゼナイト 2026.05.14」が5月14日20：00に配信へ。複数の新作に関する情報を発表予定",
-      "url": "https://www.4gamer.net/games/991/G999110/20260507083/",
+      "title": "ミドルクラススマホ向け新型SoC「Snapdragon 6 Gen 5」が発表に。画面のカクつきを抑える新機能を備える",
+      "url": "https://www.4gamer.net/games/128/G012876/20260508063/",
+      "source": "4Gamer.net",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-05-08T11:33:09",
+      "image": "https://www.4gamer.net/games/128/G012876/20260508063/SS/001.jpg"
+    },
+    {
+      "title": "ソニーとTSMC，合弁会社設立に向け基本合意。次世代イメージセンサー開発で提携へ",
+      "url": "https://www.4gamer.net/games/999/G999905/20260508069/",
+      "source": "4Gamer.net",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-08T12:44:45",
+      "image": "https://www.4gamer.net/games/999/G999905/20260508069/SS/002.jpg"
+    },
+    {
+      "title": "viviONがインディーゲームのパブリッシング事業に参入。ゲームレーベル「viviON Lab」を設立し，年内にSteamで「明月の娘」「7 Days To Think About It」の2タイトルをリリース",
+      "url": "https://www.4gamer.net/games/923/G092302/20260509002/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-08T22:00:00",
+      "image": "https://www.4gamer.net/games/923/G092302/20260509002/SS/002.jpg"
+    },
+    {
+      "title": "［プレイレポ］自由にカスタマイズできるキャンピングカーで世界を回ろう！　建築と旅がセットになった「アウトバウンド」で楽しむ“チルい”体験",
+      "url": "https://www.4gamer.net/games/775/G077553/20260416010/",
       "source": "4Gamer.net",
       "category": "other",
+      "importance": "normal",
+      "published": "2026-05-08T14:00:00",
+      "image": "https://www.4gamer.net/games/775/G077553/20260416010/SS/007.jpg"
+    },
+    {
+      "title": "不穏採掘クリッカー『Drill Deep』発表。深淵に至るまで掘削＆強化ループ、“不気味な何か”も出土するラヴクラフト風放置ゲーム",
+      "url": "https://automaton-media.com/articles/newsjp/20260508-441824/",
+      "source": "Automaton",
+      "category": "release",
       "importance": "high",
-      "published": "2026-05-07T12:39:10",
-      "image": "https://www.4gamer.net/games/991/G999110/20260507083/SS/001.jpg"
+      "published": "2026-05-08T06:50:19",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260508-441824-header.jpg"
     },
     {
-      "title": "カードで畑を耕し，カカシを並べて大豊作を目指す「Cropdeck」（ほぼ日 インディーPick Up！）",
-      "url": "https://www.4gamer.net/games/950/G095079/20260501041/",
-      "source": "4Gamer.net",
+      "title": "Nintendo Switch 2とSwitch、5月25日より定価値上げへ。Switch 2日本語版は5万9980円に",
+      "url": "https://automaton-media.com/articles/newsjp/20260508-441819/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-08T06:41:55",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260508-441819-header.jpg"
+    },
+    {
+      "title": "キャンピングカー冒険ゲーム『アウトバウンド』は、サバイバルなのに“脅かされない”優しさがある。“ゴミ集め”と探索を続けていたら、いつのまにか疲れた心もリラックスしきっていた",
+      "url": "https://automaton-media.com/articles/impressionjp/outbound-20260508-441880/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-08T14:00:04",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/outbound-20260508-441880-header.jpg"
+    },
+    {
+      "title": "ゲーム開発者らが「“イライラしない”高難度ゲームの作り方」で議論白熱。突き放すけどプレイはしてほしいジレンマ",
+      "url": "https://automaton-media.com/articles/newsjp/20260508-441898/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-08T12:11:46",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260508-441898-header2.jpg"
+    },
+    {
+      "title": "タワー構築オートバトラー『Oaken Tower』配信後じわじわ人気急上昇中。装備配置でド派手シナジー炸裂、頂点ビルド目指す非同期PvP",
+      "url": "https://automaton-media.com/articles/newsjp/20260508-441885/",
+      "source": "Automaton",
       "category": "release",
       "importance": "normal",
-      "published": "2026-05-07T22:00:00",
-      "image": "https://www.4gamer.net/games/950/G095079/20260501041/SS/004.jpg"
+      "published": "2026-05-08T09:28:55",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260508-441885-header.jpg"
     },
     {
-      "title": "“神”はなぜ消えた？ 自らの姿を変えて情報を探る，超現実的ナラティブアドベンチャー「Burden Street Station」，発売日を5月21日に決定",
-      "url": "https://www.4gamer.net/games/986/G098634/20260508001/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-05-07T15:57:27",
-      "image": "https://www.4gamer.net/games/986/G098634/20260508001/SS/001.jpg"
-    },
-    {
-      "title": "Switch版「リトルナイトメア」シリーズが最大60％オフ！ バンダイナムコエンターテインメントのSwitch向けDL版タイトルセールがスタート",
-      "url": "https://www.4gamer.net/games/999/G999903/20260507084/",
-      "source": "4Gamer.net",
+      "title": "Xiaomiのスマホ「POCO F7」512GBモデルが5万円を切る破格に Amazonで23％オフのタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83271/xiaomipoco-f7512gb5-amazon23",
+      "source": "IGN Japan",
       "category": "sale",
       "importance": "normal",
-      "published": "2026-05-07T14:09:06",
-      "image": "https://www.4gamer.net/games/999/G999903/20260507084/SS/001.jpg"
+      "published": "2026-05-08T13:13:23",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_7unn.jpg"
     },
     {
-      "title": "「ゲームはゲーマーのもの」―“Stop Killing Games”に呼応する“永遠に遊べる”技術「Eternity」とは【インタビュー】",
-      "url": "https://www.gamebusiness.jp/article/2026/05/07/26858.html",
+      "title": "『オデュッセイア』画像ギャラリー",
+      "url": "https://jp.ign.com/the-odyssey-christopher-nolan-matt-damon-project/83273/the-odyssey-new-images-may-2026",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-08T02:18:04",
+      "image": "https://sm.ign.com/ign_jp/gallery/t/the-odysse/the-odyssey-new-images-may-2026_xeze.jpg"
+    },
+    {
+      "title": "任天堂、スイッチ2効果で売上高2.3兆円とほぼ倍増—スイッチ2の値上げも発表",
+      "url": "https://www.gamebusiness.jp/article/2026/05/08/26869.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-08T08:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183099.png"
+    },
+    {
+      "title": "任天堂、スイッチ2は1,986万台を販売－今期はソフト6,000万本で利益拡大を目指す【ゲーム企業の決算を読む】",
+      "url": "https://www.gamebusiness.jp/article/2026/05/08/26876.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-08T11:25:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183230.jpg"
+    },
+    {
+      "title": "『プラグマタ』200万本突破！ディアナもお祝いイラストを描く―発売から16日で達成「人間とアンドロイドの少女が心を通わせていく物語性が話題を呼んだ」",
+      "url": "https://www.gamebusiness.jp/article/2026/05/08/26866.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-08T02:00:05",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183037.png"
+    },
+    {
+      "title": "ホラー映画「パラノーマル・アクティビティ」のゲーム版『Paranormal Activity: Threshold』が開発中止",
+      "url": "https://www.gamebusiness.jp/article/2026/05/08/26878.html",
       "source": "GameBusiness.jp",
       "category": "other",
-      "importance": "high",
-      "published": "2026-05-07T11:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183073.jpg"
+      "importance": "normal",
+      "published": "2026-05-08T11:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183135.jpg"
     },
     {
-      "title": "『EVE Online』開発元が「Fenris Creations」に名称変更―Pearl Abyssによる売却を経て、組織再編や人員削減は一切なしで独立へ",
-      "url": "https://www.gamebusiness.jp/article/2026/05/07/26864.html",
+      "title": "『STEINS;GATE ELITE』ベースのシナリオも配信等は全編禁止―『STEINS;GATE RE:BOOT』配信や実況に関するガイドライン公開",
+      "url": "https://www.gamebusiness.jp/article/2026/05/08/26877.html",
       "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-07T11:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183045.jpg"
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-08T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183145.jpg"
     },
     {
-      "title": "初代『ウィザードリィ』～『V』の権利をAtariが取得。初期作品群のリマスターや新作展開、さらにはボドゲや映画なども視野に",
-      "url": "https://www.gamebusiness.jp/article/2026/05/07/26862.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-07T11:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183053.jpg"
-    },
-    {
-      "title": "IPコラボはコアファンだけのものではない――Z世代の約7割が「ファンでないIP」のコラボ商品を購入経験あり、フラッグが調査白書を公開",
-      "url": "https://www.gamebusiness.jp/article/2026/05/07/26865.html",
-      "source": "GameBusiness.jp",
+      "title": "DLsite親会社がインディーゲームレーベル「viviON Lab」を創設。「BitSummit PUNCH」でのブース出展も決定",
+      "url": "https://gamemakers.jp/article/2026_05_08_136886/",
+      "source": "ゲームメーカーズ",
       "category": "business",
       "importance": "normal",
-      "published": "2026-05-07T11:50:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183089.jpg"
+      "published": "2026-05-08T09:31:55",
+      "image": null
     },
     {
-      "title": "「コンテンツ東京 2026」が来場登録を開始――初開催のファンコミュニティ展を含む過去最大規模で6月に開催",
-      "url": "https://www.gamebusiness.jp/article/2026/05/07/26863.html",
-      "source": "GameBusiness.jp",
+      "title": "8/8（土）開催のインディーゲーム展示会「東京ゲームダンジョン13」、出展申込情報が公開。5/22（金）18時より先着順で受付",
+      "url": "https://gamemakers.jp/article/2026_05_08_136864/",
+      "source": "ゲームメーカーズ",
       "category": "industry",
       "importance": "normal",
-      "published": "2026-05-07T11:35:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183087.png"
+      "published": "2026-05-08T07:02:26",
+      "image": null
     },
     {
       "title": "Epic Gamesのマーケットプレイス「Fab」、5/19（火）までの期間限定で無料コンテンツを公開。スチームパンクな獣の3Dモデルアセットなど3製品",
@@ -198,7 +261,7 @@
       "category": "sale",
       "importance": "normal",
       "published": "2026-05-07T08:48:26",
-      "image": null
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/ff23f55954312e5f849af3801e4436d2.jpg"
     },
     {
       "title": "『GUILTY GEAR -STRIVE-』ゲームエフェクト制作事例、アークシステムワークスが動画で解説。攻撃ヒットの爽快感や視認性を高める工夫を紹介",
@@ -207,15 +270,6 @@
       "category": "tech",
       "importance": "normal",
       "published": "2026-05-07T07:17:11",
-      "image": null
-    },
-    {
-      "title": "光源や影を表現するマスクを150種以上を収録。アセットパック『Light Masks』、Webサイト「Kenney」にて無料で公開",
-      "url": "https://gamemakers.jp/article/2026_05_06_136676/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-05-06T01:58:55",
       "image": null
     }
   ]
