@@ -1,192 +1,291 @@
 {
-  "generated_at": "2026-05-12T00:23:36.769188",
-  "poem": "おはようございます！🌞\n今日のゲームニュースは、多くの新しいタイトルの発表や、人気ゲームのセール、そして新しいゲームエンジンの開発など、様々な面で活発な動きを見せています 💻\n特に注目されているのは、『PLACE TO FIT』や『Idol Manager: Virtual Venture』の発表、そして『Forza Horizon 6』のPC版ゲームビルドの流出などです。\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-05-13T00:25:13.403246",
+  "poem": "おはようございます！ 🌞\n今日はゲーム業界に大きなニュースがたくさんあります！ 原田勝弘氏がSNKへ、新スタジオ「VS Studio SNK」を設立することが発表されたり、『キャプテン翼２ WORLD FIGHTERS』の発売が決定したり、大人気ゲーム『MOUSE：やとわれの探偵』の売上が約34億円に到達したりと、ゲームファンの皆さんにとってはとてもワクワクする一日になるでしょう！ 🎮\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "物理演算ひたすら片づけゲーム『PLACE TO FIT』発表。きっちり整理も雑にブチ込むのも自由、“収まってさえいればOK”正解なし収納術",
-      "url": "https://automaton-media.com/articles/newsjp/20260511-442346/",
+      "title": "『キャプテン翼２ WORLD FIGHTERS』8月27日に発売決定。各国選手のスーパープレイが見られるストーリートレーラーも公開。『キャプテン翼』の世界設定をもとにした新作サッカーゲーム",
+      "url": "https://news.denfaminicogamer.jp/news/260513d",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-12T22:47:58",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_21cc5dd8ea39ee7fc761fd17ee8fae9dbea5bf67.1920x1080.jpg"
+    },
+    {
+      "title": "PS5用の公式ライセンスコントローラー「SCUF Omega」が発表、同日発売。4つのリアパドル、2つのサイドボタン、5つのGキーを備え、合計28入力に対応",
+      "url": "https://news.denfaminicogamer.jp/news/2605123l",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-12T15:06:30",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/d63dde3b23e34c88db154c33a03b70ba1632aa17.webp"
+    },
+    {
+      "title": "『鉄拳』の原田勝弘氏がSNKへ！ 新スタジオ”VS Studio SNK”代表に就任──「新たな対戦ゲームを作りたい」ゲームへの情熱、心の火が消えていない方なら50歳超えでもスタジオの門を叩いてほしい【緊急インタビュー】",
+      "url": "https://news.denfaminicogamer.jp/interview/2605122d",
+      "source": "電ファミニコゲーマー",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-12T15:00:08",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/image14-5.jpg"
+    },
+    {
+      "title": "『マインクラフト』Java版に「フレンドリスト」機能が登場。フレンドを追加したら手軽にローカルワールドへ招待可能に。Javaのスナップショット版で使用可能",
+      "url": "https://news.denfaminicogamer.jp/news/260513c",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-05-12T23:24:13",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/Vanilla-generic_1170x500-1.jpg"
+    },
+    {
+      "title": "原田勝弘氏、新ゲーム開発スタジオ「VS Studio SNK」設立。SNKグループの連結子会社としてゲームソフト開発で連携しつつ、さらなる開発の強化を図る",
+      "url": "https://news.denfaminicogamer.jp/news/260513a",
+      "source": "電ファミニコゲーマー",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-05-12T15:59:38",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/sub7-3.png"
+    },
+    {
+      "title": "へんてこキメラ育成ローグライト『Everything is Crab』、発売3日たらずで売上20万本突破。見た目も強さもどんどん変化する、生物進化アクションがスマッシュヒット",
+      "url": "https://automaton-media.com/articles/newsjp/20260512-442567/",
       "source": "Automaton",
       "category": "release",
       "importance": "high",
-      "published": "2026-05-11T07:43:30",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260511-442346-header.jpeg"
+      "published": "2026-05-12T08:33:08",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260512-442567-header.jpg"
     },
     {
-      "title": "『Slay the Spire 2』にまたも不評殺到、Valveが「トピずれのレビュー荒らし」判定する事態に。ある“フェミニズム批評家”の関与に反発相次ぐ",
-      "url": "https://automaton-media.com/articles/newsjp/20260511-442308/",
+      "title": "セガ、“売上1000億円規模”大型オンラインゲーム構想「Super Game」を中止。ライブサービス戦略の見直しにあわせて",
+      "url": "https://automaton-media.com/articles/newsjp/20260512-442556/",
       "source": "Automaton",
-      "category": "other",
+      "category": "business",
       "importance": "high",
-      "published": "2026-05-11T05:02:29",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260511-442308-header.jpg"
+      "published": "2026-05-12T08:15:44",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260512-442556-header-2.jpg"
     },
     {
-      "title": "『アイドルマネージャー』開発元の新作は“VTuber”事務所経営シム、『Idol Manager: Virtual Venture』発表。「闇」も描くストリーマー管理ゲーム",
-      "url": "https://automaton-media.com/articles/newsjp/20260510-441989/",
+      "title": "マルチ対応ペンギン魚釣りゲーム『HADALYTH ZERO: ただ転生したらペンギンの異世界釣りスローライフだった件』発表。みんなでペンギンになって、のんびり釣り生活",
+      "url": "https://automaton-media.com/articles/newsjp/20260512-442541/",
       "source": "Automaton",
       "category": "release",
       "importance": "high",
-      "published": "2026-05-10T12:12:11",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260510-441989-header.jpg"
+      "published": "2026-05-12T07:48:27",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260512-442541-header.jpeg"
     },
     {
-      "title": "Nintendo Switch 2/ Switch向けセールに約170本追加。『アイドルマネージャー』が半額、『ボーダーランズ』『バイオショック』などいろいろ最安値級",
-      "url": "https://automaton-media.com/articles/newsjp/20260511-442318/",
+      "title": "Nintendo Switch 2向け『テーブルゲーム・ワールド CCFOLIA for Nintendo Switch 2』発表。最大8人でTRPGやボドゲ三昧、1人持ってれば皆で遊べる",
+      "url": "https://automaton-media.com/articles/newsjp/ccfolia-20260512-442534/",
       "source": "Automaton",
-      "category": "sale",
+      "category": "release",
       "importance": "high",
-      "published": "2026-05-11T05:53:03",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260511-442318-header.jpg"
+      "published": "2026-05-12T07:38:45",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/ccfolia-20260512-442534-header.jpg"
     },
     {
-      "title": "Unreal Engineに携わったベテランが「ヨーロッパ製新ゲームエンジン」開発を始動。“EU準拠”のAI統合ゲームエンジン",
-      "url": "https://automaton-media.com/articles/newsjp/20260511-442292/",
+      "title": "大人気ネズミアニメ殺戮FPS『MOUSE：やとわれの探偵』、発売1か月足らずで「売上約34億円」に。投資費用はすでに全額回収済み",
+      "url": "https://automaton-media.com/articles/newsjp/20260512-442469/",
       "source": "Automaton",
-      "category": "tech",
+      "category": "release",
       "importance": "high",
-      "published": "2026-05-11T04:15:28",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260511-442292-header.jpg"
+      "published": "2026-05-12T03:29:21",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260512-442469-header.jpg"
     },
     {
-      "title": "KRAFTON，2026年第1四半期の業績を発表。売上高は前年同期比56.9%増の1兆3714億ウォンとなり，四半期ベースで過去最高を記録",
-      "url": "https://www.4gamer.net/games/999/G999905/20260511057/",
-      "source": "4Gamer.net",
+      "title": "原田勝弘氏、新スタジオ「VS STUDIO SNK」設立を発表。SNK支援のもと対人アクションゲーム開発へ。 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202605-VSSTUDIOSNK.html",
+      "source": "CGWORLD",
       "category": "business",
       "importance": "high",
-      "published": "2026-05-11T12:21:39",
-      "image": "https://www.4gamer.net/games/999/G999905/20260511057/SS/004.png"
+      "published": "2026-05-12T22:04:14",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/DSC03371-thumb-702x467-83337.png"
     },
     {
-      "title": "［インタビュー］「MARVEL Tōkon: Fighting Souls（マーベル闘魂）」はアークシステムワークスの新しい挑戦。異色ともいえるチームバトルが生まれた発想とは",
-      "url": "https://www.4gamer.net/games/916/G091625/20260511024/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-05-11T22:00:00",
-      "image": "https://www.4gamer.net/games/916/G091625/20260511024/SS/009.jpg"
-    },
-    {
-      "title": "セガ・アトラスとアニメイト，初のグローバル横断コラボプロジェクトを始動。「ペルソナ」「龍が如く」「プロセカ」など8IPを展開",
-      "url": "https://www.4gamer.net/games/367/G036702/20260511045/",
-      "source": "4Gamer.net",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-11T10:55:14",
-      "image": "https://www.4gamer.net/games/367/G036702/20260511045/SS/001.jpg"
-    },
-    {
-      "title": "インディーゲーム展示会「東京ゲームダンジョン12」レポート（前編）。全館制覇も見えてきた!?　過去最多となる約400団体・3フロアでの開催となった“ゲームの迷宮”を踏破！",
-      "url": "https://www.4gamer.net/games/991/G999110/20260511035/",
-      "source": "4Gamer.net",
-      "category": "industry",
+      "title": "BlenderのGrease Pencilを活用した温かみあるオープニング映像、TVアニメ『透明男と人間女～そのうち夫婦になるふたり～』OP 〜No.1／タイトルカット篇 - 特集",
+      "url": "https://cgworld.jp/article/140-tomeiotoko01.html",
+      "source": "CGWORLD",
+      "category": "cg",
       "importance": "normal",
-      "published": "2026-05-12T00:00:00",
-      "image": "https://www.4gamer.net/games/991/G999110/20260511035/SS/016.jpg"
+      "published": "2026-05-12T09:00:12",
+      "image": "https://cgworld.jp/article/assets_c/2026/04/4329858d758769f1b17c30a7913049c0290af506-thumb-1000x561-82347.jpg"
     },
     {
-      "title": "「NTE: Neverness to Everness」，骨董品屋エイボンを率いる飲んだくれ店主「潯」（ほとり）が5月13日に実装。仲間の技を記録/再現し，時を止めて1人太刀を抜く",
-      "url": "https://www.4gamer.net/games/817/G081722/20260511001/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-05-11T23:00:00",
-      "image": "https://www.4gamer.net/games/817/G081722/20260511001/SS/009.jpg"
-    },
-    {
-      "title": "『Forza Horizon 6』PC版のゲームビルドが発売前に流出。開発元は事前ダウンロード設定のミスを否定、不正アクセス者に対してシリーズ全体のアカウント凍結やハードウェアBANを含む、厳格な処置を発表",
-      "url": "https://news.denfaminicogamer.jp/news/260512e",
-      "source": "電ファミニコゲーマー",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-05-11T23:50:27",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_ffea3efe4e67b24ceb6f9bd0919b1ebac344b61b.1920x1080.jpg"
-    },
-    {
-      "title": "『MOUSE：やとわれの探偵』累計販売本数が「73万本」を突破、マーケティング費用などの初期投資はすでに回収済みとパブリッシャーが発表。約半数はコンソール版が占める",
-      "url": "https://news.denfaminicogamer.jp/news/260512d",
-      "source": "電ファミニコゲーマー",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-11T22:48:54",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/MOUSE_-P.I.-For-Hire-_-Official-Launch-Trailer-0-31-screenshot.jpg"
-    },
-    {
-      "title": "『Stellar Blade』次回作はソニーから離れ自社パブリッシングへ。開発元Shift Upが2026年第1四半期決算にて方針を発表。三上真司氏率いる開発スタジオ「UNBOUND」の新作も自社でパブリッシング",
-      "url": "https://news.denfaminicogamer.jp/news/260512c",
-      "source": "電ファミニコゲーマー",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-11T22:37:25",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_2d4ad1a81618920416e7b68d02dc266ac898f144.1920x1080.jpg"
-    },
-    {
-      "title": "『デビルメイクライ』ナンバリングと『DmC』のバンドルが「9327円→1498円」に。シリーズ全作が“500円以下”の破格セールがSteamで開催",
-      "url": "https://news.denfaminicogamer.jp/news/260512f",
-      "source": "電ファミニコゲーマー",
-      "category": "sale",
-      "importance": "high",
-      "published": "2026-05-11T23:41:48",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/661fd5ccdc23ee80f3df6f8a89ae1655.png"
-    },
-    {
-      "title": "Discordの月額サービス「Nitro」を契約すると「Xbox Game Pass」のスターター版が利用可能に。『Fallout 4』『スターデューバレー』『Deep Rock Galactic』『Overcooked 2』など、50本以上のゲームが遊び放題",
-      "url": "https://news.denfaminicogamer.jp/news/260512b",
-      "source": "電ファミニコゲーマー",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-05-11T21:57:31",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/69fb93504e112d34c82f72e1_5b171629.jpeg"
-    },
-    {
-      "title": "「ドラクエの日」5月27日に配信があると堀井雄二氏が予告！「次回作なにかとは言いませんけど色々情報出します」",
-      "url": "https://www.gamebusiness.jp/article/2026/05/11/26889.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-05-11T11:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183315.png"
-    },
-    {
-      "title": "『Garry's Mod』の精神的後継作『s&box』は20年の蓄積を超えらえるか？新型サンドボックスの真価やいかに…遊びと開発環境の両面からチェック",
-      "url": "https://www.gamebusiness.jp/article/2026/05/11/26888.html",
-      "source": "GameBusiness.jp",
+      "title": "ゲーム開発のノウハウは 製造業でも活きる！ 荏原製作所の製造DX「EBARA-D3™」に元気が技術支援。その経緯とは？ - 特集",
+      "url": "https://cgworld.jp/article/2605-genki.html",
+      "source": "CGWORLD",
       "category": "tech",
       "importance": "normal",
-      "published": "2026-05-11T11:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183338.jpg"
+      "published": "2026-05-12T03:57:56",
+      "image": "https://cgworld.jp/article/assets_c/2026/04/Main-thumb-1000x562-81997.jpg"
     },
     {
-      "title": "クランチロール、NYでアニメ業界サミット初開催。アニメ・映画・ゲーム・テックのリーダーが集結",
-      "url": "https://www.gamebusiness.jp/article/2026/05/11/26887.html",
+      "title": "アドビ、「Substance 3D Painter 12.1」ベータ版の新機能紹介動画を公開　ノーマルマップの歪み解消、ワークフロー高速化、OpenPBR対応も - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202605-SP12-1beta.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-05-12T01:05:57",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/SP12_1beta-01-thumb-1920x1080-83494.jpg"
+    },
+    {
+      "title": "popman3580氏による『魅力的なキャラを描くためのデッサン実践講座』が会場＆オンライン配信でダブル開催！ - ニュース",
+      "url": "https://cgworld.jp/flashnews/0523-plusone-popman3580.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-11T06:31:46",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/253_seminar_popman_full-thumb-1920x1080-83483.jpg"
+    },
+    {
+      "title": "レトロアーケード風レースゲーム「4PGP」，PC/PS5版を6月11日に発売。ゲームバランス調整やアナログ入力対応などを実施したアップデート版",
+      "url": "https://www.4gamer.net/games/965/G096586/20260512047/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-12T22:00:00",
+      "image": "https://www.4gamer.net/games/965/G096586/20260512047/SS/007.jpg"
+    },
+    {
+      "title": "クレーンゲームで戦うデッキ構築ローグライク「ダンジョンクロウラー幸運ウサギと魔法の爪」（ほぼ日 インディーPick Up！）",
+      "url": "https://www.4gamer.net/games/793/G079329/20260510002/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-12T22:00:00",
+      "image": "https://www.4gamer.net/games/793/G079329/20260510002/SS/022.jpg"
+    },
+    {
+      "title": "労働シムもここまで来た。さまざまな職場がある世界で，仲間といろんな仕事をこなすオンラインゲーム「Hard Worker」，ストアページを公開",
+      "url": "https://www.4gamer.net/games/005/G100596/20260513001/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-12T16:17:11",
+      "image": "https://www.4gamer.net/games/005/G100596/20260513001/SS/006.jpg"
+    },
+    {
+      "title": "鉄拳・原田勝弘氏の新スタジオ「VS Studio SNK」の設立が明らかに。SNK傘下で新たな船出を迎えた氏に，“残された時間”の使い方を聞いた",
+      "url": "https://www.4gamer.net/games/999/G999901/20260511002/",
+      "source": "4Gamer.net",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-05-12T15:00:00",
+      "image": "https://www.4gamer.net/games/999/G999901/20260511002/SS/001.webp"
+    },
+    {
+      "title": "35P垂涎！ ホロライブ「さくらみこ」コラボデザインのピラーレスPCケースやキーキャップ＆マウスパッドが5月15日に予約開始",
+      "url": "https://www.4gamer.net/games/999/G999902/20260512036/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-12T15:00:00",
+      "image": "https://www.4gamer.net/games/999/G999902/20260512036/TN/003.jpg"
+    },
+    {
+      "title": "『Stellar Blade』続編は「発売初日から幅広いユーザーに届ける」―自社パブリッシング作品として2026年内詳細発表へ",
+      "url": "https://www.gamebusiness.jp/article/2026/05/12/26896.html",
+      "source": "GameBusiness.jp",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-12T10:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183436.jpg"
+    },
+    {
+      "title": "東京ゲームショウ2026本格始動！史上初5日間の開催へ向け、ティーザー動画やプレゼントキャンペーンなど情報公開",
+      "url": "https://www.gamebusiness.jp/article/2026/05/12/26902.html",
       "source": "GameBusiness.jp",
       "category": "industry",
-      "importance": "normal",
-      "published": "2026-05-11T11:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183357.jpg"
+      "importance": "high",
+      "published": "2026-05-12T11:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183398.jpg"
     },
     {
-      "title": "ゲーム業界就活イベント「キャリアクエスト」第4回が6月13日開催―セガやアトラスなど10社出展、本日より参加申込開始",
-      "url": "https://www.gamebusiness.jp/article/2026/05/11/26886.html",
+      "title": "三上真司氏率いるUNBOUNDでは大小さまざまな作品を展開へ。SHIFT UP傘下での開発は順調に進行中か",
+      "url": "https://www.gamebusiness.jp/article/2026/05/12/26904.html",
       "source": "GameBusiness.jp",
-      "category": "industry",
+      "category": "business",
       "importance": "normal",
-      "published": "2026-05-11T06:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183271.jpg"
+      "published": "2026-05-12T11:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183378.png"
     },
     {
-      "title": "スズキ、『ストリートファイター6』の公式大会をトップパートナー協賛",
-      "url": "https://www.gamebusiness.jp/article/2026/05/10/26885.html",
+      "title": "逝去したナレーターのAI音声を使う許可を『Darkest Dungeon』開発元は得ていた…が、使わないと明言。「彼のパフォーマンスの価値を損なうようなことは絶対にしない」",
+      "url": "https://www.gamebusiness.jp/article/2026/05/12/26903.html",
       "source": "GameBusiness.jp",
-      "category": "esports",
+      "category": "business",
       "importance": "normal",
-      "published": "2026-05-10T02:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183242.jpg"
+      "published": "2026-05-12T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183387.jpg"
+    },
+    {
+      "title": "『Forza Horizon 6』ファイル流出問題でPlayground GamesとSteamDBが声明―「プリロードの問題ではない」とSteamDB経由の流出を否定",
+      "url": "https://www.gamebusiness.jp/article/2026/05/12/26900.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-05-12T11:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183406.jpg"
+    },
+    {
+      "title": "『inKONBINI: One Store. Many Stories』レビュー コンビニシムよりも、「聞き手」になるストーリーゲームの進化系",
+      "url": "https://jp.ign.com/inkonbini-one-store-many-stories/83277/inkonbini-one-store-many-stories",
+      "source": "IGN Japan",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-11T06:33:05",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/2026050210330700-c_n9mb.jpg"
+    },
+    {
+      "title": "「スターフォックス」から見る、過去の名作を復活させる難しさ：#488 しゃべりすぎGAMER",
+      "url": "https://jp.ign.com/shaberisugi-gamer/83293/488-gamer",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-12T10:00:44",
+      "image": null
+    },
+    {
+      "title": "『バイオハザード RE:4』のアシュリーのフェイスモデルであるエラ・フレイヤ、TGS2026公式インフルエンサーのひとりに決定",
+      "url": "https://jp.ign.com/tgs-2026/83290/re4tgs2026",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-12T05:41:24",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/re-4-part-10-2023-10-09-17-17-28-04-0-52-screenshot_y8v4.png"
+    },
+    {
+      "title": "PHILIPS EVNIAの24.5インチゲーミングモニター「25M2N3200W/11」がAmazonにて29％オフの過去最安と同価格でタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83289/philips-evnia24525m2n3200w11amazon29",
+      "source": "IGN Japan",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-05-12T05:10:17",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_ww37.jpg"
+    },
+    {
+      "title": "Newzooが最新ゲーム市場の分析レポートを公開。発売から10年以上経ったPCゲームも人気が健在",
+      "url": "https://gamemakers.jp/article/2026_05_12_137012/",
+      "source": "ゲームメーカーズ",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-05-12T04:31:51",
+      "image": null
+    },
+    {
+      "title": "工場設備の無料3Dモデルパックが更新。140種以上のモデルを収録した『Factory Kit』、Webサイト「Kenney」にて無料で公開",
+      "url": "https://gamemakers.jp/article/2026_05_12_137064/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-05-12T02:02:38",
+      "image": null
     },
     {
       "title": "『NTE: Neverness to Everness』公式MMDモデルが公開中。主人公やメインキャラクターなど18体",
       "url": "https://gamemakers.jp/article/2026_05_11_136842/",
       "source": "ゲームメーカーズ",
-      "category": "other",
+      "category": "release",
       "importance": "normal",
       "published": "2026-05-11T09:44:15",
       "image": null
@@ -199,87 +298,6 @@
       "importance": "normal",
       "published": "2026-05-11T08:52:17",
       "image": null
-    },
-    {
-      "title": "ホロライブ二次創作ゲームブランド「holo Indie」が新作募集を再開。募集期間を年3回に変更",
-      "url": "https://gamemakers.jp/article/2026_05_10_136962/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-05-10T07:28:59",
-      "image": null
-    },
-    {
-      "title": "【ゲームメーカーズ4周年記念】Switch 2やモバイルモニターが当たる4周年プレゼントキャンペーンを実施！応募期間は5/24（日）まで",
-      "url": "https://gamemakers.jp/article/2026_05_10_136949/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-05-10T02:57:07",
-      "image": null
-    },
-    {
-      "title": "「ゲームメーカーズ」ついに4周年！これからも、もっとゲーム業界の役に立つメディアへ",
-      "url": "https://gamemakers.jp/article/2026_05_10_136901/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-05-10T01:00:41",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/aa154c23bbeae37f93821c68f501da56.jpg"
-    },
-    {
-      "title": "『inKONBINI: One Store. Many Stories』レビュー コンビニシムよりも、「聞き手」になるストーリーゲームの進化系",
-      "url": "https://jp.ign.com/inkonbini-one-store-many-stories/83277/inkonbini-one-store-many-stories",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-05-11T06:33:05",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/2026050210330700-c_n9mb.jpg"
-    },
-    {
-      "title": "popman3580氏による『魅力的なキャラを描くためのデッサン実践講座』が会場＆オンライン配信でダブル開催！ - ニュース",
-      "url": "https://cgworld.jp/flashnews/0523-plusone-popman3580.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-05-11T06:31:46",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/253_seminar_popman_full-thumb-1920x1080-83483.jpg"
-    },
-    {
-      "title": "iiyama PC「SENSE∞」、GeForce RTX 5090 Founders Edition搭載クリエイターPCを発売 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2605-pckoubou.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-05-11T06:30:40",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/3d189835e92e257ef409398e729dd0f8370b35ad-thumb-1000x562-83482.jpg"
-    },
-    {
-      "title": "SideFXが『モアナと伝説の海2』のエフェクト事例を公開ーHoudiniを活用した水のシミュレーションや嵐などを解説 - ニュース",
-      "url": "https://cgworld.jp/flashnews/03-2604-sidefxmoana.html",
-      "source": "CGWORLD",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-05-11T03:43:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/videoframe_0-%281%29-thumb-1000x500-83292.jpg"
-    },
-    {
-      "title": "BlenderのキャラクターモデルをFlow Studioで自在に動かすアニメーションのワークフローをAREA JAPANが解説 - ニュース",
-      "url": "https://cgworld.jp/flashnews/03-2605-flowstudio.html",
-      "source": "CGWORLD",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-05-11T03:42:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/journy_with_flow_studio_v04_01-thumb-1920x1080-83290.jpg"
-    },
-    {
-      "title": "第21回：エディタメニューから直接EUWを開く - 連載",
-      "url": "https://cgworld.jp/regular/202605-ue5tool-21.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-05-11T02:13:00",
-      "image": "https://cgworld.jp/regular/assets_c/2026/04/UE5_EditorUtility_banner_vol21-thumb-1000x563-82912.jpg"
     }
   ]
 }
