@@ -1,15 +1,240 @@
 {
-  "generated_at": "2026-05-15T00:23:43.925801",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、様々なジャンルの新作が発表され、ゲームファンを激しく湧き起こさせています。特に注目されるのは、『サブノーティカ2』がリリース1時間で100万本を達成したことです 💥\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-05-16T00:21:48.287891",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、ガンダム50周年プロジェクトやサブノーティカ2の販売本数が200万本を突破するなど、盛り沢山です！\n注目のニュースには、ネズミのクイルが登場するアドベンチャーゲーム「Moss: The Forgotten Relic」や、ゆるいSNSシム「タイムラインタウン」などが含まれています 🎮\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "最終章ゲーム化で目指した原作の魅力とリッチなビジュアルの両立『僕のヒーローアカデミア All's Justice』 - 特集",
-      "url": "https://cgworld.jp/article/202605-cgw331-mhaaj.html",
-      "source": "CGWORLD",
+      "title": "ネズミのクイルが滅びた王国を探索するアドベンチャーゲーム「Moss: The Forgotten Relic」，今夏に発売決定",
+      "url": "https://www.4gamer.net/games/007/G100706/20260515037/",
+      "source": "4Gamer.net",
       "category": "release",
       "importance": "high",
-      "published": "2026-05-14T02:48:00",
-      "image": "https://cgworld.jp/article/assets_c/2026/04/ba7a385e43653c4421976496f40d38deac852648-thumb-1000x563-82942.jpg"
+      "published": "2026-05-15T16:00:00",
+      "image": "https://www.4gamer.net/games/007/G100706/20260515037/SS/009.jpg"
+    },
+    {
+      "title": "「Slay the Spire - Downfall ボードゲーム 日本語版」，クラファンをスタート。わずか2時間で支援額4000万円を突破",
+      "url": "https://www.4gamer.net/games/546/G054695/20260515065/",
+      "source": "4Gamer.net",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-15T13:18:25",
+      "image": "https://www.4gamer.net/games/546/G054695/20260515065/SS/001.jpg"
+    },
+    {
+      "title": "「ガンダム50周年プロジェクト」が始動。「機動戦士ガンダム」のリマスタープロジェクトや「富野由悠季展（仮）」など注目企画が目白押し",
+      "url": "https://www.4gamer.net/games/991/G999103/20260515055/",
+      "source": "4Gamer.net",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-05-15T11:44:43",
+      "image": "https://www.4gamer.net/games/991/G999103/20260515055/SS/011.jpg"
+    },
+    {
+      "title": "水中アドベンチャー「サブノーティカ2」，発売から12時間で世界累計販売本数200万本を突破。同時接続人数は前作から最大9倍規模に",
+      "url": "https://www.4gamer.net/games/848/G084886/20260515050/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-15T10:58:42",
+      "image": "https://www.4gamer.net/games/848/G084886/20260515050/SS/002.jpg"
+    },
+    {
+      "title": "天井90連/すり抜けなしの「NTE: Neverness to Everness」で，限定キャラをお迎えするには，実際どのくらいガチャを回せばいいのか。シンプルに計算してみた",
+      "url": "https://www.4gamer.net/games/817/G081722/20260515002/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-15T23:00:00",
+      "image": "https://www.4gamer.net/games/817/G081722/20260515002/SS/002.jpg"
+    },
+    {
+      "title": "【超人気】『サブノーティカ2』発売から12時間で売上本数“200万本”を突破！最大同接は驚異の“65万人”を記録し世界中で大ブームを巻き起こす",
+      "url": "https://news.denfaminicogamer.jp/news/2605152u",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-15T10:33:05",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/82433-386-f47fa2e54b52a5c765759e80d748d8f8-1920x1080-1.webp"
+    },
+    {
+      "title": "『スレスパ』のボドゲ拡張『Downfall』日本語版クラファンが“開始3分”で目標の500万円を達成。5分で1000万円、17分で2000万円を突破し、わずか約2時間ほどで4000万円超え",
+      "url": "https://news.denfaminicogamer.jp/news/2605153k",
+      "source": "電ファミニコゲーマー",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-15T13:53:21",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/HIAcOjjbYAA5Brn.jpeg"
+    },
+    {
+      "title": "『ガンダム』新たな施設を作る「ランドマーク構想」が始動。世界中のファンが足を運びたくなるような“ガンダムの新しい施設”を日本に作るという計画",
+      "url": "https://news.denfaminicogamer.jp/news/2605153d",
+      "source": "電ファミニコゲーマー",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-05-15T09:44:03",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/mark.png"
+    },
+    {
+      "title": "『ガンダム』シリーズ50周年記念イベント「GUNDAM-Con」が2027年1月9日より幕張メッセで開催決定！",
+      "url": "https://news.denfaminicogamer.jp/news/2605152y",
+      "source": "電ファミニコゲーマー",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-05-15T09:40:56",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/130c428673386994e3385bc6fc6f4af7.png"
+    },
+    {
+      "title": "『Forza Horizon 6』の「ホンダ シティ」にしっかり「モトコンポ」が積んであって話題に。「あまりにもわかっている」「モトコンポに乗れるDLCも出してくれ」と絶賛の声が続出",
+      "url": "https://news.denfaminicogamer.jp/news/2605153a",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-15T12:21:14",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/20260515183543_1.jpg"
+    },
+    {
+      "title": "猫娘かつお節削りクリッカー『KatsuobushiClicker』発表。ひたすらかつお節を削りなぜか“国旗当てクイズ”に挑む、知識大事クリッカー",
+      "url": "https://automaton-media.com/articles/newsjp/20260515-443259/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-15T08:04:14",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260515-443259-header.jpeg"
+    },
+    {
+      "title": "ゆるいSNSシム『タイムラインタウン』発表、5月29日発売へ。フォロワー数や“いいね”がインフレしていく、クリッカーゲーム的SNS伸ばしゲーム",
+      "url": "https://automaton-media.com/articles/newsjp/20260515-443240/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-15T07:05:06",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260515-443240-header.jpg"
+    },
+    {
+      "title": "最大4人協力オープンワールドアクション『Farever』発売から1週間で売上10万本のスピード大台突破。サーバー安定性の問題ありつつも盛況を博す",
+      "url": "https://automaton-media.com/articles/newsjp/farever-20260515-443228/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-15T06:55:59",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/farever-20260515-443228-header.jpeg"
+    },
+    {
+      "title": "短編サイコホラー『Terrors to Unveil – Day Off』がSteamで無料配布中。期間限定",
+      "url": "https://automaton-media.com/articles/newsjp/20260515-443179/",
+      "source": "Automaton",
+      "category": "sale",
+      "importance": "high",
+      "published": "2026-05-15T04:42:49",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260515-443179-header.jpg"
+    },
+    {
+      "title": "「楽園追放 -Expelled from Paradise-」の後日譚を描くゲーム『楽園追放 -The Stellar Angel-』正式発表。ふたたび動き出す、アンジェラとディンゴの物語",
+      "url": "https://automaton-media.com/articles/newsjp/20260515-443164/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-15T03:50:43",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260515-443164-header.jpg"
+    },
+    {
+      "title": "「手抜きのクソゲーを作ることを推奨するつもりはない」―『Garry's Mod』精神的後継作『s&box』がAIサムネイルにペナルティ、レビューシステムもアップデート",
+      "url": "https://www.gamebusiness.jp/article/2026/05/15/26950.html",
+      "source": "GameBusiness.jp",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-05-15T11:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184030.jpg"
+    },
+    {
+      "title": "ホロライブ運営・カバーが決算発表ー純利益は45.7%減少『ホロアース』終了やタレント卒業に伴うグッズ売上などが影響か",
+      "url": "https://www.gamebusiness.jp/article/2026/05/15/26942.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-15T03:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183721.jpg"
+    },
+    {
+      "title": "ホロライブ運営・カバー、決算発表でタレントへの負担軽減や復帰を含めたキャリア支援・誹謗中傷対策などの事業課題に言及",
+      "url": "https://www.gamebusiness.jp/article/2026/05/15/26949.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-15T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184038.jpg"
+    },
+    {
+      "title": "日本一ソフトウェア、2026年3月期は売上高31.9%減・営業赤字拡大——来期は黒字転換を見込む",
+      "url": "https://www.gamebusiness.jp/article/2026/05/15/26947.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-15T11:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184056.jpg"
+    },
+    {
+      "title": "カバー、メタバース開発で培った技術・知見を既存事業に集約ー自宅簡易設備でも多様な表現を可能に",
+      "url": "https://www.gamebusiness.jp/article/2026/05/15/26948.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-05-15T11:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184049.jpg"
+    },
+    {
+      "title": "Epic Online Servicesの実装例を学べる公式リソース「EOS-Getting-Started」、UE5.8向けにアップデート",
+      "url": "https://gamemakers.jp/article/2026_05_14_137386/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-05-14T11:28:29",
+      "image": null
+    },
+    {
+      "title": "5/22（金）より開催のインディーゲームイベント「BitSummit PUNCH」、アワード6部門のノミネート作品が発表！",
+      "url": "https://gamemakers.jp/article/2026_05_14_137331/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-05-14T08:00:26",
+      "image": null
+    },
+    {
+      "title": "OpenAI、プログラミング支援AIツール「Codex」をモバイルChatGPTアプリと統合。遠隔操作でタスク指示が可能に",
+      "url": "https://gamemakers.jp/article/2026_05_15_137404/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-05-15T07:45:23",
+      "image": null
+    },
+    {
+      "title": "登山シム『Cairn』のUnity採用事例を解説。Texture3Dを用いた描画手法や、Compute Shaderによる座標取得などをUnity公式ブログで紹介",
+      "url": "https://gamemakers.jp/article/2026_05_15_137302/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-05-15T05:51:41",
+      "image": null
+    },
+    {
+      "title": "UE5でジオメトリ圧縮＆リアルタイムレンダリングが可能なプラグイン「ZibraGDS」、オープンベータ版が5/29まで提供中",
+      "url": "https://gamemakers.jp/article/2026_05_14_137193/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-05-14T09:44:25",
+      "image": null
+    },
+    {
+      "title": "全国CG講師求人情報まとめ。授業内容、使用ツール、ギャランティを一挙紹介【2026年5月更新】  - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/recruit-cgteacher-202604.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-05-15T03:00:00",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/04/c2b3cc1efb831164a1b1c490127786364eaed02e-thumb-1000x563-81572-thumb-1000x563-81878.jpg"
     },
     {
       "title": "【After Effects 2026】オブジェクトをマスクできる、AIを活用した「オブジェクトマット」スイート（ツール一式） - 連載",
@@ -30,6 +255,15 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/05/VirtuCamera2-01-thumb-1920x1080-83612.jpg"
     },
     {
+      "title": "最終章ゲーム化で目指した原作の魅力とリッチなビジュアルの両立『僕のヒーローアカデミア All's Justice』 - 特集",
+      "url": "https://cgworld.jp/article/202605-cgw331-mhaaj.html",
+      "source": "CGWORLD",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-14T02:48:00",
+      "image": "https://cgworld.jp/article/assets_c/2026/04/ba7a385e43653c4421976496f40d38deac852648-thumb-1000x563-82942.jpg"
+    },
+    {
       "title": "【6/13 リアル開催】「PULSE Powered by AMD」安田現象・Entei Ryu・Nate・Lura登壇！AMD主催イベント開催 - ニュース",
       "url": "https://cgworld.jp/flashnews/01-2605-AMDPULSE.html",
       "source": "CGWORLD",
@@ -39,247 +273,13 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/05/e4b012fe5c9cc829c9d9346aab1b118c2d09a818-thumb-960x540-83510.png"
     },
     {
-      "title": "SideFX、Houdiniチュートリアル「Designed Chaos」動画公開　 OFFF HIVE 2026イベントでのArtur Gadzhiev氏による公演 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202605-Houdini-DesignedChaos.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-05-13T22:30:21",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/Houdini_DesignedChaos-01-thumb-1920x1080-83592.jpg"
-    },
-    {
-      "title": "人類最後の少女コズミックホラー『Sleepover』発表。終末世界に残ったふたりの少女、記憶をたどり追い詰められる心",
-      "url": "https://automaton-media.com/articles/newsjp/sleepover-20260514-442973/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-14T08:00:40",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/sleepover-20260514-442973-header.jpg"
-    },
-    {
-      "title": "人気低迷中の『Party Animals』公式、突如「生成AI動画コンテスト」を開催すると発表し困惑広がる。“レビュー爆撃”など猛反発に発展",
-      "url": "https://automaton-media.com/articles/newsjp/party-animals-20260514-442991/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-05-14T06:25:23",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/party-animals-20260514-442991-header.jpg"
-    },
-    {
-      "title": "海洋惑星オープンワールド『サブノーティカ2』、“リリース1時間”でもう売上100万本達成。マルチプレイ対応のシリーズ最新作、超爆速で大台到達",
-      "url": "https://automaton-media.com/articles/newsjp/subnautica-2-20260515-443106/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-14T23:50:12",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/subnautica-2-20260515-443106-header.jpg"
-    },
-    {
-      "title": "高評価・幽霊たちの物騒なノベルゲーム続編『ghostpia シーズンツー』ついに映像公開。謎の都市や、血塗れの小夜子などが登場",
-      "url": "https://automaton-media.com/articles/newsjp/20260514-443066/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-14T11:31:58",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260514-443066-header.jpg"
-    },
-    {
-      "title": "深海ダイブアクション『インダーク リコール』発表。ソウルで身体を引っ張って進む、海底での不思議な清掃業務",
-      "url": "https://automaton-media.com/articles/newsjp/20260514-443060/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-14T11:19:36",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260514-443060-header.jpg"
-    },
-    {
-      "title": "資金力や露出機会の少ないインディー開発者に無料で発表と宣伝の場を提供する「Six One Indie Showcase」が，5月22日1：00に公開へ",
-      "url": "https://www.4gamer.net/games/991/G999110/20260515001/",
-      "source": "4Gamer.net",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-05-14T15:48:09",
-      "image": "https://www.4gamer.net/games/991/G999110/20260515001/SS/001.jpg"
-    },
-    {
-      "title": "「ヨカゼナイト 2026.05.14」，発表情報をまとめて紹介。「アンリアルライフ」の6周年記念MVや，老舗菓子司「鶴屋吉信」とのコラボ商品も発表",
-      "url": "https://www.4gamer.net/games/991/G999110/20260514061/",
-      "source": "4Gamer.net",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-05-14T12:48:59",
-      "image": "https://www.4gamer.net/games/991/G999110/20260514061/SS/001.jpg"
-    },
-    {
-      "title": "本日早期アクセスがスタートした「サブノーティカ2」のメディアカンファレンスをレポート。開発チームが本作の概要やロードマップを紹介",
-      "url": "https://www.4gamer.net/games/848/G084886/20260514034/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-15T00:00:00",
-      "image": "https://www.4gamer.net/games/848/G084886/20260514034/SS/007.jpg"
-    },
-    {
-      "title": "［プレイレポ］「Forza Horizon 6」は“日本のカーカルチャー”が主役だ。峠も軽トラもJ-POPも全部ある",
-      "url": "https://www.4gamer.net/games/948/G094864/20260513032/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-14T12:00:00",
-      "image": "https://www.4gamer.net/games/948/G094864/20260513032/SS/019.jpg"
-    },
-    {
-      "title": "古いゲームディスクが傷だらけで再生できない！　なんて将来に向けた“ディスク研磨”について，今だからこそプロに教えてもらっとく",
-      "url": "https://www.4gamer.net/games/999/G999905/20260508022/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-05-14T23:00:00",
-      "image": "https://www.4gamer.net/games/999/G999905/20260508022/SS/022.jpg"
-    },
-    {
-      "title": "『サブノーティカ2』が発売1時間でプレイヤー数「100万人」突破！Steamで“45万人の同接”も記録など大人気。Steamでは7000件以上のレビューで約89％のプレイヤーから高く評価され「非常に好評」に",
-      "url": "https://news.denfaminicogamer.jp/news/260515c",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-14T22:16:07",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_16b68b0941ed9c5ac1eea74e478fa726d425bebf.1920x1080-4.jpg"
-    },
-    {
-      "title": "『Forza Horizon 6』海外レビューでメタスコア平均「91/100」の超高評価。オープンワールドの絶妙なゲームバランスや豊かでリアルな世界観の日本マップが好評",
-      "url": "https://news.denfaminicogamer.jp/news/2605143f",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-14T14:57:21",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_ffea3efe4e67b24ceb6f9bd0919b1ebac344b61b.1920x1080-1.jpg"
-    },
-    {
-      "title": "「スタジオジブリ」社長交代を発表、新社長は日テレの依田謙一氏。日テレとジブリ、両者のリソースをかけ合わせ新たな創造につなげる構え",
-      "url": "https://news.denfaminicogamer.jp/news/2605143d",
-      "source": "電ファミニコゲーマー",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-14T12:09:10",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/Screenshot-2026-05-14-20-49-30-1.png"
-    },
-    {
-      "title": "海洋探索ゲームの新作『サブノーティカ2』早期アクセス版が配信開始。最大4人で遊べる協力プレイにも対応し、早期アクセス開始時点では4人のキャラから選択可能",
-      "url": "https://news.denfaminicogamer.jp/news/260515g",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-14T15:00:33",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_16b68b0941ed9c5ac1eea74e478fa726d425bebf.1920x1080-3.jpg"
-    },
-    {
-      "title": "『Forza Horizon 6』先行プレイで「軽トラを魔改造」してみた。“時速285km”で日本の原風景をかっ飛ばせて最高。やはり、日本には「軽トラ」が似合う",
-      "url": "https://news.denfaminicogamer.jp/kikakuthetower/2605142k",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-14T12:00:54",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/image6-8.jpg"
-    },
-    {
-      "title": "ネクソン、2026年1～3月期は過去最高の四半期業績——売上収益1,522億円、営業利益582億円",
-      "url": "https://www.gamebusiness.jp/article/2026/05/14/26931.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-14T11:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183691.jpg"
-    },
-    {
-      "title": "『バイオハザード レクイエム』全世界売上が690万本突破していた。カプコンの2026年3月度決算資料で判明",
-      "url": "https://www.gamebusiness.jp/article/2026/05/14/26924.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-14T04:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183506.jpg"
-    },
-    {
-      "title": "『メタルギア』『サイレントヒル』好調でコナミ大躍進、早川英樹氏代表就任で経営体制にも変化が【ゲーム企業の決算を読む】",
-      "url": "https://www.gamebusiness.jp/article/2026/05/14/26934.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-14T12:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183266.png"
-    },
-    {
-      "title": "日本ファルコム、『空の軌跡 the 1st』好調すぎて業績予想を上方修正。長期シリーズ1作目リメイク作が売り上げ伸ばす",
-      "url": "https://www.gamebusiness.jp/article/2026/05/14/26925.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-14T04:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183495.jpg"
-    },
-    {
-      "title": "コナミ、2026年愛知・名古屋アジア競技大会の組織委員会とパートナーシップ契約を締結",
-      "url": "https://www.gamebusiness.jp/article/2026/05/14/26932.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-05-14T11:30:04",
-      "image": "https://www.gamebusiness.jp/base/images/img_ogp.png"
-    },
-    {
-      "title": "Epic Online Servicesの実装例を学べる公式リソース「EOS-Getting-Started」、UE5.8向けにアップデート",
-      "url": "https://gamemakers.jp/article/2026_05_14_137386/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-05-14T11:28:29",
-      "image": null
-    },
-    {
-      "title": "5/22（金）より開催のインディーゲームイベント「BitSummit PUNCH」、アワード6部門のノミネート作品が発表！",
-      "url": "https://gamemakers.jp/article/2026_05_14_137331/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-05-14T08:00:26",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/0e55b21e4840ba5a94fce5f8a0da1126.jpg"
-    },
-    {
-      "title": "UE5でジオメトリ圧縮＆リアルタイムレンダリングが可能なプラグイン「ZibraGDS」、オープンベータ版が5/29まで提供中",
-      "url": "https://gamemakers.jp/article/2026_05_14_137193/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-05-14T09:44:25",
-      "image": null
-    },
-    {
-      "title": "ドリコム、資金援助やメディアミックスを含めた支援を行うインディーゲームスタジオ「DRECOM CREATORS STUDIO」を設立。規模や完成度を問わず、作品を募集中",
-      "url": "https://gamemakers.jp/article/2026_05_14_137359/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-05-14T09:10:26",
-      "image": null
-    },
-    {
-      "title": "「GDC」過去講演のアーカイブ動画・資料が無料で公開中。「GDC Vault」にて期間限定で閲覧可能",
-      "url": "https://gamemakers.jp/article/2026_05_14_137301/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-05-14T06:28:47",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/65a5a077ed2346ad626a34f88cc4a6c2.jpg"
-    },
-    {
-      "title": "「シェンムー」ファンが作ったコンビニシム「inKONBINI」プレイ感想：音声版 今週遊んだゲーム 05/13/2026",
-      "url": "https://jp.ign.com/shaberisugi-gamer/83296/inkonbini-05132026",
+      "title": "『Forza Horizon 6』レビュー 日本の再現度は満点、しかし富士山に直接行けないことは悔やまれる",
+      "url": "https://jp.ign.com/forza-horizon-6/83304/forza-horizon-6",
       "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-05-13T10:00:37",
-      "image": null
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-15T02:44:35",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/_nyek.png"
     }
   ]
 }
