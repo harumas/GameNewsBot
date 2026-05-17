@@ -1,7 +1,88 @@
 {
-  "generated_at": "2026-05-16T00:21:48.287891",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、ガンダム50周年プロジェクトやサブノーティカ2の販売本数が200万本を突破するなど、盛り沢山です！\n注目のニュースには、ネズミのクイルが登場するアドベンチャーゲーム「Moss: The Forgotten Relic」や、ゆるいSNSシム「タイムラインタウン」などが含まれています 🎮\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-05-17T00:22:45.964330",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、多くのエキサイティングな発表で溢れています。『Forza Horizon 6』のレビューから『サブノーティカ 2』の早期アクセス版の販売本数の達成まで、ゲームファンにとっては夢のようです。特に注目されるのは、『P5X』に「結城理」が登場したことです！ \nそれでは今日のニュースをどうぞ！ 🎮",
   "articles": [
+    {
+      "title": "『Forza Horizon 6』レビュー 日本の再現度は満点、しかし富士山に直接行けないことは悔やまれる",
+      "url": "https://jp.ign.com/forza-horizon-6/83304/forza-horizon-6",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-05-15T02:44:35",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/_nyek.png"
+    },
+    {
+      "title": "高コスパで人気のスピーカー「Creative Pebble V3」がAmazonにて20％オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83309/creative-pebble-v3amazon20",
+      "source": "IGN Japan",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-05-16T23:52:03",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_mga2.png"
+    },
+    {
+      "title": "『リターン・トゥ・サイレントヒル』画像ギャラリー",
+      "url": "https://jp.ign.com/return-to-silent-hill/83311/",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-16T10:15:48",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/sub1_ewjt.jpg"
+    },
+    {
+      "title": "『オーバーウォッチ』と「YOASOBI」のコラボ詳細が発表。“ハナムラ”を思わせる限定アナログ盤が海外向けに登場",
+      "url": "https://news.denfaminicogamer.jp/news/260516d",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-05-16T03:31:17",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/71PAcEq2bjL._SL1500_.jpg"
+    },
+    {
+      "title": "『超かぐや姫！』かぐやと『ホロライブ』星街すいせいさんが対談したラジオが聴き逃し配信中。“いろP”こと酒寄彩葉からのサプライズお手紙も",
+      "url": "https://news.denfaminicogamer.jp/news/260516r",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-16T14:22:45",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/HIcTflYbYAAfoej.jpeg"
+    },
+    {
+      "title": "『がんばれ！おでんくん』のカプセルトイが6月下旬に発売。体育座りのおでんくんは、お箸につかまれるシーンを再現可能",
+      "url": "https://news.denfaminicogamer.jp/news/260516q",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-16T11:36:12",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/HC7uSp5b0AAraTu.jpeg"
+    },
+    {
+      "title": "謎の異物を取り扱う「アヲダ商會」公式Xアカウントが始動。食べるだけで幸福になるチョコバー、恐怖や懸念といった違和感を消してくれるガイコツなど現実にはあり得ない商品を紹介",
+      "url": "https://news.denfaminicogamer.jp/news/260516j",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-16T11:00:26",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/39177769fe6737d22c613bc0517c0187.png"
+    },
+    {
+      "title": "『P5X』に「結城理」がついに登場！ペルソナ能力に目覚め、特別課外活動部（S.E.E.S.）の仲間たちとともに戦った『P3R』の主人公",
+      "url": "https://news.denfaminicogamer.jp/news/260516p",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-05-16T09:27:46",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/96e590af2fa70ef97f8b156e652962c1.png"
+    },
+    {
+      "title": "ウェスタロスで自分だけの物語体験を。「ゲーム・オブ・スローンズ：キングスロード」開発者メールインタビュー",
+      "url": "https://www.4gamer.net/games/857/G085740/20260515040/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-05-16T01:00:00",
+      "image": "https://www.4gamer.net/games/857/G085740/20260515040/SS/004.webp"
+    },
     {
       "title": "ネズミのクイルが滅びた王国を探索するアドベンチャーゲーム「Moss: The Forgotten Relic」，今夏に発売決定",
       "url": "https://www.4gamer.net/games/007/G100706/20260515037/",
@@ -12,85 +93,103 @@
       "image": "https://www.4gamer.net/games/007/G100706/20260515037/SS/009.jpg"
     },
     {
-      "title": "「Slay the Spire - Downfall ボードゲーム 日本語版」，クラファンをスタート。わずか2時間で支援額4000万円を突破",
-      "url": "https://www.4gamer.net/games/546/G054695/20260515065/",
+      "title": "冒険は続いている――24周年を迎えた「FFXI」の特別映像「FINAL FANTASY XI 24th Anniversary Movie」が公開。記念キャンペーンも開始",
+      "url": "https://www.4gamer.net/games/005/G000546/20260515064/",
       "source": "4Gamer.net",
-      "category": "business",
+      "category": "other",
       "importance": "high",
-      "published": "2026-05-15T13:18:25",
-      "image": "https://www.4gamer.net/games/546/G054695/20260515065/SS/001.jpg"
+      "published": "2026-05-15T12:50:04",
+      "image": "https://www.4gamer.net/games/005/G000546/20260515064/SS/002.jpg"
     },
     {
       "title": "「ガンダム50周年プロジェクト」が始動。「機動戦士ガンダム」のリマスタープロジェクトや「富野由悠季展（仮）」など注目企画が目白押し",
       "url": "https://www.4gamer.net/games/991/G999103/20260515055/",
       "source": "4Gamer.net",
-      "category": "industry",
+      "category": "other",
       "importance": "high",
       "published": "2026-05-15T11:44:43",
       "image": "https://www.4gamer.net/games/991/G999103/20260515055/SS/011.jpg"
     },
     {
-      "title": "水中アドベンチャー「サブノーティカ2」，発売から12時間で世界累計販売本数200万本を突破。同時接続人数は前作から最大9倍規模に",
-      "url": "https://www.4gamer.net/games/848/G084886/20260515050/",
+      "title": "「アズールレーン」に新規UR「ゲッツ・フォン・ベルリヒンゲン」「U-2501」が参戦。5月20日にスタートするイベントの内容が明らかに",
+      "url": "https://www.4gamer.net/games/390/G039084/20260516005/",
       "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-15T10:58:42",
-      "image": "https://www.4gamer.net/games/848/G084886/20260515050/SS/002.jpg"
-    },
-    {
-      "title": "天井90連/すり抜けなしの「NTE: Neverness to Everness」で，限定キャラをお迎えするには，実際どのくらいガチャを回せばいいのか。シンプルに計算してみた",
-      "url": "https://www.4gamer.net/games/817/G081722/20260515002/",
-      "source": "4Gamer.net",
-      "category": "other",
+      "category": "update",
       "importance": "normal",
-      "published": "2026-05-15T23:00:00",
-      "image": "https://www.4gamer.net/games/817/G081722/20260515002/SS/002.jpg"
+      "published": "2026-05-16T11:57:07",
+      "image": "https://www.4gamer.net/games/390/G039084/20260516005/SS/002.jpg"
     },
     {
-      "title": "【超人気】『サブノーティカ2』発売から12時間で売上本数“200万本”を突破！最大同接は驚異の“65万人”を記録し世界中で大ブームを巻き起こす",
-      "url": "https://news.denfaminicogamer.jp/news/2605152u",
-      "source": "電ファミニコゲーマー",
+      "title": "米国議会図書館が『DOOM』サントラを国の音響遺産の一つに登録―\"次世代のゲーム作曲家たちの基礎となった”",
+      "url": "https://www.gamebusiness.jp/article/2026/05/16/26966.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-05-16T11:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184070.jpg"
+    },
+    {
+      "title": "『サブノーティカ 2』早期アクセス版配信から12時間で世界累計販売本数200万本突破",
+      "url": "https://www.gamebusiness.jp/article/2026/05/16/26963.html",
+      "source": "GameBusiness.jp",
       "category": "release",
       "importance": "high",
-      "published": "2026-05-15T10:33:05",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/82433-386-f47fa2e54b52a5c765759e80d748d8f8-1920x1080-1.webp"
+      "published": "2026-05-16T11:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184102.jpg"
     },
     {
-      "title": "『スレスパ』のボドゲ拡張『Downfall』日本語版クラファンが“開始3分”で目標の500万円を達成。5分で1000万円、17分で2000万円を突破し、わずか約2時間ほどで4000万円超え",
-      "url": "https://news.denfaminicogamer.jp/news/2605153k",
-      "source": "電ファミニコゲーマー",
+      "title": "「機動戦士ガンダム」リマスタープロジェクトが2029年展開！さらに「ガンダムW」の新規映像制作も決定",
+      "url": "https://www.gamebusiness.jp/article/2026/05/16/26962.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-05-16T04:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183890.jpg"
+    },
+    {
+      "title": "ガンダム50周年PV「少年とガンダム」が公開！歴代作品が一堂に登場、ノスタルジーながらも勢いある記念映像",
+      "url": "https://www.gamebusiness.jp/article/2026/05/16/26961.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-05-16T04:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183964.jpg"
+    },
+    {
+      "title": "海賊オープンワールドサバクラ『ウィンドローズ』200万本突破！発売から1か月で達成―次回パッチリリース後に大型アプデ本格的に開発へ",
+      "url": "https://www.gamebusiness.jp/article/2026/05/16/26955.html",
+      "source": "GameBusiness.jp",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-16T03:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183985.png"
+    },
+    {
+      "title": "KRAFTON、「社内出生数」がなんと前年比2倍になったと発表。“1000万円超え支援金”のほか、たっぷり充実制度でスタッフも“働きつつの出産”に前向き傾向",
+      "url": "https://automaton-media.com/articles/newsjp/krafton-20260516-443382/",
+      "source": "Automaton",
       "category": "business",
       "importance": "high",
-      "published": "2026-05-15T13:53:21",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/HIAcOjjbYAA5Brn.jpeg"
+      "published": "2026-05-16T07:23:06",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/krafton-20260516-443382-header.jpg"
     },
     {
-      "title": "『ガンダム』新たな施設を作る「ランドマーク構想」が始動。世界中のファンが足を運びたくなるような“ガンダムの新しい施設”を日本に作るという計画",
-      "url": "https://news.denfaminicogamer.jp/news/2605153d",
-      "source": "電ファミニコゲーマー",
-      "category": "industry",
+      "title": "神殿登りまくりローグライクアクション『Pit Panic』発表。考古学者が万能フックで跳んだり投げたり、罠だらけ遺跡大冒険",
+      "url": "https://automaton-media.com/articles/newsjp/pit-panic-20260516-443347/",
+      "source": "Automaton",
+      "category": "release",
       "importance": "high",
-      "published": "2026-05-15T09:44:03",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/mark.png"
+      "published": "2026-05-16T02:34:42",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/pit-panic-20260516-443347-header.jpg"
     },
     {
-      "title": "『ガンダム』シリーズ50周年記念イベント「GUNDAM-Con」が2027年1月9日より幕張メッセで開催決定！",
-      "url": "https://news.denfaminicogamer.jp/news/2605152y",
-      "source": "電ファミニコゲーマー",
-      "category": "industry",
+      "title": "お絵描きかくれんぼゲーム『めっちゃカメレオン』発表。自分の体をペイントして壁と同化、“画力”で勝負する擬態かくれんぼ",
+      "url": "https://automaton-media.com/articles/newsjp/20260516-443331/",
+      "source": "Automaton",
+      "category": "release",
       "importance": "high",
-      "published": "2026-05-15T09:40:56",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/130c428673386994e3385bc6fc6f4af7.png"
-    },
-    {
-      "title": "『Forza Horizon 6』の「ホンダ シティ」にしっかり「モトコンポ」が積んであって話題に。「あまりにもわかっている」「モトコンポに乗れるDLCも出してくれ」と絶賛の声が続出",
-      "url": "https://news.denfaminicogamer.jp/news/2605153a",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-05-15T12:21:14",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/20260515183543_1.jpg"
+      "published": "2026-05-16T00:33:59",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260516-443331-header.jpg"
     },
     {
       "title": "猫娘かつお節削りクリッカー『KatsuobushiClicker』発表。ひたすらかつお節を削りなぜか“国旗当てクイズ”に挑む、知識大事クリッカー",
@@ -111,93 +210,12 @@
       "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260515-443240-header.jpg"
     },
     {
-      "title": "最大4人協力オープンワールドアクション『Farever』発売から1週間で売上10万本のスピード大台突破。サーバー安定性の問題ありつつも盛況を博す",
-      "url": "https://automaton-media.com/articles/newsjp/farever-20260515-443228/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-15T06:55:59",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/farever-20260515-443228-header.jpeg"
-    },
-    {
-      "title": "短編サイコホラー『Terrors to Unveil – Day Off』がSteamで無料配布中。期間限定",
-      "url": "https://automaton-media.com/articles/newsjp/20260515-443179/",
-      "source": "Automaton",
-      "category": "sale",
-      "importance": "high",
-      "published": "2026-05-15T04:42:49",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260515-443179-header.jpg"
-    },
-    {
-      "title": "「楽園追放 -Expelled from Paradise-」の後日譚を描くゲーム『楽園追放 -The Stellar Angel-』正式発表。ふたたび動き出す、アンジェラとディンゴの物語",
-      "url": "https://automaton-media.com/articles/newsjp/20260515-443164/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-15T03:50:43",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260515-443164-header.jpg"
-    },
-    {
-      "title": "「手抜きのクソゲーを作ることを推奨するつもりはない」―『Garry's Mod』精神的後継作『s&box』がAIサムネイルにペナルティ、レビューシステムもアップデート",
-      "url": "https://www.gamebusiness.jp/article/2026/05/15/26950.html",
-      "source": "GameBusiness.jp",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-05-15T11:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184030.jpg"
-    },
-    {
-      "title": "ホロライブ運営・カバーが決算発表ー純利益は45.7%減少『ホロアース』終了やタレント卒業に伴うグッズ売上などが影響か",
-      "url": "https://www.gamebusiness.jp/article/2026/05/15/26942.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-15T03:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183721.jpg"
-    },
-    {
-      "title": "ホロライブ運営・カバー、決算発表でタレントへの負担軽減や復帰を含めたキャリア支援・誹謗中傷対策などの事業課題に言及",
-      "url": "https://www.gamebusiness.jp/article/2026/05/15/26949.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-15T11:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184038.jpg"
-    },
-    {
-      "title": "日本一ソフトウェア、2026年3月期は売上高31.9%減・営業赤字拡大——来期は黒字転換を見込む",
-      "url": "https://www.gamebusiness.jp/article/2026/05/15/26947.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-15T11:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184056.jpg"
-    },
-    {
-      "title": "カバー、メタバース開発で培った技術・知見を既存事業に集約ー自宅簡易設備でも多様な表現を可能に",
-      "url": "https://www.gamebusiness.jp/article/2026/05/15/26948.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-05-15T11:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184049.jpg"
-    },
-    {
-      "title": "Epic Online Servicesの実装例を学べる公式リソース「EOS-Getting-Started」、UE5.8向けにアップデート",
-      "url": "https://gamemakers.jp/article/2026_05_14_137386/",
+      "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/5/16】",
+      "url": "https://gamemakers.jp/article/2026_05_16_137441/",
       "source": "ゲームメーカーズ",
       "category": "tech",
       "importance": "high",
-      "published": "2026-05-14T11:28:29",
-      "image": null
-    },
-    {
-      "title": "5/22（金）より開催のインディーゲームイベント「BitSummit PUNCH」、アワード6部門のノミネート作品が発表！",
-      "url": "https://gamemakers.jp/article/2026_05_14_137331/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-05-14T08:00:26",
+      "published": "2026-05-16T01:58:05",
       "image": null
     },
     {
@@ -207,7 +225,7 @@
       "category": "tech",
       "importance": "normal",
       "published": "2026-05-15T07:45:23",
-      "image": null
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/67b454fca9b8a9867153e4a755b682c5.jpg"
     },
     {
       "title": "登山シム『Cairn』のUnity採用事例を解説。Texture3Dを用いた描画手法や、Compute Shaderによる座標取得などをUnity公式ブログで紹介",
@@ -216,16 +234,7 @@
       "category": "tech",
       "importance": "normal",
       "published": "2026-05-15T05:51:41",
-      "image": null
-    },
-    {
-      "title": "UE5でジオメトリ圧縮＆リアルタイムレンダリングが可能なプラグイン「ZibraGDS」、オープンベータ版が5/29まで提供中",
-      "url": "https://gamemakers.jp/article/2026_05_14_137193/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-05-14T09:44:25",
-      "image": null
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/e33f952ed8aa650c8e958bdf6603a864.jpg"
     },
     {
       "title": "全国CG講師求人情報まとめ。授業内容、使用ツール、ギャランティを一挙紹介【2026年5月更新】  - スペシャルコンテンツ",
@@ -244,42 +253,6 @@
       "importance": "normal",
       "published": "2026-05-15T01:00:08",
       "image": "https://cgworld.jp/regular/assets_c/2026/05/Tipsnote-photo-2026199-thumb-800x445-83555.png"
-    },
-    {
-      "title": "リアルタイムカメラモーションキャプチャアプリ「VirtuCamera 2」リリース　Maya、Houdini、Cinema 4D、3ds Max、Blender対応 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202605-VirtuCamera2.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-05-14T21:30:16",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/VirtuCamera2-01-thumb-1920x1080-83612.jpg"
-    },
-    {
-      "title": "最終章ゲーム化で目指した原作の魅力とリッチなビジュアルの両立『僕のヒーローアカデミア All's Justice』 - 特集",
-      "url": "https://cgworld.jp/article/202605-cgw331-mhaaj.html",
-      "source": "CGWORLD",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-05-14T02:48:00",
-      "image": "https://cgworld.jp/article/assets_c/2026/04/ba7a385e43653c4421976496f40d38deac852648-thumb-1000x563-82942.jpg"
-    },
-    {
-      "title": "【6/13 リアル開催】「PULSE Powered by AMD」安田現象・Entei Ryu・Nate・Lura登壇！AMD主催イベント開催 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-2605-AMDPULSE.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-05-14T02:30:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/e4b012fe5c9cc829c9d9346aab1b118c2d09a818-thumb-960x540-83510.png"
-    },
-    {
-      "title": "『Forza Horizon 6』レビュー 日本の再現度は満点、しかし富士山に直接行けないことは悔やまれる",
-      "url": "https://jp.ign.com/forza-horizon-6/83304/forza-horizon-6",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-15T02:44:35",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/_nyek.png"
     }
   ]
 }
