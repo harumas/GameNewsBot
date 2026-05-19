@@ -1,231 +1,204 @@
 {
-  "generated_at": "2026-05-18T00:23:59.397337",
-  "poem": "おはようございます！🌞\n今日はゲーム業界でいろいろなニュースがありますね。特に注目されるのは、『テラリア』の平均プレイ時間が1人100時間以上であることや、日本が舞台の『Forza Horizon 6』がすでにSteam最大同接で17万人を突破したことです 😊\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-05-19T00:27:14.759553",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、爆発的人気を誇る『Far Far West』や、警察署運営シム『The Sworn』など、様々なジャンルのゲームが登場しました。\n特に注目されるのは、Nintendo Switch 2でTRPG/マダミス/ボドゲやりたい放題な『テーブルゲーム・ワールド CCFOLIA』の発表 💻\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "【すごい】『テラリア』PC版の平均プレイ時間は1人“100時間”以上であることが明らかに。売上本数は驚異の“7000万本”を突破、コミュニティへの15周年コメントでさらっと判明",
-      "url": "https://news.denfaminicogamer.jp/news/260518b",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-17T23:59:45",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_8c03886f214d2108cafca13845533eaa3d87d83f.1920x1080-1.jpg"
-    },
-    {
-      "title": "にじさんじ×第四境界の新ARGプロジェクト『PARALLEL CASE: 2434』発表！ ライバーの身のまわりで相次ぐ“不可解な出来事”が、四者四様の物語として展開",
-      "url": "https://news.denfaminicogamer.jp/news/260517a",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-17T11:00:22",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/image-1.png"
-    },
-    {
-      "title": "ヒロインが巨大化して東京を守るSFマンガ『GIGANT』アニメ映画化が決定。『GANTZ』『いぬやしき』を描く奥浩哉氏の人気マンガが劇場に。製作は実写版『ルックバック』を手がけるK2ピクチャーズ",
-      "url": "https://news.denfaminicogamer.jp/news/260518a",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-17T22:09:48",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/71baSedy6ML._SL1000_-1.jpg"
-    },
-    {
-      "title": "『Forza Horizon 6』で「ギャル」が作れると海外で話題に。キャラクリ機能でギャル風のファッションに身を包み自撮りするユーザー続出。エモート「アーチャー」で自撮り風写真も撮影できる",
-      "url": "https://news.denfaminicogamer.jp/news/260518d",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-05-17T23:48:26",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/20260518075202_1.jpg"
-    },
-    {
-      "title": "90年代青春アドベンチャー『Mixtape』ライセンス楽曲の期限切れによる将来的な配信停止の噂を開発陣が否定。楽曲は「永久」の条件で契約済み",
-      "url": "https://news.denfaminicogamer.jp/news/260518c",
-      "source": "電ファミニコゲーマー",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-05-17T23:43:53",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_5abf2e239e21a59fa59dd2520a166b13f358d1d2.1920x1080-1.jpg"
-    },
-    {
-      "title": "15周年を迎えた「テラリア」，累計販売本数が7000万本を突破。今後もアップデートを継続する方針であることを明らかに",
-      "url": "https://www.4gamer.net/games/508/G050853/20260517006/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-17T11:10:00",
-      "image": "https://www.4gamer.net/games/508/G050853/20260517006/SS/001.jpg"
-    },
-    {
-      "title": "［インタビュー］飯野賢治氏の“1ドット”から，新しいゲームが動き出す。「ONE-DOT GAMES」はいかにして生まれたのか",
-      "url": "https://www.4gamer.net/games/992/G099237/20260513041/",
-      "source": "4Gamer.net",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-17T08:00:00",
-      "image": "https://www.4gamer.net/games/992/G099237/20260513041/SS/010.jpg"
-    },
-    {
-      "title": "ウェスタロスで自分だけの物語体験を。「ゲーム・オブ・スローンズ：キングスロード」開発者メールインタビュー",
-      "url": "https://www.4gamer.net/games/857/G085740/20260515040/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-16T01:00:00",
-      "image": "https://www.4gamer.net/games/857/G085740/20260515040/SS/004.webp"
-    },
-    {
-      "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年5月11日〜5月17日",
-      "url": "https://www.4gamer.net/games/040/G004099/20260517005/",
-      "source": "4Gamer.net",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-05-17T22:00:00",
-      "image": "https://www.4gamer.net/games/040/G004099/20260517005/SS/039.jpg"
-    },
-    {
-      "title": "マナなしAPなしのターン制ローグライト「Deified」（ほぼ日 インディーPick Up！）",
-      "url": "https://www.4gamer.net/games/950/G095079/20260514025/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-05-17T22:00:00",
-      "image": "https://www.4gamer.net/games/950/G095079/20260514025/SS/003.jpg"
-    },
-    {
-      "title": "日本が舞台の『Forza Horizon 6』、すでにSteam最大同接が17万人を突破 正式リリース前なのに前作「5」の2倍以上を叩き出す",
-      "url": "https://jp.ign.com/forza-horizon-6/83312/forza-horizon-6steam17-52",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-17T09:03:30",
-      "image": "https://sm.ign.com/ign_jp/photo/default/forza-horizon-6-2026-05-14-13-46-10-1778767532067_fmnh.jpg"
-    },
-    {
-      "title": "キャンピングカーライフ x ライトなサバイバルクラフト 『Outbound』が生み出す独自のゆるい体験",
-      "url": "https://jp.ign.com/outbound/83306/x-outbound",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-05-17T01:03:32",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/3rdfloor_sy4p.jpg"
-    },
-    {
-      "title": "高コスパで人気のスピーカー「Creative Pebble V3」がAmazonにて20％オフでタイムセール中",
-      "url": "https://jp.ign.com/gaming-device/83309/creative-pebble-v3amazon20",
-      "source": "IGN Japan",
+      "title": "最大4人協力・西部劇PvEシューター『Far Far West』早くも売上「100万本」突破。爆発的人気で一時“サーバー障害”も起きた大群アンデッド蹴散らしゲーム",
+      "url": "https://automaton-media.com/articles/newsjp/20260518-443695/",
+      "source": "Automaton",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-05-16T23:52:03",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_mga2.png"
+      "importance": "high",
+      "published": "2026-05-18T12:00:07",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260518-443695-header.jpg"
     },
     {
-      "title": "『リターン・トゥ・サイレントヒル』画像ギャラリー",
-      "url": "https://jp.ign.com/return-to-silent-hill/83311/",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-05-16T10:15:48",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/sub1_ewjt.jpg"
-    },
-    {
-      "title": "基本プレイ無料「街」オープンワールド『NTE』の刑務所は「脱獄テーマパーク」みたいな場所。死んだふりから“ごり押しジャンプ脱獄”まで、日帰りし放題",
-      "url": "https://automaton-media.com/articles/special-column/20260517-443491/",
+      "title": "元警察官が手がける警察署運営シム『The Sworn』発表。“PTSDで退職した巡査部長”が過去と向き合うために開発する、警官のメンタル管理重要ゲーム",
+      "url": "https://automaton-media.com/articles/newsjp/20260518-443706/",
       "source": "Automaton",
       "category": "release",
       "importance": "high",
-      "published": "2026-05-17T04:01:44",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260517-443491-header.jpg"
+      "published": "2026-05-18T10:31:17",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260518-443706-header.jpg"
+    },
+    {
+      "title": "DLsite親会社による“PCゲームをスマホで遊べる”サービス「viviON GAMES」発表。サブスクではなくゲームごとに買い切り、年内展開へ",
+      "url": "https://automaton-media.com/articles/newsjp/20260518-443658/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-18T07:30:32",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260518-443658-header.jpg"
+    },
+    {
+      "title": "ナムコキャラ放り投げ融合進化ゲーム『NAMCO LEGENDARY Mountains』発表。パックマンやマッピーをくっつけまくる、“3Dスイカゲーム”風パズル",
+      "url": "https://automaton-media.com/articles/newsjp/20260518-443638/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-18T05:17:52",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260518-443638-header.jpg"
     },
     {
       "title": "Nintendo Switch 2でTRPG/マダミス/ボドゲやりたい放題な『テーブルゲーム・ワールド CCFOLIA』発表。お絵描き“擬態”かくれんぼ『めっちゃカメレオン』発表。今週の見逃せないゲーム記事7選",
       "url": "https://automaton-media.com/articles/newsjp/20260517-443515/",
       "source": "Automaton",
-      "category": "release",
+      "category": "other",
       "importance": "high",
       "published": "2026-05-17T05:23:16",
       "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260517-443515-header.jpg"
     },
     {
-      "title": "KRAFTON、「社内出生数」がなんと前年比2倍になったと発表。“1000万円超え支援金”のほか、たっぷり充実制度でスタッフも“働きつつの出産”に前向き傾向",
-      "url": "https://automaton-media.com/articles/newsjp/krafton-20260516-443382/",
-      "source": "Automaton",
+      "title": "任天堂から基本無料アプリ『ピクトニコ！』がいきなり発表。5月28日からiOS/Android向けにリリース、事前登録を受付中",
+      "url": "https://news.denfaminicogamer.jp/news/260519f",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-18T23:59:05",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/HIpAjriaoAA6vZB.jpg"
+    },
+    {
+      "title": "『ストリートファイター6』に新モード「アバターランダムマッチ」「アバターアーケード」が登場。5月28日の無料アップデートにて実装予定",
+      "url": "https://news.denfaminicogamer.jp/news/260519e",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-05-18T23:31:19",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/f39a7779348376cf0597f9d05981da3d699a537a.jpg"
+    },
+    {
+      "title": "最大4人マルチ・銃と魔法で敵を倒す協力型FPS『Far Far West』、発売2週間弱で100万本を達成。最大同接は約4万7000人、Steamレビューは「非常に好評」を獲得する盛り上がりを見せる",
+      "url": "https://news.denfaminicogamer.jp/news/260518y",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-05-18T12:00:28",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/FFW-SS-05.png"
+    },
+    {
+      "title": "Steamにて公式ストアタグがアップデート。『ヴァンサバ』系が該当する「弾幕天国」や、『パワーウォッシュシミュレーター』などの「掃除」、特定の動物を指す「狼」「カピバラ」など全17種類が追加",
+      "url": "https://news.denfaminicogamer.jp/?p=1530148",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": null,
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/store_home_share.jpg"
+    },
+    {
+      "title": "SIE、今後は自社シングルプレイヤーゲームを「PlayStation独占」にするとの海外報道。スタジオCEOが従業員に通達か",
+      "url": "https://news.denfaminicogamer.jp/news/260519b",
+      "source": "電ファミニコゲーマー",
       "category": "business",
       "importance": "high",
-      "published": "2026-05-16T07:23:06",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/krafton-20260516-443382-header.jpg"
+      "published": "2026-05-18T22:16:01",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ps-default-listing-thumb-05oct20.png"
     },
     {
-      "title": "神殿登りまくりローグライクアクション『Pit Panic』発表。考古学者が万能フックで跳んだり投げたり、罠だらけ遺跡大冒険",
-      "url": "https://automaton-media.com/articles/newsjp/pit-panic-20260516-443347/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-16T02:34:42",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/pit-panic-20260516-443347-header.jpg"
-    },
-    {
-      "title": "お絵描きかくれんぼゲーム『めっちゃカメレオン』発表。自分の体をペイントして壁と同化、“画力”で勝負する擬態かくれんぼ",
-      "url": "https://automaton-media.com/articles/newsjp/20260516-443331/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-16T00:33:59",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260516-443331-header.jpg"
-    },
-    {
-      "title": "『サブノーティカ 2』早期アクセス版配信から12時間で世界累計販売本数200万本突破",
-      "url": "https://www.gamebusiness.jp/article/2026/05/16/26963.html",
-      "source": "GameBusiness.jp",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-16T11:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184102.jpg"
-    },
-    {
-      "title": "海賊オープンワールドサバクラ『ウィンドローズ』200万本突破！発売から1か月で達成―次回パッチリリース後に大型アプデ本格的に開発へ",
-      "url": "https://www.gamebusiness.jp/article/2026/05/16/26955.html",
-      "source": "GameBusiness.jp",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-16T03:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/183985.png"
-    },
-    {
-      "title": "【2026年最新版】VTuber・Vライバー事務所カオスマップ公開！TikTok LIVEへの参入加速など最新動向をuyetが分析",
-      "url": "https://www.gamebusiness.jp/article/2026/05/17/26967.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
+      "title": "SideFX、Houdiniチュートリアル「Getting Real」動画公開　OFFF HIVE 2026イベントでのEntagmaによる公演 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202605-Houdini-GettingReal.html",
+      "source": "CGWORLD",
+      "category": "tech",
       "importance": "normal",
-      "published": "2026-05-17T02:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184066.jpg"
+      "published": "2026-05-18T23:16:29",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/Houdini_GettingReal-01-thumb-1920x1080-83773.jpg"
     },
     {
-      "title": "米国議会図書館が『DOOM』サントラを国の音響遺産の一つに登録―\"次世代のゲーム作曲家たちの基礎となった”",
-      "url": "https://www.gamebusiness.jp/article/2026/05/16/26966.html",
-      "source": "GameBusiness.jp",
+      "title": "［インタビュー］海外イベントを飛び回るアークライトに，ゲームマーケットのこれからを聞く",
+      "url": "https://www.4gamer.net/games/138/G013826/20260512044/",
+      "source": "4Gamer.net",
       "category": "industry",
-      "importance": "normal",
-      "published": "2026-05-16T11:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184070.jpg"
+      "importance": "high",
+      "published": "2026-05-18T22:00:00",
+      "image": "https://www.4gamer.net/games/138/G013826/20260512044/SS/020.jpg"
     },
     {
-      "title": "オープンワールド・ドライブADV『レゴ2K ドライブ』2026年5月19日から販売停止―2027年のサーバーシャットダウンに先駆けて",
-      "url": "https://www.gamebusiness.jp/article/2026/05/16/26965.html",
-      "source": "GameBusiness.jp",
+      "title": "「サカつく2026」，Ver.2.0アップデート情報を公開。メジャーリーグサッカー，サッカー日本代表，FCバイエルン・ミュンヘンが登場",
+      "url": "https://www.4gamer.net/games/915/G091522/20260518044/",
+      "source": "4Gamer.net",
       "category": "update",
-      "importance": "normal",
-      "published": "2026-05-16T11:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184079.jpg"
+      "importance": "high",
+      "published": "2026-05-18T11:36:58",
+      "image": "https://www.4gamer.net/games/915/G091522/20260518044/SS/001.jpg"
     },
     {
-      "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/5/16】",
-      "url": "https://gamemakers.jp/article/2026_05_16_137441/",
+      "title": "DRECOM CREATORS STUDIO，支援タイトルを発表。「TIMEMOON」「クワイエット急行909号室」「Beautiful Life Show」「散るプラネット(Chill Planet)」の4つに",
+      "url": "https://www.4gamer.net/games/882/G088266/20260518039/",
+      "source": "4Gamer.net",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-18T11:12:34",
+      "image": "https://www.4gamer.net/games/882/G088266/20260518039/TN/004.png"
+    },
+    {
+      "title": "カプコン，2025年度のゲーム販売本数が5907万本に達し，自社の過去最高記録を更新",
+      "url": "https://www.4gamer.net/games/917/G091773/20260518049/",
+      "source": "4Gamer.net",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-18T12:28:07",
+      "image": "https://www.4gamer.net/games/917/G091773/20260518049/SS/002.jpg"
+    },
+    {
+      "title": "［プレイレポ］「エルミナージュ ORIGINAL 〜闇の巫女と神々の指輪〜」がいざなう，古き良きダンジョンRPGの世界へ飛び込もう",
+      "url": "https://www.4gamer.net/games/896/G089681/20260513047/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-18T23:00:00",
+      "image": "https://www.4gamer.net/games/896/G089681/20260513047/SS/002.jpg"
+    },
+    {
+      "title": "飯野賢治が遺したもの、伝えたいもの―新作ゲームコレクション『ONE-DOT GAMES』飯野由香氏&飯田和敏氏インタビュー！『太陽のしっぽ』『アクアノートの休日』などについても訊いた",
+      "url": "https://www.gamebusiness.jp/article/2026/05/18/26970.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-05-18T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184218.jpg"
+    },
+    {
+      "title": "『テラリア』累計販売本数7,000万本突破！クロスプレイ実装も近日予定。15周年迎えてまだまだ続くアプデ",
+      "url": "https://www.gamebusiness.jp/article/2026/05/18/26971.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-18T11:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184167.jpg"
+    },
+    {
+      "title": "『ウィザードリィ』の権利ってどうなったの？【令和8年最新版】",
+      "url": "https://www.gamebusiness.jp/article/2026/05/18/26969.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-05-18T11:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184259.jpg"
+    },
+    {
+      "title": "日本のゲーム開発者をスウェーデンへ派遣、『Global Game Growth Gateway』が推薦団体を募集",
+      "url": "https://www.gamebusiness.jp/article/2026/05/18/26968.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-05-18T06:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184111.jpg"
+    },
+    {
+      "title": "DLsite親会社がスマートフォンでPCゲームを楽しめるクラウドゲーミングサービス「viviON GAMES」を発表",
+      "url": "https://gamemakers.jp/article/2026_05_18_137468/",
+      "source": "ゲームメーカーズ",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-18T07:58:14",
+      "image": null
+    },
+    {
+      "title": "Unreal Fest Bali 2025で実施された「Substrate Materials」講演をUE5.7向けに解説した日本語記事が公開",
+      "url": "https://gamemakers.jp/article/2026_05_18_137513/",
       "source": "ゲームメーカーズ",
       "category": "tech",
-      "importance": "high",
-      "published": "2026-05-16T01:58:05",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/728879dc2915754a54a7bf1475621453.jpg"
+      "importance": "normal",
+      "published": "2026-05-18T10:54:58",
+      "image": null
     },
     {
       "title": "Unityの流体シミュレーションで躍動的な炎を表現。『Ignitement』のVFX制作事例、Unity公式ブログで解説",
@@ -234,7 +207,43 @@
       "category": "tech",
       "importance": "normal",
       "published": "2026-05-17T01:58:48",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/c2d42a993fc1c6815ebf5e4f32f3336d.jpg"
+      "image": null
+    },
+    {
+      "title": "『コーヒートーク トーキョー』レビュー　「チル」の美学を体現するシリーズ最高傑作",
+      "url": "https://jp.ign.com/cofffee-talk-tokyo/83314/",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-05-18T07:32:17",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/coffee-talk-tokyo-copy-1771510083645_kfh8.jpg"
+    },
+    {
+      "title": "SteelSeriesのゲーミングマウス「Rival 3 Wireless」がAmazonにて39%オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83298/steelseriesrival-3-wirelessamazon39",
+      "source": "IGN Japan",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-05-18T05:51:44",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_exk3.jpg"
+    },
+    {
+      "title": "日本が舞台の『Forza Horizon 6』、すでにSteam最大同接が17万人を突破 正式リリース前なのに前作「5」の2倍以上を叩き出す",
+      "url": "https://jp.ign.com/forza-horizon-6/83312/forza-horizon-6steam17-52",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-17T09:03:30",
+      "image": "https://sm.ign.com/ign_jp/photo/default/forza-horizon-6-2026-05-14-13-46-10-1778767532067_fmnh.jpg"
+    },
+    {
+      "title": "キャンピングカーライフ x ライトなサバイバルクラフト 『Outbound』が生み出す独自のゆるい体験",
+      "url": "https://jp.ign.com/outbound/83306/x-outbound",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-17T01:03:32",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/3rdfloor_sy4p.jpg"
     }
   ]
 }
