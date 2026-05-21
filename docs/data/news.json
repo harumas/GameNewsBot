@@ -1,51 +1,150 @@
 {
-  "generated_at": "2026-05-20T00:27:57.909060",
-  "poem": "おはようございます！ 🌞\n今日もゲーム業界は活発です！『Forza Horizon 6』がSteamで大ヒットを記録しました。ゲームファンの皆さん、今日も楽しい1日になりそうですね！ 🎮\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-05-21T00:28:02.136176",
+  "poem": "おはようございます！ 🌞\nゲーム業界はいつものように活発です！Warhorse Studiosが「キングダムカム」シリーズ最新作とミドルアースを舞台にしたオープンワールドRPGを発表したり、スクウェア・エニックスが賞金総額10億円のゲーム開発コンテストを開催するなど、注目すべきニュースがたくさんです 💻\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "虐げられてきた動物が人類に反旗を翻すローグライクRPG『Raiders of Blackveil』大型アップデートがリリース。新たなバイオームや12種類のステージ、フクロウのような「ワンダ」などの脅威も登場",
-      "url": "https://news.denfaminicogamer.jp/news/2605192k",
-      "source": "電ファミニコゲーマー",
-      "category": "update",
+      "title": "Warhorse Studios，「キングダムカム」シリーズ最新作と，ミドルアースを舞台にしたオープンワールドRPGを発表",
+      "url": "https://www.4gamer.net/games/792/G079258/20260520051/",
+      "source": "4Gamer.net",
+      "category": "release",
       "importance": "high",
-      "published": "2026-05-19T12:00:30",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/boss_4.png"
+      "published": "2026-05-20T11:27:24",
+      "image": "https://www.4gamer.net/games/792/G079258/20260520051/SS/002.jpg"
     },
     {
-      "title": "【人気】『Forza Horizon 6』正式リリース後1日足らずでSteam最大同接「27万人」を突破！先行アクセスから10万人以上も記録を伸ばし、“非常に好評”のロケットスタートを切る",
-      "url": "https://news.denfaminicogamer.jp/news/260520b",
+      "title": "賞金総額10億円。スクウェア・エニックスが，ゲーム開発コンテスト「SQUARE ENIX GAME CONTEST 2026」を発表。2026年12月15日に応募受付を開始予定",
+      "url": "https://www.4gamer.net/games/991/G999101/20260520050/",
+      "source": "4Gamer.net",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-20T11:18:25",
+      "image": "https://www.4gamer.net/games/991/G999101/20260520050/SS/002.jpg"
+    },
+    {
+      "title": "PS情報番組「State of Play」，6月3日6：00から配信決定。「Marvel's Wolverine」の最新映像と新情報が明らかに。配信時間は60分以上を予定",
+      "url": "https://www.4gamer.net/games/594/G059409/20260520055/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-20T12:37:09",
+      "image": "https://www.4gamer.net/games/594/G059409/20260520055/SS/001.png"
+    },
+    {
+      "title": "スマホゲームのセルラン分析（2026年5月7日〜5月13日）。今週の1位は「ラストウォー：サバイバル」。1月〜3月に登場した新作の国内ランキングも",
+      "url": "https://www.4gamer.net/games/793/G079368/20260518002/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-21T00:00:00",
+      "image": "https://www.4gamer.net/games/793/G079368/20260518002/SS/002.jpg"
+    },
+    {
+      "title": "［プレイレポ］ヨッシーが図鑑の世界でフィールドワーク？　「ヨッシーとフカシギの図鑑」で，たくさんの生きものを見つけて，調べて，記録しよう",
+      "url": "https://www.4gamer.net/games/945/G094530/20260518001/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-20T23:00:00",
+      "image": "https://www.4gamer.net/games/945/G094530/20260518001/SS/022.jpg"
+    },
+    {
+      "title": "『キンカム』開発元のWarhorse Studios、『指輪物語』の「中つ国」を舞台にしたオープンワールドRPGと、『Kingdom Come』の新作を制作中と発表",
+      "url": "https://news.denfaminicogamer.jp/news/260521f",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-05-19T22:26:29",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_ffea3efe4e67b24ceb6f9bd0919b1ebac344b61b.1920x1080-3.jpg"
+      "published": "2026-05-20T22:25:45",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/HIvpR2-XEAANokl.jpg"
     },
     {
-      "title": "ホラー映画専門の「闇国際映画祭」が11月にヒューマントラストシネマ渋谷で開催。「行方不明展」や「恐怖心展」を手がけた株式会社闇が立ち上げ、長編・短編各部門の作品応募を5月27日より受付開始",
-      "url": "https://news.denfaminicogamer.jp/news/2605202u",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-05-20T00:00:18",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/YIFF_logo.jpg"
-    },
-    {
-      "title": "『グランド・セフト・オートVI』ついに「発売まであと半年」に、はやくも海外ファンがソワソワしだす。「待ちきれない」「祈っている」などの反応が寄せられた",
-      "url": "https://news.denfaminicogamer.jp/news/260520c",
+      "title": "Nintendo Switch 2対応のステアリング型コントローラー「マリオカート レーシングホイール」DX版と通常版の2製品が、ホリより6月30日に発売。パドルとフットペダルを備えた本格的なレース操作を体感可能",
+      "url": "https://news.denfaminicogamer.jp/news/260521h",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "normal",
-      "published": "2026-05-19T23:48:45",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/HIs5fcxXUAALByi-1.jpg"
+      "published": "2026-05-20T23:49:11",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/nsx-123_0d81a90431f641ec97292d2fe830f1a0.jpg"
     },
     {
-      "title": "劇場版『銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き』が6月1日よりNetflixで世界独占配信。劇場ではさらなる新規追加シーンありの『臨時増発』版が6月12日よりスタート予定",
-      "url": "https://news.denfaminicogamer.jp/news/260520a",
+      "title": "『ストリートファイター6』20年ぶりに登場の追加キャラ「イングリッド」を先行体験！“可愛いポーズ”を駆使して戦い、スーパーアーツでは“手のひらで遊ばれる”。愛嬌と貫禄を合わせ持った“新しいイングリッド”がここに",
+      "url": "https://news.denfaminicogamer.jp/kikakuthetower/260521v",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-20T23:00:13",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/Ingrid_post-frame-at-0m33s.jpg"
+    },
+    {
+      "title": "あの「ハーマンミラー」から初の“ゲーミングデスク”が発売。ゲーマー歓喜の機能を備えた“極上”のデスク、価格は約23万4300円",
+      "url": "https://news.denfaminicogamer.jp/news/260521c",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-05-19T15:21:57",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/HIlKXXRbQAAHIO3.jpg"
+      "published": "2026-05-20T22:12:55",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/HMG_2609373_Coyl_Gallery_09_2.jpg"
+    },
+    {
+      "title": "【最大4人】ドワーフ採掘FPSのローグライトスピンオフ『Deep Rock Galactic: Rogue Core』が本日5月21日早期アクセス開始。5種のクラスとランダムな強化で、協力して採掘施設の深部を目指す",
+      "url": "https://news.denfaminicogamer.jp/news/2605212y",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-20T16:00:27",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/RC_ClosedAlpha_Screenshot_08.jpg"
+    },
+    {
+      "title": "突然大ヒット中のデッキ構築ローグライク『Gambonanza』開発者、売上詳細データを公開し「成功理由はよくわからない」と困惑。鳴かず飛ばずの過去作から一転、謎ヒット",
+      "url": "https://automaton-media.com/articles/newsjp/20260520-444157/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-20T09:35:17",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260520-444157-header.jpg"
+    },
+    {
+      "title": "Steamの新たなデッキ構築ローグライトSRPG『Re:Night ― 終わらぬ夜』は“気持ちよくなりやすさ”特化ゲーム。ほどよく複雑ビルド構築、苦労なしで脳汁あふれる",
+      "url": "https://automaton-media.com/articles/newsjp/20260518-443657/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-20T11:08:46",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260518-443657-header.jpeg"
+    },
+    {
+      "title": "ゲーム業界大手Embracer Group、傘下企業を2つのグループに再編へ。『Metro』『トゥームレイダー』などを取り扱うFellowship Entertainmentの分社化方針を発表",
+      "url": "https://automaton-media.com/articles/newsjp/20260520-444149/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-20T09:15:08",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260520-444149-header.jpeg"
+    },
+    {
+      "title": "デッキ構築“PvP”ローグライト『三国志 BOND』発表、2026年夏配信へ。『三国志大戦』クリエイターが手がける、「800円買い切り型」純頭脳戦ゲーム",
+      "url": "https://automaton-media.com/articles/newsjp/20260520-444103/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-20T08:05:23",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260520-444103-header.jpg"
+    },
+    {
+      "title": "PS5向け情報番組「State of Play」6月3日放送へ。放送時間“60分以上”の長編に",
+      "url": "https://automaton-media.com/articles/newsjp/20260520-444206/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-20T12:08:30",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260520-444206-header.jpg"
+    },
+    {
+      "title": "SideFX、Houdiniチュートリアル「Everything Is a Simulation」動画公開　 OFFF HIVE 2026イベントでのPaul Esteves氏による公演 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202605-Houdini-EvrSim.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-05-20T22:11:44",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/Houdini_EvrSim-01-thumb-1920x1080-83847.jpg"
     },
     {
       "title": "Substance 3D Painterを用いたクリーチャーのテクスチャ制作チュートリアル動画公開　リアルタイムレンダリングのゲーム向け制作ノウハウ - ニュース",
@@ -57,193 +156,49 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/05/SP_CreatureTex-01-thumb-1920x1080-83809.jpg"
     },
     {
-      "title": "SideFX、Houdiniチュートリアル「Getting Real」動画公開　OFFF HIVE 2026イベントでのEntagmaによる公演 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202605-Houdini-GettingReal.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-05-18T23:16:29",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/Houdini_GettingReal-01-thumb-1920x1080-83773.jpg"
-    },
-    {
-      "title": "「ブルーアーカイブ」のプラモデル「MODEROID ダアト」が10月に発売決定。ヘイローを含まない全高が約200mm",
-      "url": "https://www.4gamer.net/games/519/G051983/20260519038/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-05-19T09:59:51",
-      "image": "https://www.4gamer.net/games/519/G051983/20260519038/SS/001.jpg"
-    },
-    {
-      "title": "ブラックジャックで勝ち進み地獄からの脱出を目指す「Black Jacket」（ほぼ日 インディーPick Up！）",
-      "url": "https://www.4gamer.net/games/950/G095079/20260517001/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-05-19T22:00:00",
-      "image": "https://www.4gamer.net/games/950/G095079/20260517001/SS/009.jpg"
-    },
-    {
-      "title": "ホロライブの大空スバルさん，YouTubeチャンネル登録者数200万人突破",
-      "url": "https://www.4gamer.net/games/760/G076029/20260519053/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-05-19T13:19:52",
-      "image": "https://www.4gamer.net/games/760/G076029/20260519053/SS/003.jpg"
-    },
-    {
-      "title": "Steam，ストアタグを大幅整理。「弾幕天国」「武侠」「侍」「カピバラ」など17個を追加。「職場閲覧注意」「ナレーション」「ドラマ」など28個を削除",
-      "url": "https://www.4gamer.net/games/038/G003821/20260519050/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-05-19T11:18:57",
-      "image": "https://www.4gamer.net/games/038/G003821/20260519050/SS/002.png"
-    },
-    {
-      "title": "龍が如くスタジオ完全新作「STRANGER THAN HEAVEN」に，「龍が如く8外伝」でモーティマー役を演じた大東駿介氏の声優出演が決定。物語中盤に登場するそうだ",
-      "url": "https://www.4gamer.net/games/865/G086590/20260519048/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-05-19T10:56:37",
-      "image": "https://www.4gamer.net/games/865/G086590/20260519048/SS/002.jpg"
-    },
-    {
-      "title": "逆立ちイライラ登山ゲーム『Handwalk』発表。なぜか両手だけを使って岩山を登る男、腕が疲れると真っ逆さまに転げ落ちる",
-      "url": "https://automaton-media.com/articles/newsjp/20260519-443872/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-19T07:07:18",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260519-443872-header.jpeg"
-    },
-    {
-      "title": "Steam警察サスペンスミステリー『喪失/秘密のA』発表。休職中の刑事と、秘密を抱える医師の緊迫ストーリー2本立て",
-      "url": "https://automaton-media.com/articles/newsjp/20260519-443841/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-19T05:03:12",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260519-443841-header.jpg"
-    },
-    {
-      "title": "Steam無料配布ゲーム『Beyond The Dark』にマルウェアが仕込まれていたとの報告。Steamチェックもすり抜ける狡猾な手口",
-      "url": "https://automaton-media.com/articles/newsjp/20260519-443800/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-05-19T04:21:22",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260519-443800-header.jpg"
-    },
-    {
-      "title": "基本プレイ無料・戦車シューター『World of Tanks: HEAT』5月26日にリリースへ。ウォーゲーミングの独自エンジンで作った完全新作、クロスプレイも対応",
-      "url": "https://automaton-media.com/articles/newsjp/woth-20260519-443988/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-05-19T15:00:34",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/woth-20260519-443988-header.jpg"
-    },
-    {
-      "title": "基本プレイ無料“ヒーロー制”MMORPG『Drakantos』第2回クローズドβテスト開催へ、5月22日から。協力ダンジョン探索からPvPバトルまで、多彩ヒーローと送る充実冒険生活",
-      "url": "https://automaton-media.com/articles/newsjp/20260519-443980/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-05-19T12:37:34",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260519-443980-header.jpeg"
-    },
-    {
-      "title": "「東京ゲームダンジョン16」以降のゲムダン開催スケジュールが発表。「大阪ゲームダンジョン2」は12/26（土）に開催決定",
-      "url": "https://gamemakers.jp/article/2026_05_19_137573/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-05-19T07:17:27",
-      "image": null
-    },
-    {
-      "title": "DLsite親会社がスマートフォンでPCゲームを楽しめるクラウドゲーミングサービス「viviON GAMES」を発表",
-      "url": "https://gamemakers.jp/article/2026_05_18_137468/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-05-18T07:58:14",
-      "image": null
-    },
-    {
-      "title": "UE5で絵コンテを作れる独自ツールや、映像制作用の無償プラグインなどを紹介。OLMデジタル主催イベント「OLM R&D祭 2024」講演資料が公開",
-      "url": "https://gamemakers.jp/article/2026_05_19_137560/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-05-19T11:28:30",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/73fd85517771844a2979df85bc9916d8.jpg"
-    },
-    {
-      "title": "【5/22（金）配信】「BitSummit PUNCH」出展タイトル情報などを発信。INDIE Live Expoによる特別番組が放送決定",
-      "url": "https://gamemakers.jp/article/2026_05_19_137557/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-05-19T05:47:58",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/809d7d0ffbf12505ae566a8febbf5c84.jpg"
-    },
-    {
-      "title": "Unreal Fest Bali 2025で実施された「Substrate Materials」講演をUE5.7向けに解説した日本語記事が公開",
-      "url": "https://gamemakers.jp/article/2026_05_18_137513/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-05-18T10:54:58",
-      "image": null
-    },
-    {
-      "title": "PCゲーをスマホブラウザで遊ぶクラウドサービスをDLsite運営の親会社が発表。買い切りで気になるゲームをすぐ楽しめる「viviON GAMES」",
-      "url": "https://www.gamebusiness.jp/article/2026/05/19/26974.html",
+      "title": "『STAR WARS ジェダイ：フォールン・オーダー』のディレクターが手がける『ダンジョンズ＆ドラゴンズ』新作ゲームの契約がハズブロによりキャンセル。発表から1年も経たず",
+      "url": "https://www.gamebusiness.jp/article/2026/05/20/26994.html",
       "source": "GameBusiness.jp",
-      "category": "industry",
+      "category": "business",
       "importance": "high",
-      "published": "2026-05-19T02:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184129.png"
+      "published": "2026-05-20T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184409.png"
     },
     {
-      "title": "7歳から世界に挑戦、Scratch日本大会…エントリー6/20まで",
-      "url": "https://www.gamebusiness.jp/article/2026/05/19/26988.html",
+      "title": "Google I/O 2026：「Gemini 3.5 Flash」と「Gemini Omni」などを発表",
+      "url": "https://www.gamebusiness.jp/article/2026/05/20/26991.html",
       "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-05-19T11:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184285.jpg"
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-05-20T10:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184433.gif"
     },
     {
-      "title": "アークシステムワークス、カスハラへの対応ポリシーを公式SNSで改めて表明―数日前には『ギルティギア』公式Xも同様のポスト投稿",
-      "url": "https://www.gamebusiness.jp/article/2026/05/19/26987.html",
+      "title": "YouTubeが会話型検索「Ask YouTube」とAI動画リミックス機能を発表",
+      "url": "https://www.gamebusiness.jp/article/2026/05/20/26990.html",
+      "source": "GameBusiness.jp",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-05-20T10:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184438.jpg"
+    },
+    {
+      "title": "「PSのシングルプレイゲームは今後PS専用になる」―SIEのCEOが社内で伝えたと著名ジャーナリストがSNS投稿、以前の報道の信憑性が増す？",
+      "url": "https://www.gamebusiness.jp/article/2026/05/19/26984.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-19T10:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184323.jpg"
+    },
+    {
+      "title": "中国ゲーム大手、独自の外部決済システムを積極展開──スパイスマート調査で15社の実態が明らかに",
+      "url": "https://www.gamebusiness.jp/article/2026/05/20/26996.html",
       "source": "GameBusiness.jp",
       "category": "business",
       "importance": "normal",
-      "published": "2026-05-19T11:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184297.png"
-    },
-    {
-      "title": "マイクロソフト、ユーザー投票により要望の優先度を可視化する新フィードバック共有システム開始。独占についてや後方互換性などの項目が並ぶ",
-      "url": "https://www.gamebusiness.jp/article/2026/05/19/26986.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-05-19T10:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184305.jpg"
-    },
-    {
-      "title": "あるSteam無料ゲームにマルウェアが仕込まれていた…「絶対に遊ばないように」と技術系YouTuber警告。すでにストアからは削除",
-      "url": "https://www.gamebusiness.jp/article/2026/05/19/26985.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-05-19T10:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184315.jpg"
+      "published": "2026-05-20T12:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184461.jpg"
     },
     {
       "title": "HD-2Dで創造される、計算された懐かしさの集積『冒険家エリオットの千年物語』プレビュー",
@@ -255,13 +210,22 @@
       "image": "https://sm.ign.com/ign_jp/screenshot/default/ogp_rk3z.jpg"
     },
     {
-      "title": "『コーヒートーク トーキョー』レビュー　「チル」の美学を体現するシリーズ最高傑作",
-      "url": "https://jp.ign.com/cofffee-talk-tokyo/83314/",
+      "title": "シリーズ最高傑作か!?『コーヒートーク トーキョー』感想トーク：今週遊んだゲーム 05/20/2026",
+      "url": "https://jp.ign.com/gamer-1/83332/05202026",
       "source": "IGN Japan",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-18T07:32:17",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/coffee-talk-tokyo-copy-1771510083645_kfh8.jpg"
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-20T11:00:34",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/kg_2v5m.jpg"
+    },
+    {
+      "title": "ビデオゲームの定義は？IGN USで10点満点の『Mixtape』を例に語りあう：#489 しゃべりすぎGAMER",
+      "url": "https://jp.ign.com/gamer-1/83326/ign-us10mixtape489-gamer",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-19T11:00:26",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/sgsg_rrqn.jpg"
     },
     {
       "title": "Aliens: Fireteam Elite 2 - First Screenshots",
@@ -282,13 +246,49 @@
       "image": "https://sm.ign.com/ign_jp/photo/default/mixtape-review-blog-a-1778070155280_ewqx.jpg"
     },
     {
-      "title": "SteelSeriesのゲーミングマウス「Rival 3 Wireless」がAmazonにて39%オフでタイムセール中",
-      "url": "https://jp.ign.com/gaming-device/83298/steelseriesrival-3-wirelessamazon39",
-      "source": "IGN Japan",
-      "category": "other",
+      "title": "「東京ゲームダンジョン16」以降のゲムダン開催スケジュールが発表。「大阪ゲームダンジョン2」は12/26（土）に開催決定",
+      "url": "https://gamemakers.jp/article/2026_05_19_137573/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-05-19T07:17:27",
+      "image": null
+    },
+    {
+      "title": "インディーゲームパブリッシャーに聞く！ Vol.06「『東映ゲームズ』は、クリエイターに“会いに行くパブリッシャー”。スパルタ教育も受けながら真摯に作品・クリエイターと向き合う」",
+      "url": "https://gamemakers.jp/article/2026_05_20_137594/",
+      "source": "ゲームメーカーズ",
+      "category": "business",
       "importance": "normal",
-      "published": "2026-05-18T05:51:44",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_exk3.jpg"
+      "published": "2026-05-20T08:00:32",
+      "image": null
+    },
+    {
+      "title": "Epic Gamesのマーケットプレイス「Fab」、6/2（火）までの期間限定で無料コンテンツを公開。廃墟の聖堂をイメージした環境アセットなど3製品",
+      "url": "https://gamemakers.jp/article/2026_05_20_137656/",
+      "source": "ゲームメーカーズ",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-05-20T06:18:42",
+      "image": null
+    },
+    {
+      "title": "北海道最大級のゲーム開発イベント「Sapporo Game Camp 2026」、10/9（金）～11（日）に開催決定",
+      "url": "https://gamemakers.jp/article/2026_05_20_137654/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-05-20T03:16:41",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/fae1270d2cb9283ede0d8a806c9be185.jpg"
+    },
+    {
+      "title": "UE5で絵コンテを作れる独自ツールや、映像制作用の無償プラグインなどを紹介。OLMデジタル主催イベント「OLM R&D祭 2024」講演資料が公開",
+      "url": "https://gamemakers.jp/article/2026_05_19_137560/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-05-19T11:28:30",
+      "image": null
     }
   ]
 }
