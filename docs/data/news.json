@@ -1,213 +1,168 @@
 {
-  "generated_at": "2026-05-25T00:26:09.256085",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、熱いニュースが続出しています。『Forza Horizon 6』の記録的なヒットや、 Unreal Engine 6 の正式発表、そして「範馬勇次郎」が『鉄拳8』に参戦することになりました 🚀\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-05-26T00:25:42.853061",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、オープンワールドやマルチプレイ、ホラー要素など様々なジャンルのニュースが勢揃いしています。特に注目されるのは、ジェイソンが『Dead by Daylight』に参戦するというニュースです！ 👻\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "『Forza Horizon 6』Steam版の最大同時接続数が30万人を突破。5月19日の発売から連日記録を更新し、前作『5』の約8万人から3倍以上となる大ヒットに",
-      "url": "https://news.denfaminicogamer.jp/news/260525d",
+      "title": "基本プレイ無料「街」オープンワールド『NTE』で「推しキャラ」と手つなぎデート。“オフの顔”のギャップを見ちゃう、背徳感",
+      "url": "https://automaton-media.com/articles/special-column/20260525-444914/",
+      "source": "Automaton",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-05-25T03:00:01",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260525-444914-header.jpg"
+    },
+    {
+      "title": "新たなマルチ対応デスゲームホラー『HANDS OVER』発表。本当に腕が千切れる“イタイワニー”風ゲームなど、残酷おもちゃで生き残る",
+      "url": "https://automaton-media.com/articles/newsjp/20260525-444952/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-25T05:16:42",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260525-444952-header.jpg"
+    },
+    {
+      "title": "クラファン「約1600億円」の宇宙MMO『Star Citizen』にて、いつ乗れるかわからない“80万円の宇宙船”が販売される。まだコンセプト段階なのにお値段規格外",
+      "url": "https://automaton-media.com/articles/newsjp/20260525-444961/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-25T05:49:58",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260525-444961-header.jpg"
+    },
+    {
+      "title": "Steamの新たなデッキ構築ローグライク『Re:Night ― 終わらぬ夜』8月12日発売へ。「三すくみ」で戦う“わかりやすくて気持ちいい”戦略RPG",
+      "url": "https://automaton-media.com/articles/newsjp/20260526-445146/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-26T00:19:56",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260526-445146-header.jpg"
+    },
+    {
+      "title": "『Dead by Daylight』に「13日の金曜日」の ジェイソンが6月17日参戦へ、PTBは5月27日より実施。神出鬼没、不意打ちステルス残忍キラー",
+      "url": "https://automaton-media.com/articles/newsjp/20260525-445111/",
+      "source": "Automaton",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-05-25T15:00:02",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260525-445111-header.jpeg"
+    },
+    {
+      "title": "【大人気】“自由すぎる”人生シミュレーション『Paralives』早期アクセス開始、Steam最高同接「7万8000人」を突破する好調のスタート。“オープンワールド”採用の人生シミュレーション期待作に絶賛の声が相次ぐ",
+      "url": "https://news.denfaminicogamer.jp/news/260526g",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-05-25T00:03:59",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_383ace7815eaa8f8f5128a58fd8ca7df911d3e14.1920x1080-1.jpg"
+      "published": "2026-05-26T00:10:47",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/videoframe_15199.png"
     },
     {
-      "title": "「Unreal Engine 6」いきなり正式発表。『ロケットリーグ』がUnreal Engine 3から移行することも明らかに、実際のゲーム画面を使用したトレーラーも公開",
-      "url": "https://news.denfaminicogamer.jp/news/260525a",
+      "title": "U-NEXT HOLDINGS、『生徒会役員共』などで知られるアニメ制作会社「GoHands」全株式を取得。完全子会社化するための株式譲渡契約を締結、制作から配信までを行う体制を構築すると報告",
+      "url": "https://news.denfaminicogamer.jp/news/2605253g",
       "source": "電ファミニコゲーマー",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-25T11:53:16",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/202605251506516a13e6fbe1d89.jpg"
+    },
+    {
+      "title": "高難易度ジャンプアクション続編『JUMP KING QUEST』正式リリース。ソウルライクな戦闘システムやマルチプレイを搭載し、日本語にも対応",
+      "url": "https://news.denfaminicogamer.jp/news/260526i",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-26T00:12:34",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_49fd21ac0aa8fa509254de04efd44359a03de142.1920x1080.jpg"
+    },
+    {
+      "title": "『サイバーパンク: エッジランナーズ2』最新情報を7月3日の「Anime Expo 2026」にて公開へ。『サイバーパンク2077』の世界を舞台としたオリジナルアニメシリーズの続編",
+      "url": "https://news.denfaminicogamer.jp/news/260526f",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-25T22:50:03",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/49adf829c425392c3334dc9a4bac8210_q90_1280x720.png"
+    },
+    {
+      "title": "『バイオハザード』×「BABYMETAL」の“カッコかわいい”コラボグッズが登場、ドミトレスク夫人が良すぎる。コラボアートを使用したグッズを中心に全5種類がラインナップ",
+      "url": "https://news.denfaminicogamer.jp/news/260526e",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-25T22:12:23",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/9885679694-1.jpg"
+    },
+    {
+      "title": "「イナズマイレブン クロス」初公開情報も発表される「イナダイ」が5月29日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+      "url": "https://www.4gamer.net/games/421/G042182/20260525051/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-05-25T23:00:00",
+      "image": "https://www.4gamer.net/games/421/G042182/20260525051/SS/002.jpg"
+    },
+    {
+      "title": "「Escape from Tarkov」，最大3人で挑むPvEマップ“Icebreaker”を追加する大型アップデートを配信",
+      "url": "https://www.4gamer.net/games/375/G037564/20260525059/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-05-25T11:37:22",
+      "image": "https://www.4gamer.net/games/375/G037564/20260525059/SS/003.jpg"
+    },
+    {
+      "title": "霧の森に，ついにジェイソンが登場。「Dead by Daylight」新チャプターを2026年6月17日にリリース。PTBは5月27日0：00に開始",
+      "url": "https://www.4gamer.net/games/333/G033338/20260525012/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-05-25T23:00:00",
+      "image": "https://www.4gamer.net/games/333/G033338/20260525012/SS/001.jpg"
+    },
+    {
+      "title": "死ぬほど練習してから本番に挑むカンフーアクション「Forestrike」（ほぼ日 インディーPick Up！）",
+      "url": "https://www.4gamer.net/games/950/G095079/20260523015/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-25T22:00:00",
+      "image": "https://www.4gamer.net/games/950/G095079/20260523015/SS/007.jpg"
+    },
+    {
+      "title": "手描きアートで表現される世界を歩き，幼い頃に飼っていたポルカとそっくりな犬を探す。犬好きの心に刺さる「Finding Polka」［BitSummit］",
+      "url": "https://www.4gamer.net/games/975/G097539/20260525062/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-05-25T12:30:42",
+      "image": "https://www.4gamer.net/games/975/G097539/20260525062/SS/006.jpg"
+    },
+    {
+      "title": "募集テーマは《プロダクト》。「CGWORLD GALLERY」作品応募受付は6/21（日）まで - ニュース",
+      "url": "https://cgworld.jp/flashnews/cgwg-v031.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-05-25T13:30:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/vol.031_gallery_banner_31_web-thumb-1000x563-84009.jpg"
+    },
+    {
+      "title": "Blenderを人間同様に操作して3Dシーンを生成するエージェント「Moonlake's 3D Agent」ベータ公開　AIがマウスとキーボードを操作し、モデリングからシーン構築、リギングまで実行 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202605-Moonlake.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-05-25T00:39:19",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/Moonlake-01-thumb-1920x1080-83987.jpg"
+    },
+    {
+      "title": "Unreal Engine 6正式発表！『ロケットリーグ』がUE6に移行へ―Epicの新型ゲームエンジンは『フォートナイト』エディターとの統合目指す",
+      "url": "https://www.gamebusiness.jp/article/2026/05/25/27035.html",
+      "source": "GameBusiness.jp",
       "category": "tech",
       "importance": "high",
-      "published": "2026-05-24T23:04:41",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/videoframe_55501.png"
-    },
-    {
-      "title": "『鉄拳8』まさかの「範馬勇次郎」参戦が決定ッ！2027年初頭に4人目の追加プレイアブルキャラとして登場 、“地上最強の生物”が『鉄拳』に殴り込み",
-      "url": "https://news.denfaminicogamer.jp/news/260525c",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-24T22:01:23",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/TEKKEN_8_-_Yujiro_Hanma_00-01-13.29.png"
-    },
-    {
-      "title": "Nintendo Switch 2、日本語専用版が「4万9980円→5万9980円」と1万円の値上げ。5月25日に始まる価格変更が迫る",
-      "url": "https://news.denfaminicogamer.jp/news/260524h",
-      "source": "電ファミニコゲーマー",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-24T08:04:34",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/switch2.jpg"
-    },
-    {
-      "title": "『ブリガンダイン アビス』の体験版がSteamにて配信開始。ストーリーモードより「グラン・ドラグニカ」と「スカーレットウィル」のそれぞれ2節までがプレイ可能",
-      "url": "https://news.denfaminicogamer.jp/news/2605253d",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-05-25T00:00:16",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/58baf063f8a5be1b1e76c504a235f62a.jpg"
-    },
-    {
-      "title": "『Mouthwashing』『Buckshot Roulette』を手がけたパブリッシャー「CRITICAL REFLEX」代表にインタビュー。尖った個性の作り方を聞いた【BitSummit PUNCH】",
-      "url": "https://gamemakers.jp/article/2026_05_25_138169/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-05-24T23:55:09",
-      "image": null
-    },
-    {
-      "title": "ゲーム業界史25年を追体験できる経営シム『ゲームショップ斜陽』試遊レポート&インタビュー【BitSummit PUNCH】",
-      "url": "https://gamemakers.jp/article/2026_05_24_138069/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-05-24T05:47:05",
-      "image": null
-    },
-    {
-      "title": "東映ゲームズ『DEBUG NEPHEMEE』試遊&インタビュー。バグに苦しむ“ネフェミー”たちをデバッグで救う、不思議で緻密なマルチタスクADV【BitSummit PUNCH】",
-      "url": "https://gamemakers.jp/article/2026_05_24_138034/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-05-24T02:57:59",
-      "image": null
-    },
-    {
-      "title": "リアルな飛行船操縦を体験できるスチームパンクADV『セラフィーヌは空を行く』プレイレポート【BitSummit PUNCH】",
-      "url": "https://gamemakers.jp/article/2026_05_23_137922/",
-      "source": "ゲームメーカーズ",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-23T08:04:57",
-      "image": null
-    },
-    {
-      "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/5/23】",
-      "url": "https://gamemakers.jp/article/2026_05_23_137733/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-05-23T00:58:27",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/105464330ce925c7027532ef6d15a226.jpg"
-    },
-    {
-      "title": "フリューの新作サバイバルホラーTPS『アノマリス』発表。マルチ対応オープンワールドARPG『Outward 2』は7月7日に早期アクセス配信へ。今週の見逃せないゲーム記事7選",
-      "url": "https://automaton-media.com/articles/newsjp/20260524-444825/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-24T05:41:05",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260524-444825-header.jpg"
-    },
-    {
-      "title": "エムツー、12年開発していたSTG『ウブスナ』の開発中止を発表。ゲームクリエイター井内ひろし氏退職に伴って",
-      "url": "https://automaton-media.com/articles/newsjp/20260524-444797/",
-      "source": "Automaton",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-23T23:52:09",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260524-444797-header.jpg"
-    },
-    {
-      "title": "『鉄拳8』に「範馬勇次郎」参戦決定。地上最強の生物がまさかの新キャラに",
-      "url": "https://automaton-media.com/articles/newsjp/20260525-444896/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-24T23:28:49",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260525-444896-002.jpg"
-    },
-    {
-      "title": "「Unreal Engine 6」ぬるっと初披露。『ロケットリーグ』の“UE3からの大幅刷新”に採用へ",
-      "url": "https://automaton-media.com/articles/newsjp/20260525-444886/",
-      "source": "Automaton",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-05-24T21:52:15",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260525-444886-header.jpg"
-    },
-    {
-      "title": "フリュー、「でもフリューだしな」に公式反応。「雰囲気が良くてもゲームとしての手触りが不安」との声に反省＆改善誓う",
-      "url": "https://automaton-media.com/articles/newsjp/furyu-20260523-444758/",
-      "source": "Automaton",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-23T10:32:19",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/furyu-20260523-444758-header.jpg"
-    },
-    {
-      "title": "「BitSummit PUNCH」閉幕。次回開催は2027年5月21日から23日まで。アワード受賞作品も発表",
-      "url": "https://www.4gamer.net/games/991/G999110/20260524031/",
-      "source": "4Gamer.net",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-05-24T09:59:06",
-      "image": "https://www.4gamer.net/games/991/G999110/20260524031/SS/002.jpg"
-    },
-    {
-      "title": "【今週のモチベ】自由度の高いスパイ・アクション「007 First Light」が発売される 2026年5月25日〜5月31日",
-      "url": "https://www.4gamer.net/games/954/G095479/20260524015/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-05-24T23:00:00",
-      "image": "https://www.4gamer.net/games/954/G095479/20260524015/SS/009.jpg"
-    },
-    {
-      "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年5月18日〜5月24日",
-      "url": "https://www.4gamer.net/games/040/G004099/20260524032/",
-      "source": "4Gamer.net",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-05-24T22:00:00",
-      "image": "https://www.4gamer.net/games/040/G004099/20260524032/SS/033.jpg"
-    },
-    {
-      "title": "Access Accepted第862回：音楽ゲームが再び過熱。海外インディーシーンに見られるジャンルの多様化",
-      "url": "https://www.4gamer.net/games/036/G003691/20260522049/",
-      "source": "4Gamer.net",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-05-24T22:00:00",
-      "image": "https://www.4gamer.net/games/036/G003691/20260522049/SS/002.jpg"
-    },
-    {
-      "title": "ダイスをビリヤードみたいに弾いて敵を倒すローグライト「ルーンダイス」（ほぼ日 インディーPick Up！）",
-      "url": "https://www.4gamer.net/games/950/G095079/20260523012/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-05-24T22:00:00",
-      "image": "https://www.4gamer.net/games/950/G095079/20260523012/SS/002.jpg"
-    },
-    {
-      "title": "『Destiny 2』開発終了発表後、『Marathon』にネガティブレビューが集中。攻撃投稿への海外ユーザーの反応は賛否",
-      "url": "https://www.gamebusiness.jp/article/2026/05/23/27026.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-23T11:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184748.jpg"
-    },
-    {
-      "title": "「どのステレオタイプでもない『コーヒートーク』らしい物語が作れた」―発売を迎えた『コーヒートーク トーキョー』開発チームにインタビュー【BitSummit PUNCH】",
-      "url": "https://www.gamebusiness.jp/article/2026/05/23/27025.html",
-      "source": "GameBusiness.jp",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-23T11:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184727.png"
-    },
-    {
-      "title": "『GTA6』の発売日はやっぱり11月19日！テイクツー決算発表で再度明言。ただし価格はまだ明かされず",
-      "url": "https://www.gamebusiness.jp/article/2026/05/23/27019.html",
-      "source": "GameBusiness.jp",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-23T02:15:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184610.jpg"
+      "published": "2026-05-25T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184811.png"
     },
     {
       "title": "新作サ終で揺れる『デトロイト』開発元に仏・労組が抗議声明。「経営陣の失策」とし痛烈批判、95名の雇用危機など深刻な実態を告発",
@@ -219,22 +174,76 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/184758.jpg"
     },
     {
-      "title": "「でもフリューだしな…」サバイバルTPS『アノマリス／ANOMALITH』への不安を開発チームが「真摯に受け止めています」と表明",
-      "url": "https://www.gamebusiness.jp/article/2026/05/23/27028.html",
+      "title": "Google、日本のアプリ・ゲーム開発者向け海外展開支援策「Google Play Accelerator Japan」募集開始―Android XR開発者支援も",
+      "url": "https://www.gamebusiness.jp/article/2026/05/25/27036.html",
       "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-23T11:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184702.jpg"
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-05-25T11:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184803.jpg"
     },
     {
-      "title": "『レッド・デッド・リデンプション2』の累計販売本数が『Wii Sports』を抜く GTA5に次いで歴代3位に",
-      "url": "https://jp.ign.com/red-dead-redemption-2/83351/2wii-sports-gta53",
-      "source": "IGN Japan",
-      "category": "business",
+      "title": "クランチロール・アニメアワード2026受賞結果一覧：アニメ・オブ・ザ・イヤーに「僕のヒーローアカデミア FINAL SEASON」が輝く",
+      "url": "https://www.gamebusiness.jp/article/2026/05/25/27034.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-05-25T11:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184849.jpg"
+    },
+    {
+      "title": "マイクロソフト、足でも遊べるスティックの3Dプリント用データ公開―Xboxコントローラ用アダプティブ サムスティック トッパー",
+      "url": "https://www.gamebusiness.jp/article/2026/05/25/27033.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-25T11:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184887.png"
+    },
+    {
+      "title": "「Unreal Engine 6」が正式発表。UE6初採用タイトルは『ロケットリーグ』",
+      "url": "https://gamemakers.jp/article/2026_05_25_138267/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
       "importance": "high",
-      "published": "2026-05-23T06:28:58",
-      "image": "https://sm.ign.com/ign_jp/news/r/red-dead-r/red-dead-redemption-2-overtakes-wii-sports-in-best-selling-g_pxnj.jpg"
+      "published": "2026-05-25T10:10:46",
+      "image": null
+    },
+    {
+      "title": "車載AIが運転手をアシスト。乗客の悩みや事件を解決に導く会話型推理ゲーム『放送開始！タクシー推理事件簿』プレイレポート【BitSummit PUNCH】",
+      "url": "https://gamemakers.jp/article/2026_05_25_138271/",
+      "source": "ゲームメーカーズ",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-25T08:05:18",
+      "image": null
+    },
+    {
+      "title": "lowiroが手掛けるPC向け新作音楽ゲーム『In Falsus』。キーボード&マウスで両手を駆使する独自のゲームシステムの開発経緯をインタビュー【BitSummit PUNCH】",
+      "url": "https://gamemakers.jp/article/2026_05_25_137832/",
+      "source": "ゲームメーカーズ",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-25T06:23:33",
+      "image": null
+    },
+    {
+      "title": "『Mouthwashing』『Buckshot Roulette』を手がけたパブリッシャー「CRITICAL REFLEX」代表にインタビュー。尖った個性の作り方を聞いた【BitSummit PUNCH】",
+      "url": "https://gamemakers.jp/article/2026_05_25_138169/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-05-24T23:55:09",
+      "image": null
+    },
+    {
+      "title": "ゲーム業界史25年を追体験できる経営シム『ゲームショップ斜陽』試遊レポート&インタビュー【BitSummit PUNCH】",
+      "url": "https://gamemakers.jp/article/2026_05_24_138069/",
+      "source": "ゲームメーカーズ",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-24T05:47:05",
+      "image": null
     }
   ]
 }
