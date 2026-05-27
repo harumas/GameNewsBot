@@ -1,204 +1,150 @@
 {
-  "generated_at": "2026-05-26T00:25:42.853061",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、オープンワールドやマルチプレイ、ホラー要素など様々なジャンルのニュースが勢揃いしています。特に注目されるのは、ジェイソンが『Dead by Daylight』に参戦するというニュースです！ 👻\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-05-27T00:27:27.676584",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、超自由オープンワールドRPG『Kenshi』の売上300万本突破や、注目のライフシム『Paralives』の初動でSteam同接「約8万人」を達成したことが話題です 💻\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "基本プレイ無料「街」オープンワールド『NTE』で「推しキャラ」と手つなぎデート。“オフの顔”のギャップを見ちゃう、背徳感",
-      "url": "https://automaton-media.com/articles/special-column/20260525-444914/",
-      "source": "Automaton",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-05-25T03:00:01",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260525-444914-header.jpg"
-    },
-    {
-      "title": "新たなマルチ対応デスゲームホラー『HANDS OVER』発表。本当に腕が千切れる“イタイワニー”風ゲームなど、残酷おもちゃで生き残る",
-      "url": "https://automaton-media.com/articles/newsjp/20260525-444952/",
+      "title": "超自由オープンワールドRPG『Kenshi』売上300万本突破。個人開発者が“たった1人で生んだ”異端作、愛され続けて大記録達成",
+      "url": "https://automaton-media.com/articles/newsjp/20260526-445193/",
       "source": "Automaton",
       "category": "release",
       "importance": "high",
-      "published": "2026-05-25T05:16:42",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260525-444952-header.jpg"
+      "published": "2026-05-26T03:50:13",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260526-445193-header.jpg"
     },
     {
-      "title": "クラファン「約1600億円」の宇宙MMO『Star Citizen』にて、いつ乗れるかわからない“80万円の宇宙船”が販売される。まだコンセプト段階なのにお値段規格外",
-      "url": "https://automaton-media.com/articles/newsjp/20260525-444961/",
+      "title": "基本プレイ無料・戦車“ヒーローシューター”『World of Tanks: HEAT』本日配信開始。「エージェント制」に生まれ変わった白熱次世代タンクバトル",
+      "url": "https://automaton-media.com/articles/newsjp/20260526-445276/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-26T09:50:17",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260526-445276-header.jpeg"
+    },
+    {
+      "title": "注目のライフシム『Paralives』、初動でSteam同接「約8万人」。“4000円超え”の早期アクセスでもロケットスタート、ただし課題も",
+      "url": "https://automaton-media.com/articles/newsjp/20260526-445267/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-26T09:35:09",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260526-445267-header.jpg"
+    },
+    {
+      "title": "NVIDIA製GPU向けドライバー、最新アプデにて「NVIDIAコントロールパネル」のサポート終了。20年の歴史に幕",
+      "url": "https://automaton-media.com/articles/newsjp/nvidia-20260527-445324/",
+      "source": "Automaton",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-05-26T23:54:48",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/nvidia-20260527-445324-header.jpg"
+    },
+    {
+      "title": "国産「吸血鬼のゲイバー」経営ゲーム『ソドミーファタール』が海外で大注目浴びる。“解釈一致”で刺さる尖りと、ニッチゆえの悩みを担当者に訊いた",
+      "url": "https://automaton-media.com/articles/newsjp/20260526-445288/",
       "source": "Automaton",
       "category": "business",
-      "importance": "high",
-      "published": "2026-05-25T05:49:58",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260525-444961-header.jpg"
-    },
-    {
-      "title": "Steamの新たなデッキ構築ローグライク『Re:Night ― 終わらぬ夜』8月12日発売へ。「三すくみ」で戦う“わかりやすくて気持ちいい”戦略RPG",
-      "url": "https://automaton-media.com/articles/newsjp/20260526-445146/",
-      "source": "Automaton",
-      "category": "release",
       "importance": "normal",
-      "published": "2026-05-26T00:19:56",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260526-445146-header.jpg"
+      "published": "2026-05-26T10:15:58",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260526-445288-header.jpg"
     },
     {
-      "title": "『Dead by Daylight』に「13日の金曜日」の ジェイソンが6月17日参戦へ、PTBは5月27日より実施。神出鬼没、不意打ちステルス残忍キラー",
-      "url": "https://automaton-media.com/articles/newsjp/20260525-445111/",
-      "source": "Automaton",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-05-25T15:00:02",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260525-445111-header.jpeg"
-    },
-    {
-      "title": "【大人気】“自由すぎる”人生シミュレーション『Paralives』早期アクセス開始、Steam最高同接「7万8000人」を突破する好調のスタート。“オープンワールド”採用の人生シミュレーション期待作に絶賛の声が相次ぐ",
-      "url": "https://news.denfaminicogamer.jp/news/260526g",
+      "title": "かわいいスライム牧場経営ゲーム『Slime Rancher』のスマホ版が発売。Steam版はレビュー13万件超で98%が好評の「圧倒的に好評」なゲーム",
+      "url": "https://news.denfaminicogamer.jp/news/2605270s",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-05-26T00:10:47",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/videoframe_15199.png"
+      "published": "2026-05-26T15:15:23",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/6.9-SR-screenshots-5.png"
     },
     {
-      "title": "U-NEXT HOLDINGS、『生徒会役員共』などで知られるアニメ制作会社「GoHands」全株式を取得。完全子会社化するための株式譲渡契約を締結、制作から配信までを行う体制を構築すると報告",
-      "url": "https://news.denfaminicogamer.jp/news/2605253g",
+      "title": "『007 ファーストライト』本日5月27日発売。『ヒットマン』開発元IO Interactiveが手がける、若き日のジェームズ・ボンドの誕生秘話を描くスパイアクションアドベンチャー",
+      "url": "https://news.denfaminicogamer.jp/news/2605272z",
       "source": "電ファミニコゲーマー",
-      "category": "business",
+      "category": "release",
       "importance": "high",
-      "published": "2026-05-25T11:53:16",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/202605251506516a13e6fbe1d89.jpg"
+      "published": "2026-05-26T15:00:57",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_828b106be4010c1b80170cad792aaa6f1417a101.1920x1080.jpg"
     },
     {
-      "title": "高難易度ジャンプアクション続編『JUMP KING QUEST』正式リリース。ソウルライクな戦闘システムやマルチプレイを搭載し、日本語にも対応",
-      "url": "https://news.denfaminicogamer.jp/news/260526i",
+      "title": "『ウィッチャー3』大型DLC「血塗られた美酒」の発売10周年を記念した特別番組が日本時間5月29日午前0時に配信決定。開発陣とともに美しきトゥサンの地を振り返る",
+      "url": "https://news.denfaminicogamer.jp/news/260527e",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "normal",
-      "published": "2026-05-26T00:12:34",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_49fd21ac0aa8fa509254de04efd44359a03de142.1920x1080.jpg"
+      "published": "2026-05-26T23:54:37",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/HJQP3wIXwAAXtbx.jpg"
     },
     {
-      "title": "『サイバーパンク: エッジランナーズ2』最新情報を7月3日の「Anime Expo 2026」にて公開へ。『サイバーパンク2077』の世界を舞台としたオリジナルアニメシリーズの続編",
-      "url": "https://news.denfaminicogamer.jp/news/260526f",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-05-25T22:50:03",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/49adf829c425392c3334dc9a4bac8210_q90_1280x720.png"
-    },
-    {
-      "title": "『バイオハザード』×「BABYMETAL」の“カッコかわいい”コラボグッズが登場、ドミトレスク夫人が良すぎる。コラボアートを使用したグッズを中心に全5種類がラインナップ",
-      "url": "https://news.denfaminicogamer.jp/news/260526e",
+      "title": "『アーマード・コア Ⅵ』チャティ・スティックの「サーカス」が30MMでプラモ化、11月発売予定。原作どおり、バズーカ・グレネード・ミサイルを携えた高機動火力構成で登場",
+      "url": "https://news.denfaminicogamer.jp/news/2605263m",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-05-25T22:12:23",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/9885679694-1.jpg"
+      "published": "2026-05-26T12:24:59",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/HJPVN-8b0AErmvf.jpg"
     },
     {
-      "title": "「イナズマイレブン クロス」初公開情報も発表される「イナダイ」が5月29日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
-      "url": "https://www.4gamer.net/games/421/G042182/20260525051/",
-      "source": "4Gamer.net",
+      "title": "“バーチャル広島駅”が新しくなって『VRChat』に登場、明日5月27日より。JR西日本グループが展開していたバーチャル広島駅が「2.u」としてリニューアル、選出作品が実際の広島駅に掲出されるコンテストも開催",
+      "url": "https://news.denfaminicogamer.jp/news/2605263h",
+      "source": "電ファミニコゲーマー",
       "category": "other",
-      "importance": "high",
-      "published": "2026-05-25T23:00:00",
-      "image": "https://www.4gamer.net/games/421/G042182/20260525051/SS/002.jpg"
-    },
-    {
-      "title": "「Escape from Tarkov」，最大3人で挑むPvEマップ“Icebreaker”を追加する大型アップデートを配信",
-      "url": "https://www.4gamer.net/games/375/G037564/20260525059/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-05-25T11:37:22",
-      "image": "https://www.4gamer.net/games/375/G037564/20260525059/SS/003.jpg"
-    },
-    {
-      "title": "霧の森に，ついにジェイソンが登場。「Dead by Daylight」新チャプターを2026年6月17日にリリース。PTBは5月27日0：00に開始",
-      "url": "https://www.4gamer.net/games/333/G033338/20260525012/",
-      "source": "4Gamer.net",
-      "category": "update",
       "importance": "normal",
-      "published": "2026-05-25T23:00:00",
-      "image": "https://www.4gamer.net/games/333/G033338/20260525012/SS/001.jpg"
+      "published": "2026-05-26T12:06:48",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/I-002.jpg"
     },
     {
-      "title": "死ぬほど練習してから本番に挑むカンフーアクション「Forestrike」（ほぼ日 インディーPick Up！）",
-      "url": "https://www.4gamer.net/games/950/G095079/20260523015/",
-      "source": "4Gamer.net",
+      "title": "シリーズ初のオープンフィールドで描く妖怪蠢く世界『仁王3』（1） - 特集",
+      "url": "https://cgworld.jp/article/202605-cgw333-nioh3-a.html",
+      "source": "CGWORLD",
       "category": "release",
-      "importance": "normal",
-      "published": "2026-05-25T22:00:00",
-      "image": "https://www.4gamer.net/games/950/G095079/20260523015/SS/007.jpg"
+      "importance": "high",
+      "published": "2026-05-26T07:46:00",
+      "image": "https://cgworld.jp/article/assets_c/2026/05/d9210fe853b165217f5760b784bda13f69dd4f0c-thumb-1000x563-83029.jpg"
     },
     {
-      "title": "手描きアートで表現される世界を歩き，幼い頃に飼っていたポルカとそっくりな犬を探す。犬好きの心に刺さる「Finding Polka」［BitSummit］",
-      "url": "https://www.4gamer.net/games/975/G097539/20260525062/",
-      "source": "4Gamer.net",
-      "category": "release",
+      "title": "「Unity AI」オープンベータ開始　エディターに統合されたAIアシスタント、AIモデルをUnityに接続するAIゲートウェイ、MCPサーバから構成 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202605-UnityAI.html",
+      "source": "CGWORLD",
+      "category": "tech",
       "importance": "normal",
-      "published": "2026-05-25T12:30:42",
-      "image": "https://www.4gamer.net/games/975/G097539/20260525062/SS/006.jpg"
+      "published": "2026-05-26T23:11:49",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/UnityAI-01-thumb-1920x1080-84039.jpg"
+    },
+    {
+      "title": "『オッドタクシー』『ホウセンカ』の監督が紐解くストーリーテリングの極意とは。「物語を伝える映像演出の技術」講座が6/30にオンライン開催 - ニュース",
+      "url": "https://cgworld.jp/flashnews/0630-plusone-kinoshita.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-05-26T02:12:15",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/07212dfd968fe1e77ce85a47d59d3de5804ced81-thumb-1920x1080-84027.jpg"
+    },
+    {
+      "title": "hakoniwa氏、After Effectsプラグイン「MangaTone」リリース　動画や画像を簡単にアウトライン＋マンガトーン化、1,500円 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202605-AE-MangaTone.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-05-26T02:04:38",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/MangaTone-01-thumb-1920x1005-84012.jpg"
     },
     {
       "title": "募集テーマは《プロダクト》。「CGWORLD GALLERY」作品応募受付は6/21（日）まで - ニュース",
       "url": "https://cgworld.jp/flashnews/cgwg-v031.html",
       "source": "CGWORLD",
-      "category": "industry",
+      "category": "cg",
       "importance": "normal",
       "published": "2026-05-25T13:30:00",
       "image": "https://cgworld.jp/flashnews/assets_c/2026/05/vol.031_gallery_banner_31_web-thumb-1000x563-84009.jpg"
     },
     {
-      "title": "Blenderを人間同様に操作して3Dシーンを生成するエージェント「Moonlake's 3D Agent」ベータ公開　AIがマウスとキーボードを操作し、モデリングからシーン構築、リギングまで実行 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202605-Moonlake.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-05-25T00:39:19",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/Moonlake-01-thumb-1920x1080-83987.jpg"
-    },
-    {
-      "title": "Unreal Engine 6正式発表！『ロケットリーグ』がUE6に移行へ―Epicの新型ゲームエンジンは『フォートナイト』エディターとの統合目指す",
-      "url": "https://www.gamebusiness.jp/article/2026/05/25/27035.html",
-      "source": "GameBusiness.jp",
+      "title": "月面環境をデジタルツインで再現したソフトウェア「REAL MOON Studio」発表。ROSやMATLABなどと連携し、探査計画・シミュレーションなどに活用可能",
+      "url": "https://gamemakers.jp/article/2026_05_26_138348/",
+      "source": "ゲームメーカーズ",
       "category": "tech",
       "importance": "high",
-      "published": "2026-05-25T11:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184811.png"
-    },
-    {
-      "title": "新作サ終で揺れる『デトロイト』開発元に仏・労組が抗議声明。「経営陣の失策」とし痛烈批判、95名の雇用危機など深刻な実態を告発",
-      "url": "https://www.gamebusiness.jp/article/2026/05/24/27029.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-24T02:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184758.jpg"
-    },
-    {
-      "title": "Google、日本のアプリ・ゲーム開発者向け海外展開支援策「Google Play Accelerator Japan」募集開始―Android XR開発者支援も",
-      "url": "https://www.gamebusiness.jp/article/2026/05/25/27036.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-05-25T11:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184803.jpg"
-    },
-    {
-      "title": "クランチロール・アニメアワード2026受賞結果一覧：アニメ・オブ・ザ・イヤーに「僕のヒーローアカデミア FINAL SEASON」が輝く",
-      "url": "https://www.gamebusiness.jp/article/2026/05/25/27034.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-05-25T11:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184849.jpg"
-    },
-    {
-      "title": "マイクロソフト、足でも遊べるスティックの3Dプリント用データ公開―Xboxコントローラ用アダプティブ サムスティック トッパー",
-      "url": "https://www.gamebusiness.jp/article/2026/05/25/27033.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-05-25T11:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184887.png"
+      "published": "2026-05-26T09:50:02",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/538b92758965a505ab083a3956c6934b.jpg"
     },
     {
       "title": "「Unreal Engine 6」が正式発表。UE6初採用タイトルは『ロケットリーグ』",
@@ -225,25 +171,142 @@
       "category": "release",
       "importance": "high",
       "published": "2026-05-25T06:23:33",
-      "image": null
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/cf211bd02ee8c37bc4f078fb61597576.jpg"
     },
     {
-      "title": "『Mouthwashing』『Buckshot Roulette』を手がけたパブリッシャー「CRITICAL REFLEX」代表にインタビュー。尖った個性の作り方を聞いた【BitSummit PUNCH】",
-      "url": "https://gamemakers.jp/article/2026_05_25_138169/",
+      "title": "Googleのアクセラレータープログラム「Google Play Accelerator Japan」、参加者を募集中。日本のAndroidアプリ開発者のさらなる成長・海外展開を支援",
+      "url": "https://gamemakers.jp/article/2026_05_27_138356/",
       "source": "ゲームメーカーズ",
-      "category": "other",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-05-26T23:00:08",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/3db58dbf27e2794624f55da5665cc364.jpg"
+    },
+    {
+      "title": "「ラグナロクオンライン３」，アップデートプレビューを5月26日に公開へ。公式YouTubeチャンネルのフォローを促す",
+      "url": "https://www.4gamer.net/games/983/G098371/20260526045/",
+      "source": "4Gamer.net",
+      "category": "update",
       "importance": "high",
-      "published": "2026-05-24T23:55:09",
-      "image": null
+      "published": "2026-05-26T11:00:28",
+      "image": "https://www.4gamer.net/games/983/G098371/20260526045/SS/002.jpg"
     },
     {
-      "title": "ゲーム業界史25年を追体験できる経営シム『ゲームショップ斜陽』試遊レポート&インタビュー【BitSummit PUNCH】",
-      "url": "https://gamemakers.jp/article/2026_05_24_138069/",
-      "source": "ゲームメーカーズ",
+      "title": "“読書型”ファンタジーADV「ヴェリタステイルズ：暗黒城の魔女」，7月9日にSteamで発売決定",
+      "url": "https://www.4gamer.net/games/002/G100258/20260526039/",
+      "source": "4Gamer.net",
       "category": "release",
       "importance": "high",
-      "published": "2026-05-24T05:47:05",
-      "image": null
+      "published": "2026-05-26T16:08:57",
+      "image": "https://www.4gamer.net/games/002/G100258/20260526039/SS/001.jpg"
+    },
+    {
+      "title": "命がけで戦う少女たちの物語を描くストーリー重視のシューティング「ULTRA0」，6月2日に発売決定",
+      "url": "https://www.4gamer.net/games/010/G101013/20260526046/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-26T11:16:20",
+      "image": "https://www.4gamer.net/games/010/G101013/20260526046/SS/002.jpg"
+    },
+    {
+      "title": "本日は「ドラゴンクエストの日」。ファミコン版からHD-2D版まで，“6つのDQI”をプレイして，シリーズ40年での進化や変化を確認してみた",
+      "url": "https://www.4gamer.net/games/810/G081099/20260519042/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-26T22:00:00",
+      "image": "https://www.4gamer.net/games/810/G081099/20260519042/SS/001.jpg"
+    },
+    {
+      "title": "コナミの激渋ボードゲーム！　機密文書を盗み出すため，騙し騙され，決闘する「ザ スパイ」　昭和・平成レトロボードゲーム大百科 第15回",
+      "url": "https://www.4gamer.net/games/893/G089329/20260522029/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-26T22:00:00",
+      "image": "https://www.4gamer.net/games/893/G089329/20260522029/SS/001.jpg"
+    },
+    {
+      "title": "『Roblox』徹底解剖！子どもが熱狂するカオスな文化に迫る：#490 しゃべりすぎGAMER",
+      "url": "https://jp.ign.com/gamer-1/83360/roblox490-gamer",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-26T14:00:36",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/sg0526_bsau.jpg"
+    },
+    {
+      "title": "BitSummit PUNCH、来場者を昨年から1万人以上増やし盛況",
+      "url": "https://jp.ign.com/bitsummit-2026/83358/bitsummit-punch1",
+      "source": "IGN Japan",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-05-26T06:36:37",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/img-05_cqss.jpg"
+    },
+    {
+      "title": "体験版としてのベストを感じた一品 お料理ホラー『Cucina Stellata』で狂気の片鱗を味わう【BitSummit PUNCH】",
+      "url": "https://jp.ign.com/bitsummit-2026/83356/cucina-stellatabitsummit-punch",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-26T03:50:35",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/00-stellata_w1fw.jpg"
+    },
+    {
+      "title": "Ankerのオープンイヤー型ワイヤレスイヤホン「Soundcore C40i」がAmazonにて25％オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83354/ankersoundcore-c40iamazon25",
+      "source": "IGN Japan",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-05-26T03:30:44",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_cdeg.png"
+    },
+    {
+      "title": "AYANEO傘下のKONKR、世界初のAIゲーミングハンドヘルド「Pocket BLOCK」を発表",
+      "url": "https://www.gamebusiness.jp/article/2026/05/26/27043.html",
+      "source": "GameBusiness.jp",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-05-26T11:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184949.jpg"
+    },
+    {
+      "title": "バンダイナムコ売上・利益過去最高を更新、ガンダムのIP売上が7割近く増加【ゲーム企業の決算を読む】",
+      "url": "https://www.gamebusiness.jp/article/2026/05/26/27040.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-26T09:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184906.jpg"
+    },
+    {
+      "title": "在庫の評価方法の見直しを実施したANYCOLORの今期見通しは？―6月に決算を発表するゲーム関連企業一覧【決算発表スケジュール】",
+      "url": "https://www.gamebusiness.jp/article/2026/05/26/27037.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-26T02:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184900.jpg"
+    },
+    {
+      "title": "Unreal Engine 6正式発表！『ロケットリーグ』がUE6に移行へ―Epicの新型ゲームエンジンは『フォートナイト』エディターとの統合目指す",
+      "url": "https://www.gamebusiness.jp/article/2026/05/25/27035.html",
+      "source": "GameBusiness.jp",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-05-25T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184811.png"
+    },
+    {
+      "title": "東京の街がまるごと『ポケモンGO』になる4日間。10周年記念「GO Fest 2026：東京」開催決定！“ピカチュウ”によるダンスステージも楽しめる",
+      "url": "https://www.gamebusiness.jp/article/2026/05/26/27042.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-05-26T10:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184968.png"
     }
   ]
 }
