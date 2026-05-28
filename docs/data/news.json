@@ -1,267 +1,96 @@
 {
-  "generated_at": "2026-05-27T00:27:27.676584",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、超自由オープンワールドRPG『Kenshi』の売上300万本突破や、注目のライフシム『Paralives』の初動でSteam同接「約8万人」を達成したことが話題です 💻\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-05-28T00:28:34.736436",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、ドラゴンクエストシリーズの新作発表や大型アップデートなど、さまざまなエキサイティングなニュースが盛りだくさんです！ \nドラゴンクエスト12の新サブタイトル「夢の彼方へ」は特に注目です 😊\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "超自由オープンワールドRPG『Kenshi』売上300万本突破。個人開発者が“たった1人で生んだ”異端作、愛され続けて大記録達成",
-      "url": "https://automaton-media.com/articles/newsjp/20260526-445193/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-26T03:50:13",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260526-445193-header.jpg"
-    },
-    {
-      "title": "基本プレイ無料・戦車“ヒーローシューター”『World of Tanks: HEAT』本日配信開始。「エージェント制」に生まれ変わった白熱次世代タンクバトル",
-      "url": "https://automaton-media.com/articles/newsjp/20260526-445276/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-26T09:50:17",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260526-445276-header.jpeg"
-    },
-    {
-      "title": "注目のライフシム『Paralives』、初動でSteam同接「約8万人」。“4000円超え”の早期アクセスでもロケットスタート、ただし課題も",
-      "url": "https://automaton-media.com/articles/newsjp/20260526-445267/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-26T09:35:09",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260526-445267-header.jpg"
-    },
-    {
-      "title": "NVIDIA製GPU向けドライバー、最新アプデにて「NVIDIAコントロールパネル」のサポート終了。20年の歴史に幕",
-      "url": "https://automaton-media.com/articles/newsjp/nvidia-20260527-445324/",
-      "source": "Automaton",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-05-26T23:54:48",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/nvidia-20260527-445324-header.jpg"
-    },
-    {
-      "title": "国産「吸血鬼のゲイバー」経営ゲーム『ソドミーファタール』が海外で大注目浴びる。“解釈一致”で刺さる尖りと、ニッチゆえの悩みを担当者に訊いた",
-      "url": "https://automaton-media.com/articles/newsjp/20260526-445288/",
-      "source": "Automaton",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-05-26T10:15:58",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260526-445288-header.jpg"
-    },
-    {
-      "title": "かわいいスライム牧場経営ゲーム『Slime Rancher』のスマホ版が発売。Steam版はレビュー13万件超で98%が好評の「圧倒的に好評」なゲーム",
-      "url": "https://news.denfaminicogamer.jp/news/2605270s",
+      "title": "『ノーマンズスカイ』“惑星規模のレーザー砲”を備えた巨大ボス登場！3つの派閥にわかれて挑む「宇宙戦闘」大型アプデが発表。もっとも勝利に貢献したチームが宇宙で永遠に称えられる",
+      "url": "https://news.denfaminicogamer.jp/news/260528d",
       "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-26T15:15:23",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/6.9-SR-screenshots-5.png"
-    },
-    {
-      "title": "『007 ファーストライト』本日5月27日発売。『ヒットマン』開発元IO Interactiveが手がける、若き日のジェームズ・ボンドの誕生秘話を描くスパイアクションアドベンチャー",
-      "url": "https://news.denfaminicogamer.jp/news/2605272z",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-26T15:00:57",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_828b106be4010c1b80170cad792aaa6f1417a101.1920x1080.jpg"
-    },
-    {
-      "title": "『ウィッチャー3』大型DLC「血塗られた美酒」の発売10周年を記念した特別番組が日本時間5月29日午前0時に配信決定。開発陣とともに美しきトゥサンの地を振り返る",
-      "url": "https://news.denfaminicogamer.jp/news/260527e",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-05-26T23:54:37",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/HJQP3wIXwAAXtbx.jpg"
-    },
-    {
-      "title": "『アーマード・コア Ⅵ』チャティ・スティックの「サーカス」が30MMでプラモ化、11月発売予定。原作どおり、バズーカ・グレネード・ミサイルを携えた高機動火力構成で登場",
-      "url": "https://news.denfaminicogamer.jp/news/2605263m",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-05-26T12:24:59",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/HJPVN-8b0AErmvf.jpg"
-    },
-    {
-      "title": "“バーチャル広島駅”が新しくなって『VRChat』に登場、明日5月27日より。JR西日本グループが展開していたバーチャル広島駅が「2.u」としてリニューアル、選出作品が実際の広島駅に掲出されるコンテストも開催",
-      "url": "https://news.denfaminicogamer.jp/news/2605263h",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-05-26T12:06:48",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/I-002.jpg"
-    },
-    {
-      "title": "シリーズ初のオープンフィールドで描く妖怪蠢く世界『仁王3』（1） - 特集",
-      "url": "https://cgworld.jp/article/202605-cgw333-nioh3-a.html",
-      "source": "CGWORLD",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-26T07:46:00",
-      "image": "https://cgworld.jp/article/assets_c/2026/05/d9210fe853b165217f5760b784bda13f69dd4f0c-thumb-1000x563-83029.jpg"
-    },
-    {
-      "title": "「Unity AI」オープンベータ開始　エディターに統合されたAIアシスタント、AIモデルをUnityに接続するAIゲートウェイ、MCPサーバから構成 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202605-UnityAI.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-05-26T23:11:49",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/UnityAI-01-thumb-1920x1080-84039.jpg"
-    },
-    {
-      "title": "『オッドタクシー』『ホウセンカ』の監督が紐解くストーリーテリングの極意とは。「物語を伝える映像演出の技術」講座が6/30にオンライン開催 - ニュース",
-      "url": "https://cgworld.jp/flashnews/0630-plusone-kinoshita.html",
-      "source": "CGWORLD",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-05-26T02:12:15",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/07212dfd968fe1e77ce85a47d59d3de5804ced81-thumb-1920x1080-84027.jpg"
-    },
-    {
-      "title": "hakoniwa氏、After Effectsプラグイン「MangaTone」リリース　動画や画像を簡単にアウトライン＋マンガトーン化、1,500円 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202605-AE-MangaTone.html",
-      "source": "CGWORLD",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-05-26T02:04:38",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/MangaTone-01-thumb-1920x1005-84012.jpg"
-    },
-    {
-      "title": "募集テーマは《プロダクト》。「CGWORLD GALLERY」作品応募受付は6/21（日）まで - ニュース",
-      "url": "https://cgworld.jp/flashnews/cgwg-v031.html",
-      "source": "CGWORLD",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-05-25T13:30:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/vol.031_gallery_banner_31_web-thumb-1000x563-84009.jpg"
-    },
-    {
-      "title": "月面環境をデジタルツインで再現したソフトウェア「REAL MOON Studio」発表。ROSやMATLABなどと連携し、探査計画・シミュレーションなどに活用可能",
-      "url": "https://gamemakers.jp/article/2026_05_26_138348/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-05-26T09:50:02",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/538b92758965a505ab083a3956c6934b.jpg"
-    },
-    {
-      "title": "「Unreal Engine 6」が正式発表。UE6初採用タイトルは『ロケットリーグ』",
-      "url": "https://gamemakers.jp/article/2026_05_25_138267/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-05-25T10:10:46",
-      "image": null
-    },
-    {
-      "title": "車載AIが運転手をアシスト。乗客の悩みや事件を解決に導く会話型推理ゲーム『放送開始！タクシー推理事件簿』プレイレポート【BitSummit PUNCH】",
-      "url": "https://gamemakers.jp/article/2026_05_25_138271/",
-      "source": "ゲームメーカーズ",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-25T08:05:18",
-      "image": null
-    },
-    {
-      "title": "lowiroが手掛けるPC向け新作音楽ゲーム『In Falsus』。キーボード&マウスで両手を駆使する独自のゲームシステムの開発経緯をインタビュー【BitSummit PUNCH】",
-      "url": "https://gamemakers.jp/article/2026_05_25_137832/",
-      "source": "ゲームメーカーズ",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-25T06:23:33",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/cf211bd02ee8c37bc4f078fb61597576.jpg"
-    },
-    {
-      "title": "Googleのアクセラレータープログラム「Google Play Accelerator Japan」、参加者を募集中。日本のAndroidアプリ開発者のさらなる成長・海外展開を支援",
-      "url": "https://gamemakers.jp/article/2026_05_27_138356/",
-      "source": "ゲームメーカーズ",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-05-26T23:00:08",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/3db58dbf27e2794624f55da5665cc364.jpg"
-    },
-    {
-      "title": "「ラグナロクオンライン３」，アップデートプレビューを5月26日に公開へ。公式YouTubeチャンネルのフォローを促す",
-      "url": "https://www.4gamer.net/games/983/G098371/20260526045/",
-      "source": "4Gamer.net",
       "category": "update",
       "importance": "high",
-      "published": "2026-05-26T11:00:28",
-      "image": "https://www.4gamer.net/games/983/G098371/20260526045/SS/002.jpg"
+      "published": "2026-05-27T22:10:04",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/7410247e05ede39700f7bdf9b04c01aa.jpg"
     },
     {
-      "title": "“読書型”ファンタジーADV「ヴェリタステイルズ：暗黒城の魔女」，7月9日にSteamで発売決定",
-      "url": "https://www.4gamer.net/games/002/G100258/20260526039/",
+      "title": "【ドラクエ12】新作『ドラゴンクエストXII 夢の彼方へ』発表！！開発体制が変更された新たにリスタート。『ドラゴンクエストXII 選ばれし運命の炎』からサブタイトルを変更",
+      "url": "https://news.denfaminicogamer.jp/news/2605273q",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-27T13:18:09",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/WS000334.jpg"
+    },
+    {
+      "title": "『ドラクエ』40周年記念「ドラゴンクエストからのお知らせ」まとめ。『ドラクエ12 夢の彼方へ』『ドラゴンクエストモンスターズ 4 枯れ木の国のビアンカ・フローラ』発表！",
+      "url": "https://news.denfaminicogamer.jp/news/2605274h",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-05-27T12:43:17",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/74d0e99783a84fde7321e7b1e12f831a.webp"
+    },
+    {
+      "title": "『ドラクエ11 S』Nintendo Switch 2版が9月24日に発売決定。画質優先モードとパフォーマンス優先モードを選択可能に",
+      "url": "https://news.denfaminicogamer.jp/news/2605274e",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-27T12:30:48",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/7d59c3110f03eda09896557e6790b29402e1df314998e34fa8eee5fe3c140cd1.png"
+    },
+    {
+      "title": "『ドラクエモンスターズ4』ビアンカとフローラが「かわいすぎる」と話題に。『ドラクエ5』の幼少期よりもすこし大人びて見えると評判。またデボラ登場を熱望する声も",
+      "url": "https://news.denfaminicogamer.jp/news/260528i",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-28T00:12:43",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/59a6e3d0f7fb64729b9390de38811e75.jpg"
+    },
+    {
+      "title": "体験をグッズにして持ち帰れる！　ブラザーのアミューズメント施設「BROTHER JOYFACTORY TOKYO」発表・内覧会レポート",
+      "url": "https://www.4gamer.net/games/991/G999111/20260527045/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-05-27T23:00:00",
+      "image": "https://www.4gamer.net/games/991/G999111/20260527045/SS/001.jpg"
+    },
+    {
+      "title": "「ドラゴンクエストXII」の最新映像公開。開発は体制を変更してリスタートし，サブタイトルも「夢の彼方へ」に",
+      "url": "https://www.4gamer.net/games/572/G057248/20260527058/",
       "source": "4Gamer.net",
       "category": "release",
       "importance": "high",
-      "published": "2026-05-26T16:08:57",
-      "image": "https://www.4gamer.net/games/002/G100258/20260526039/SS/001.jpg"
+      "published": "2026-05-27T13:40:00",
+      "image": "https://www.4gamer.net/games/572/G057248/20260527058/SS/004.jpg"
     },
     {
-      "title": "命がけで戦う少女たちの物語を描くストーリー重視のシューティング「ULTRA0」，6月2日に発売決定",
-      "url": "https://www.4gamer.net/games/010/G101013/20260526046/",
+      "title": "「ドラゴンクエストモンスターズ4　枯れ木の国のビアンカ・フローラ」発表。主人公は子ども時代のビアンカとフローラ？",
+      "url": "https://www.4gamer.net/games/010/G101055/20260527061/",
       "source": "4Gamer.net",
       "category": "release",
       "importance": "high",
-      "published": "2026-05-26T11:16:20",
-      "image": "https://www.4gamer.net/games/010/G101013/20260526046/SS/002.jpg"
+      "published": "2026-05-27T13:24:46",
+      "image": "https://www.4gamer.net/games/010/G101055/20260527061/SS/001.jpg"
     },
     {
-      "title": "本日は「ドラゴンクエストの日」。ファミコン版からHD-2D版まで，“6つのDQI”をプレイして，シリーズ40年での進化や変化を確認してみた",
-      "url": "https://www.4gamer.net/games/810/G081099/20260519042/",
+      "title": "「ドラゴンクエストXI　過ぎ去りし時を求めて S」のSwitch2版が9月24日に発売決定。オンラインストアの予約受付もスタート",
+      "url": "https://www.4gamer.net/games/010/G101054/20260527060/",
       "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-05-26T22:00:00",
-      "image": "https://www.4gamer.net/games/810/G081099/20260519042/SS/001.jpg"
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-27T12:44:22",
+      "image": "https://www.4gamer.net/games/010/G101054/20260527060/SS/002.jpg"
     },
     {
-      "title": "コナミの激渋ボードゲーム！　機密文書を盗み出すため，騙し騙され，決闘する「ザ スパイ」　昭和・平成レトロボードゲーム大百科 第15回",
-      "url": "https://www.4gamer.net/games/893/G089329/20260522029/",
+      "title": "神々が死んだラグナロク後，ヨトゥンの心臓を動力とする船で九界の海を渡る。タクティカル海洋サバイバル「Waters of Ragnarök」発表",
+      "url": "https://www.4gamer.net/games/010/G101052/20260527051/",
       "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-05-26T22:00:00",
-      "image": "https://www.4gamer.net/games/893/G089329/20260522029/SS/001.jpg"
-    },
-    {
-      "title": "『Roblox』徹底解剖！子どもが熱狂するカオスな文化に迫る：#490 しゃべりすぎGAMER",
-      "url": "https://jp.ign.com/gamer-1/83360/roblox490-gamer",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-05-26T14:00:36",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/sg0526_bsau.jpg"
-    },
-    {
-      "title": "BitSummit PUNCH、来場者を昨年から1万人以上増やし盛況",
-      "url": "https://jp.ign.com/bitsummit-2026/83358/bitsummit-punch1",
-      "source": "IGN Japan",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-05-26T06:36:37",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/img-05_cqss.jpg"
-    },
-    {
-      "title": "体験版としてのベストを感じた一品 お料理ホラー『Cucina Stellata』で狂気の片鱗を味わう【BitSummit PUNCH】",
-      "url": "https://jp.ign.com/bitsummit-2026/83356/cucina-stellatabitsummit-punch",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-05-26T03:50:35",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/00-stellata_w1fw.jpg"
-    },
-    {
-      "title": "Ankerのオープンイヤー型ワイヤレスイヤホン「Soundcore C40i」がAmazonにて25％オフでタイムセール中",
-      "url": "https://jp.ign.com/gaming-device/83354/ankersoundcore-c40iamazon25",
-      "source": "IGN Japan",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-05-26T03:30:44",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_cdeg.png"
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-27T11:23:02",
+      "image": "https://www.4gamer.net/games/010/G101052/20260527051/SS/002.jpg"
     },
     {
       "title": "AYANEO傘下のKONKR、世界初のAIゲーミングハンドヘルド「Pocket BLOCK」を発表",
@@ -273,40 +102,220 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/184949.jpg"
     },
     {
-      "title": "バンダイナムコ売上・利益過去最高を更新、ガンダムのIP売上が7割近く増加【ゲーム企業の決算を読む】",
-      "url": "https://www.gamebusiness.jp/article/2026/05/26/27040.html",
+      "title": "コロプラCOO,Games坂本佑が語る、コンシューマー本格化と「Global Top 20」への道筋──「位置ゲー」・生成ゲーム・グループシナジーで描く成長戦略",
+      "url": "https://www.gamebusiness.jp/article/2026/05/28/27058.html",
       "source": "GameBusiness.jp",
       "category": "business",
-      "importance": "high",
-      "published": "2026-05-26T09:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184906.jpg"
+      "importance": "normal",
+      "published": "2026-05-27T23:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185012.jpg"
     },
     {
-      "title": "在庫の評価方法の見直しを実施したANYCOLORの今期見通しは？―6月に決算を発表するゲーム関連企業一覧【決算発表スケジュール】",
-      "url": "https://www.gamebusiness.jp/article/2026/05/26/27037.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-05-26T02:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184900.jpg"
-    },
-    {
-      "title": "Unreal Engine 6正式発表！『ロケットリーグ』がUE6に移行へ―Epicの新型ゲームエンジンは『フォートナイト』エディターとの統合目指す",
-      "url": "https://www.gamebusiness.jp/article/2026/05/25/27035.html",
-      "source": "GameBusiness.jp",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-05-25T11:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184811.png"
-    },
-    {
-      "title": "東京の街がまるごと『ポケモンGO』になる4日間。10周年記念「GO Fest 2026：東京」開催決定！“ピカチュウ”によるダンスステージも楽しめる",
-      "url": "https://www.gamebusiness.jp/article/2026/05/26/27042.html",
+      "title": "HD-2D版『ドラクエI～III』が合計400万本突破！新たな「ロト三部作」を見届けた勇者たちに公式も感謝",
+      "url": "https://www.gamebusiness.jp/article/2026/05/27/27056.html",
       "source": "GameBusiness.jp",
       "category": "other",
+      "importance": "normal",
+      "published": "2026-05-27T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185029.jpg"
+    },
+    {
+      "title": "『ドラクエ』堀井雄二氏が40周年にメッセージ！「人生はまさにロールプレイング。40周年を迎えても、ボクの冒険心はまだ尽きていません」",
+      "url": "https://www.gamebusiness.jp/article/2026/05/27/27055.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-27T11:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185035.jpg"
+    },
+    {
+      "title": "HEROZ、ポケモン社と共同開発のバトル分析AI「Pokémon Battle Scope」を国内最大級ポケモン大会に3年連続導入",
+      "url": "https://www.gamebusiness.jp/article/2026/05/27/27054.html",
+      "source": "GameBusiness.jp",
+      "category": "esports",
+      "importance": "normal",
+      "published": "2026-05-27T11:00:05",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185050.jpg"
+    },
+    {
+      "title": "『Mina the Hollower』レビュー 任天堂が怖くて作れなかった2D版「ブレス オブ ザ ワイルド」",
+      "url": "https://jp.ign.com/mina-the-hollower/83370/mina-the-hollower-2d",
+      "source": "IGN Japan",
+      "category": "other",
       "importance": "high",
-      "published": "2026-05-26T10:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/184968.png"
+      "published": "2026-05-27T15:31:33",
+      "image": "https://sm.ign.com/ign_jp/review/m/mina-the-h/mina-the-hollower-review_k2zx.jpg"
+    },
+    {
+      "title": "開発体制を変更してリスタートした新『ドラゴンクエストXII』が発表！ 「夢の彼方へ」という新たなサブタイトルの明るいドラクエに",
+      "url": "https://jp.ign.com/dragonquest12/83367/xii",
+      "source": "IGN Japan",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-27T13:47:05",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1052_nhky.png"
+    },
+    {
+      "title": "Mina The Hollower - 15 Reveal Screenshots",
+      "url": "https://jp.ign.com/mina-the-hollower/83371/mina-the-hollower-15-reveal-screenshots",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-27T15:31:33",
+      "image": "https://sm.ign.com/ign_jp/gallery/m/mina-the-h/mina-the-hollower-15-reveal-screenshots_um1b.jpg"
+    },
+    {
+      "title": "『ドラゴンクエストXII 夢の彼方へ』の画像",
+      "url": "https://jp.ign.com/dqxii-yume-no-kanata-he/83368/xii",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-27T13:47:05",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1017_jhc9.png"
+    },
+    {
+      "title": "AIM1のラピッドトリガー搭載ゲーミングキーボード「瞬」がAmazonにて10％オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83361/aim1amazon10",
+      "source": "IGN Japan",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-05-27T11:25:08",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_718q.png"
+    },
+    {
+      "title": "『ドラゴンクエスト12 夢の彼方へ』発表。なんと「新体制で開発をリスタート」していた",
+      "url": "https://automaton-media.com/articles/newsjp/20260527-445513/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-27T13:09:12",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260527-445513-header.jpg"
+    },
+    {
+      "title": "新作テトリスゲーム『TETRIS THE GRAND MASTER 4 -ABSOLUTE EYE-』Nintendo Switch版発表、6月4日配信へ。あわせてSteam版もがっつり値下げ",
+      "url": "https://automaton-media.com/articles/newsjp/20260527-445446/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-27T08:05:25",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260527-445446-header.jpg"
+    },
+    {
+      "title": "「リアル挙動」宇宙冒険ARPG『C-Beams』正式発表。“ニュートン力学”に則った物理挙動、各種スラスターで船を操る宇宙探検生活",
+      "url": "https://automaton-media.com/articles/newsjp/20260527-445416/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-27T06:08:01",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260527-445416-header.jpg"
+    },
+    {
+      "title": "Nintendo Switch 2/ Switch向けセールに約170本追加、『バイオハザード レクイエム』や『ドラクエVII Reimagined』が初セール。大ヒットブロック崩しローグライトもお安い",
+      "url": "https://automaton-media.com/articles/newsjp/20260527-445400/",
+      "source": "Automaton",
+      "category": "sale",
+      "importance": "high",
+      "published": "2026-05-27T05:11:56",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260527-445400-header.jpg"
+    },
+    {
+      "title": "「ゲーム開発でいくら稼いだ？」という疑問に、開発者たちが生々しく回答。“稼ぐ”までの厳しさと、“稼がない”選択肢",
+      "url": "https://automaton-media.com/articles/newsjp/20260527-445494/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-05-27T10:47:36",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260527-445494-header.jpg"
+    },
+    {
+      "title": "ゲームエフェクト用のテクスチャライブラリが無料配布。Substance 3D Designer用データやカスタムノードも同梱",
+      "url": "https://gamemakers.jp/article/2026_05_27_138499/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-05-27T12:18:25",
+      "image": null
+    },
+    {
+      "title": "Steam「圧倒的不評」レビューからの復活劇！リリース後にHDRP→URP移行を完遂した2か月間の歩み【GCC 2026】",
+      "url": "https://gamemakers.jp/article/2026_05_27_136335/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-05-27T09:00:33",
+      "image": null
+    },
+    {
+      "title": "月面環境をデジタルツインで再現したソフトウェア「REAL MOON Studio」発表。ROSやMATLABなどと連携し、探査計画・シミュレーションなどに活用可能",
+      "url": "https://gamemakers.jp/article/2026_05_26_138348/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-05-26T09:50:02",
+      "image": null
+    },
+    {
+      "title": "バグを機にゲームシステムを急転換。ブロックを“押し込んで消す”豪快な落ち物パズルアクション『Jupiter Junkworks』試遊レポート【BitSummit PUNCH】",
+      "url": "https://gamemakers.jp/article/2026_05_27_138459/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-27T09:29:14",
+      "image": null
+    },
+    {
+      "title": "『プリンセスコネクト！Re:Dive』内のオリジナル文字はどうやって作られた？「Cygames Magazine」で解説記事が公開",
+      "url": "https://gamemakers.jp/article/2026_05_27_138424/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-27T08:16:51",
+      "image": null
+    },
+    {
+      "title": "EIZO、31.5型4Kカラーマネジメントモニタ「ColorEdge CS3200X」発売 - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2605-eizo.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-05-27T09:20:18",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/ColorEdge_CS3200X_press-thumb-1000x563-84028.jpg"
+    },
+    {
+      "title": "シリーズ初のオープンフィールドで描く妖怪蠢く世界『仁王3』（2） - 特集",
+      "url": "https://cgworld.jp/article/202605-cgw333-nioh3-b.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-27T05:15:00",
+      "image": "https://cgworld.jp/article/assets_c/2026/05/258e9fdb6ef235367b5cd6c25a7aadd5ec387f0d-thumb-1000x563-83148.jpg"
+    },
+    {
+      "title": "\"変容\"が人の思いを可視化する―都庁プロジェクションマッピング『東京変容紀 -Spirits of Tokyo-』の演出設計 - 特集",
+      "url": "https://cgworld.jp/article/2605-spiritsoftokyo.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-27T04:00:00",
+      "image": "https://cgworld.jp/article/assets_c/2026/05/127b8a3efce780ee8083fa26fe9c025b418491ff-thumb-1000x563-83957.jpg"
+    },
+    {
+      "title": "Glitz VisualsのリアルタイムCG・AIワークフローで実感！　RTX 5090 Founders Edition搭載PCが実現する「時間を買う」投資 - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/2605-Unitcom-GlitzVisuals.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-05-27T02:25:24",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/05/unitcom-thumb-768x432-83808.png"
+    },
+    {
+      "title": "「Unity AI」オープンベータ開始　エディターに統合されたAIアシスタント、AIモデルをUnityに接続するAIゲートウェイ、MCPサーバから構成 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202605-UnityAI.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-05-26T23:11:49",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/UnityAI-01-thumb-1920x1080-84039.jpg"
     }
   ]
 }
