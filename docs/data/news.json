@@ -1,185 +1,176 @@
 {
-  "generated_at": "2026-05-29T00:29:26.860867",
-  "poem": "おはようございます！ 🌞\n今日はゲーム業界の新しいタイトルが続々と発表されています。特に『Planet Zoo 2』や『Call of Duty: Modern Warfare 4』が注目を集めています。ゲームファンの皆さんには嬉しい一日になるでしょう 💻\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-05-30T00:27:04.887200",
+  "poem": "おはようございます！ 🌞\nゲーム業界は相変わらず活発な動きを見せています。新作ゲームの発表や、人気ゲームのアップデートが続々と発表されています。特に「hololive Dreams」の事前登録数が100万人を突破したのは注目のニュースですね！ 🚀\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "自由自在に動物園を作れるゲーム新作『Planet Zoo 2』発表！10月13日に発売決定。水族館や鳥舎が登場し、つくりあげた生態系から「野生動物保護区」へ動物を送り出す新要素が実装",
-      "url": "https://news.denfaminicogamer.jp/news/260529f",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-28T23:21:12",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_7e0fc0eaf7fda772d542c0d0a7bed81fa696b821.1920x1080.jpg"
-    },
-    {
-      "title": "新作『Call of Duty: Modern Warfare 4』発表！10月23日に発売へ。舞台は朝鮮半島の最前線、若き韓国軍兵士の分隊が生き残りをかけて戦う",
-      "url": "https://news.denfaminicogamer.jp/news/260529d",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-28T22:29:13",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_69ebde0b83f6d45a259494397402df7a9f5fa50a.1920x1080.jpg"
-    },
-    {
-      "title": "魔法使いの女の子がパン屋を営むベーカリーRPG『The Witch’s Bakery』が8月に発売決定。友達を作り本を買い新たなレシピに挑戦する",
-      "url": "https://news.denfaminicogamer.jp/news/2605293f",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-28T18:00:51",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/SS_Bakery_02.jpg"
-    },
-    {
-      "title": "最大6人で荒れ果てた庭園を再生する協力型まったりガーデニングゲーム『Pottering』が発表。ラッパを吹いたり、シャベルで叩き合ったり、気の合う仲間とのんびり過ごせる。2027年にSteamで発売予定",
-      "url": "https://news.denfaminicogamer.jp/news/260529x",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-28T18:00:06",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/Pottering_Screenshot_4.png"
-    },
-    {
-      "title": "『天穂のサクナヒメ～ヒヌカ巡霊譚～』全シナリオが公式YouTubeで順次配信へ。7月27日のサービス終了に伴い発表",
-      "url": "https://news.denfaminicogamer.jp/news/2605283c",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-05-28T10:00:19",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/087e0e21439009a9af745d69286b9703.png.webp"
-    },
-    {
-      "title": "「Call of Duty: Modern Warfare 4」発表。韓国を舞台にしたリアルな戦場，待望の“腰撃ちブルーム廃止”や変幻自在のマップなど最新情報をお届け",
-      "url": "https://www.4gamer.net/games/010/G101087/20260528037/",
+      "title": "［インタビュー］「カオスゼロナイトメア」は，ローグライクの究極的な面白さを求めていく。カオゼロのこれからを開発プロデューサーに聞いた",
+      "url": "https://www.4gamer.net/games/793/G079349/20260528066/",
       "source": "4Gamer.net",
       "category": "release",
       "importance": "high",
-      "published": "2026-05-28T15:00:00",
-      "image": "https://www.4gamer.net/games/010/G101087/20260528037/SS/015.jpg"
+      "published": "2026-05-30T00:00:00",
+      "image": "https://www.4gamer.net/games/793/G079349/20260528066/SS/003.jpg"
     },
     {
-      "title": "［インタビュー］韓国が舞台となる「Call of Duty: Modern Warfare 4」キャンペーン制作の狙い，マルチプレイの方向性を開発者に聞いた",
-      "url": "https://www.4gamer.net/games/010/G101087/20260528038/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-05-28T15:00:00",
-      "image": "https://www.4gamer.net/games/010/G101087/20260528038/SS/010.jpg"
-    },
-    {
-      "title": "掘り進めて住民たちの生活圏を広げていく。地下空間を舞台にしたコロニー建設シム「Fosoria」発表",
-      "url": "https://www.4gamer.net/games/010/G101099/20260528065/",
+      "title": "「hololive Dreams」，事前登録数が100万人を突破。JR東海「推し旅」とのコラボ企画が発表され，事前登録キャンペーンの追加報酬が決定",
+      "url": "https://www.4gamer.net/games/974/G097413/20260529058/",
       "source": "4Gamer.net",
       "category": "release",
       "importance": "high",
-      "published": "2026-05-28T12:08:38",
-      "image": "https://www.4gamer.net/games/010/G101099/20260528065/SS/004.jpg"
+      "published": "2026-05-29T15:00:00",
+      "image": "https://www.4gamer.net/games/974/G097413/20260529058/SS/001.jpg"
     },
     {
-      "title": "世界に終末を告げる魔女を導くマルチプレイ対応のローグライクカードゲーム「終焉魔女の旅々」，6月5日に発売決定",
-      "url": "https://www.4gamer.net/games/010/G101098/20260528062/",
+      "title": "［インタビュー］「メタルスラッグ」30周年記念プロジェクトは，1年かぎりのお祭りではなく，より強いフランチャイズとして，ゲームとして再展開する",
+      "url": "https://www.4gamer.net/games/811/G081100/20260527033/",
       "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-28T11:58:02",
-      "image": "https://www.4gamer.net/games/010/G101098/20260528062/SS/001.jpg"
-    },
-    {
-      "title": "段ボール・ディストピアの“支配装置”をガチャガチャいじって壊せ！　「Phonopolis」は管理社会に小さな抵抗を仕掛けるパズルADV",
-      "url": "https://www.4gamer.net/games/632/G063273/20260527020/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-05-28T23:00:00",
-      "image": "https://www.4gamer.net/games/632/G063273/20260527020/SS/015.jpg"
-    },
-    {
-      "title": "大阪求人 ゲーム会社アクティブゲーミングメディア、経理・財務スタッフ募集",
-      "url": "https://automaton-media.com/articles/hiring/agm-20260528-445626/",
-      "source": "Automaton",
       "category": "business",
       "importance": "high",
-      "published": "2026-05-28T06:25:54",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/image4-3.jpg"
+      "published": "2026-05-29T10:00:00",
+      "image": "https://www.4gamer.net/games/811/G081100/20260527033/SS/012.jpg"
     },
     {
-      "title": "動物園経営シム『プラネット ズー 2』発表、10月13日発売へ。完全水生種や鳥類が新たに登場、パワーアップした動物園づくり",
-      "url": "https://automaton-media.com/articles/newsjp/20260528-445790/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-28T14:19:19",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260528-445790-002.jpeg"
-    },
-    {
-      "title": "人気ウサ耳娘メトロイドヴァニア『TEVI』大型DLC「ファウナ アルカナ」正式発表、6月25日配信へ。新たな舞台ラビーナ島で展開される、ボイス付き新ストーリー",
-      "url": "https://automaton-media.com/articles/newsjp/20260528-445725/",
-      "source": "Automaton",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-05-28T10:19:21",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260528-445725-header.jpg"
-    },
-    {
-      "title": "『ヨッシーとフカシギの図鑑』レビュー。2Dアクションから「ゴール地点」を捨てた、任天堂の実験作",
-      "url": "https://automaton-media.com/articles/impressionjp/yoshi-20260528-445710/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-05-28T09:41:51",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/yoshi-20260528-445710-header.jpg"
-    },
-    {
-      "title": "サイバーパンク風ジオラマ作りシム『Midnight Moments』発表。“眠らない街”を作って浸る、毎秒ムード出まくり建築ゲーム",
-      "url": "https://automaton-media.com/articles/newsjp/20260528-445693/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-28T08:31:16",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260528-445693-header.jpg"
-    },
-    {
-      "title": "「これAI画像？」検出機能がChromeやGoogle検索に統合―AIコンテンツ検出APIをプレビュー提供、SynthID透かし導入企業も拡大",
-      "url": "https://www.gamebusiness.jp/article/2026/05/27/27057.html",
-      "source": "GameBusiness.jp",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-05-27T11:45:04",
-      "image": null
-    },
-    {
-      "title": "『ドラクエ12』開発体制を変更しリスタート！タイトルは『ドラゴンクエスト12 夢の彼方へ』に変更、雰囲気もダークから明るいものに",
-      "url": "https://www.gamebusiness.jp/article/2026/05/28/27065.html",
-      "source": "GameBusiness.jp",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-28T10:45:04",
-      "image": null
-    },
-    {
-      "title": "『ドラゴンクエストXI 過ぎ去りし時を求めて S』スイッチ2版9月24日発売！画質とパフォーマンスを優先する2つのモード搭載",
-      "url": "https://www.gamebusiness.jp/article/2026/05/28/27064.html",
-      "source": "GameBusiness.jp",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-28T10:30:04",
-      "image": null
-    },
-    {
-      "title": "miHoYo、UE5採用の“リアル調ハードコアシューター”研究開発中か―箱庭コンテンツ含む生活MMOなど複数のR＆D求人公開",
-      "url": "https://www.gamebusiness.jp/article/2026/05/28/27069.html",
-      "source": "GameBusiness.jp",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-05-28T11:45:04",
-      "image": null
-    },
-    {
-      "title": "Steam Deck海外で最大300ドルも値上げ。将来のValveハードウェアの価格に対する懸念も？",
-      "url": "https://www.gamebusiness.jp/article/2026/05/28/27068.html",
-      "source": "GameBusiness.jp",
+      "title": "消費者運動「Stop Killing Games」関連法案AB 1921，米カリフォルニア州下院本会議で可決",
+      "url": "https://www.4gamer.net/games/999/G999905/20260529050/",
+      "source": "4Gamer.net",
       "category": "business",
+      "importance": "high",
+      "published": "2026-05-29T11:44:00",
+      "image": "https://www.4gamer.net/games/999/G999905/20260529050/SS/002.png"
+    },
+    {
+      "title": "「スターベスター：星収穫機」，Steamで配信開始。宇宙空間にドローンを展開して，採掘や資源収集を進める自動化ゲーム",
+      "url": "https://www.4gamer.net/games/011/G101130/20260529038/",
+      "source": "4Gamer.net",
+      "category": "release",
       "importance": "normal",
-      "published": "2026-05-28T11:30:04",
+      "published": "2026-05-29T14:00:00",
+      "image": "https://www.4gamer.net/games/011/G101130/20260529038/TN/008.gif"
+    },
+    {
+      "title": "新作RPG『Fable』発売時期が秋から2027年2月に延期へ。“1000人以上”のNPCが固有に行動するファンタジー世界で自由に暮らせるタイトル。公式SNSは、6月7日に「大きな発表を控えている」と告知",
+      "url": "https://news.denfaminicogamer.jp/news/260530b",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-29T22:14:09",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/HJgDR7XWIAACvv3.jpg"
+    },
+    {
+      "title": "Fantia、2次元ジャンルの「修正・モザイク基準」を新基準が定まるまで“以前の基準に戻す”と発表。指摘を受けた法的機関と今後の方針や基準について改めて協議中",
+      "url": "https://news.denfaminicogamer.jp/news/2605293k",
+      "source": "電ファミニコゲーマー",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-29T15:07:21",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/fantia_logo-1.jpg"
+    },
+    {
+      "title": "『コードギアス』新作スマホ向けタイトル『コードギアス ナイトメア・サバイバー』が突如発表。ガウェインやランスロット、紅蓮弐式を操り、押し寄せる敵の軍勢を殲滅していく",
+      "url": "https://news.denfaminicogamer.jp/news/2605292y",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-29T11:13:43",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/HJeZBDwbcAA4ypY.jpg"
+    },
+    {
+      "title": "手塚治虫氏の壮絶な職場を描くマンガ『ブラック・ジャック創作秘話』が28％オフセール中。また、アシスタントたちの食事風景を描く『手塚治虫アシスタントの食卓』はほぼ半額とお得に",
+      "url": "https://news.denfaminicogamer.jp/news/260530w",
+      "source": "電ファミニコゲーマー",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-05-29T23:27:00",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/Snapshot_90.jpg"
+    },
+    {
+      "title": "『スト6』公式SNSが「イングリッド」に変更。「おぬしたちの住む地球はどんなところじゃ？」と問いかける次元を超えた投稿が海外で話題に。なお、リプライ欄ではお返事もかえしてくれる模様",
+      "url": "https://news.denfaminicogamer.jp/news/260530c",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-29T22:51:16",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/a21caafc35a76e8ec5d283d773c964d0.webp"
+    },
+    {
+      "title": "重厚硬派ストラテジーRPG『Heroes of Might and Magic: Olden Era』早くも100万本の大ヒット。約10年ぶり新作、“クラシック回帰”で大成功",
+      "url": "https://automaton-media.com/articles/newsjp/20260529-446034/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-29T10:49:46",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260529-446034-header.jpg"
+    },
+    {
+      "title": "ドット絵自然サバイバル『Wild n Chill』発表。“圧倒的に好評”『Cast n Chill』開発元の新作、最大4人で狩り＆釣りしてチル",
+      "url": "https://automaton-media.com/articles/newsjp/20260529-446021/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-29T10:12:38",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260529-446021-header.jpg"
+    },
+    {
+      "title": "カードショップ経営“転売屋見極め”ゲーム『あなた、転売ヤーですよね？』Steamにてお披露目。「許すor許さない」のジレンマ、売上か店の評判か",
+      "url": "https://automaton-media.com/articles/newsjp/20260529-446005/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-29T09:17:08",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260529-446005-header.jpg"
+    },
+    {
+      "title": "とにかくゆるいSteamマルチ庭づくりゲーム『Pottering』発表。最大7人協力土いじり、綺麗な庭をつくるもよし、シャベルを振り回し暴れるもよし",
+      "url": "https://automaton-media.com/articles/newsjp/20260529-445920/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-29T04:37:06",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260529-445920-header.jpg"
+    },
+    {
+      "title": "マルチ対応ボードゲームRPG『ヴィラクタル』Nintendo Switch 2版発表、10月1日発売へ。好評ダイス＆デッキ構築マルチプレイゲームがSwitchに来る",
+      "url": "https://automaton-media.com/articles/newsjp/viractal-20260529-445907/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-29T04:08:16",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/05/viractal-20260529-445907-header.jpg"
+    },
+    {
+      "title": "2Dピクセルゲームと実写映像がシームレスに融合。UEで未知の恐怖表現を追求したホラーADV『Tenebris Somnia』試遊&インタビュー【BitSummit PUNCH】",
+      "url": "https://gamemakers.jp/article/2026_05_29_138618/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-05-29T12:23:18",
+      "image": null
+    },
+    {
+      "title": "「Blender 5.2 LTS」アップデート情報や今後の開発方針をまとめたロードマップが公開。Android端末サポートなども進行中",
+      "url": "https://gamemakers.jp/article/2026_05_29_138658/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-05-29T09:45:34",
+      "image": null
+    },
+    {
+      "title": "6/7（日）に札幌で開催されるインディーゲーム展示会「SAPPORO GAME ODYSSEY」、出展タイトル情報などが発表",
+      "url": "https://gamemakers.jp/article/2026_05_29_138661/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-05-29T07:39:43",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/4f0e493582db03fb366110d9bb33c464.jpg"
+    },
+    {
+      "title": "「State of Unreal 2026」、6/17（水）日本時間23時より配信決定。UE最新情報や活用事例、今後のロードマップなどを発表",
+      "url": "https://gamemakers.jp/article/2026_05_29_138680/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-05-29T06:39:35",
       "image": null
     },
     {
@@ -192,76 +183,112 @@
       "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/987ae158b18f251ee0b5d35d6b9f43a6.jpg"
     },
     {
-      "title": "心地よい操作をシステム側でそっとアシスト。ネズミがブラック労働に勤しむマルチプレイ協力アクション『Little Cheese Works』試遊&インタビュー【BitSummit PUNCH】",
-      "url": "https://gamemakers.jp/article/2026_05_28_138520/",
-      "source": "ゲームメーカーズ",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-05-28T06:47:39",
-      "image": null
-    },
-    {
-      "title": "ゲームエフェクト用のテクスチャライブラリが無料配布。Substance 3D Designer用データやカスタムノードも同梱",
-      "url": "https://gamemakers.jp/article/2026_05_27_138499/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-05-27T12:18:25",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/10b3d784e8e8648b6637b8f85404c2d4.jpg"
-    },
-    {
-      "title": "Steam「圧倒的不評」レビューからの復活劇！リリース後にHDRP→URP移行を完遂した2か月間の歩み【GCC 2026】",
-      "url": "https://gamemakers.jp/article/2026_05_27_136335/",
-      "source": "ゲームメーカーズ",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-05-27T09:00:33",
-      "image": null
-    },
-    {
-      "title": "PS5の4K描画で約5ミリ秒のパフォーマンスを実現。Activision、CoD向けレンダリング技術「AVBOIT」の解説資料を公開",
-      "url": "https://gamemakers.jp/article/2026_05_28_138588/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
+      "title": "「身体圏」研究が変える未来の社会。立命館大学と企業パートナーの挑戦を支えるクリエイティビティとテクノロジー - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/202605-ritsumeikan-cvic.html",
+      "source": "CGWORLD",
+      "category": "industry",
       "importance": "normal",
-      "published": "2026-05-28T09:09:34",
-      "image": null
+      "published": "2026-05-29T12:21:33",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/05/ritsumeikan_top-thumb-1920x1080-84176.jpg"
+    },
+    {
+      "title": "著者と交流できるブックイベント『ボーンデジタルブックラウンジ #01』が6月13日・14日に開催 - ニュース",
+      "url": "https://cgworld.jp/flashnews/borndigital-book-lounge-01.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-05-29T09:41:54",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/1920x1080-thumb-1920x1080-84174.jpg"
+    },
+    {
+      "title": "カリスマ原型師の究極の技法を集結！SCULPTORS DAY 2026『造形技術と表現論』が6月21日にオンライン開催 - ニュース",
+      "url": "https://cgworld.jp/flashnews/sculptorsday2026.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-05-29T07:13:02",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/269_seminar_sculptorsday_full-thumb-1000x563-84172.jpg"
+    },
+    {
+      "title": "6/5（金）東京で開催。アニメ・CG・ゲーム専門合同企業説明会「つくジョブ！」 - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2605-tsukujob.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-05-29T05:57:54",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/6fbcb86be5317034436fdc67e81b67cceae6e554-thumb-1000x563-74167-thumb-1000x563-84060.jpg"
+    },
+    {
+      "title": "Unreal Fest Tokyo 2026開催決定―11月3日・4日に東京・有明で実施、講演公募も開始 - ニュース",
+      "url": "https://cgworld.jp/flashnews/2605-03-unreal-fest.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-05-29T04:27:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/Unreal-Fest-16-9_Tokyo_2-thumb-1000x563-84082.jpg"
+    },
+    {
+      "title": "『Call of Duty: Modern Warfare 4』発表！朝鮮半島が舞台の激闘や、マルチプレイでは戦闘体験が“リアルでスマート”に進化",
+      "url": "https://www.gamebusiness.jp/article/2026/05/29/27074.html",
+      "source": "GameBusiness.jp",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-05-29T11:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185240.jpg"
+    },
+    {
+      "title": "『ウィッチャー3』累計販売本数6,500万本を突破！拡張パック「追憶の調べ」の規模は「血塗られた美酒」相当",
+      "url": "https://www.gamebusiness.jp/article/2026/05/29/27075.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-29T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185221.jpg"
+    },
+    {
+      "title": "【Stop Killing Games】「ゲーム保護法案」が米カリフォルニア州下院本会議を通過―サービス終了時の返金や代替提供の義務化を盛り込んだ内容に",
+      "url": "https://www.gamebusiness.jp/article/2026/05/29/27071.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-05-29T03:30:05",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185159.png"
+    },
+    {
+      "title": "『ドラクエ12』開発体制を変更しリスタート！タイトルは『ドラゴンクエスト12 夢の彼方へ』に変更、雰囲気もダークから明るいものに",
+      "url": "https://www.gamebusiness.jp/article/2026/05/28/27065.html",
+      "source": "GameBusiness.jp",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-05-28T10:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185111.jpg"
+    },
+    {
+      "title": "「日常生活や活動に支障をきたすレベル」楽天サポートのVTuberが過度な監視や付きまとい被害を報告―公式も注意喚起",
+      "url": "https://www.gamebusiness.jp/article/2026/05/29/27073.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-05-29T11:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185258.jpg"
     },
     {
       "title": "レトロな見た目のインディーゲームが2026年最高のメタスコアを獲得!? 『Mina the Hollower』が絶賛されている理由を分析",
       "url": "https://jp.ign.com/mina-the-hollower/83382/2026-mina-the-hollower",
       "source": "IGN Japan",
-      "category": "other",
+      "category": "release",
       "importance": "high",
       "published": "2026-05-28T07:41:30",
       "image": "https://sm.ign.com/ign_jp/blogroll/default/mina-the-hollower-1643716279098_zum7.jpg"
     },
     {
-      "title": "『Mina the Hollower』レビュー 任天堂が怖くて作れなかった2D版「ブレス オブ ザ ワイルド」",
-      "url": "https://jp.ign.com/mina-the-hollower/83370/mina-the-hollower-2d",
+      "title": "『スルタンのゲーム』――独特な世界観と表現を支えた開発の裏側",
+      "url": "https://jp.ign.com/sultans-game/83366/",
       "source": "IGN Japan",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-05-27T15:31:33",
-      "image": "https://sm.ign.com/ign_jp/review/m/mina-the-h/mina-the-hollower-review_k2zx.jpg"
-    },
-    {
-      "title": "開発体制を変更してリスタートした新『ドラゴンクエストXII』が発表！ 「夢の彼方へ」という新たなサブタイトルの明るいドラクエに",
-      "url": "https://jp.ign.com/dragonquest12/83367/xii",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-27T13:47:05",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1052_nhky.png"
-    },
-    {
-      "title": "『ドラゴンクエストXII 夢の彼方へ』の画像",
-      "url": "https://jp.ign.com/dqxii-yume-no-kanata-he/83368/xii",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-27T13:47:05",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1017_jhc9.png"
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-05-29T01:00:15",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/00-thumb_fgk2.jpg"
     },
     {
       "title": "モーションはキュート、アクションと物語はハード ウサギ耳ずきんの姫が活躍するボスラッシュアクション『ルビナイト』【BitSummit PUNCH】",
@@ -273,49 +300,22 @@
       "image": "https://sm.ign.com/ign_jp/screenshot/default/rubi1_svnu.jpg"
     },
     {
-      "title": "6/10（水）学生向け3DCGコミュニティ「CG部」、2026年度初のオンライン交流会を開催 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2605-cgbu-meet.html",
-      "source": "CGWORLD",
-      "category": "industry",
+      "title": "ロジクールGの有線ゲーミングヘッドセット「G335」がAmazonにて16％オフでセール中【スマイルSale】",
+      "url": "https://jp.ign.com/gaming-device/83369/gg335amazon16sale",
+      "source": "IGN Japan",
+      "category": "sale",
       "importance": "normal",
-      "published": "2026-05-28T06:20:32",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/sumnail_cgbu-thumb-1000x564-84081.jpg"
+      "published": "2026-05-28T05:28:52",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_eus3.png"
     },
     {
-      "title": "Arnold公式、Mayaによる立体的なラインエフェクト制作方法を3分の動画で紹介　ライン シェーダ、UV 投影 シェーダ、Standard Volume シェーダを組み合わせて作成 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202605-Arnold-VolLine.html",
-      "source": "CGWORLD",
-      "category": "tech",
+      "title": "『ドラゴンクエストXII』の主人公がトカゲの亜人である可能性が浮上？ ユーザーが公開映像を見て指摘",
+      "url": "https://jp.ign.com/games/83378/xii",
+      "source": "IGN Japan",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-05-28T02:36:55",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/Arnold_VolLine-01-thumb-1920x1080-84064.jpg"
-    },
-    {
-      "title": "「止めることが悪」遊技機CGならではの映像演出とは？　未経験から\"一気通貫\"で制作を完遂できるフレイムの現場に迫る - スペシャルコンテンツ",
-      "url": "https://cgworld.jp/special-feature/2605-flame.html",
-      "source": "CGWORLD",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-05-28T02:27:27",
-      "image": "https://cgworld.jp/special-feature/assets_c/2026/05/ac4ccc54824509e6e5235f515dd5aed79e43b5d9-thumb-1000x563-83923.jpg"
-    },
-    {
-      "title": "ロジクール、「MX MASTER 4」にWindows 11連携の触覚フィードバック機能を追加 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2605-logicool.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-05-28T00:41:12",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/1920_mx4_windows11_haptics_clean_2-thumb-1000x563-84059.png"
-    },
-    {
-      "title": "EIZO、31.5型4Kカラーマネジメントモニタ「ColorEdge CS3200X」発売 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2605-eizo.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-05-27T09:20:18",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/ColorEdge_CS3200X_press-thumb-1000x563-84028.jpg"
+      "published": "2026-05-28T03:59:14",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1047_t9wm.png"
     }
   ]
 }
