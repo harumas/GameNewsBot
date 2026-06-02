@@ -1,213 +1,267 @@
 {
-  "generated_at": "2026-06-01T00:27:54.045820",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、ハンターハンターの最新39巻の発売決定や、Thief Simulator 2のセールなど、面白い情報がたくさんです。\n注目のニュースは、Niantic Spatialの3DGSフォーマット「SPZ 4」のリリースや、Fableのリリースが2027年2月に決定しました！ 🎮\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-06-02T00:32:29.704160",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、注目ゲーム『UN:Me』やサバイバルホラーゲーム『Where Dolls Hang』の最新情報が公開されています。\n新しいゲームコントローラーやゲームPCの発表もあり、ゲームファンにはワクワクする1日になりそうです！ 🎮\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "『ハンターハンター』最新39巻が7月3日に発売決定。集英社の公式サイトで発売日が明らかに。前巻から約1年10か月ぶりの新刊に、X上では連載再開を期待する声もあがる",
-      "url": "https://news.denfaminicogamer.jp/news/260601f",
+      "title": "狂気的すぎる世界を少女が進む注目ゲーム『UN:Me』の最新映像公開、PS5とSwitch 2でも発売決定。あたりを徘徊する正体不明の異形と対峙し、魂たちが抱える過去のトラウマに立ち向かう",
+      "url": "https://news.denfaminicogamer.jp/news/260602c",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-05-31T22:39:44",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/9784088842790.jpg"
+      "published": "2026-06-01T22:00:53",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/UN_Me-Platform-Announcement-Trailer-0-34-screenshot.jpg"
     },
     {
-      "title": "劇場版『銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き』Netflixにて独占配信スタート。アニメ全12話を再編集した総集編に新規シーンを追加した作品",
-      "url": "https://news.denfaminicogamer.jp/news/260601h",
+      "title": "“うごめく人形”だらけの島を探索するサバイバルホラーゲーム『Where Dolls Hang』発表。原因不明の遺体が続出する謎の島を調査する。『The Backrooms 1998』に影響を受けた個人制作タイトル",
+      "url": "https://news.denfaminicogamer.jp/news/260602g",
       "source": "電ファミニコゲーマー",
       "category": "release",
-      "importance": "normal",
-      "published": "2026-06-01T00:15:57",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/HJm9VbMWUAAy_bZ-1.jpg"
+      "importance": "high",
+      "published": "2026-06-02T00:13:09",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_50df6cfeca679ffc3f7fb8503ab2e98233233089.1920x1080.jpg"
     },
     {
-      "title": "【2300円→644円】泥棒稼業を極めるゲーム『Thief Simulator 2』を72%オフで買える最安値セールがSteamで開催中。見つからないように侵入するか、警備や住人を気絶させてその隙に盗むかはプレイヤー次第",
-      "url": "https://news.denfaminicogamer.jp/news/260531f",
-      "source": "電ファミニコゲーマー",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-05-31T14:07:05",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_e6d267d6062433cb481e98be2e65051f6b001a9f.1920x1080.jpg"
-    },
-    {
-      "title": "自分だけのキャンプ場とアウトドアショップを経営するゲーム『Campsite Hustle!』が面白そう。Steamにて早期アクセス版が6月3日にリリース",
-      "url": "https://news.denfaminicogamer.jp/news/260531e",
+      "title": "プレイステーション初の格ゲー用コントローラー「FlexStrike ワイヤレスファイトスティック」8月6日に発売決定。「DualSense」を充電できるフック付きモニターは8月27日から順次発売",
+      "url": "https://news.denfaminicogamer.jp/news/260602b",
       "source": "電ファミニコゲーマー",
       "category": "release",
-      "importance": "normal",
-      "published": "2026-05-31T13:05:15",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_0eb0232e7c78cd44e41fc7a0befb1379b4eef218.1920x1080.jpg"
+      "importance": "high",
+      "published": "2026-06-01T15:47:17",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/d004a37c34e2a598886d486a00248a9e4948ef28.webp"
     },
     {
-      "title": "【半額】SWAT隊員として凶悪事件に対処するFPS『Ready or Not』を50%オフの3575円で買えるセールがSteamで開催中。マップや装備を追加する各種DLCも半額に",
-      "url": "https://news.denfaminicogamer.jp/news/260531d",
+      "title": "家族を殺された少女がお屋敷を探索して真相を突き止めるゲーム『Echograph』の最新トレーラーが公開。日本語対応もあわせて発表。レコードを使った謎解きや写真撮影を経て、なぜ自分だけが生き残ったかを解き明かせ",
+      "url": "https://news.denfaminicogamer.jp/news/260602a",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-01T15:00:30",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/screenshot_ambience0.png"
+    },
+    {
+      "title": "『PICO PARK:Classic Edition』が近日中に配信を停止すると発表。“ひょんな理由”で無料化していた本作、ダウンロード済みのユーザーは今後もプレイ可能",
+      "url": "https://news.denfaminicogamer.jp/news/2606013h",
       "source": "電ファミニコゲーマー",
       "category": "sale",
+      "importance": "high",
+      "published": "2026-06-01T14:54:56",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_5f10e0301e8b8994159eb640a0fc311ef6060e92.1920x1080.jpg"
+    },
+    {
+      "title": "基本プレイ無料戦車シューター『World of Tanks: HEAT』は、チーム制ながら個人の責任が薄く気楽に遊べるTPSだった。ヒーラーなしの戦車ヒーローシューター",
+      "url": "https://automaton-media.com/articles/columnjp/woth-20260601-446421/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-01T10:59:22",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/woth-20260601-446421-001.jpg"
+    },
+    {
+      "title": "巨大汚都市“ソウルライク”FPS『DIOXIDE』発表。人気クトゥルフホラーFPS開発元が放つ新作は、油まみれの限界都市高難度シューター",
+      "url": "https://automaton-media.com/articles/newsjp/20260602-446452/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-02T00:00:32",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260602-446452-header.jpg"
+    },
+    {
+      "title": "“ズル”もできるスクラッチくじゲーム『Scratch the Ticket』発表。どんどん削って運試し、怪しい道具で運をも制する",
+      "url": "https://automaton-media.com/articles/newsjp/20260601-446431/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-01T10:51:44",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260601-446431-header.jpeg"
+    },
+    {
+      "title": "2人協力・お絵かきパズルアクション『Linebound』Steamで無料配布中。1か月間限定",
+      "url": "https://automaton-media.com/articles/newsjp/20260601-446360/",
+      "source": "Automaton",
+      "category": "sale",
+      "importance": "high",
+      "published": "2026-06-01T06:44:53",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260601-446360-header.jpg"
+    },
+    {
+      "title": "“永久無料化”された人気協力アクションゲーム『PICO PARK:Classic Edition』、近いうちに配信停止へ。今なら無料で入手できる",
+      "url": "https://automaton-media.com/articles/newsjp/20260601-446443/",
+      "source": "Automaton",
+      "category": "sale",
       "importance": "normal",
-      "published": "2026-05-31T10:20:16",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/05/ss_bbcb0ea9c2d360a3492af71ce3a4f07df2eb5b6e.1920x1080.jpg"
+      "published": "2026-06-01T12:45:15",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260601-446443-header.jpg"
+    },
+    {
+      "title": "PSブランド初のワイヤレスアケコン「FlexStrike」が8月6日発売決定。27インチディスプレイやワイヤレススピーカーも同時発表",
+      "url": "https://www.4gamer.net/games/999/G999902/20260528053/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-01T15:00:00",
+      "image": "https://www.4gamer.net/games/999/G999902/20260528053/SS/003.jpg"
+    },
+    {
+      "title": "「DIOXIDE」，正式発表。冷酷な会社が支配するディストピアを舞台とするタクティカルFPS",
+      "url": "https://www.4gamer.net/games/011/G101151/20260601058/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-02T00:00:00",
+      "image": "https://www.4gamer.net/games/011/G101151/20260601058/SS/001.jpg"
+    },
+    {
+      "title": "携帯型ゲームPC「ROG Xbox ALLY X20」が発表。7.4型有機ELディスプレイやTMRスティックを新たに採用",
+      "url": "https://www.4gamer.net/games/047/G004755/20260601059/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-01T13:15:27",
+      "image": "https://www.4gamer.net/games/047/G004755/20260601059/SS/001.jpg"
+    },
+    {
+      "title": "「Soulframe」，最新アップデート「プレリュード15：Gods & Ghosts」を6月配信。トレード機能やゲーム内メール，新たな敵・武器などを実装",
+      "url": "https://www.4gamer.net/games/645/G064501/20260601056/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-06-01T12:19:27",
+      "image": "https://www.4gamer.net/games/645/G064501/20260601056/SS/001.jpg"
+    },
+    {
+      "title": "ROGの20周年を記念した製品シリーズ「ROG Edition 20」が発表に。日本でも12製品を販売予定",
+      "url": "https://www.4gamer.net/games/047/G004755/20260601054/",
+      "source": "4Gamer.net",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-06-01T11:47:00",
+      "image": "https://www.4gamer.net/games/047/G004755/20260601054/SS/001.jpg"
+    },
+    {
+      "title": "Substance 3D Painterによるゲーム向けアセット制作ブレイクダウン公開　果皮の生物学的・機械的な摩耗や腐敗をシミュレートしテクスチャリング - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202606-SP-SpiritVessel.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-06-01T22:17:50",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/SP_SpiritVessel-01-thumb-1280x721-84333.jpg"
+    },
+    {
+      "title": "Maya 2027.1公開―OpenTimelineIO (OTIO)対応やMotionMaker エディタ改善など制作ワークフローを強化 - ニュース",
+      "url": "https://cgworld.jp/flashnews/03-2605-maya202701.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-06-01T09:27:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/05/DTQPwW7u-thumb-680x380-84035.jpg"
+    },
+    {
+      "title": "【30名限定】6/22（月）開催！DaVinci Resolve 21で学ぶ映像内製化戦略セミナー - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2606-digital-21.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-06-01T08:00:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/DaVinci_1720x860_0-thumb-1000x563-84211.jpg"
+    },
+    {
+      "title": "「自分の専門分野で通用するスキルをしっかり身につけることが大切です」『ロード・オブ・ザ・リング』への憧れから、Wētā FXへ 第120回：張本嘉浩（Lead Creature Technical Director / Wētā FX） - 連載",
+      "url": "https://cgworld.jp/regular/120-harimoto.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-06-01T01:30:00",
+      "image": "https://cgworld.jp/regular/assets_c/2026/05/df2777ac99c589e2a854878d911296993021827d-thumb-2048x1365-83983.jpg"
     },
     {
       "title": "Niantic Spatial、3DGSフォーマット「SPZ 4」リリース　エンコーディング3〜5倍速、読み込み2倍速、ブラウザで20倍速の高速化 - ニュース",
       "url": "https://cgworld.jp/flashnews/01-202606-Niantic-SPZ4.html",
       "source": "CGWORLD",
-      "category": "tech",
+      "category": "industry",
       "importance": "normal",
       "published": "2026-05-31T23:02:41",
       "image": "https://cgworld.jp/flashnews/assets_c/2026/06/SPZ4-01-thumb-1920x1080-84194.jpg"
     },
     {
-      "title": "多彩な表示モードを備えた世界初の5K＆RGBストライプ有機ELウルトラワイドディスプレイをAlienwareが発表",
-      "url": "https://www.4gamer.net/games/092/G009238/20260529048/",
-      "source": "4Gamer.net",
-      "category": "cg",
-      "importance": "high",
-      "published": "2026-05-31T23:00:00",
-      "image": "https://www.4gamer.net/games/092/G009238/20260529048/SS/003.jpg"
-    },
-    {
-      "title": "「鳴潮」が「サイバーパンク: エッジランナーズ」とのコラボを発表。最新アップデート「選ばれなかった夢」の配信は6月8日",
-      "url": "https://www.4gamer.net/games/634/G063420/20260530004/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-05-30T04:40:44",
-      "image": "https://www.4gamer.net/games/634/G063420/20260530004/SS/001.jpg"
-    },
-    {
-      "title": "「Fable」のリリースが2027年2月に決定。6月8日配信の「Xbox Games Showcase 2026」での新発表を予定",
-      "url": "https://www.4gamer.net/games/520/G052094/20260530003/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-30T03:10:31",
-      "image": "https://www.4gamer.net/games/520/G052094/20260530003/SS/001.jpg"
-    },
-    {
-      "title": "【今週のモチベ】最新技術でよみがえる「Gothic 1 Remake」や，「A列車で行こう9 Evolution」が発売される 2026年6月1日〜6月7日",
-      "url": "https://www.4gamer.net/games/954/G095479/20260531001/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-05-31T23:00:00",
-      "image": "https://www.4gamer.net/games/954/G095479/20260531001/SS/005.webp"
-    },
-    {
-      "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年5月25日〜5月31日",
-      "url": "https://www.4gamer.net/games/040/G004099/20260531003/",
-      "source": "4Gamer.net",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-05-31T22:00:00",
-      "image": "https://www.4gamer.net/games/040/G004099/20260531003/SS/035.jpg"
-    },
-    {
-      "title": "『ドラゴンクエスト12 夢の彼方へ』、新体制リスタートで“再発表”。『プラネット ズー 2』は10月13日発売。今週の見逃せないゲーム記事7選",
-      "url": "https://automaton-media.com/articles/newsjp/20260531-446198/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-31T04:32:14",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260531-446198-header.jpg"
-    },
-    {
-      "title": "“歩く灯台”アドベンチャー『Keeper』開発者インタビュー。言葉の存在しない世界が生まれたきっかけは“パンデミック”だった",
-      "url": "https://automaton-media.com/articles/reportjp/keeper-20260531-445686/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-05-31T03:00:24",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/keeper-20260531-445686-header.jpg"
-    },
-    {
-      "title": "『ファタモルガーナの館』 x 『シュレティンガーズ・コール』開発者対談インタビュー。「『シュレコ』は本当に素晴らしい」「『ファタモル』はかなりすごい」お互いへの尊敬があふれだす",
-      "url": "https://automaton-media.com/articles/interviewsjp/fatamorgana-schrodingers-call-20260530-446061/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-05-30T04:30:15",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/image-3.png"
-    },
-    {
-      "title": "『Forza Horizon 6』で秋を楽しむ。『007 ファーストライト』にてぽんこつスパイ爆誕。「Steam Controller」はMac環境でやや問題あり。今週のゲーミング",
-      "url": "https://automaton-media.com/articles/now-gaming/20260531-446218/",
-      "source": "Automaton",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-05-31T08:39:35",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260531-446218-006.jpg"
-    },
-    {
-      "title": "ドリフトしまくりレースゲーム『Drift86』はなんと今だけ100％オフ。「マブカプ3」こと『ULTIMATE MARVEL VS. CAPCOM 3』は80％オフの約500円。今週の高割引率PCゲーム",
-      "url": "https://automaton-media.com/articles/newsjp/20260531-446210/",
-      "source": "Automaton",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-05-31T06:50:13",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/05/20260531-446210-header.jpg"
-    },
-    {
-      "title": "レジェンド「MenaRD」がZETA DIVISIONとして「SFL」に―ストリートファイター部門の新体制を発表、「じゃじい」がコーチとして加入",
-      "url": "https://www.gamebusiness.jp/article/2026/05/30/27081.html",
+      "title": "【決算】株式会社ポケモン、純利益71%増の1200億円──第28期決算公告",
+      "url": "https://www.gamebusiness.jp/article/2026/06/01/27087.html",
       "source": "GameBusiness.jp",
-      "category": "esports",
+      "category": "business",
       "importance": "high",
-      "published": "2026-05-30T03:00:05",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185173.jpg"
+      "published": "2026-06-01T06:00:06",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185314.jpg"
     },
     {
-      "title": "インテル、携帯型ゲーミングPC向け新プロセッサー「Arc Gシリーズ」を発表",
-      "url": "https://www.gamebusiness.jp/article/2026/05/30/27077.html",
+      "title": "『鉄拳8』チーフプロデューサー“ナカツ”こと池田幸平氏がバンダイナムコ退社―「一人のゲーム開発者として“新しい挑戦”を続けていきます」と抱負語る",
+      "url": "https://www.gamebusiness.jp/article/2026/06/01/27095.html",
       "source": "GameBusiness.jp",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-05-30T02:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185209.jpg"
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-06-01T11:45:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185356.png"
     },
     {
-      "title": "新生『Fable』2027年2月に発売延期。2026年は『GTA6』『CoD:MW4』などゲームが盛りだくさんのため",
-      "url": "https://www.gamebusiness.jp/article/2026/05/30/27082.html",
-      "source": "GameBusiness.jp",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-05-30T10:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185270.jpg"
-    },
-    {
-      "title": "Xboxショーケースで他社プラットフォームを明記する方針に変更？批判に対しアシャ・シャルマ氏が「今後の対応を検討中」と返信",
-      "url": "https://www.gamebusiness.jp/article/2026/05/30/27083.html",
+      "title": "“美少女ゲーム復刻プロジェクト”にも取り組むレトロPC/ゲーム販売「BEEP」の秋葉原店が移転―6月6日より新店舗としてグランドオープン！",
+      "url": "https://www.gamebusiness.jp/article/2026/06/01/27094.html",
       "source": "GameBusiness.jp",
       "category": "industry",
       "importance": "normal",
-      "published": "2026-05-30T10:45:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185264.png"
+      "published": "2026-06-01T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185369.png"
     },
     {
-      "title": "10代の起業家育成「YOUNG IMPACT」3期生募集…経営者が伴走",
-      "url": "https://www.gamebusiness.jp/article/2026/05/30/27080.html",
+      "title": "Google Store表参道、今夏オープン―米国外で初、修理や店舗受取も",
+      "url": "https://www.gamebusiness.jp/article/2026/06/01/27093.html",
       "source": "GameBusiness.jp",
       "category": "industry",
       "importance": "normal",
-      "published": "2026-05-30T02:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185276.jpg"
+      "published": "2026-06-01T11:15:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185387.jpg"
     },
     {
-      "title": "PlayStation純正ワイヤレスイヤホン「PULSE Explore」がAmazonにて26％オフでタイムセール中",
-      "url": "https://jp.ign.com/gaming-device/83383/playstationpulse-exploreamazon26",
-      "source": "IGN Japan",
-      "category": "sale",
+      "title": "CEDEC2026、受講登録を開始—セッション情報を公開、短尺セッション枠を最大30へ拡大",
+      "url": "https://www.gamebusiness.jp/article/2026/06/01/27092.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
       "importance": "normal",
-      "published": "2026-05-30T05:20:00",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_f5wg.png"
+      "published": "2026-06-01T10:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185334.jpg"
     },
     {
-      "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/5/30】",
-      "url": "https://gamemakers.jp/article/2026_05_30_138594/",
+      "title": "『ドンキーコング バナンザ』技術解説やバンナム内製ゲームエンジン「SOL-AVES」の講演も。「CEDEC2026」、140以上の講演情報が公開",
+      "url": "https://gamemakers.jp/article/2026_06_01_138818/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-06-01T10:16:39",
+      "image": null
+    },
+    {
+      "title": "ドット絵・ドットアニメーション制作ツール「Edge3」、早期アクセス版がリリース。無料体験版も提供中",
+      "url": "https://gamemakers.jp/article/2026_06_01_138518/",
       "source": "ゲームメーカーズ",
       "category": "tech",
+      "importance": "normal",
+      "published": "2026-06-01T08:00:26",
+      "image": null
+    },
+    {
+      "title": "『007 ファーストライト』レビュー 『ゴールデンアイ 007』以来最高のボンドゲーム",
+      "url": "https://jp.ign.com/project-007/83385/007-007",
+      "source": "IGN Japan",
+      "category": "release",
       "importance": "high",
-      "published": "2026-05-30T01:58:07",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/05/acb9ca7bbb96f60c314466d99be4557f.jpg"
+      "published": "2026-06-01T04:48:20",
+      "image": "https://sm.ign.com/ign_jp/review/0/007-first-/007-first-light-review_xhbs.jpg"
+    },
+    {
+      "title": "007 First Light screenshots",
+      "url": "https://jp.ign.com/project-007/83386/007-first-light-screenshots",
+      "source": "IGN Japan",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-06-01T04:48:20",
+      "image": "https://sm.ign.com/ign_jp/photo/default/007firstlight-screenshots-01-1749075242902_ezam.jpg"
     }
   ]
 }
