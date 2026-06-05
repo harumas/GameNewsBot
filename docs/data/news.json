@@ -1,16 +1,7 @@
 {
-  "generated_at": "2026-06-04T00:37:39.076598",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースはテンセントの3Dモデル生成AI「Pixal3D」や、スマホゲームのセルラン分析など、様々な面白いニュースが届いています。\n特に注目されるのは、「Pokémon Champions」のスマホ版が6月17日に配信開始されることが決定したことです 💻\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-06-05T00:29:41.981587",
+  "poem": "おはようございます！ 💻\n今日のゲームニュースは、NVIDIAの新技術「SANA-WM」やSteamストアページの更新など、革新的な発表が目立ちます。\n特に注目されるのは、Nintendo Switch 2向けの『エルデンリング Tarnished Edition』の発売日決定 🎮\nそれでは今日のニュースをどうぞ！",
   "articles": [
-    {
-      "title": "テンセント、3Dモデル生成AI「Pixal3D」発表　ピクセルアラインドにより入力画像に忠実な3D再現を実現 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202606-Pixal3D.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-06-02T21:52:23",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/Pixal3D-01-thumb-1920x1080-84390.jpg"
-    },
     {
       "title": "【6/13 リアル開催】「PULSE Powered by AMD」安田現象・Entei Ryu・Nate・Lura登壇！AMD主催イベント開催 - ニュース",
       "url": "https://cgworld.jp/flashnews/01-2605-AMDPULSE.html",
@@ -21,166 +12,94 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/05/e4b012fe5c9cc829c9d9346aab1b118c2d09a818-thumb-960x540-83510.png"
     },
     {
-      "title": "MayaによるUVアンラップテクニック動画公開　Blizzard作品のようなスタイライズドルックを効率的に美しく仕上げるためのワークフロー - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202606-MayaUnwrapUV.html",
+      "title": "NVIDIA、世界モデル「SANA-WM」公開　画像1枚と6DoFカメラ軌跡データから、単一GPUでアクション制御可能な720p・60秒のワールドを合成 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202606-SANA-WM.html",
       "source": "CGWORLD",
       "category": "tech",
       "importance": "normal",
-      "published": "2026-06-03T21:13:27",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/SP_UnwrapUV-01-thumb-1920x1080-84471.jpg"
+      "published": "2026-06-04T22:42:43",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/SANA-WM-01-thumb-1920x1080-84533.jpg"
     },
     {
-      "title": "【6/30（火）まで】「Autodesk × CGWORLD Animation Days」オレンジによるアニメ制作メイキングセッション、オンデマンド配信の申込受付を開始 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2606-animation-days.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-03T10:20:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/Animation_Days_2080_900-1536x665-thumb-1000x563-84412.png"
-    },
-    {
-      "title": "国際プロジェクションマッピングコンテスト「PMA TOKYO Vol.11」11/14（土）東京にて開催決定。テーマは「ReBORN」。 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2606-pma-tokyo.html",
+      "title": "第4回：アニメーションのコマ落としをしよう - 連載",
+      "url": "https://cgworld.jp/regular/202606-est3-04.html",
       "source": "CGWORLD",
       "category": "industry",
       "importance": "normal",
-      "published": "2026-06-02T02:57:54",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/181607-6-29de4e93d32536ed6efc8624d8dc4c5f-1672x941-thumb-1000x563-84345.jpg"
+      "published": "2026-06-04T07:34:00",
+      "image": "https://cgworld.jp/regular/assets_c/2026/05/est3_vol4-thumb-1000x563-84151.jpg"
     },
     {
-      "title": "［インタビュー］戦車×ヒーローシューター「World of Tanks: HEAT」，異色の組み合わせはなぜ生まれたのか。「World of Tanks」との違いや今後の方針を聞く",
-      "url": "https://www.4gamer.net/games/937/G093797/20260602062/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-03T23:00:00",
-      "image": "https://www.4gamer.net/games/937/G093797/20260602062/SS/003.jpg"
-    },
-    {
-      "title": "スマホゲームのセルラン分析（2026年5月21日〜5月27日）。今週の1位は「モンスト」。1月〜3月に日本で1周年を迎えた主なタイトルも紹介",
-      "url": "https://www.4gamer.net/games/236/G023612/20260601004/",
-      "source": "4Gamer.net",
-      "category": "release",
+      "title": "6/18（木）「MAXON PARTY '26 彩」開催－『超かぐや姫！』千葉氏×桃原氏対談など注目セッション多数【参加無料】 - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2606-maxonparty.html",
+      "source": "CGWORLD",
+      "category": "industry",
       "importance": "normal",
-      "published": "2026-06-04T00:00:00",
-      "image": "https://www.4gamer.net/games/236/G023612/20260601004/SS/002.jpg"
+      "published": "2026-06-04T04:50:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/thumbnail_00-thumb-1000x563-84496.jpg"
     },
     {
-      "title": "「Forza Horizon 6」がフレーム生成なしでも60fps以上で動く!? 「Intel Arc G3 Extreme」搭載の携帯型ゲームPCは注目する価値がある",
-      "url": "https://www.4gamer.net/games/912/G091273/20260603060/",
-      "source": "4Gamer.net",
-      "category": "tech",
+      "title": "石川発、完全フルリモートのCGプロダクション「wring」が選ぶ働き方の新標準。地方クリエイターが「緩く、長く」活躍できる制作インフラとは？ - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/mouse-daiv-wring-202606.html",
+      "source": "CGWORLD",
+      "category": "cg",
       "importance": "normal",
-      "published": "2026-06-03T23:00:00",
-      "image": "https://www.4gamer.net/games/912/G091273/20260603060/SS/003.jpg"
+      "published": "2026-06-04T04:00:00",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/05/f585a10823d50ca82937419f89dcca39b5bfcd11-thumb-1920x1080-84003.jpg"
     },
     {
-      "title": "スマホ版「Pok&#233;mon Champions」，配信日を6月17日に決定。ライチュウと，メガシンカ用のアイテムが手に入るキャンペーンが実施決定",
-      "url": "https://www.4gamer.net/games/886/G088683/20260604001/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-06-03T15:46:20",
-      "image": "https://www.4gamer.net/games/886/G088683/20260604001/SS/005.jpg"
-    },
-    {
-      "title": "母に裏切られた吸血鬼の姫が，血の王座を奪い返すため女王の城へ挑む。「悪魔城ドラキュラ」に着想を得た新作「Bathory - Heritage of Blood」公開",
-      "url": "https://www.4gamer.net/games/012/G101269/20260603075/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-06-03T11:54:32",
-      "image": "https://www.4gamer.net/games/012/G101269/20260603075/SS/008.jpg"
-    },
-    {
-      "title": "『スプラトゥーン レイダース』デザインのSwitch2周辺機器がHORIから発表。コントローラー・ヘッドセット・ポーチなど、黒基調にインクの色が映えた見た目も性能も充実のアイテムが今年夏に発売",
-      "url": "https://news.denfaminicogamer.jp/news/2606035c",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-03T12:54:53",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/9409ee809df0deeeeca31915a57680cd.jpg"
-    },
-    {
-      "title": "アース製薬「ゴキブリ駆除スプレー」の恋愛ゲーム『ごきラブ』まさかの無料公開。Gの波動ただよう攻略対象4人はすべて“CV：梶裕貴”。恋愛ゲームなのに「ショックの強い表現が含まれています」という不穏な警告文付き",
-      "url": "https://news.denfaminicogamer.jp/news/260604e",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-06-03T23:08:27",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/2287abcaf2bd88113b3ccbdc41fdad9a.png"
-    },
-    {
-      "title": "「最強メカ」をカスタマイズして戦うゲーム『Ironwing Valiant: Record of Astera』が超かっこいい。頭部、腕部など、部位ごとに細かくパーツの入れ替えて、自分だけの相棒を作り上げる",
-      "url": "https://news.denfaminicogamer.jp/news/260604f",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-06-03T23:06:56",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_7bed96828e95bf959b08395f0d3ecfc77cd07198.1920x1080.jpg"
-    },
-    {
-      "title": "「モンエナ」の新商品「モンスター バッドアップル」が6月30日に日本上陸。“果汁モンスター”シリーズ初のアップルフレーバー",
-      "url": "https://news.denfaminicogamer.jp/news/2606035h",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-06-03T15:00:12",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/main-22.jpg"
-    },
-    {
-      "title": "『桜蘭高校ホスト部』の「一番くじ」が10月24日より順次発売。TVアニメ20周年を記念したハルヒと環のフィギュアがA賞にラインナップ",
-      "url": "https://news.denfaminicogamer.jp/news/2606035g",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-06-03T14:47:43",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/3ce57fe4-a67d-4979-bfad-4ac05ff9f0ca.webp"
-    },
-    {
-      "title": "HD-2D風ツクール「RPGツクールU2U」開発インタビュー。過去作ツクールアセットも活用可で、手軽に3D化で出来るRPG作りサポートを目指して",
-      "url": "https://automaton-media.com/articles/interviewsjp/20260603-446936/",
-      "source": "Automaton",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-06-03T09:30:37",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260603-446936-header.jpg"
-    },
-    {
-      "title": "ハチャメチャ採掘ローグライト『MINERALS: Deep Core Mining』発表。掘削機を超巨大化させたり無人機を大量生産したり、多彩ビルドで無限採掘地中ライフ",
-      "url": "https://automaton-media.com/articles/newsjp/20260603-446898/",
+      "title": "心霊写真鑑定ホラー『死写ZERO -SHISYA ZERO-』発表、7月31日配信へ。写真を処理して怪異発見、徐々におかしくなっていく恐怖の生配信",
+      "url": "https://automaton-media.com/articles/newsjp/20260604-447125/",
       "source": "Automaton",
       "category": "release",
       "importance": "high",
-      "published": "2026-06-03T07:11:17",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260603-446898-header.jpg"
+      "published": "2026-06-04T06:33:35",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260604-447125-header.jpg"
     },
     {
-      "title": "人気爆発ネズミアクション『Mina the Hollower』、発売3日ですぐさま売上30万本突破。“資金難”とされたスタジオもひとまず安泰",
-      "url": "https://automaton-media.com/articles/newsjp/mina-the-hollower-20260603-446817/",
+      "title": "魔界マンション経営ゲーム『マンションダンジョン』正式発表。働いたり遊んだり住民と仲良くしたり、個性豊かな魔族たちとすごす魔界管理人生活",
+      "url": "https://automaton-media.com/articles/newsjp/20260604-447114/",
       "source": "Automaton",
       "category": "release",
       "importance": "high",
-      "published": "2026-06-03T02:35:30",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/mina-the-hollower-20260603-446817-header.jpg"
+      "published": "2026-06-04T06:10:54",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260604-447114-header.jpg"
     },
     {
-      "title": "オープンワールド・レースゲーム『CLUTCH』発表。元『Forza Horizon』シリーズ開発者が放つ新作、車の“かつてないディテール”とカスタマイズ推し",
-      "url": "https://automaton-media.com/articles/newsjp/20260603-446809/",
+      "title": "Nintendo Switch 2向け『エルデンリング Tarnished Edition』8月28日発売へ。「パフォーマンス調整」で延期を経てついに",
+      "url": "https://automaton-media.com/articles/newsjp/20260604-447255/",
       "source": "Automaton",
       "category": "release",
       "importance": "high",
-      "published": "2026-06-03T01:35:23",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260603-446809-header.jpeg"
+      "published": "2026-06-04T14:04:34",
+      "image": "https://automaton-media.com/wp-content/uploads/2025/10/20251023-362829-001a.jpg"
     },
     {
-      "title": "『ポケモンチャンピオンズ』スマホ版、6月17日配信へ。記念にライチュウとライチュウナイトＸ・Ｙをもらえるキャンペーン実施へ",
-      "url": "https://automaton-media.com/articles/newsjp/20260603-446986/",
+      "title": "Valveの新小型ゲーミングPC「Steam Machine」は今夏発売へ。意外と早く出る",
+      "url": "https://automaton-media.com/articles/newsjp/20260605-447267/",
       "source": "Automaton",
       "category": "release",
       "importance": "normal",
-      "published": "2026-06-03T13:10:10",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260603-446986-header2.jpg"
+      "published": "2026-06-05T00:17:43",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260605-447267-header-1.jpg"
+    },
+    {
+      "title": "Steamストアページが「一新」、よりおすすめゲームに出会いやすく。セール中ゲーム専用セクションや“個人用カレンダー”が正式実装",
+      "url": "https://automaton-media.com/articles/newsjp/steam-20260605-447262/",
+      "source": "Automaton",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-06-05T00:03:18",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/steam-20260605-447262-header.jpg"
+    },
+    {
+      "title": "『PUBG』生んだクリエイターのスタジオが資金難に。早期アクセス中の新作は開発中止・無料化へ―ブレンダン・グリーン氏が組織再編を発表",
+      "url": "https://www.gamebusiness.jp/article/2026/06/04/27122.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-06-04T11:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185681.jpg"
     },
     {
       "title": "マイクロソフト、開発者向けミニPC「Surface RTX Spark Dev Box」を発表。年内発売予定",
@@ -201,91 +120,127 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/185556.jpg"
     },
     {
-      "title": "6月はゲーム発表の季節！配信番組スケジュール&見どころまとめ―大作からインディーまで情報の洪水を見逃すな",
-      "url": "https://www.gamebusiness.jp/article/2026/06/02/27105.html",
+      "title": "中東・サウジアラビアのゲームユーザーのリアルに迫る―「ゲームビジネス市場・企業進出環境調査報告会」開催レポート",
+      "url": "https://www.gamebusiness.jp/article/2026/06/05/27124.html",
       "source": "GameBusiness.jp",
       "category": "industry",
-      "importance": "high",
-      "published": "2026-06-02T10:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185522.jpg"
+      "importance": "normal",
+      "published": "2026-06-05T00:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185610.jpg"
     },
     {
-      "title": "携帯XBOX初のOLED採用、ASUS ROG XBOX Ally X20発表　XREAL R1グラス同梱の20周年モデル",
-      "url": "https://www.gamebusiness.jp/article/2026/06/02/27104.html",
+      "title": "『ウィッチャー』開発元の新規IP『Hadar』は“エモーショナルなオープンワールド体験”と求人情報に記載―過去には近接戦闘主体の「ARPG」という報道も",
+      "url": "https://www.gamebusiness.jp/article/2026/06/04/27123.html",
       "source": "GameBusiness.jp",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-06-02T10:00:05",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185480.jpg"
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-06-04T11:45:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185670.png"
     },
     {
-      "title": "絶版だった「ドラゴンクエストへの道」が36年の時を経て復刻―石ノ森章太郎が監修した『ドラクエ』開発秘話漫画",
-      "url": "https://www.gamebusiness.jp/article/2026/06/03/27112.html",
-      "source": "GameBusiness.jp",
+      "title": "『Destiny 2』最後の大規模アップデート「勝利の記念碑」リリーストレーラーが公開。過去の限定アイテム復刻や新たな報酬システムなどが6月10日実装へ",
+      "url": "https://news.denfaminicogamer.jp/news/260605e",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-06-04T23:09:26",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/aa20f2ce7c18ecca0695d0eb7ead962f.png"
+    },
+    {
+      "title": "電車を運転してド派手なトリックをキメるゲーム『電車アタック』日本語音声に対応へ、トリックを決めた後に日本語で盛り上げてくれるように。正式リリース日が「6月17日→7月15日」へと変更されることも発表",
+      "url": "https://news.denfaminicogamer.jp/news/260605d",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-06-04T22:49:40",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_f0402decb3868875219df33d1e7691c1b49719a8.1920x1080.jpg"
+    },
+    {
+      "title": "『エルデンリング Tarnished Edition』Nintendo Switch 2版が8月28日に発売決定！4種の新防具、2種の新たな素性、霊馬トレントの見た目を変更できる機能（全3種）などが追加",
+      "url": "https://news.denfaminicogamer.jp/news/2606043r",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-04T14:02:00",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/01_ELDEN-RING-Tarnished-Edition_KeyArt_NSW2.png"
+    },
+    {
+      "title": "『バイオハザード』シリーズが最大「80％オフ」セール開催中。新作『レクイエム』20％オフをはじめ、『RE:4』も「75％オフ」で最安値を更新",
+      "url": "https://news.denfaminicogamer.jp/news/260605h",
+      "source": "電ファミニコゲーマー",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-06-04T23:46:15",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/22cbc1121ee941881c5bf1cb15ab8b1b-1.png"
+    },
+    {
+      "title": "カードを使って「悪魔の召喚」をする“オカルト”デッキ構築ゲーム『Burn With Me』体験版が配信中。カード同士のシナジーを活かし、禁断の儀式を無事に終わらせよう",
+      "url": "https://news.denfaminicogamer.jp/news/260604k",
+      "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "normal",
-      "published": "2026-06-03T11:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185545.jpg"
+      "published": "2026-06-04T23:00:38",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_09f0b40046a98549e49da71c114cfdcb58799012.1920x1080.jpg"
     },
     {
-      "title": "台湾におけるPhysical AI元年 COMPUTEX 2026ロボット展示エリアレポート",
-      "url": "https://jp.ign.com/computex-2026/83408/physical-ai-computex-2026",
-      "source": "IGN Japan",
-      "category": "industry",
+      "title": "［インタビュー］「信長の野望 覇道」3.5周年は，信長のパパ世代で国盗りじゃ！　えっ勝てば郡まるごと塗れる国盗攻城戦じゃと!?",
+      "url": "https://www.4gamer.net/games/635/G063555/20260602010/",
+      "source": "4Gamer.net",
+      "category": "business",
       "importance": "high",
-      "published": "2026-06-03T11:03:31",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/img-8517_7ebu.jpg"
+      "published": "2026-06-04T22:00:00",
+      "image": "https://www.4gamer.net/games/635/G063555/20260602010/SS/002.jpg"
     },
     {
-      "title": "『Marvel’s Wolverine』特大インタビュー 開発のInsomniacが語る、ソニーの「妥協なしに暴力的な」PS5独占タイトルの真髄",
-      "url": "https://jp.ign.com/marvels-wolverine/83401/marvels-wolverine-insomniacps5",
-      "source": "IGN Japan",
+      "title": "［インタビュー］「イナズマイレブン クロス」が目指す，新しい“超次元サッカー”。スマホで気軽に，好きなキャラクターを育てる楽しさ。日野晃博社長に新規層開拓と今後の展望を聞く",
+      "url": "https://www.4gamer.net/games/974/G097482/20260601053/",
+      "source": "4Gamer.net",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-06-04T15:00:00",
+      "image": "https://www.4gamer.net/games/974/G097482/20260601053/SS/010.jpg"
+    },
+    {
+      "title": "「タイニーメタル2」，椎名 豪氏が音楽を担当すると発表。「テイルズ オブ」シリーズほか，多数の人気作に参加した作曲家",
+      "url": "https://www.4gamer.net/games/948/G094814/20260604066/",
+      "source": "4Gamer.net",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-06-04T13:41:07",
+      "image": "https://www.4gamer.net/games/948/G094814/20260604066/SS/001.jpg"
+    },
+    {
+      "title": "基本プレイ無料のオンライン弾幕アクションRPG「Runeward Online」が発表に。アナウンストレイラーを公開",
+      "url": "https://www.4gamer.net/games/013/G101301/20260604057/",
+      "source": "4Gamer.net",
       "category": "release",
       "importance": "high",
-      "published": "2026-06-03T05:16:51",
-      "image": "https://sm.ign.com/ign_jp/news/m/marvels-wo/marvels-wolverine-the-big-interview-with-insomniac-on-sonys_tmqs.jpg"
+      "published": "2026-06-04T10:56:51",
+      "image": "https://www.4gamer.net/games/013/G101301/20260604057/SS/005.jpg"
     },
     {
-      "title": "『クロノ・トリガー』や『ゼルダの伝説 時のオカリナ』リメイクなど、6月に控える大型ゲームイベントの発表を予想してみよう！：#491 しゃべりすぎGAMER",
-      "url": "https://jp.ign.com/gamer-1/83395/6491-gamer",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-06-02T11:00:35",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/2_cvyr.png"
-    },
-    {
-      "title": "『SILENT HILL: Townfall』発売日アナウンストレーラー",
-      "url": "https://jp.ign.com/ps5/83406/silent-hill-townfall",
-      "source": "IGN Japan",
+      "title": "Nintendo Switch 2版「ELDEN RING Tarnished Edition」が8月28日全世界で発売へ。4種の防具，2種の素性，トレントの外見変更機能などを追加",
+      "url": "https://www.4gamer.net/games/013/G101308/20260605001/",
+      "source": "4Gamer.net",
       "category": "release",
       "importance": "high",
-      "published": "2026-06-03T04:53:59",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1221_d9wc.png"
+      "published": "2026-06-04T15:16:04",
+      "image": "https://www.4gamer.net/games/013/G101308/20260605001/SS/003.jpg"
     },
     {
-      "title": "『Mina the Hollower』IGN USで10点満点！でも気になるところも...？：今週遊んだゲーム 06/03/2026",
-      "url": "https://jp.ign.com/gamer-1/83405/mina-the-hollowerign-us10-06032026",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-06-03T11:00:35",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/mina_ztfq.jpg"
-    },
-    {
-      "title": "オープンソース・無料の3Dゲームエンジン「Open 3D Engine 26.05」がリリース。VFX制作機能のプレビュー版、LOD自動生成機能が追加",
-      "url": "https://gamemakers.jp/article/2026_06_02_138911/",
+      "title": "3DCGクリエイターが制作ノウハウやハードウェア活用術を語る。CGWORLDとAMD、オフラインイベント「PULSE」を6/13（土）に開催",
+      "url": "https://gamemakers.jp/article/2026_06_04_138986/",
       "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-06-02T09:35:14",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-06-04T07:26:28",
       "image": null
     },
     {
       "title": "Epic Gamesのマーケットプレイス「Fab」、6/16（火）までの期間限定で無料コンテンツを公開。サバイバルゲーム向けツール・プロップセットなど3製品",
       "url": "https://gamemakers.jp/article/2026_06_03_138956/",
       "source": "ゲームメーカーズ",
-      "category": "sale",
+      "category": "tech",
       "importance": "normal",
       "published": "2026-06-03T08:29:39",
       "image": null
@@ -306,16 +261,52 @@
       "category": "industry",
       "importance": "normal",
       "published": "2026-06-03T01:58:05",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/47ad4d8ec1763f17e74632fff4b105f9.jpg"
+      "image": null
     },
     {
-      "title": "2Dアニメーション制作ソフト「Spine 4.3」がリリース。アニメーション制御・コンストレイント機能の強化など",
-      "url": "https://gamemakers.jp/article/2026_06_03_138786/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
+      "title": "最新ゲーミング製品が集結 「COMPUTEX 2026」現地レポート",
+      "url": "https://jp.ign.com/computex-2026/83412/computex-2026",
+      "source": "IGN Japan",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-06-04T07:23:32",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/img-8413-2_fagm.jpg"
+    },
+    {
+      "title": "台湾におけるPhysical AI元年 COMPUTEX 2026ロボット展示エリアレポート",
+      "url": "https://jp.ign.com/computex-2026/83408/physical-ai-computex-2026",
+      "source": "IGN Japan",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-06-03T11:03:31",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/img-8517_7ebu.jpg"
+    },
+    {
+      "title": "『Marvel’s Wolverine』特大インタビュー 開発のInsomniacが語る、ソニーの「妥協なしに暴力的な」PS5独占タイトルの真髄",
+      "url": "https://jp.ign.com/marvels-wolverine/83401/marvels-wolverine-insomniacps5",
+      "source": "IGN Japan",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-06-03T05:16:51",
+      "image": "https://sm.ign.com/ign_jp/news/m/marvels-wo/marvels-wolverine-the-big-interview-with-insomniac-on-sonys_tmqs.jpg"
+    },
+    {
+      "title": "『SILENT HILL: Townfall』発売日アナウンストレーラー",
+      "url": "https://jp.ign.com/ps5/83406/silent-hill-townfall",
+      "source": "IGN Japan",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-03T04:53:59",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1221_d9wc.png"
+    },
+    {
+      "title": "『Mina the Hollower』IGN USで10点満点！でも気になるところも...？：今週遊んだゲーム 06/03/2026",
+      "url": "https://jp.ign.com/gamer-1/83405/mina-the-hollowerign-us10-06032026",
+      "source": "IGN Japan",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-06-02T23:28:48",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/0e74d870f3f31bee85b5abad8f408789.jpg"
+      "published": "2026-06-03T11:00:35",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/mina_ztfq.jpg"
     }
   ]
 }
