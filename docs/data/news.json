@@ -1,141 +1,33 @@
 {
-  "generated_at": "2026-06-08T00:30:19.441316",
-  "poem": "おはようございます！🌞 \n今日のゲームニュースは、空陸両用バイクのオープンワールド『Into the Wind』や、 時を操るスチームパンクFPS『Clockwork Revolution』など、多くの魅力的作品が発表されました。\n注目されているのは、ジブリにインスパイアされた『Into the Wind』や、クラフトとサバイバルの『ソーラーパンク：天空の島』などです！ 🎮\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-06-09T00:25:22.998279",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、リアルタイムCGやAIの活用が注目されています。新作ゲームの発表も相次ぎ、新しい体験が待っています 💻\n特に、『VIRTUA FIGHTER CROSSROADS』や『Sea of Stars』の最新情報が熱いですね！\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "「自我を持つバイク兼飛行機」に乗って配達をするゲーム『Into the Wind』発表。ジブリにインスパイアされた作品で『紅の豚』みたいな作風がステキ",
-      "url": "https://news.denfaminicogamer.jp/news/2606083o",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-07T23:42:44",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/image3-7.png"
-    },
-    {
-      "title": "【3人協力】『Mouthwashing』開発元が手がける3人用戦車CO-OPゲーム『Carcass Clad』が発表。戦車の操作はすべて“手作業” 、車長・砲手・操縦手に分かれ戦場からの脱出を目指す",
-      "url": "https://news.denfaminicogamer.jp/news/2606083m",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-07T22:07:41",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_cc97bc2e01edda170d7161647e477bbd5bbacef2.1920x1080-1.jpg"
-    },
-    {
-      "title": "高評価ゲーム『シチズンスリーパー』開発元の新作RPG『Signet City』発表。主人公はなんと「菌類の寄生生物」",
-      "url": "https://news.denfaminicogamer.jp/news/2606083k",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-07T21:15:54",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/SIGNET-CITY-Reveal-Trailer-0-20-screenshot.png"
-    },
-    {
-      "title": "時を操り“歴史を変える”スチームパンク”FPS『Clockwork Revolution』2027年に発売決定！偶然手に入れた過去への跳躍を可能にする発明を駆使し、巨大都市・アヴァロンの歴史を改変",
-      "url": "https://news.denfaminicogamer.jp/news/2606082w",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-07T18:16:46",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_23a70bba46f76dfdc7c8916c10f7fbed1af8c56d.1920x1080.jpg"
-    },
-    {
-      "title": "ちいさなドラゴンの飛行アクション『Spyro A Realm Beyond』が発表、2027年春発売へ。Activisionの『Spyro』シリーズの新作",
-      "url": "https://news.denfaminicogamer.jp/news/260608b",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-07T18:09:19",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/WS000619.jpg"
-    },
-    {
-      "title": "“空陸両用バイク”オープンワールド『Into the Wind』発表。自我をもつバイクを相棒に島々を大奔走、空賊との戦闘もある配達ゲーム",
-      "url": "https://automaton-media.com/articles/newsjp/20260608-448276/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-07T22:42:42",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260608-448276-header2.jpg"
-    },
-    {
-      "title": "『クロックタワー』リスペクトなホラー続編『リマザード：ブロークン ポーセリン』GOG.comにて1日限定無料配布開始。定価3090円のゲームがタダ",
-      "url": "https://automaton-media.com/articles/newsjp/20260608-448261/",
-      "source": "Automaton",
-      "category": "sale",
-      "importance": "high",
-      "published": "2026-06-07T21:45:25",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260608-448261-header.jpg"
-    },
-    {
-      "title": "「寄生体視点」終末都市RPG『Signet City』発表。『シチズン・スリーパー』開発者の新作もTRPG風システム採用、ダイスロールと決断が“宿主”の運命を変える",
-      "url": "https://automaton-media.com/articles/newsjp/20260608-448254/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-07T21:33:32",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260608-448254-header.jpg"
-    },
-    {
-      "title": "3人プレイ専用“戦車ホラー”『Carcass Clad』発表。三人一組の操作で奇妙な町を脱出する緊迫戦車戦、人気ホラーゲーム『Mouthwashing』開発元の新作",
-      "url": "https://automaton-media.com/articles/newsjp/carcass-clad-20260608-448247/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-07T21:24:22",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/carcass-clad-20260608-448247-header.jpeg"
-    },
-    {
-      "title": "MMORPG『エルダー・スクロールズ・オンライン』シーズン1発表。かなり久々の「盗賊ギルド」新ストーリー",
-      "url": "https://automaton-media.com/articles/newsjp/20260608-448206/",
-      "source": "Automaton",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-06-07T21:13:34",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260608-448206-header.jpg"
-    },
-    {
-      "title": "ついに「Valheim」が2026年9月9日に正式リリースへ。Ver1.0“極北（Deep North）”アップデートで新たな世界が広がる",
-      "url": "https://www.4gamer.net/games/513/G051314/20260608042/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-07T20:55:53",
-      "image": "https://www.4gamer.net/games/513/G051314/20260608042/SS/001.jpg"
-    },
-    {
-      "title": "新作協力型ホラー「Pipes.exe」発表。不穏な雰囲気の実写トレイラーが公開に",
-      "url": "https://www.4gamer.net/games/014/G101444/20260608036/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-07T20:45:53",
-      "image": "https://www.4gamer.net/games/014/G101444/20260608036/SS/002.jpg"
-    },
-    {
-      "title": "お爺ちゃんたちがピッケル片手に頂上を目指すクライミングアクション「Sunset Summit」が発表。最大8人での協力プレイに対応",
-      "url": "https://www.4gamer.net/games/014/G101445/20260608038/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-07T20:39:11",
-      "image": "https://www.4gamer.net/games/014/G101445/20260608038/SS/001.jpg"
-    },
-    {
-      "title": "アクションRPG「Outward 2」，オープンβテストへの移行を発表。ゲームプレイシーンを収録した新たな映像も公開に",
-      "url": "https://www.4gamer.net/games/008/G100857/20260607005/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-06-07T20:01:00",
-      "image": "https://www.4gamer.net/games/008/G100857/20260607005/SS/001.jpg"
-    },
-    {
-      "title": "【今週のモチベ】シリーズ最新作「パワフルプロ野球2026-2027」や，サバイバルクラフト「ソーラーパンク：天空の島」が発売される 2026年6月8日〜6月14日",
-      "url": "https://www.4gamer.net/games/954/G095479/20260607007/",
-      "source": "4Gamer.net",
-      "category": "release",
+      "title": "最先端の技術と日本の産業界をつなぎたい。Arcnel・向井秀哉氏が語る、自動車・映像・建築分野におけるリアルタイムCG・AI導入の突破口とは？ - 特集",
+      "url": "https://cgworld.jp/article/arcnelcgai.html",
+      "source": "CGWORLD",
+      "category": "tech",
       "importance": "normal",
-      "published": "2026-06-07T23:00:00",
-      "image": "https://www.4gamer.net/games/954/G095479/20260607007/SS/009.jpg"
+      "published": "2026-06-09T06:48:24",
+      "image": "https://cgworld.jp/article/assets_c/2026/06/004c8f0fe4658eb393d70aa7b35658f0e00effeb-thumb-1000x682-84555.jpg"
+    },
+    {
+      "title": "freee、経営×バックオフィス×AIの祭典「freee 統合ワールド」6/16（火）東京にて開催－『KILLTUBE』太田氏×栗林氏も登壇 - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2606-freee.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-06-08T06:15:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/91a7818fdaf9f4e32117210de7bbdb40240f0b79-thumb-1000x563-84543.png"
+    },
+    {
+      "title": "『シン・エヴァンゲリオン劇場版』で導入された映画制作技術を「体験」へ 「エヴァフェス」ヴァーチャルカメラスタジオの舞台裏とHPのZシリーズが果たした役割 - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/2605-hp-eva30.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-06-08T01:53:40",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/05/9b4f80c8d142bd3bf944939169af127b35c1a16d-thumb-1000x563-83350.png"
     },
     {
       "title": "3D生成AI「Rodin Gen-2.5」リリース　最大1,000万ポリゴンの生成が可能に、4秒100万ポリゴンの高速生成、LLM的思考プロセス搭載、12Kテクスチャ - ニュース",
@@ -147,31 +39,148 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/06/RodinGen25-01-thumb-1920x1080-84604.jpg"
     },
     {
-      "title": "Substance 3D Painerチュートリアル動画「Building Masks Explained」公開　爬虫類の皮膚のテクスチャリングを題材にマスク構築手法を解説 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202606-SP-Masks.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-06T22:48:43",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/SP_Masks-01-thumb-1920x1080-84574.jpg"
+      "title": "『バーチャファイター』新作『VIRTUA FIGHTER CROSSROADS』山田理一郎氏インタビュー。“新生バーチャ”が「6ではない理由」や「一人用モードをがっつり作りこむ」理由を訊いた",
+      "url": "https://automaton-media.com/articles/interviewsjp/virtua-fighter-crossroads-20260608-448410/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-08T15:00:03",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/virtua-fighter-crossroads-20260608-448410-header.jpg"
     },
     {
-      "title": "龍が如くスタジオの手でシングルプレイも重視 正式発表された『VIRTUA FIGHTER CROSSROADS』の8つの注目ポイント",
-      "url": "https://jp.ign.com/games/83426/virtua-fighter-crossroads8",
+      "title": "“『マインスイーパー』風”推理パズル『Bloody Grids』発表。マスの情報からモンスターの配置とレベルを読む、地下施設からの脱出劇",
+      "url": "https://automaton-media.com/articles/newsjp/20260608-448375/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-08T07:53:01",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260608-448375-header.jpg"
+    },
+    {
+      "title": "動物園ならぬ“怪物園”経営シム『Monster Zoo Tycoon』発表。脱走すると地獄絵図、来園者はエサにしたり洗脳したり悪行三昧",
+      "url": "https://automaton-media.com/articles/newsjp/20260608-448349/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-08T05:20:29",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260608-448349-header.jpg"
+    },
+    {
+      "title": "Steamの新たなマルチ登山ゲーム『Sunset Summit』発表。お年寄りたちが「最大8人」で協力クライミング、ステッキで跳ね“豆で空飛ぶ”カオス老人会",
+      "url": "https://automaton-media.com/articles/newsjp/20260608-448325/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-08T03:17:33",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260608-448325-header.jpg"
+    },
+    {
+      "title": "“デッキ構築型”格闘バトル『2 Fights in 2 Tight Spaces』発表、いきなり早期アクセス配信開始。人気作続編は最大3人マルチ対応、狭所接近戦を「知略と連携」で制する",
+      "url": "https://automaton-media.com/articles/newsjp/20260608-448314/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-08T02:36:08",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260608-448314-header.jpg"
+    },
+    {
+      "title": "『Sea of Stars』最後のアップデート「サンセットエディション」が配信。開発元が過去最大の予算を投じたオープニングムービーが追加され、ゲームバランスも調整。Steamでは初の“50%オフ”セールも実施中",
+      "url": "https://news.denfaminicogamer.jp/news/260609c",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-06-08T22:19:41",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/3c9515665a35044c36819b5d00e27ef5.jpg"
+    },
+    {
+      "title": "『パワーウォッシュシミュレーター2』と『スター・ウォーズ』のコラボDLCが7月16日に発売決定。「ミレニアム・ファルコン」「Xウイング・スターファイター」「AT-AT」などをピカピカにできる",
+      "url": "https://news.denfaminicogamer.jp/news/2606084o",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-08T14:00:02",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/20855.jpg"
+    },
+    {
+      "title": "「Nintendo Direct 2026.6.9」が2026年6月9日23時より放送決定！2026年後半発売のタイトルを中心に、Nintendo Switch 2、Nintendo Switchソフトの情報を約50分間にわたってお届け",
+      "url": "https://news.denfaminicogamer.jp/news/2606085d",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-08T13:49:11",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/Direct-S.png"
+    },
+    {
+      "title": "マンガ『ブルーロック』本日6月9日限定で全話無料公開。「マガジンポケット」「ebookjapan」「コミックシーモア」「LINEマンガ」にて。世界累計発行部数は6000万部を突破",
+      "url": "https://news.denfaminicogamer.jp/news/260609d",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-06-08T23:17:30",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/HKTNybPasAA8FV3.jpg"
+    },
+    {
+      "title": "『餓狼伝説CotW』ネイティブアメリカン風のボクサーが立ち上がる「謎の映像」公開。「リック・ストラウド」“28年ぶり”の復活が予想されSNS上で話題に、ファンからは期待の声が集まる",
+      "url": "https://news.denfaminicogamer.jp/news/260609a",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-06-08T22:49:47",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/yt_VUEDN2Unf_w_maxresdefault.jpg"
+    },
+    {
+      "title": "［インタビュー］「VIRTUA FIGHTER CROSSROADS」の開発を率いる山田理一郎氏に聞く。劇的に変貌したバーチャファイターが目指すものとは",
+      "url": "https://www.4gamer.net/games/865/G086589/20260602032/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-08T15:00:00",
+      "image": "https://www.4gamer.net/games/865/G086589/20260602032/SS/005.jpg"
+    },
+    {
+      "title": "プレイヤーに襲いかかるのは“正義のヒーロー”。犯罪組織の末端として任務をこなす協力型ホラー「P.O.N.」が正式発表に",
+      "url": "https://www.4gamer.net/games/014/G101491/20260608095/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-08T11:35:30",
+      "image": "https://www.4gamer.net/games/014/G101491/20260608095/SS/005.jpg"
+    },
+    {
+      "title": "倒した敵の遺体を食べることで，さまざまな効果を獲得。地表を目指すダンジョンローグライクRPG「Starving Shadows」発表。アナウンストレイラーも公開",
+      "url": "https://www.4gamer.net/games/014/G101492/20260608092/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-08T11:10:57",
+      "image": "https://www.4gamer.net/games/014/G101492/20260608092/SS/002.jpg"
+    },
+    {
+      "title": "任天堂，6月9日23：00より「Nintendo Direct 2026.6.9」を配信。2026年後半発売予定のSwitch 2とSwitch向け新作タイトルを中心に紹介",
+      "url": "https://www.4gamer.net/games/999/G999905/20260608100/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-08T14:43:54",
+      "image": "https://www.4gamer.net/games/999/G999905/20260608100/SS/002.jpg"
+    },
+    {
+      "title": "「信長の野望 天下への道」1周年直前公式生放送は6月11日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+      "url": "https://www.4gamer.net/games/421/G042182/20260608093/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-06-08T23:00:00",
+      "image": "https://www.4gamer.net/games/421/G042182/20260608093/SS/002.jpg"
+    },
+    {
+      "title": "上田文人新作『gen ATLAS』は『ワンダと巨像』に近い？インタビュー内容からゲームデザインを考察",
+      "url": "https://jp.ign.com/untitled-fumito-ueda-gendesign-project/83457/gen-atlas",
       "source": "IGN Japan",
       "category": "release",
       "importance": "high",
-      "published": "2026-06-06T05:45:38",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/4chara_ytgr.png"
-    },
-    {
-      "title": "台北に集結した日本のAIスタートアップが多彩な可能性を提示 InnoVEX 2026レポート",
-      "url": "https://jp.ign.com/computex-2026/83430/ai-innovex-2026",
-      "source": "IGN Japan",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-06-06T06:33:26",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/img-8679_htvb.jpg"
+      "published": "2026-06-08T09:39:04",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/sgf_b6au.jpg"
     },
     {
       "title": "三国志ソウルライク『Wo Long 2: Wings of Ember』が発表 トレーラーにはオープンワールドを予感させる部分も",
@@ -192,22 +201,103 @@
       "image": "https://sm.ign.com/ign_jp/screenshot/default/persona-6-teaser-trailer-xbox-games-showcase-2026-1-15-scree_vyyx.png"
     },
     {
-      "title": "Ace Combat 8: Wings of Theve - June 2026 Screenshots",
-      "url": "https://jp.ign.com/ace-combat-8-wings-of-theve/83435/ace-combat-8-wings-of-theve-june-2026-screenshots",
+      "title": "『龍が如く』とも『シェンムー』とも違う、『VIRTUA FIGHTER CROSSROADS』独自のアドベンチャーゲーム的アプローチについて",
+      "url": "https://jp.ign.com/new-virtua-fighter-project/83460/virtua-fighter-crossroads",
       "source": "IGN Japan",
       "category": "release",
       "importance": "normal",
-      "published": "2026-06-07T07:51:39",
-      "image": "https://sm.ign.com/ign_jp/photo/default/ace-pilot-1780510339440_xzrc.jpg"
+      "published": "2026-06-08T22:32:03",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/pai_4wvk.png"
     },
     {
-      "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/6/6】",
-      "url": "https://gamemakers.jp/article/2026_06_06_138982/",
+      "title": "選択によって物語が分岐？『VIRTUA FIGHTER CROSSROADS』開発者セッションで明らかになった新情報！",
+      "url": "https://jp.ign.com/new-virtua-fighter-project/83456/virtua-fighter-crossroads",
+      "source": "IGN Japan",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-06-08T15:03:00",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/2_pw3w.png"
+    },
+    {
+      "title": "『ペルソナ6』や『クレタク』新作も！「Xbox Games Showcase 2026」発表内容ひとまとめ",
+      "url": "https://www.gamebusiness.jp/article/2026/06/08/27155.html",
+      "source": "GameBusiness.jp",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-08T11:45:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186060.jpg"
+    },
+    {
+      "title": "ジェームズ・ボンド誕生を描く『007 ファーストライト』初週販売本数は270万本！Year Oneコンテンツの紹介映像も",
+      "url": "https://www.gamebusiness.jp/article/2026/06/07/27145.html",
+      "source": "GameBusiness.jp",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-07T02:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185892.jpg"
+    },
+    {
+      "title": "XBOX部門CCO、独占にするかは「ケースバイケース」と発言。『Gears』新作などXBOXコンソール独占となることへコメント",
+      "url": "https://www.gamebusiness.jp/article/2026/06/08/27154.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-06-08T11:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186094.png"
+    },
+    {
+      "title": "『PICO PARK』シリーズ開発者らが新会社「PICO PARK株式会社」を設立。『SONIC PICO PARK』は新会社第1作としてリリースへ",
+      "url": "https://www.gamebusiness.jp/article/2026/06/08/27153.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-06-08T11:15:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186107.jpg"
+    },
+    {
+      "title": "『桃鉄』シリーズが累計販売本数2,000万本突破！37年の歴史を誇る国民的ゲームが大記録達成",
+      "url": "https://www.gamebusiness.jp/article/2026/06/08/27152.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-06-08T11:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186120.png"
+    },
+    {
+      "title": "コロプラ、『KAZUMA KANEKO’S ツクヨミ』のUI設計プロセスを紹介。世界観と操作性を両立するUIの最適化手法を解説",
+      "url": "https://gamemakers.jp/article/2026_06_08_139215/",
       "source": "ゲームメーカーズ",
       "category": "tech",
-      "importance": "high",
-      "published": "2026-06-06T01:58:06",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/d84a61ea0c0b9ba570dd83e45a1206b0.jpg"
+      "importance": "normal",
+      "published": "2026-06-08T10:29:17",
+      "image": null
+    },
+    {
+      "title": "UE初心者に向けたチュートリアルコースがUE公式サイトにて公開。ゲームの仕組みや見た目をより発展させる制作手法を紹介",
+      "url": "https://gamemakers.jp/article/2026_06_08_139178/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-06-08T09:24:46",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/a1fd0941b39dcad90b6ba76c760edb29.jpg"
+    },
+    {
+      "title": "オープンソースのRPG制作ツール「RPG-Cobo」、ベータテスト版が公開。プログラミング不要、豊富なボクセル素材で3Dマップも手軽に作成可能",
+      "url": "https://gamemakers.jp/article/2026_06_08_139186/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-06-08T08:25:57",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/769da426c7d61fa0a753ac9eb61fa38a.jpg"
+    },
+    {
+      "title": "ゲーム業界の大規模勉強会「GAME CREATORS CONFERENCE ’27」、来年3/12（金）に大阪で開催決定",
+      "url": "https://gamemakers.jp/article/2026_06_08_139198/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-06-08T07:17:21",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/5c0783990c3177e5f80c30bc514f6d09.jpg"
     },
     {
       "title": "ゲームサウンド制作向けDAW「REAPER」を活用したワークフロー改善事例を紹介。IGDA主催ウェビナーの資料・動画が公開",
@@ -217,51 +307,6 @@
       "importance": "normal",
       "published": "2026-06-07T03:57:01",
       "image": null
-    },
-    {
-      "title": "期待の新作が続々登場！「Summer Game Fest 2026」発表内容ひとまとめ",
-      "url": "https://www.gamebusiness.jp/article/2026/06/06/27142.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-06-06T11:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185900.jpg"
-    },
-    {
-      "title": "パラマウント・スカイダンス、新たなゲームスタジオ「Paramount Games Studio」を発表",
-      "url": "https://www.gamebusiness.jp/article/2026/06/06/27141.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-06-06T11:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185962.jpg"
-    },
-    {
-      "title": "ホラー制作の「株式会社闇」が新レーベル「YAMI GAMES」設立。限界配信者が登場のメタホラー『たろうくんはいっ てきました』などSteam向け2作品を発表",
-      "url": "https://www.gamebusiness.jp/article/2026/06/06/27133.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-06-06T02:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185809.png"
-    },
-    {
-      "title": "ジェームズ・ボンド誕生を描く『007 ファーストライト』初週販売本数は270万本！Year Oneコンテンツの紹介映像も",
-      "url": "https://www.gamebusiness.jp/article/2026/06/07/27145.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-06-07T02:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185892.jpg"
-    },
-    {
-      "title": "タイ、映画・シリーズ・アニメーション専門の国際商談プラットフォーム「BICM2026」を始動 ― バンコクで2026年7月開催",
-      "url": "https://www.gamebusiness.jp/article/2026/06/07/27144.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-06-07T02:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/185959.jpg"
     }
   ]
 }
