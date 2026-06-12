@@ -1,141 +1,141 @@
 {
-  "generated_at": "2026-06-11T00:33:03.425361",
-  "poem": "おはようございます！ 🌞\nゲーム業界は今日も活気に満ちています。『Wo Long』のアップデートや『Pikuniku 2』の発表、Ubisoftのレイオフなど、様々なニュースがあります。また、注目されるニュースとしては『TES6』の開発が順調との報告がありました。\nそれでは今日のニュースをどうぞ！ 💻",
+  "generated_at": "2026-06-12T00:33:09.660133",
+  "poem": "おはようございます！ 🌞\n今日はゲーム業界でいくつかの大きなニュースがあります。『オーバーウォッチ』の新ヒーロー「シオン」が発表され、ゲームプレイ映像も公開されました ⚡️\n『STRANGER THAN HEAVEN』や『ベルセルク』、その他多くのゲームのニュースもあります。\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "三國死にゲー『Wo Long』に2年振りアップデートが到来、序盤の山場「張梁」がふたたび弱体化。“教育担当”の力強い攻撃が、さらにちょっと優しく",
-      "url": "https://automaton-media.com/articles/newsjp/wolong-20260610-449021/",
+      "title": "『STRANGER THAN HEAVEN』先行プレイレポート。仁義を知らない悪人が振りかざす日本刀でも、素手でパリィすればなんとかなる。それが“漢”だ【Summer Game Fest Play Days 2026】",
+      "url": "https://news.denfaminicogamer.jp/kikakuthetower/2606113j",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-06-11T14:00:58",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/image3-7.jpg"
+    },
+    {
+      "title": "『オーバーウォッチ』新ヒーロー「シオン」はバイクに乗れる機動力マシマシの“アタッカー”で実装。ゲームプレイ映像＆詳細情報が公開、運転中にアビリティを再入力することで、バイクを前方に飛ばすことも",
+      "url": "https://news.denfaminicogamer.jp/news/260612i",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-11T22:46:54",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/videoframe_17071.png"
+    },
+    {
+      "title": "【無料】マンガ『しゅごキャラ！』72時間限定で全話無料公開キャンペーンが開始。口下手な女の子・日奈森あむが「なりたい自分」をめぐるファンタジー少女マンガ",
+      "url": "https://news.denfaminicogamer.jp/news/260612k",
+      "source": "電ファミニコゲーマー",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-06-12T00:13:26",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/1719-8505-537574430aea073ee4dbfbf9dafbeba7-750x512-1.webp"
+    },
+    {
+      "title": "【注意】『Forza Horizon 6』一部ユーザーのセーブデータが消失する問題が発生。公式サポートチームが原因を調査中で、復旧手順や予防策を解説",
+      "url": "https://news.denfaminicogamer.jp/news/260612j",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-06-11T23:16:48",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/image.jpeg"
+    },
+    {
+      "title": "『ベルセルク』が48時間限定で「全話無料」に。最新刊をのぞき、イッキ読みするチャンス。また、最新話「移ろの水鏡と幽炎の余光」も更新",
+      "url": "https://news.denfaminicogamer.jp/news/260612h",
+      "source": "電ファミニコゲーマー",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-06-11T22:02:32",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/HKil-LPa0AAsN45.jpg"
+    },
+    {
+      "title": "『オーバーウォッチ』新DPSヒーロー「シオン」正式発表、二丁拳銃バイク乗りサイバーヤクザフランカー。6月17日の新シーズンで実装へ",
+      "url": "https://automaton-media.com/articles/newsjp/20260612-449329/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-11T23:16:00",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260612-449329-header.jpg"
+    },
+    {
+      "title": "『悠久幻想曲 2nd Album リバイバル』発表、2027年春発売へ。オリジナル版スタッフの手で蘇る“リメイク第2弾”、友情育成シミュレーションふたたび",
+      "url": "https://automaton-media.com/articles/newsjp/20260611-449253/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-11T07:45:09",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260611-449253-header.jpg"
+    },
+    {
+      "title": "神話ハクスラRPG『Titan Quest II』過去最大規模の「チャプター4」発表、近日配信へ。未踏の地「ワイルドランド」実装、キング・ケンタウロスや宿敵ネメシスの巨大神殿が待ち受ける",
+      "url": "https://automaton-media.com/articles/newsjp/20260611-449141/",
       "source": "Automaton",
       "category": "update",
       "importance": "high",
-      "published": "2026-06-10T08:09:25",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/wolong-20260610-449021-header.jpg"
+      "published": "2026-06-11T03:39:50",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260611-449141-header.jpg"
     },
     {
-      "title": "ゆるカワ“陰謀”アドベンチャー『Pikuniku 2』発表。一見ハッピーだけど「悪の組織」が支配するヘンテコ世界、悪のカエルが待つ島々をめぐるシュール大冒険",
-      "url": "https://automaton-media.com/articles/newsjp/20260610-448976/",
+      "title": "『ゼノブレイドDE Nintendo Switch 2 Edition』、「エーテルジェット」実装で“ゼノブレイドカート”化したと脚光浴びる。スピードもやかましさもぶっちぎりの新要素",
+      "url": "https://automaton-media.com/articles/newsjp/20260611-449219/",
       "source": "Automaton",
       "category": "release",
       "importance": "high",
-      "published": "2026-06-10T05:21:59",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260610-448976-header.jpg"
+      "published": "2026-06-11T06:39:44",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260611-449219-header.jpg"
     },
     {
-      "title": "“冷笑系主人公”の青春ノベル『二万分の一の雨粒達 – One in 20,000 raindrops』発表、6月19日配信へ。高評価作『片腕のザリガニ 』開発者による、雨の修学旅行",
-      "url": "https://automaton-media.com/articles/newsjp/20260610-448945/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-10T03:28:54",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260610-448945-header.jpg"
-    },
-    {
-      "title": "Ubisoftでまたもやレイオフ。2スタジオ閉鎖＆組織再編で「約380人規模」の人員削減との報道",
-      "url": "https://automaton-media.com/articles/newsjp/ubisoft-20260611-449091/",
-      "source": "Automaton",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-06-11T00:22:35",
-      "image": "https://automaton-media.com/wp-content/uploads/2025/11/ubisoft-20251125-367033-header.jpg"
-    },
-    {
-      "title": "PS5/PCにてアーケード風白熱レースゲーム『4PGP』本日発売。『首都高バトル』『リッジレーサー』などのクリエイター携わる、サクッと遊べるマルチ対応レース",
-      "url": "https://automaton-media.com/articles/newsjp/20260611-449082/",
+      "title": "Steam食品工場自動化シム『Snacktorio』に好評集まる。食材収穫から調理まで工程ぜんぶ自動化、“腹ぺこビースト”の料理をエンドレス大量生産",
+      "url": "https://automaton-media.com/articles/newsjp/snacktorio-20260611-449263/",
       "source": "Automaton",
       "category": "release",
       "importance": "normal",
-      "published": "2026-06-10T22:00:04",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260611-449082-header2.jpg"
+      "published": "2026-06-11T10:39:15",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/snacktorio-20260611-449263-003.jpg"
     },
     {
-      "title": "［インタビュー］「鬼武者 Way of the Sword」，京都市の協力を得てお寺を取材。神は細部に宿るを体現するこだわり",
-      "url": "https://www.4gamer.net/games/865/G086595/20260609025/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-06-10T15:00:00",
-      "image": "https://www.4gamer.net/games/865/G086595/20260609025/SS/003.jpg"
-    },
-    {
-      "title": "スマホゲームのセルラン分析（2026年5月28日〜6月3日）。今週の1位は「ポケポケ」。1月〜3月の国内DL数ランキングも紹介",
-      "url": "https://www.4gamer.net/games/779/G077901/20260608046/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-06-11T00:00:00",
-      "image": "https://www.4gamer.net/games/779/G077901/20260608046/SS/002.jpg"
-    },
-    {
-      "title": "「サカつく2026」現行バージョンの集大成にふさわしい激戦が繰り広げられた“第1回 サカつく2026 最強監督決定戦 in Japan”をレポート",
-      "url": "https://www.4gamer.net/games/915/G091522/20260610064/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-06-10T23:00:00",
-      "image": "https://www.4gamer.net/games/915/G091522/20260610064/SS/025.jpg"
-    },
-    {
-      "title": "AMD製FPGAで作ったNINTENDO64互換機「ModRetro M64」が2026年7月に海外で発売。その実機を見てきた",
-      "url": "https://www.4gamer.net/games/999/G999902/20260610083/",
-      "source": "4Gamer.net",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-10T23:00:00",
-      "image": "https://www.4gamer.net/games/999/G999902/20260610083/SS/003.jpg"
-    },
-    {
-      "title": "アーケードレーシングゲーム「4PGP」，PC/PS5版を本日発売。4K/60fps表示やアナログ入力に対応，新マシン「SAFETY CAR」が登場",
-      "url": "https://www.4gamer.net/games/965/G096586/20260610074/",
+      "title": "どっちが正常？ ハチャメチャ正体隠匿型ゲーム「Buried Whispers」が発表。狂った悪魔崇拝者たちが，組織に潜む“内通者”を探る",
+      "url": "https://www.4gamer.net/games/016/G101675/20260612001/",
       "source": "4Gamer.net",
       "category": "release",
-      "importance": "normal",
-      "published": "2026-06-10T22:00:00",
-      "image": "https://www.4gamer.net/games/965/G096586/20260610074/SS/008.jpg"
+      "importance": "high",
+      "published": "2026-06-11T15:39:30",
+      "image": "https://www.4gamer.net/games/016/G101675/20260612001/SS/008.jpg"
     },
     {
-      "title": "『スカイリム』の続編『TES6』の開発は「順調」とXboxの幹部が海外メディアに語る。トッド氏の隣で動く『TES6』を確認し「素晴らしい」と絶賛。一方で映像公開に関しては「適切な時期まで待ちたい」と慎重な姿勢を見せた",
-      "url": "https://news.denfaminicogamer.jp/news/260611d",
-      "source": "電ファミニコゲーマー",
+      "title": "「THYSIASTERY」，3つの難度調整オプションや新モンスター，スキル，モンスターを追加する大型アップデートを実施",
+      "url": "https://www.4gamer.net/games/986/G098611/20260611049/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-06-11T11:22:03",
+      "image": "https://www.4gamer.net/games/986/G098611/20260611049/SS/001.jpg"
+    },
+    {
+      "title": "「ドラゴンクエストモンスターズ4　枯れ木の国のビアンカ・フローラ」，ストーリーや育成システムの詳細が公開。500種族以上のモンスターが登場",
+      "url": "https://www.4gamer.net/games/010/G101055/20260610066/",
+      "source": "4Gamer.net",
       "category": "release",
       "importance": "high",
-      "published": "2026-06-10T22:14:51",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/e3e5a66d796cfd454ac34d615efbb97d.jpg"
+      "published": "2026-06-11T22:00:00",
+      "image": "https://www.4gamer.net/games/010/G101055/20260610066/SS/002.jpg"
     },
     {
-      "title": "『スト6』開発陣インタビュー。『FF7R』ティファのコラボ参戦の裏側を聞いた──「もしコラボが実現するなら、やはり“ティファ”参戦でしょう」→実現。追加コスチュームの構想も“あります”【「Year 4」松本脩平氏、中山貴之氏インタビュー】",
-      "url": "https://news.denfaminicogamer.jp/interview/260611c",
-      "source": "電ファミニコゲーマー",
+      "title": "「Forza Horizon」を生んだ開発者たちの新作「Clutch」。シネマティックな物語とオープンワールドを融合したドライビングゲーム",
+      "url": "https://www.4gamer.net/games/012/G101234/20260610082/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-11T15:00:00",
+      "image": "https://www.4gamer.net/games/012/G101234/20260610082/SS/005.jpg"
+    },
+    {
+      "title": "カプコンカフェ 池袋店＆梅田店にて，「大神」シリーズ20周年コラボが開催中。コラボメニュー3品を試食してきた",
+      "url": "https://www.4gamer.net/games/412/G041232/20260610031/",
+      "source": "4Gamer.net",
       "category": "other",
-      "importance": "high",
-      "published": "2026-06-10T15:00:42",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/1000000368-e1781086439781.jpg"
-    },
-    {
-      "title": "ヘタレゾンビの少年が一目ぼれした女性を蘇生するために暴れまわるアクションRPG『Stupid Never Dies』が2026年秋発売決定。最弱ゾンビが敵の能力を奪い11種のモンスターに変身する",
-      "url": "https://news.denfaminicogamer.jp/news/2606103d",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-10T14:27:15",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/SND_KV2_Horizontal.jpg"
-    },
-    {
-      "title": "『Destiny 2』最後のアプデでプレイヤーが急増、Steamでは同接続「16万人」超えと盛況。約9年の歴史に幕をおろす”お祭り”にファン殺到、開発継続・次回作を望む声が相次いだ",
-      "url": "https://news.denfaminicogamer.jp/news/260611f",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
       "importance": "normal",
-      "published": "2026-06-10T23:06:15",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/4d605425ff437197f16fb26d51780c91.jpg"
-    },
-    {
-      "title": "「ロボットアニメ愛」が大爆発した“伝説の怪作”シューティングゲーム『70年代風ロボットアニメ ゲッP-X』リマスター版の体験版が配信開始、。池田秀一氏や永井一郎氏など豪華声優陣のオリジナルボイスも収録",
-      "url": "https://news.denfaminicogamer.jp/news/260611e",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-06-10T22:37:50",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_945c9f02901e60711517c7e295b7630cecb02611.1920x1080.jpg"
+      "published": "2026-06-11T22:30:00",
+      "image": "https://www.4gamer.net/games/412/G041232/20260610031/SS/001.png"
     },
     {
       "title": "Blackmagic Design、「DaVinci Resolve 21」の正式リリースを発表。フォトページや新AI機能など多数の新機能を搭載 - ニュース",
@@ -147,6 +147,15 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/06/1-davinci-resolve-21%402x-thumb-1000x563-84622.jpg"
     },
     {
+      "title": "デジタル・フロンティア、「USDをワークフローに取り込んでみてわかったこと」note公開　USDのデータ構造からワークフロー上の課題までを当事者視点で解説 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202606-DF-USD.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-06-11T22:10:47",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/1714bbc708c377cffbcc923bbc4762f15eb6c94b-thumb-1920x1005-84819.jpg"
+    },
+    {
       "title": "SideFX、Houdiniによる3DGSを用いたワールドビルディングのチュートリアル動画公開　 FMX HIVE 2026でのLebrov Motion Imageryの講演 - ニュース",
       "url": "https://cgworld.jp/flashnews/01-202606-Houdini-3DGS.html",
       "source": "CGWORLD",
@@ -154,33 +163,6 @@
       "importance": "normal",
       "published": "2026-06-10T22:55:50",
       "image": "https://cgworld.jp/flashnews/assets_c/2026/06/Houdini_3DGS-01-thumb-1920x1080-84766.jpg"
-    },
-    {
-      "title": "ZBrushによるドラゴンのチュートリアル動画公開　Marmoset Toolbag 5でのライティング〜レンダリングまで - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202606-ZB-Dragon.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-09T22:12:27",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/ZB_Dragon-01-thumb-1920x1080-84716.jpg"
-    },
-    {
-      "title": "最先端の技術と日本の産業界をつなぎたい。Arcnel・向井秀哉氏が語る、自動車・映像・建築分野におけるリアルタイムCG・AI導入の突破口とは？ - 特集",
-      "url": "https://cgworld.jp/article/arcnelcgai.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-09T06:48:24",
-      "image": "https://cgworld.jp/article/assets_c/2026/06/004c8f0fe4658eb393d70aa7b35658f0e00effeb-thumb-1000x682-84555.jpg"
-    },
-    {
-      "title": "『ワンダンス』におけるMarvelous Designer活用事例が公開　ー膨大な衣装制作とダンス表現を支えたワークフロー - ニュース",
-      "url": "https://cgworld.jp/flashnews/2606-03-md.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-09T04:20:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/0adb406bab324e8dba6aff8a8ab2e092md_pic2-thumb-960x540-84560.jpg"
     },
     {
       "title": "『鬼武者 Way of the Sword』には自由に探索できるエリアがあって、どんどん広がっていく？開発者インタビュー",
@@ -192,46 +174,55 @@
       "image": "https://sm.ign.com/ign_jp/screenshot/default/263_necb.png"
     },
     {
-      "title": "『ゼルダの伝説 時のオカリナ』のリメイクが正式発表 情報は少ないながらリンクの姿が解禁、2026年に発売へ",
-      "url": "https://jp.ign.com/nintendo-switch-2/83477/2026",
+      "title": "『STRANGER THAN HEAVEN』プレイ感想！「龍が如く」と大きく違う!?",
+      "url": "https://jp.ign.com/sega/83505/stranger-than-heaven",
       "source": "IGN Japan",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-09T15:07:30",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/nintendo-direct-202669-1-26-5-screenshot_3nhy.png"
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-06-11T14:00:37",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/3_jd8w.png"
     },
     {
-      "title": "『キングダム ハーツIV』のトレーラーがNintendo Direct 2026.6.9で公開 東京のような場所「クァッドラトゥム」でソラが戦う",
-      "url": "https://jp.ign.com/kingdom-hearts-iv/83481/ivnintendo-direct-202669",
+      "title": "『STRANGER THAN HEAVEN』7分の実機プレイ！斬新なバトルシステムを確認しよう。",
+      "url": "https://jp.ign.com/project-century-rgg/83504/stranger-than-heaven7",
       "source": "IGN Japan",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-09T15:38:53",
-      "image": "https://sm.ign.com/ign_jp/blogroll/default/kingdom-hearts-4-gameplay-1781017331910_pq75.jpg"
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-06-11T14:00:34",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/sgf_nsre.jpg"
     },
     {
-      "title": "Final Fantasy Resonance: We Played the First Turn-Based FF in Decades",
-      "url": "https://jp.ign.com/ign-misc/83484/final-fantasy-resonance-we-played-the-first-turn-based-ff-in-decades",
+      "title": "EarFunのオープンイヤー型イヤホン「EarFun Clip 2」がAmazonにて20％オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83495/earfunearfun-clip-2amazon20",
       "source": "IGN Japan",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-09T15:00:00",
-      "image": "https://sm.ign.com/ign_jp/video/f/final-fant/final-fantasy-resonance-we-played-the-first-turn-based-ff-in_pgte.jpg"
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-06-11T06:22:43",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_wmwj.jpg"
     },
     {
-      "title": "Nintendo Direct 2026.6.9が告知 『リズム天国』新作や『スプラトゥーン レイダース』の発売が7月に控えるなか",
-      "url": "https://jp.ign.com/nintendo-switch-2/83464/nintendo-direct-202669-7",
+      "title": "広いエリアでの探索はいかに？『鬼武者 Way of the Sword』メディア先行プレイ感想！",
+      "url": "https://jp.ign.com/games/83494/way-of-the-sword",
       "source": "IGN Japan",
-      "category": "release",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-06-10T15:00:56",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/sgf_yth5.jpg"
+    },
+    {
+      "title": "GENDA、1Q売上高は45%増の497億円もGAAPベースで最終赤字——M&A拡大に伴う償却費・利息増が重荷",
+      "url": "https://www.gamebusiness.jp/article/2026/06/11/27183.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
       "importance": "high",
-      "published": "2026-06-09T02:06:47",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/nindai_cq1h.png"
+      "published": "2026-06-11T01:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186436.png"
     },
     {
       "title": "アストンマーティン、1090万円のレーシングシミュレーター発表…ルマン参戦『Valkyrie』がモチーフ",
       "url": "https://www.gamebusiness.jp/article/2026/06/10/27182.html",
       "source": "GameBusiness.jp",
-      "category": "industry",
+      "category": "other",
       "importance": "high",
       "published": "2026-06-10T11:45:03",
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/186350.jpg"
@@ -240,37 +231,28 @@
       "title": "もし『FF6』のあともドットのまま進化していたら…『FFレゾナンス』で描く“『FF』らしいビジュアル＆バトル”、その狙いと開発秘話に迫る【インタビュー】",
       "url": "https://www.gamebusiness.jp/article/2026/06/10/27178.html",
       "source": "GameBusiness.jp",
-      "category": "release",
+      "category": "other",
       "importance": "high",
       "published": "2026-06-10T10:45:03",
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/186394.jpg"
     },
     {
-      "title": "Apple WWDC26発表まとめ―「Siri AI」とiOS 27、macOS 27ゴールデンゲートほか新OS・新機能多数",
-      "url": "https://www.gamebusiness.jp/article/2026/06/10/27171.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-06-10T03:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186223.jpg"
-    },
-    {
-      "title": "XBOX新CEO、独占タイトル路線への回帰を説明―Game Pass値上げで加入者が減少傾向も、値下げで成長軌道に戻りつつあることにも言及",
-      "url": "https://www.gamebusiness.jp/article/2026/06/10/27180.html",
+      "title": "Claude Fable 5が、どうやっても再現できなかったゲームを忠実に作ってくれた（CloseBox）",
+      "url": "https://www.gamebusiness.jp/article/2026/06/11/27192.html",
       "source": "GameBusiness.jp",
       "category": "business",
       "importance": "high",
-      "published": "2026-06-10T11:15:02",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186360.png"
+      "published": "2026-06-11T11:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186554.png"
     },
     {
-      "title": "平成世代歓喜！『ゼル伝 時のオカリナ』『朧村正』『テイルズ オブ エターニア』復活に、『ゼノブレイド』3作がスイッチ2に対応など【Nintendo Directまとめ】",
-      "url": "https://www.gamebusiness.jp/article/2026/06/10/27177.html",
+      "title": "XBOXは「このままでは続けられない」―新CEOアーシャ・シャルマ氏が厳しい現状を共有。事業リセットを宣言",
+      "url": "https://www.gamebusiness.jp/article/2026/06/11/27191.html",
       "source": "GameBusiness.jp",
-      "category": "release",
+      "category": "business",
       "importance": "high",
-      "published": "2026-06-10T10:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186325.jpg"
+      "published": "2026-06-11T11:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186539.jpg"
     },
     {
       "title": "SNS自動監視・AI分析ツール「Oreo」がアップデート。新たなAI分析機能の実装や、YouTubeが監視対象に追加",
@@ -279,16 +261,34 @@
       "category": "tech",
       "importance": "high",
       "published": "2026-06-10T04:19:19",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/de3e9632f5baa58a6dc27e55a0232133.jpg"
+      "image": null
     },
     {
-      "title": "Appleの最新技術・ツールが「WWDC26」で一挙発表。「Xcode 27」ベータ版や、Windows用ゲームをAppleデバイスに移植できる「GPT 4」リリースなど",
-      "url": "https://gamemakers.jp/article/2026_06_09_139271/",
+      "title": "Unityのアプリ内購入機能「Unity IAP 4」が6/8（現地時間）にサポートを終了。今後のサポートは「Unity IAP 5」に集中",
+      "url": "https://gamemakers.jp/article/2026_06_11_139398/",
       "source": "ゲームメーカーズ",
       "category": "tech",
-      "importance": "high",
-      "published": "2026-06-09T12:02:13",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/590e6f0bbb4a62fdb1908a2e8442c67d.jpg"
+      "importance": "normal",
+      "published": "2026-06-11T07:31:55",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/7031c9574658cd9d04f7fb300063eb0c.jpg"
+    },
+    {
+      "title": "アーティストに向けたUnity2Dゲーム開発ガイドの日本語版が公開。Unity 6.3 LTSに対応し、新機能・新ツールを解説",
+      "url": "https://gamemakers.jp/article/2026_06_11_139391/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-06-11T06:20:31",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/a77038ef18a7e0fdb3df203308a02611.jpg"
+    },
+    {
+      "title": "ゲームの遅延対策として「知覚させない」ためのアプローチを紹介。技術評論社の解説書、6/22（月）に発売",
+      "url": "https://gamemakers.jp/article/2026_06_11_139360/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-06-11T02:46:51",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/382b7224dc8e6c26b530ddf5dd1ba9a8.jpg"
     },
     {
       "title": "九州最大級のゲーム開発者向けカンファレンス「CEDEC+KYUSHU 2026」、11/14（土）に開催決定。講演の公募も受付中",
@@ -297,25 +297,7 @@
       "category": "industry",
       "importance": "normal",
       "published": "2026-06-10T10:42:38",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/cef81e32ec3b401bc5d2b8229f0a4dfd.jpg"
-    },
-    {
-      "title": "『Caligula』シリーズ10周年記念！開発メンバーが思い出を語るコラボ生放送が決定。 6/23（火）19時よりゲームメーカーズ公式YouTubeで配信開始！",
-      "url": "https://gamemakers.jp/article/2026_06_10_139281/",
-      "source": "ゲームメーカーズ",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-06-10T03:00:47",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/7c824a50f2ad89a88d204c3c8f0df44c.jpg"
-    },
-    {
-      "title": "Unityのアセット管理システム最適化事例、アプリボットが解説。Addressableへの移行により60MB超のメモリを削減",
-      "url": "https://gamemakers.jp/article/2026_06_09_139247/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-09T08:14:05",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/e807059b80ec0d61261cd4acc7b67f66.jpg"
+      "image": null
     }
   ]
 }
