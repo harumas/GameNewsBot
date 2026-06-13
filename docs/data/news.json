@@ -1,177 +1,159 @@
 {
-  "generated_at": "2026-06-12T00:33:09.660133",
-  "poem": "おはようございます！ 🌞\n今日はゲーム業界でいくつかの大きなニュースがあります。『オーバーウォッチ』の新ヒーロー「シオン」が発表され、ゲームプレイ映像も公開されました ⚡️\n『STRANGER THAN HEAVEN』や『ベルセルク』、その他多くのゲームのニュースもあります。\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-06-13T00:33:37.932893",
+  "poem": "おはようございます！🌞\n今日のゲームニュースは、さまざまなアップデートや新作ゲームの発表で盛りだくさんです。特に、『めっちゃカメレオン』の売上が50万本を突破したことが注目されています💥\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "『STRANGER THAN HEAVEN』先行プレイレポート。仁義を知らない悪人が振りかざす日本刀でも、素手でパリィすればなんとかなる。それが“漢”だ【Summer Game Fest Play Days 2026】",
-      "url": "https://news.denfaminicogamer.jp/kikakuthetower/2606113j",
+      "title": "『Forza Horizon 6』セーブデータ消失問題に対処するアップデートが配信。Xbox版は一部のプレイヤーにのみ自動配信されるため、公式サポートは手動でのアップデートを推奨",
+      "url": "https://news.denfaminicogamer.jp/news/260613c",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-06-12T23:00:46",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_041b9a2854dc647bf54d7d8b36d2f4186ed72c13.1920x1080.jpg"
+    },
+    {
+      "title": "『めっちゃカメレオン』の売上が“50万本”を突破。Steamの同接数は「4万人」を記録と大人気。自身に絵の具を塗って景色に擬態するマルチプレイ対応のかくれんぼゲーム",
+      "url": "https://news.denfaminicogamer.jp/news/260613a",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-12T21:37:55",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_6c0a47cc2fba1b160901d1553637a764198bdc98.1920x1080-1.jpg"
+    },
+    {
+      "title": "『ペルソナ』とイラストレーター・タケウチリョースケ氏のコラボ商品が「ヴィレヴァン」で発売決定。私服姿がオシャレなシリーズ歴代主人公を用いたイラストも公開",
+      "url": "https://news.denfaminicogamer.jp/news/2606123i",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-06-11T14:00:58",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/image3-7.jpg"
+      "published": "2026-06-12T10:34:44",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/45bd58e65d2c9a44470bfd385e0a129f.png"
     },
     {
-      "title": "『オーバーウォッチ』新ヒーロー「シオン」はバイクに乗れる機動力マシマシの“アタッカー”で実装。ゲームプレイ映像＆詳細情報が公開、運転中にアビリティを再入力することで、バイクを前方に飛ばすことも",
-      "url": "https://news.denfaminicogamer.jp/news/260612i",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-11T22:46:54",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/videoframe_17071.png"
-    },
-    {
-      "title": "【無料】マンガ『しゅごキャラ！』72時間限定で全話無料公開キャンペーンが開始。口下手な女の子・日奈森あむが「なりたい自分」をめぐるファンタジー少女マンガ",
-      "url": "https://news.denfaminicogamer.jp/news/260612k",
+      "title": "『FRAME lack画集&超速作画術』のKindle版が“50％オフ”のセール中。定価2376円のところ1188円（税込）とお得に。『FGO』岡田以蔵などを描くlack氏の作品群が「196ページ」のボリュームで掲載。作画術や描きおろしイラストなども収録",
+      "url": "https://news.denfaminicogamer.jp/news/260613d",
       "source": "電ファミニコゲーマー",
       "category": "sale",
       "importance": "normal",
-      "published": "2026-06-12T00:13:26",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/1719-8505-537574430aea073ee4dbfbf9dafbeba7-750x512-1.webp"
+      "published": "2026-06-13T00:06:19",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/91QAW8WSmkS._SL1500_.jpg"
     },
     {
-      "title": "【注意】『Forza Horizon 6』一部ユーザーのセーブデータが消失する問題が発生。公式サポートチームが原因を調査中で、復旧手順や予防策を解説",
-      "url": "https://news.denfaminicogamer.jp/news/260612j",
-      "source": "電ファミニコゲーマー",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-06-11T23:16:48",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/image.jpeg"
-    },
-    {
-      "title": "『ベルセルク』が48時間限定で「全話無料」に。最新刊をのぞき、イッキ読みするチャンス。また、最新話「移ろの水鏡と幽炎の余光」も更新",
-      "url": "https://news.denfaminicogamer.jp/news/260612h",
+      "title": "人気の海賊ゲーム『Sea of Thieves』が「65％オフ」のセール中。敵船やクラーケンとの激闘をはじめ、沈没船や海底洞窟、財宝が埋められた島などロマン要素が満載",
+      "url": "https://news.denfaminicogamer.jp/news/260613b",
       "source": "電ファミニコゲーマー",
       "category": "sale",
       "importance": "normal",
-      "published": "2026-06-11T22:02:32",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/HKil-LPa0AAsN45.jpg"
+      "published": "2026-06-12T22:40:53",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_6e8ab9a6fe0bc6b9a11fe55e0c9c8bed0c046639.1920x1080.jpg"
     },
     {
-      "title": "『オーバーウォッチ』新DPSヒーロー「シオン」正式発表、二丁拳銃バイク乗りサイバーヤクザフランカー。6月17日の新シーズンで実装へ",
-      "url": "https://automaton-media.com/articles/newsjp/20260612-449329/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-11T23:16:00",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260612-449329-header.jpg"
-    },
-    {
-      "title": "『悠久幻想曲 2nd Album リバイバル』発表、2027年春発売へ。オリジナル版スタッフの手で蘇る“リメイク第2弾”、友情育成シミュレーションふたたび",
-      "url": "https://automaton-media.com/articles/newsjp/20260611-449253/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-11T07:45:09",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260611-449253-header.jpg"
-    },
-    {
-      "title": "神話ハクスラRPG『Titan Quest II』過去最大規模の「チャプター4」発表、近日配信へ。未踏の地「ワイルドランド」実装、キング・ケンタウロスや宿敵ネメシスの巨大神殿が待ち受ける",
-      "url": "https://automaton-media.com/articles/newsjp/20260611-449141/",
-      "source": "Automaton",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-06-11T03:39:50",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260611-449141-header.jpg"
-    },
-    {
-      "title": "『ゼノブレイドDE Nintendo Switch 2 Edition』、「エーテルジェット」実装で“ゼノブレイドカート”化したと脚光浴びる。スピードもやかましさもぶっちぎりの新要素",
-      "url": "https://automaton-media.com/articles/newsjp/20260611-449219/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-11T06:39:44",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260611-449219-header.jpg"
-    },
-    {
-      "title": "Steam食品工場自動化シム『Snacktorio』に好評集まる。食材収穫から調理まで工程ぜんぶ自動化、“腹ぺこビースト”の料理をエンドレス大量生産",
-      "url": "https://automaton-media.com/articles/newsjp/snacktorio-20260611-449263/",
-      "source": "Automaton",
-      "category": "release",
+      "title": "SideFX、『プレデター：バッドランド』におけるHoudiniのVFXメイキング動画公開　 FMX HIVE 2026でのThe Yard VFXの講演 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202606-Houdini-Predator.html",
+      "source": "CGWORLD",
+      "category": "cg",
       "importance": "normal",
-      "published": "2026-06-11T10:39:15",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/snacktorio-20260611-449263-003.jpg"
+      "published": "2026-06-12T21:57:35",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/Houdini_Predator-01-thumb-1920x1080-84939.jpg"
     },
     {
-      "title": "どっちが正常？ ハチャメチャ正体隠匿型ゲーム「Buried Whispers」が発表。狂った悪魔崇拝者たちが，組織に潜む“内通者”を探る",
-      "url": "https://www.4gamer.net/games/016/G101675/20260612001/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-11T15:39:30",
-      "image": "https://www.4gamer.net/games/016/G101675/20260612001/SS/008.jpg"
+      "title": "【新講座】Chiharu氏による『【Blender Fes Extra】Kawaii！イラストルックな3Dアバターモデリング』が8/8(土)にオンライン開催決定！ - ニュース",
+      "url": "https://cgworld.jp/flashnews/chiharublender-fes-extrakawaii3d88.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-06-12T08:34:40",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/277_seminar_bfex_kawaii_full%20%282%29-thumb-1920x1080-84868.jpg"
     },
     {
-      "title": "「THYSIASTERY」，3つの難度調整オプションや新モンスター，スキル，モンスターを追加する大型アップデートを実施",
-      "url": "https://www.4gamer.net/games/986/G098611/20260611049/",
+      "title": "#11【TouchDesigner】手軽に始める！　プロジェクションマッピング実践 - 連載",
+      "url": "https://cgworld.jp/regular/202606-cgw332-tr11.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-06-12T08:10:00",
+      "image": "https://cgworld.jp/regular/assets_c/2026/06/techroom_11_compressed-thumb-1920x1080-84747.jpg"
+    },
+    {
+      "title": "StudioGOONEYSによる「AI時代に生き残るCGアニメーターの技術とは！？」セミナーが6/19（金）開催 【クリ博ダイレクト】 - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2606-kurihaku-StudioGOONEYS.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-06-12T08:01:47",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/A-4-thumb-1000x563-84869.jpg"
+    },
+    {
+      "title": "エゴ・ワンの\"デジタルモック\"が遊技機の提案を変える ―― 企画段階で可視化する手段 - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/202606-egoone.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-06-12T07:45:00",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/06/egoone_top-thumb-1920x1080-84830.jpg"
+    },
+    {
+      "title": "新主人公はなんでも食べる，素材も調合品も爆弾も。「カリアのアトリエ 〜夜の王国と追憶の道標〜」，最新情報を発表。最新PVも公開に",
+      "url": "https://www.4gamer.net/games/015/G101585/20260612063/",
       "source": "4Gamer.net",
       "category": "update",
       "importance": "high",
-      "published": "2026-06-11T11:22:03",
-      "image": "https://www.4gamer.net/games/986/G098611/20260611049/SS/001.jpg"
+      "published": "2026-06-12T12:56:45",
+      "image": "https://www.4gamer.net/games/015/G101585/20260612063/SS/009.jpg"
     },
     {
-      "title": "「ドラゴンクエストモンスターズ4　枯れ木の国のビアンカ・フローラ」，ストーリーや育成システムの詳細が公開。500種族以上のモンスターが登場",
-      "url": "https://www.4gamer.net/games/010/G101055/20260610066/",
+      "title": "「スタークラフト」の元プロが開発に参加する“次世代RTS”こと「ZeroSpace」が7月20日発売へ。Steamストアページでは体験版が公開中",
+      "url": "https://www.4gamer.net/games/017/G101719/20260612064/",
       "source": "4Gamer.net",
       "category": "release",
       "importance": "high",
-      "published": "2026-06-11T22:00:00",
-      "image": "https://www.4gamer.net/games/010/G101055/20260610066/SS/002.jpg"
+      "published": "2026-06-12T14:13:08",
+      "image": "https://www.4gamer.net/games/017/G101719/20260612064/SS/002.jpg"
     },
     {
-      "title": "「Forza Horizon」を生んだ開発者たちの新作「Clutch」。シネマティックな物語とオープンワールドを融合したドライビングゲーム",
-      "url": "https://www.4gamer.net/games/012/G101234/20260610082/",
+      "title": "さまざまな重機を活用し，金を掘って大金持ちになろう。「Gold Mining Simulator 2」，デモ版を配信開始",
+      "url": "https://www.4gamer.net/games/878/G087896/20260612062/",
       "source": "4Gamer.net",
       "category": "release",
-      "importance": "high",
-      "published": "2026-06-11T15:00:00",
-      "image": "https://www.4gamer.net/games/012/G101234/20260610082/SS/005.jpg"
+      "importance": "normal",
+      "published": "2026-06-12T12:10:41",
+      "image": "https://www.4gamer.net/games/878/G087896/20260612062/SS/002.jpg"
     },
     {
-      "title": "カプコンカフェ 池袋店＆梅田店にて，「大神」シリーズ20周年コラボが開催中。コラボメニュー3品を試食してきた",
-      "url": "https://www.4gamer.net/games/412/G041232/20260610031/",
+      "title": "NEOGEO/Amiga/PC用の新作ベルトスクロールアクション「Metro Siege」がクラウドファンディング中",
+      "url": "https://www.4gamer.net/games/999/G999903/20260612059/",
       "source": "4Gamer.net",
-      "category": "other",
+      "category": "release",
       "importance": "normal",
-      "published": "2026-06-11T22:30:00",
-      "image": "https://www.4gamer.net/games/412/G041232/20260610031/SS/001.png"
+      "published": "2026-06-12T11:48:36",
+      "image": "https://www.4gamer.net/games/999/G999903/20260612059/SS/004.jpg"
     },
     {
-      "title": "Blackmagic Design、「DaVinci Resolve 21」の正式リリースを発表。フォトページや新AI機能など多数の新機能を搭載 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2606-blackmagicdesign.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-06-10T09:00:56",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/1-davinci-resolve-21%402x-thumb-1000x563-84622.jpg"
-    },
-    {
-      "title": "デジタル・フロンティア、「USDをワークフローに取り込んでみてわかったこと」note公開　USDのデータ構造からワークフロー上の課題までを当事者視点で解説 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202606-DF-USD.html",
-      "source": "CGWORLD",
-      "category": "tech",
+      "title": "魅力的なキャラクターと共に将棋を楽しめる「棋桜」，スマートフォン版を本日リリース。PC版も近日中に登場予定",
+      "url": "https://www.4gamer.net/games/017/G101717/20260612061/",
+      "source": "4Gamer.net",
+      "category": "release",
       "importance": "normal",
-      "published": "2026-06-11T22:10:47",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/1714bbc708c377cffbcc923bbc4762f15eb6c94b-thumb-1920x1005-84819.jpg"
+      "published": "2026-06-12T11:48:21",
+      "image": "https://www.4gamer.net/games/017/G101717/20260612061/SS/001.jpg"
     },
     {
-      "title": "SideFX、Houdiniによる3DGSを用いたワールドビルディングのチュートリアル動画公開　 FMX HIVE 2026でのLebrov Motion Imageryの講演 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202606-Houdini-3DGS.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-10T22:55:50",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/Houdini_3DGS-01-thumb-1920x1080-84766.jpg"
-    },
-    {
-      "title": "『鬼武者 Way of the Sword』には自由に探索できるエリアがあって、どんどん広がっていく？開発者インタビュー",
-      "url": "https://jp.ign.com/onimusha-way-of-the-sword/83472/way-of-the-sword",
+      "title": "GameSirのスマホコントローラー「G8+MFi」がAmazonにて10％オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83510/gamesirg8mfiamazon10",
       "source": "IGN Japan",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-06-10T15:00:09",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/263_necb.png"
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-06-12T13:32:05",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_4sb9.png"
+    },
+    {
+      "title": "Fable - June 2026 Screenshots",
+      "url": "https://jp.ign.com/fable-2026/83518/fable-june-2026-screenshots",
+      "source": "IGN Japan",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-06-12T03:46:09",
+      "image": "https://sm.ign.com/ign_jp/gallery/f/fable-june/fable-june-2026-screenshots_5gkd.jpg"
     },
     {
       "title": "『STRANGER THAN HEAVEN』プレイ感想！「龍が如く」と大きく違う!?",
@@ -195,55 +177,28 @@
       "title": "EarFunのオープンイヤー型イヤホン「EarFun Clip 2」がAmazonにて20％オフでタイムセール中",
       "url": "https://jp.ign.com/gaming-device/83495/earfunearfun-clip-2amazon20",
       "source": "IGN Japan",
-      "category": "sale",
+      "category": "other",
       "importance": "normal",
       "published": "2026-06-11T06:22:43",
       "image": "https://sm.ign.com/ign_jp/screenshot/default/1_wmwj.jpg"
     },
     {
-      "title": "広いエリアでの探索はいかに？『鬼武者 Way of the Sword』メディア先行プレイ感想！",
-      "url": "https://jp.ign.com/games/83494/way-of-the-sword",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-06-10T15:00:56",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/sgf_yth5.jpg"
-    },
-    {
-      "title": "GENDA、1Q売上高は45%増の497億円もGAAPベースで最終赤字——M&A拡大に伴う償却費・利息増が重荷",
-      "url": "https://www.gamebusiness.jp/article/2026/06/11/27183.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-06-11T01:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186436.png"
-    },
-    {
-      "title": "アストンマーティン、1090万円のレーシングシミュレーター発表…ルマン参戦『Valkyrie』がモチーフ",
-      "url": "https://www.gamebusiness.jp/article/2026/06/10/27182.html",
+      "title": "上田文人氏が挑む新境地。新作『gen ATLAS』で「銃」と「巨大ロボット」を描く理由、人類が去った後の機械文明で我々は何を目撃するのか【インタビュー】",
+      "url": "https://www.gamebusiness.jp/article/2026/06/12/27201.html",
       "source": "GameBusiness.jp",
       "category": "other",
       "importance": "high",
-      "published": "2026-06-10T11:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186350.jpg"
+      "published": "2026-06-12T11:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186604.jpg"
     },
     {
-      "title": "もし『FF6』のあともドットのまま進化していたら…『FFレゾナンス』で描く“『FF』らしいビジュアル＆バトル”、その狙いと開発秘話に迫る【インタビュー】",
-      "url": "https://www.gamebusiness.jp/article/2026/06/10/27178.html",
+      "title": "『紅の砂漠』販売本数600万本を突破！発売から約80日での達成",
+      "url": "https://www.gamebusiness.jp/article/2026/06/12/27198.html",
       "source": "GameBusiness.jp",
-      "category": "other",
+      "category": "release",
       "importance": "high",
-      "published": "2026-06-10T10:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186394.jpg"
-    },
-    {
-      "title": "Claude Fable 5が、どうやっても再現できなかったゲームを忠実に作ってくれた（CloseBox）",
-      "url": "https://www.gamebusiness.jp/article/2026/06/11/27192.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-06-11T11:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186554.png"
+      "published": "2026-06-12T11:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186639.jpg"
     },
     {
       "title": "XBOXは「このままでは続けられない」―新CEOアーシャ・シャルマ氏が厳しい現状を共有。事業リセットを宣言",
@@ -255,12 +210,102 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/186539.jpg"
     },
     {
-      "title": "SNS自動監視・AI分析ツール「Oreo」がアップデート。新たなAI分析機能の実装や、YouTubeが監視対象に追加",
-      "url": "https://gamemakers.jp/article/2026_06_10_139239/",
+      "title": "【イベントレポート】アニメ・マンガ・国内と海外を繋ぐ「横串のデータ分析」はなぜ必要か？分断されたデータが示す日本IPの可能性",
+      "url": "https://www.gamebusiness.jp/article/2026/06/12/27200.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-06-12T11:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186614.jpg"
+    },
+    {
+      "title": "最先端AIのClaude Fable 5が産んだ作家、黒戸寓五の新シリーズ「止まり木」はどのように構想されたか、AI作家と人間編集者の全やりとり（CloseBox）",
+      "url": "https://www.gamebusiness.jp/article/2026/06/12/27199.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-06-12T11:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186624.png"
+    },
+    {
+      "title": "Steamマルチ“お絵描き擬態”かくれんぼ『めっちゃカメレオン』早くも売上50万本突破。止まらぬグローバル人気、発売からわずか2日で達成",
+      "url": "https://automaton-media.com/articles/newsjp/20260612-449521/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-12T11:21:42",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260612-449521-header.jpg"
+    },
+    {
+      "title": "幽霊豪華客船ホラーミステリー恋愛シム『ファントム・ラポール -インテルメッツォ-』発表。女性たちと過ごす船上浪漫と、化け物の徘徊する船の謎へ迫るミステリー",
+      "url": "https://automaton-media.com/articles/newsjp/20260612-449464/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-12T07:52:24",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260612-449464-header.jpg"
+    },
+    {
+      "title": "新作ソウルライク『Valor Mortis』、発売日発表後わずか4日で延期告知。なんなら“発表前”から延期は心に決めていた",
+      "url": "https://automaton-media.com/articles/newsjp/valor-mortis-20260612-449428/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-12T05:35:01",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/valor-mortis-20260612-449428-header.jpg"
+    },
+    {
+      "title": "高評価犬ぞりローグライトADV『The Red Lantern』Steamにて期間限定で無料配布中。定価2570円のゲーム",
+      "url": "https://automaton-media.com/articles/newsjp/20260612-449429/",
+      "source": "Automaton",
+      "category": "sale",
+      "importance": "high",
+      "published": "2026-06-12T05:21:23",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260612-449429-header.jpg"
+    },
+    {
+      "title": "「ネオン犬」リズムアクション『リズム・イッヌ』発表。ビートにノってステージ攻略、動きにあわせて“音楽が出来上がる”新感覚ワンコゲーム",
+      "url": "https://automaton-media.com/articles/newsjp/20260612-449408/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-12T03:52:44",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260612-449408-header.jpg"
+    },
+    {
+      "title": "「State of Unreal 2026」ミラー配信決定！ゲームメーカーズ編集長 神山、ヒストリア代表 佐々木氏、アンリアル無職 おかず氏と一緒に最新情報を見ていこう！",
+      "url": "https://gamemakers.jp/article/2026_06_12_139456/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-06-12T10:58:43",
+      "image": null
+    },
+    {
+      "title": "12/26（土）開催のインディーゲーム展示会「大阪ゲームダンジョン2」、出展申込を6/26（金）より受付開始。出展枠は前回の1.5倍となる160枠が用意",
+      "url": "https://gamemakers.jp/article/2026_06_12_139506/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-06-12T10:49:07",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/41f65547238205fc252b4911d9c8a31c.jpg"
+    },
+    {
+      "title": "UE5標準プラグイン「PCG」の入門記事、スパーククリエイティブが公開。メッシュ生成や変数の追加など基本操作から解説",
+      "url": "https://gamemakers.jp/article/2026_06_12_139433/",
       "source": "ゲームメーカーズ",
       "category": "tech",
-      "importance": "high",
-      "published": "2026-06-10T04:19:19",
+      "importance": "normal",
+      "published": "2026-06-12T09:14:47",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/7828031ffa58888949407ba0316dde87.jpg"
+    },
+    {
+      "title": "『Subnautica 2』海洋生物の制御AIをUEで構築。ビヘイビアツリーの拡張やGAS導入事例などを解説した「AI and Games Conference 2025」講演動画が公開",
+      "url": "https://gamemakers.jp/article/2026_06_12_139467/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-06-12T07:27:47",
       "image": null
     },
     {
@@ -271,33 +316,6 @@
       "importance": "normal",
       "published": "2026-06-11T07:31:55",
       "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/7031c9574658cd9d04f7fb300063eb0c.jpg"
-    },
-    {
-      "title": "アーティストに向けたUnity2Dゲーム開発ガイドの日本語版が公開。Unity 6.3 LTSに対応し、新機能・新ツールを解説",
-      "url": "https://gamemakers.jp/article/2026_06_11_139391/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-11T06:20:31",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/a77038ef18a7e0fdb3df203308a02611.jpg"
-    },
-    {
-      "title": "ゲームの遅延対策として「知覚させない」ためのアプローチを紹介。技術評論社の解説書、6/22（月）に発売",
-      "url": "https://gamemakers.jp/article/2026_06_11_139360/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-11T02:46:51",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/382b7224dc8e6c26b530ddf5dd1ba9a8.jpg"
-    },
-    {
-      "title": "九州最大級のゲーム開発者向けカンファレンス「CEDEC+KYUSHU 2026」、11/14（土）に開催決定。講演の公募も受付中",
-      "url": "https://gamemakers.jp/article/2026_06_10_139378/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-06-10T10:42:38",
-      "image": null
     }
   ]
 }
