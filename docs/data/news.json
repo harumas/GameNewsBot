@@ -1,147 +1,138 @@
 {
-  "generated_at": "2026-06-14T00:30:39.280780",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、注目されるタイトルが多数登場しています。『Everything is Crab』や『めっちゃカメレオン』の売上本数が50万本を突破するなど、ゲームファンが大いに盛り上がる内容です。 \nそれでは今日のニュースをどうぞ！ 🎮",
+  "generated_at": "2026-06-15T00:32:09.106323",
+  "poem": "おはようございます！🌞\n今日のゲームニュースは、売上本数の記録を更新するタイトルや、新しいマップの追加、セールの開催など、盛りだくさんの内容です。\n特に注目するのは、『めっちゃカメレオン』の早くも100万本を突破した売上記録と、『Everything is Crab』の50万本突破です！ 🎮\nそれでは今日のニュースをどうぞ！",
   "articles": [
+    {
+      "title": "【大人気】『めっちゃカメレオン』早くも売上本数「100万本」を突破！Steam最大同接は“9万5000人”を記録する大盛況、6月13日には新マップ「ペンギンホテル」も追加",
+      "url": "https://news.denfaminicogamer.jp/news/260615d",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-15T00:06:59",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_6c0a47cc2fba1b160901d1553637a764198bdc98.1920x1080-2.jpg"
+    },
     {
       "title": "すべての生物が“カニ化”する運命に抗う生物進化ローグライト『Everything is Crab』の売上本数が50万本を突破。発売後1カ月の統計では、プレイヤーが4億回以上の進化を選択",
       "url": "https://news.denfaminicogamer.jp/news/260613l",
       "source": "電ファミニコゲーマー",
-      "category": "release",
+      "category": "other",
       "importance": "high",
       "published": "2026-06-13T12:05:51",
       "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_5fa05d45518afef63df640c1f997564a3f2bda6a.1920x1080.jpg"
     },
     {
-      "title": "『Forza Horizon 6』セーブデータ消失問題に対処するアップデートが配信。Xbox版は一部のプレイヤーにのみ自動配信されるため、公式サポートは手動でのアップデートを推奨",
-      "url": "https://news.denfaminicogamer.jp/news/260613c",
+      "title": "ウェブ版「Google Earth」にて“フライトシミュレータ機能”が全ユーザーで利用可能に。「操作が難しいけど面白い」「めちゃくちゃ時間が溶ける」と話題",
+      "url": "https://news.denfaminicogamer.jp/news/260614j",
       "source": "電ファミニコゲーマー",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-06-12T23:00:46",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_041b9a2854dc647bf54d7d8b36d2f4186ed72c13.1920x1080.jpg"
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-06-14T15:10:33",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ca93565e504476f1cd53ff922d92ff29.jpg"
     },
     {
-      "title": "『めっちゃカメレオン』の売上が“50万本”を突破。Steamの同接数は「4万人」を記録と大人気。自身に絵の具を塗って景色に擬態するマルチプレイ対応のかくれんぼゲーム",
-      "url": "https://news.denfaminicogamer.jp/news/260613a",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-12T21:37:55",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_6c0a47cc2fba1b160901d1553637a764198bdc98.1920x1080-1.jpg"
-    },
-    {
-      "title": "『攻殻機動隊』で知られる士郎正宗氏の「挿し絵制作日記」Kindle版が50％ポイント還元セール中。島田荘司氏の小説『Classical Fantasy Within』の挿し絵仕事を日記形式で収録",
-      "url": "https://news.denfaminicogamer.jp/news/260613m",
+      "title": "【50%オフ】カルト教団運営アクションゲーム『Cult of the Lamb』Steam版が1285円で購入できるセールが開催中。最新DLC「Woolhaven」も20%オフに",
+      "url": "https://news.denfaminicogamer.jp/news/260614i",
       "source": "電ファミニコゲーマー",
       "category": "sale",
       "importance": "normal",
-      "published": "2026-06-13T14:54:47",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/61CEk0UFhmL._SL1024_.jpg"
+      "published": "2026-06-14T13:52:05",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_14a1f4ec7c9e51245f397dd2eee293174410a12b.1920x1080.jpg"
     },
     {
-      "title": "クトゥルフ神話「狂気の山脈にて」を“ペンギン視点”で見届けるゲーム『Penguin Colony』体験版がSteamにて配信中。極寒の地をよちよち歩きで探索し、不可思議な行動をする探検隊を追う",
-      "url": "https://news.denfaminicogamer.jp/news/260613k",
+      "title": "【半額】『デイヴ・ザ・ダイバー』Steam版が1200円で購入できる最安値セールが開催中。新DLC「イン・ザ・ジャングル」も予約購入で10%オフに",
+      "url": "https://news.denfaminicogamer.jp/news/260614h",
       "source": "電ファミニコゲーマー",
-      "category": "release",
+      "category": "sale",
       "importance": "normal",
-      "published": "2026-06-13T10:04:16",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_3e2a5f6789ea4291224cce650d23e92f1861296a.1920x1080.jpg"
+      "published": "2026-06-14T11:13:30",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_783e1f6c2d4c358fb494d055c47c0e888922abd5.1920x1080.jpg"
     },
     {
-      "title": "上田文人氏が挑む新境地。新作『gen ATLAS』で「銃」と「巨大ロボット」を描く理由、人類が去った後の機械文明で我々は何を目撃するのか【インタビュー】",
-      "url": "https://www.gamebusiness.jp/article/2026/06/12/27201.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-06-12T11:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186604.jpg"
-    },
-    {
-      "title": "Fable 5と話していたら政府に作家を連行された。Anthropic「Fable 5」「Mythos 5」、米政府の輸出管理指令で緊急全停止。「外国籍お断り」が全ユーザーを道連れに（CloseBox）",
-      "url": "https://www.gamebusiness.jp/article/2026/06/13/27209.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-06-13T11:45:02",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186678.png"
-    },
-    {
-      "title": "任天堂、転売対策でSwitch 2多言語版の販売を一時停止「買い占め等の疑いがある注文を複数確認」　50時間以上プレイ条件で再開",
-      "url": "https://www.gamebusiness.jp/article/2026/06/13/27204.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-06-13T02:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186579.jpg"
-    },
-    {
-      "title": "『紅の砂漠』販売本数600万本を突破！発売から約80日での達成",
-      "url": "https://www.gamebusiness.jp/article/2026/06/12/27198.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-06-12T11:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186639.jpg"
-    },
-    {
-      "title": "福井県警とサイバーサクラ、鯖江市で中高生向け「リアルサイバー捜査体験」を開催",
-      "url": "https://www.gamebusiness.jp/article/2026/06/13/27208.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-06-13T11:30:03",
-      "image": "https://www.gamebusiness.jp/base/images/img_ogp.png"
-    },
-    {
-      "title": "猫カフェ「Cat Café MOFF グランベリーパーク店」レビュー",
-      "url": "https://www.4gamer.net/games/701/G070179/20260608057/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-06-13T03:00:00",
-      "image": "https://www.4gamer.net/games/701/G070179/20260608057/SS/001.jpg"
-    },
-    {
-      "title": "新主人公はなんでも食べる，素材も調合品も爆弾も。「カリアのアトリエ 〜夜の王国と追憶の道標〜」，最新情報を発表。最新PVも公開に",
-      "url": "https://www.4gamer.net/games/015/G101585/20260612063/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-12T12:56:45",
-      "image": "https://www.4gamer.net/games/015/G101585/20260612063/SS/009.jpg"
-    },
-    {
-      "title": "「Europa Universalis」シリーズなどで知られるストラテジーゲーム大手Paradox Interactiveが，ナスダック・ストックホルムの本市場に上場",
-      "url": "https://www.4gamer.net/games/999/G999905/20260613005/",
-      "source": "4Gamer.net",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-06-13T03:02:23",
-      "image": "https://www.4gamer.net/games/999/G999905/20260613005/SS/002.jpg"
-    },
-    {
-      "title": "週刊Steam広場 第157号：モンスター育成アクション「Voidling Bound」や，ローグライトRTS「Tabletop Tavern」が発売に",
-      "url": "https://www.4gamer.net/games/038/G003821/20260613006/",
+      "title": "【今週のモチベ】アクションRPG「冒険家エリオットの千年物語」や，サッカーの試合を運営する「Copa City」が発売される 2026年6月15日〜6月21日",
+      "url": "https://www.4gamer.net/games/954/G095479/20260614002/",
       "source": "4Gamer.net",
       "category": "release",
       "importance": "normal",
-      "published": "2026-06-13T09:00:00",
-      "image": "https://www.4gamer.net/games/038/G003821/20260613006/TN/013.jpg"
+      "published": "2026-06-14T23:00:00",
+      "image": "https://www.4gamer.net/games/954/G095479/20260614002/SS/004.jpg"
     },
     {
-      "title": "「ストリートファイター6」好きYouTuber＆VTuberが勝利と「爪痕を残すこと」を目指して3on3で対決。「チャンスを掴め！Capcom Creators JP杯 Round 2」本日開幕",
-      "url": "https://www.4gamer.net/games/635/G063504/20260613001/",
+      "title": "eスポーツを学ぶ高校のリアルな1日。通信制高校「ルネサンス高等学校」池袋キャンパスを密着取材したら，まぶしくて，うらやましかった",
+      "url": "https://www.4gamer.net/games/991/G999113/20260521018/",
       "source": "4Gamer.net",
       "category": "esports",
       "importance": "normal",
-      "published": "2026-06-13T03:00:00",
-      "image": "https://www.4gamer.net/games/635/G063504/20260613001/SS/015.jpg"
+      "published": "2026-06-14T22:00:00",
+      "image": "https://www.4gamer.net/games/991/G999113/20260521018/SS/041.jpg"
+    },
+    {
+      "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年6月8日〜6月14日",
+      "url": "https://www.4gamer.net/games/040/G004099/20260614003/",
+      "source": "4Gamer.net",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-06-14T22:00:00",
+      "image": "https://www.4gamer.net/games/040/G004099/20260614003/SS/029.jpg"
+    },
+    {
+      "title": "本日19：00からのわしゃ生では，オープンワールドRPG「NTE: Neverness to Everness」をプレイします",
+      "url": "https://www.4gamer.net/games/817/G081722/20260612040/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-06-14T09:00:00",
+      "image": "https://www.4gamer.net/games/817/G081722/20260612040/TN/002.jpg"
+    },
+    {
+      "title": "時間を忘れて夢中になる農場スローライフの金字塔「Stardew Valley+」（今日から始めろApple Arcade #73）",
+      "url": "https://www.4gamer.net/games/016/G101627/20260610060/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-06-14T03:00:00",
+      "image": "https://www.4gamer.net/games/016/G101627/20260610060/SS/001.jpg"
+    },
+    {
+      "title": "STUDIOJOIN、社内開発のMaya用ミラーツール「Mirror Mesh」無償配布　シンプルな操作でミラーリングを効率化 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202606-JOIN-Mirror.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-06-14T21:48:50",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/JOIN_Mirror-01-thumb-1920x1080-84977.jpg"
+    },
+    {
+      "title": "基本プレイ無料「街」オープンワールド『NTE』、実は“ビル登り”が熱い。探索魔に刺さる、大都会屋上濃厚寄り道プレイ",
+      "url": "https://automaton-media.com/articles/special-column/20260614-449614/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-06-14T03:00:36",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260614-449614-header.jpg"
+    },
+    {
+      "title": "『ゼルダの伝説 時のオカリナ』リメイク発表、なんと今年発売。『ペルソナ6』発表。北欧神話サバイバル『Valheim』、9月9日正式リリースへ。今週の見逃せないゲーム記事7選",
+      "url": "https://automaton-media.com/articles/newsjp/20260614-449640/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-14T06:06:54",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260614-449640-header-scaled.jpg"
+    },
+    {
+      "title": "『ファイナルファンタジーVII リベレーション』発表で『FF7リメイク』Steam版のプレイヤーが急増。FFVIIリメイクシリーズ完結前の過去作“履修”目的か",
+      "url": "https://automaton-media.com/articles/newsjp/ff7r-20260614-449633/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-06-14T05:01:48",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/ff7r-20260614-449633-header.jpg"
     },
     {
       "title": "スマッシュヒット中へんてこキメラ進化ローグライト『Everything is Crab』売上50万本突破。生物進化アクションの勢い止まらず、開発元は“タカアシガニ級”の大感謝",
       "url": "https://automaton-media.com/articles/newsjp/20260613-449600/",
       "source": "Automaton",
-      "category": "release",
+      "category": "other",
       "importance": "high",
       "published": "2026-06-13T08:04:11",
       "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260613-449600-header.jpg"
@@ -156,139 +147,67 @@
       "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260613-449585-header.jpg"
     },
     {
-      "title": "Steamマルチ“お絵描き擬態”かくれんぼ『めっちゃカメレオン』早くも売上50万本突破。止まらぬグローバル人気、発売からわずか2日で達成",
-      "url": "https://automaton-media.com/articles/newsjp/20260612-449521/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-12T11:21:42",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260612-449521-header.jpg"
-    },
-    {
-      "title": "幽霊豪華客船ホラーミステリー恋愛シム『ファントム・ラポール -インテルメッツォ-』発表。女性たちと過ごす船上浪漫と、化け物の徘徊する船の謎へ迫るミステリー",
-      "url": "https://automaton-media.com/articles/newsjp/20260612-449464/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-12T07:52:24",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260612-449464-header.jpg"
-    },
-    {
-      "title": "マイクロソフト、『フォールアウト』『The Elder Scrolls』などの開発の“加速”を計画中と報じられる。開発資金の「増額計画」も視野か",
-      "url": "https://automaton-media.com/articles/newsjp/xbox-20260613-449546/",
-      "source": "Automaton",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-06-13T01:27:25",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/xbox-20260613-449546-header.jpg"
-    },
-    {
       "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/6/13】",
       "url": "https://gamemakers.jp/article/2026_06_13_139385/",
       "source": "ゲームメーカーズ",
       "category": "tech",
       "importance": "high",
       "published": "2026-06-13T01:58:43",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/f8531964df6810d1b22e7709febcfdff.jpg"
+    },
+    {
+      "title": "UE5.5のMegaLightsをモバイルゲームで導入。『Neural Dawn』開発秘話が語られた配信のアーカイブ、Epic Gamesが公開中",
+      "url": "https://gamemakers.jp/article/2026_06_14_139468/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-06-14T02:58:12",
       "image": null
     },
     {
-      "title": "「State of Unreal 2026」ミラー配信決定！ゲームメーカーズ編集長 神山、ヒストリア代表 佐々木氏、アンリアル無職 おかず氏と一緒に最新情報を見ていこう！",
-      "url": "https://gamemakers.jp/article/2026_06_12_139456/",
-      "source": "ゲームメーカーズ",
+      "title": "SpaceXがNASDAQに上場。資産が台湾のGDP超えたイーロン・マスク「世界初のトリリオネア」に",
+      "url": "https://www.gamebusiness.jp/article/2026/06/14/27210.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-06-14T02:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186650.jpg"
+    },
+    {
+      "title": "Fable 5と話していたら政府に作家を連行された。Anthropic「Fable 5」「Mythos 5」、米政府の輸出管理指令で緊急全停止。「外国籍お断り」が全ユーザーを道連れに（CloseBox）",
+      "url": "https://www.gamebusiness.jp/article/2026/06/13/27209.html",
+      "source": "GameBusiness.jp",
       "category": "industry",
       "importance": "normal",
-      "published": "2026-06-12T10:58:43",
-      "image": null
+      "published": "2026-06-13T11:45:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186678.png"
     },
     {
-      "title": "12/26（土）開催のインディーゲーム展示会「大阪ゲームダンジョン2」、出展申込を6/26（金）より受付開始。出展枠は前回の1.5倍となる160枠が用意",
-      "url": "https://gamemakers.jp/article/2026_06_12_139506/",
-      "source": "ゲームメーカーズ",
+      "title": "福井県警とサイバーサクラ、鯖江市で中高生向け「リアルサイバー捜査体験」を開催",
+      "url": "https://www.gamebusiness.jp/article/2026/06/13/27208.html",
+      "source": "GameBusiness.jp",
       "category": "industry",
       "importance": "normal",
-      "published": "2026-06-12T10:49:07",
-      "image": null
+      "published": "2026-06-13T11:30:03",
+      "image": "https://www.gamebusiness.jp/base/images/img_ogp.png"
     },
     {
-      "title": "UE5標準プラグイン「PCG」の入門記事、スパーククリエイティブが公開。メッシュ生成や変数の追加など基本操作から解説",
-      "url": "https://gamemakers.jp/article/2026_06_12_139433/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
+      "title": "ユービーアイ2スタジオ閉鎖含む最大380人規模のレイオフ実施か？―関連報道への緘口令敷く動きも",
+      "url": "https://www.gamebusiness.jp/article/2026/06/13/27207.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
       "importance": "normal",
-      "published": "2026-06-12T09:14:47",
-      "image": null
+      "published": "2026-06-13T11:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186665.png"
     },
     {
-      "title": "『Subnautica 2』海洋生物の制御AIをUEで構築。ビヘイビアツリーの拡張やGAS導入事例などを解説した「AI and Games Conference 2025」講演動画が公開",
-      "url": "https://gamemakers.jp/article/2026_06_12_139467/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
+      "title": "任天堂に不利な状況続く。『パルワールド』訴訟の損害賠償額は勝訴しても最大で500万円程度？",
+      "url": "https://www.gamebusiness.jp/article/2026/06/13/27206.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
       "importance": "normal",
-      "published": "2026-06-12T07:27:47",
-      "image": null
-    },
-    {
-      "title": "SideFX、『プレデター：バッドランド』におけるHoudiniのVFXメイキング動画公開　 FMX HIVE 2026でのThe Yard VFXの講演 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202606-Houdini-Predator.html",
-      "source": "CGWORLD",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-06-12T21:57:35",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/Houdini_Predator-01-thumb-1920x1080-84939.jpg"
-    },
-    {
-      "title": "【新講座】Chiharu氏による『【Blender Fes Extra】Kawaii！イラストルックな3Dアバターモデリング』が8/8(土)にオンライン開催決定！ - ニュース",
-      "url": "https://cgworld.jp/flashnews/chiharublender-fes-extrakawaii3d88.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-12T08:34:40",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/277_seminar_bfex_kawaii_full%20%282%29-thumb-1920x1080-84868.jpg"
-    },
-    {
-      "title": "#11【TouchDesigner】手軽に始める！　プロジェクションマッピング実践 - 連載",
-      "url": "https://cgworld.jp/regular/202606-cgw332-tr11.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-12T08:10:00",
-      "image": "https://cgworld.jp/regular/assets_c/2026/06/techroom_11_compressed-thumb-1920x1080-84747.jpg"
-    },
-    {
-      "title": "StudioGOONEYSによる「AI時代に生き残るCGアニメーターの技術とは！？」セミナーが6/19（金）開催 【クリ博ダイレクト】 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2606-kurihaku-StudioGOONEYS.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-12T08:01:47",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/A-4-thumb-1000x563-84869.jpg"
-    },
-    {
-      "title": "エゴ・ワンの\"デジタルモック\"が遊技機の提案を変える ―― 企画段階で可視化する手段 - スペシャルコンテンツ",
-      "url": "https://cgworld.jp/special-feature/202606-egoone.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-12T07:45:00",
-      "image": "https://cgworld.jp/special-feature/assets_c/2026/06/egoone_top-thumb-1920x1080-84830.jpg"
-    },
-    {
-      "title": "GameSirのスマホコントローラー「G8+MFi」がAmazonにて10％オフでタイムセール中",
-      "url": "https://jp.ign.com/gaming-device/83510/gamesirg8mfiamazon10",
-      "source": "IGN Japan",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-06-12T13:32:05",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_4sb9.png"
-    },
-    {
-      "title": "Fable - June 2026 Screenshots",
-      "url": "https://jp.ign.com/fable-2026/83518/fable-june-2026-screenshots",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-06-12T03:46:09",
-      "image": "https://sm.ign.com/ign_jp/gallery/f/fable-june/fable-june-2026-screenshots_5gkd.jpg"
+      "published": "2026-06-13T11:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186673.jpg"
     }
   ]
 }
