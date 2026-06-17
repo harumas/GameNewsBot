@@ -1,15 +1,42 @@
 {
-  "generated_at": "2026-06-16T00:37:42.267706",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、さまざまなジャンルのゲームが話題を集めています。特に注目されるのは、人気ゲーム『めっちゃカメレオン』が200万本を突破したことです。 \nそれでは今日のニュースをどうぞ！ 🎮",
+  "generated_at": "2026-06-17T00:33:03.961299",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、NVIDIAの新しいフィジカルAI向け世界モデル「Cosmos 3」や、『めっちゃカメレオン』の売上本数300万本突破などの注目すべきトピックが揃っています 💻\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "劇場アニメ『パリに咲くエトワール』華麗なバレエシーンと、荘厳なオペラ座に注目！ 〜No.1／バレエシーン篇 - 特集",
-      "url": "https://cgworld.jp/article/cgw334-anime-parieto01.html",
+      "title": "劇場アニメ『パリに咲くエトワール』華麗なバレエシーンと、荘厳なオペラ座に注目！ 〜No.2／オペラ座篇 - 特集",
+      "url": "https://cgworld.jp/article/cgw334-anime-parieto02.html",
       "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-06-16T01:00:01",
-      "image": "https://cgworld.jp/article/assets_c/2026/05/55118cf5d4a8e6be64204f911c971b6a52582dbf-thumb-1000x563-84083.jpg"
+      "published": "2026-06-17T01:00:49",
+      "image": "https://cgworld.jp/article/assets_c/2026/05/a3a4a18eaa75f3d81743bda6e8142e67bdc0d440-thumb-1000x563-84120.jpg"
+    },
+    {
+      "title": "Bambu Lab、新3Dプリンタ「A2L」発売開始　造形サイズ拡張、マルチツール・エコシステム、全自動キャリブレーション、64,800円から - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202606-A2L.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-06-16T22:50:39",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/BambuA2L-01-thumb-1920x1080-85151.jpg"
+    },
+    {
+      "title": "いよいよ5日後、オンライン開催！『SCULPTORS DAY 2026』Sculptors Labo編集部が、本イベントの見どころを紹介！ - ニュース",
+      "url": "https://cgworld.jp/flashnews/2606-sculptorsday2026.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-06-16T11:23:38",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/f818e059dd4e56a14f01aa1100203739b94d022c-thumb-500x281-85146.jpg"
+    },
+    {
+      "title": "エルフィンに実力派遊技機映像クリエイターが集まるわけ 現場目線の環境づくりで支えるキャリアアップ - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/2606-elfin.html",
+      "source": "CGWORLD",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-06-16T01:55:00",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/06/8a745da45e963eea250bf3019e0372443b51f3b7-thumb-1920x1080-84797.jpg"
     },
     {
       "title": "NVIDIA、フィジカルAI向け世界モデル「Cosmos 3」リリース　ネイティブな視覚推論、ワールド＆アクション生成を統合したオムニモデル - ニュース",
@@ -21,157 +48,148 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/06/Cosmos3-01-thumb-1920x1080-85083.jpg"
     },
     {
-      "title": "【Photoshop 2026】画像内にあるオブジェクトを360度3D回転でき、商品画像などの作成に便利な「オブジェクトを回転」 - 連載",
-      "url": "https://cgworld.jp/regular/202606-tipsnote.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-15T06:10:30",
-      "image": "https://cgworld.jp/regular/assets_c/2026/06/Tipsnote-photo-2026200-thumb-800x445-84621.jpg"
+      "title": "【超ヒット】『めっちゃカメレオン』とんでもスピードで売上本数「300万本」突破、またまた“1日100万本”の超ペース。Steam最大同接はついに「20万人」を記録",
+      "url": "https://news.denfaminicogamer.jp/news/260617a",
+      "source": "電ファミニコゲーマー",
+      "category": "sale",
+      "importance": "high",
+      "published": "2026-06-16T22:56:29",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_6c0a47cc2fba1b160901d1553637a764198bdc98.1920x1080-1-1.jpg"
     },
     {
-      "title": "STUDIOJOIN、社内開発のMaya用ミラーツール「Mirror Mesh」無償配布　シンプルな操作でミラーリングを効率化 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202606-JOIN-Mirror.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-14T21:48:50",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/JOIN_Mirror-01-thumb-1920x1080-84977.jpg"
+      "title": "『ペルソナ』シリーズ30周年記念の『カードファイト!! ヴァンガード』タイトルブースターが9月12日に発売決定。『女神異聞録ペルソナ』から『P5X』までのキャラが登場",
+      "url": "https://news.denfaminicogamer.jp/news/2606163s",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-16T15:05:47",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/HK75dK0aEAAF6zD.jpeg"
     },
     {
-      "title": "Steamの売上大苦戦ゲーム開発者が「開発に3年かけて売れたのは77本」と悲痛な報告。宣伝の手ごたえはあるのに“購入の壁”は厚く",
-      "url": "https://automaton-media.com/articles/newsjp/20260615-449860/",
+      "title": "『ペルソナ』シリーズ×『OMORI』開発のコラボが決定！今年30周年を迎える『ペルソナ』と、『OMORI』開発のOMOCATがまさかのコラボ。詳細は近日公開",
+      "url": "https://news.denfaminicogamer.jp/news/260617e",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-06-17T00:11:17",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/HK4c2VAakAAOnKG.jpg"
+    },
+    {
+      "title": "『デッドバイデイライト』Steamの同接数が「12万人」を突破し最高記録を更新。10周年で過去最大の盛り上がりに。また、最大65％オフのセールも開催中",
+      "url": "https://news.denfaminicogamer.jp/news/260617c",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-06-16T23:15:08",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/Dead-by-Daylight-_-Jason-_-Launch-Trailer-0-37-screenshot.jpg"
+    },
+    {
+      "title": "4人協力登山ゲーム『PEAK』に「最後のバイオーム」を追加するアプデが2026年後半に配信決定。「カルデラ」「ザ・キルン」と入れ替わる予定。また発売から1周年を記念して、開発チームからの感謝のメッセージも公開",
+      "url": "https://news.denfaminicogamer.jp/news/260617b",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-06-16T22:15:27",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/HK8TdJ_WEAAJBGO.jpg"
+    },
+    {
+      "title": "“任天堂の従業員データを入手した”と主張するハッカーグループが身代金3億円を要求も、相手にされず。米任天堂は「社内システム侵害なし、対象データは限定的」と説明",
+      "url": "https://automaton-media.com/articles/newsjp/20260617-450063/",
       "source": "Automaton",
       "category": "business",
-      "importance": "high",
-      "published": "2026-06-15T10:28:26",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260615-449860-header.jpg"
+      "importance": "normal",
+      "published": "2026-06-17T00:03:59",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260617-450063-header.jpg"
     },
     {
-      "title": "“いつでも処刑可能”マルチエンドゲーム『イツカノヨル』リメイク版、売上1万本達成。死刑囚の少女と過ごす5日間、ゲームジャム発の個性派作品がヒット",
-      "url": "https://automaton-media.com/articles/newsjp/20260615-449773/",
-      "source": "Automaton",
-      "category": "sale",
-      "importance": "high",
-      "published": "2026-06-15T07:58:27",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260615-449773-header.jpg"
-    },
-    {
-      "title": "過酷オープンワールドARPG『Gothic 1 Remake』早くも売上50万本突破。現代でも人気爆発する“硬派フルリメイク”",
-      "url": "https://automaton-media.com/articles/newsjp/20260615-449736/",
-      "source": "Automaton",
-      "category": "sale",
-      "importance": "high",
-      "published": "2026-06-15T06:40:17",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260615-449736-header.jpeg"
-    },
-    {
-      "title": "最大4人対戦・“友情破壊”すごろくRPG『ドカポン３・２・１ スーパーコレクション！』Steam版発表、6月29日配信へ。『ドカポン』シリーズ初期三部作がSteamでも遊べる",
-      "url": "https://automaton-media.com/articles/newsjp/20260615-449716/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-15T04:33:20",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260615-449716-header.jpeg"
-    },
-    {
-      "title": "XBOX Game Studiosの複数スタジオが“閉鎖危機”との報道。近年買収されたスタジオも対象で欧米激震、「XBOXリセット」進行中か",
-      "url": "https://automaton-media.com/articles/newsjp/20260616-449886/",
+      "title": "ベテランゲーム開発者が、「続報のない新作ゲームはせめて新映像を出して」との不満に反論。“無理に新映像を出す”方がむしろ大変",
+      "url": "https://automaton-media.com/articles/newsjp/20260616-450052/",
       "source": "Automaton",
       "category": "business",
-      "importance": "high",
-      "published": "2026-06-16T00:04:34",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260616-449886-header2.jpg"
+      "importance": "normal",
+      "published": "2026-06-16T12:05:33",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260616-450052-header.jpg"
     },
     {
-      "title": "2.5D協力型エクストラクションACT「VOID DIVER : アビスからの脱出」，デモ版のアップデートによりセーブデータを製品版に引き継げるように",
-      "url": "https://www.4gamer.net/games/000/G100047/20260615054/",
+      "title": "今年屈指のメタスコアを獲得したゲーム『Mina The Hollower』、なぜこんなにも高評価？プレイしてみてわかった完成度、懐かしの2Dアクションを「深堀り」するアクションRPG",
+      "url": "https://automaton-media.com/articles/columnjp/mina-20260616-450029/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-06-16T11:46:34",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/mina-20260616-450029-header.jpg"
+    },
+    {
+      "title": "『ポケモンカードゲーム』のプレイを競う“AIエージェント”開発コンテストいきなり始動。松尾研究所が共催、GoogleとNVIDIAが開催協力する本格AI技術コンペ",
+      "url": "https://automaton-media.com/articles/newsjp/20260616-450028/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-06-16T11:33:28",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260616-450028-header.jpg"
+    },
+    {
+      "title": "大ボリュームアクションRPG『FFVII リバース』を「ブーストモード」で1周してみた。クリア時間は通常プレイの半分以下、ストーリーの没入感は？検証してみた",
+      "url": "https://automaton-media.com/articles/columnjp/ff7-20260616-450003/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-06-16T10:37:50",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/00_header.jpg"
+    },
+    {
+      "title": "［インタビュー］「三國志 覇道」魏呉蜀でぶつかる勢力戦シーズン「三勢猛進」。盾兵や兵科効果の導入で，環境にも大きな変化が",
+      "url": "https://www.4gamer.net/games/489/G048903/20260610042/",
       "source": "4Gamer.net",
       "category": "update",
       "importance": "high",
-      "published": "2026-06-15T11:28:53",
-      "image": "https://www.4gamer.net/games/000/G100047/20260615054/SS/001.jpg"
+      "published": "2026-06-16T15:00:00",
+      "image": "https://www.4gamer.net/games/489/G048903/20260610042/SS/001.jpg"
     },
     {
-      "title": "HDリマスター版「70年代風ロボットアニメ ゲッP-X」，体験版をリリース。ロボットアニメ愛にあふれる“伝説の怪作”をステージ4までプレイできる",
-      "url": "https://www.4gamer.net/games/986/G098670/20260610061/",
+      "title": "アジアの神話や民間伝承に着想を得たダークファンタジーアクションRPG「The Relic: First Guardian」，7月31日にPS5/PCで発売決定",
+      "url": "https://www.4gamer.net/games/950/G095002/20260616045/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-16T11:28:21",
+      "image": "https://www.4gamer.net/games/950/G095002/20260616045/SS/001.jpg"
+    },
+    {
+      "title": "「メイプルストーリー」の世界が，韓国・ソウルのテーマパークに登場。常設エリア「Maple Island」を見てきた",
+      "url": "https://www.4gamer.net/games/011/G001163/20260521035/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-06-16T22:00:00",
+      "image": "https://www.4gamer.net/games/011/G001163/20260521035/SS/013.jpg"
+    },
+    {
+      "title": "「ARC Raiders」のロボットはどう動いているのか。Embark Studiosが語った機械学習の実例と，「組織とツール」という泥臭い教訓をレポート［NDC26］",
+      "url": "https://www.4gamer.net/games/652/G065211/20260616016/",
+      "source": "4Gamer.net",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-06-16T11:43:11",
+      "image": "https://www.4gamer.net/games/652/G065211/20260616016/SS/002.jpg"
+    },
+    {
+      "title": "「The Witness」開発者の新作パズルADV「Order of the Sinking Star」，100種類以上のパズルに挑戦できるデモ版を配信開始",
+      "url": "https://www.4gamer.net/games/968/G096803/20260616047/",
       "source": "4Gamer.net",
       "category": "release",
       "importance": "normal",
-      "published": "2026-06-16T00:00:00",
-      "image": "https://www.4gamer.net/games/986/G098670/20260610061/SS/003.jpg"
+      "published": "2026-06-16T11:38:12",
+      "image": "https://www.4gamer.net/games/968/G096803/20260616047/SS/006.jpg"
     },
     {
-      "title": "「ペルソナ4 リバイバル」の公式番組は6月19日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
-      "url": "https://www.4gamer.net/games/421/G042182/20260615044/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-06-15T23:00:00",
-      "image": "https://www.4gamer.net/games/421/G042182/20260615044/SS/003.jpg"
-    },
-    {
-      "title": "「オーバーウォッチ」シーズン3「虎の住処へ」は東京が舞台。開発陣に，AKIRAインスパイアの新DPS「シオン」や，巨大ロボも見られる新ハイブリッドマップなどを聞いた",
-      "url": "https://www.4gamer.net/games/484/G048450/20260612018/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-06-15T17:00:00",
-      "image": "https://www.4gamer.net/games/484/G048450/20260612018/SS/003.jpg"
-    },
-    {
-      "title": "おもちゃの世界を走り回り，吹き飛ばし，ミニカーをコレクションしよう。ファミリーフレンドリーなレースゲーム「HOT WHEELS Infinite Rush」試遊レポート",
-      "url": "https://www.4gamer.net/games/013/G101371/20260612036/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-06-15T15:00:00",
-      "image": "https://www.4gamer.net/games/013/G101371/20260612036/SS/001.jpg"
-    },
-    {
-      "title": "【人気爆発】『めっちゃカメレオン』超スピードで売上本数「200万本」を突破！100万本突破からわずか“1日”でダブルミリオン達成。Steam最大同接は驚異の「13万人」を記録する大盛況",
-      "url": "https://news.denfaminicogamer.jp/news/260616b",
-      "source": "電ファミニコゲーマー",
-      "category": "sale",
+      "title": "新作発表から1週間…『Hellblade』開発元Ninja Theory閉鎖すると報道―他のXBOX関連スタジオも危機に直面か",
+      "url": "https://www.gamebusiness.jp/article/2026/06/16/27222.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
       "importance": "high",
-      "published": "2026-06-15T22:03:31",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_6c0a47cc2fba1b160901d1553637a764198bdc98.1920x1080-2.webp"
-    },
-    {
-      "title": "【無料】新作ゲームの体験版が“無限”に遊べちゃう「Steam Nextフェス」2026年6月エディションがスタート！『SAO』新作アクションゲーム『エコーズ・オブ・アインクラッド』や『ペンギン・コロニー』などの体験版が登場",
-      "url": "https://news.denfaminicogamer.jp/news/260616e",
-      "source": "電ファミニコゲーマー",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-06-15T23:56:35",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/yt_U4fjn5OzQWM_maxresdefault.jpg"
-    },
-    {
-      "title": "【90％オフ】1本の矢だけで巨大な敵を倒していく高難易度ゲーム『Titan Souls』Steam版が170円で購入できるセール開催中。古代遺跡を探索し、異なる攻撃方法や弱点を持つ敵の行動を見極めて討伐していく",
-      "url": "https://news.denfaminicogamer.jp/news/2606152s",
-      "source": "電ファミニコゲーマー",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-06-15T14:41:33",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/PhotoshopExtension_Image_2-19.png"
-    },
-    {
-      "title": "『ジョジョ 黄金の風』「護衛チーム」のメンバーをイメージした浴衣が6月19日より予約販売を開始。てんとう虫やジッパー、エアロスミスなど各キャラを象徴する要素をデザイン",
-      "url": "https://news.denfaminicogamer.jp/news/2606152v",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-06-15T13:55:10",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/HK2WeGXaUAESWQe.png"
-    },
-    {
-      "title": "『サイレントヒル』シリーズより「雛子」たちの“まちぼうけ”ミニフィギュアがガシャポンオンラインで6月16日発売。片膝を立てた三角様にやる気を感じる",
-      "url": "https://news.denfaminicogamer.jp/news/2606152u",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-06-15T12:29:39",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/silenthill_machiboke_main.jpg"
+      "published": "2026-06-16T11:45:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186844.jpg"
     },
     {
       "title": "「試作品は年間で数百台以上に及んだ」―Valve「Steam Controller」開発チームに訊く、多機能コントローラーの設計思想【インタビュー】",
@@ -192,49 +210,31 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/186750.jpg"
     },
     {
-      "title": "【先行体験】ROGとXREALが送る“本気”のゲーミングARグラスが予約販売スタート。「ROG XREAL R1」はゲーマー向けの新環境になるかもしれない",
-      "url": "https://www.gamebusiness.jp/article/2026/06/15/27216.html",
+      "title": "マルチお絵かきかくれんぼ『めっちゃカメレオン』200万本突破！100万本達成報告からわずか1日で",
+      "url": "https://www.gamebusiness.jp/article/2026/06/16/27221.html",
       "source": "GameBusiness.jp",
-      "category": "tech",
+      "category": "sale",
       "importance": "normal",
-      "published": "2026-06-15T11:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186694.jpg"
+      "published": "2026-06-16T11:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186883.png"
     },
     {
-      "title": "任天堂の新特許で『ゼルダ』連想する声も―“方向感覚を維持する”カメラ機能による探索支援など記載。発明者には宮本茂氏と神門有史氏の名前",
-      "url": "https://www.gamebusiness.jp/article/2026/06/15/27215.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-06-15T11:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186713.jpg"
-    },
-    {
-      "title": "米国ホワイトハウス、『ペルソナ5』の総攻撃演出をトランプ大統領に置き換えた映像を投稿。相変わらず「ドラゴンボール」「遊戯王」からの無断利用も",
-      "url": "https://www.gamebusiness.jp/article/2026/06/15/27214.html",
+      "title": "『Forza Horizon 6』の“リアルな日本”はどのように生まれたのか―監修した文化アドバイザーが語る制作の裏側",
+      "url": "https://www.gamebusiness.jp/article/2026/06/16/27220.html",
       "source": "GameBusiness.jp",
       "category": "other",
       "importance": "normal",
-      "published": "2026-06-15T10:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186723.jpg"
+      "published": "2026-06-16T11:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186866.jpg"
     },
     {
-      "title": "Khronos Groupが「glTF 2.1」の策定計画を発表。大規模シーンの標準化と外部アセット連携を強化",
-      "url": "https://gamemakers.jp/article/2026_06_15_139565/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
+      "title": "『ファイナルファンタジーVII リベレーション』は、25年越しに「FFの飛空艇の夢」を叶えるかもしれない",
+      "url": "https://jp.ign.com/final-fantasy-vii-remake-part-3/83547/vii-25ff",
+      "source": "IGN Japan",
+      "category": "other",
       "importance": "high",
-      "published": "2026-06-15T10:22:20",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/663a85b276473a62ff7d69c291717600.jpg"
-    },
-    {
-      "title": "UE5.5のMegaLightsをモバイルゲームで導入。『Neural Dawn』開発秘話が語られた配信のアーカイブ、Epic Gamesが公開中",
-      "url": "https://gamemakers.jp/article/2026_06_14_139468/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-14T02:58:12",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/4c1bfe4781c6edd670f36810c08014bb.jpg"
+      "published": "2026-06-16T05:41:44",
+      "image": "https://sm.ign.com/ign_jp/feature/f/final-fant/final-fantasy-7-revelation-is-bringing-back-the-airship-drea_9a6e.jpg"
     },
     {
       "title": "今が『ゼルダの伝説 時のオカリナ』のリメイクにふさわしい時期である理由",
@@ -255,13 +255,49 @@
       "image": "https://sm.ign.com/ign_jp/screenshot/default/07-hole_t6se.jpg"
     },
     {
+      "title": "『ゼルダの伝説 時のオカリナ』がリメイク！当時の思い出とリメイクへの期待を語り合う：#493 しゃべりすぎGAMER",
+      "url": "https://jp.ign.com/gamer-1/83551/493-gamer",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-06-16T11:00:38",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1280-3_ewhx.png"
+    },
+    {
       "title": "最大480Hzを誇るソニーの有機ELゲーミングモニター「INZONE M10S」がAmazonにて22％オフでセール中",
       "url": "https://jp.ign.com/gaming-device/81076/news/480hzelinzone-m10samazon22",
       "source": "IGN Japan",
-      "category": "sale",
+      "category": "tech",
       "importance": "normal",
       "published": "2026-06-15T08:50:34",
       "image": "https://sm.ign.com/ign_jp/screenshot/default/1_8583.jpg"
+    },
+    {
+      "title": "ROGとXREALが贈るゲーミングARグラス「ROG XREAL R1」予約販売スタート！世界初の240Hz対応で滑らかなゲーム体験を実現",
+      "url": "https://gamemakers.jp/article/2026_06_16_139632/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-06-16T10:51:48",
+      "image": null
+    },
+    {
+      "title": "Khronos Groupが「glTF 2.1」の策定計画を発表。大規模シーンの標準化と外部アセット連携を強化",
+      "url": "https://gamemakers.jp/article/2026_06_15_139565/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-06-15T10:22:20",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/663a85b276473a62ff7d69c291717600.jpg"
+    },
+    {
+      "title": "Epic Games、UEの本格的な学習コースを無料で公開中。初心者向けチュートリアルやBP・C++の解説コース、既存プロジェクトのUE移行手順を解説したコースなど",
+      "url": "https://gamemakers.jp/article/2026_06_16_139612/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-06-16T07:19:40",
+      "image": null
     }
   ]
 }
