@@ -1,276 +1,231 @@
 {
-  "generated_at": "2026-06-18T00:33:54.814960",
-  "poem": "おはようございます！ 🌞\nゲーム業界は今、AIや新しいエンジンの開発が進化しています。特に注目は、Unreal Engine 6のロードマップが公開されたことでしょう。\nそれでは今日のニュースをどうぞ！ 🎮",
+  "generated_at": "2026-06-19T00:38:52.699213",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、スクウェア・エニックスの学びの設計やUnityの最新機能、そして新作ゲームの発売決定など、多くの魅力的な話題が盛りだくさんです！ 💻\n特に注目されるのは、Epic Games Storeでの無料配布や『ペルソナ６』のSteamストアページの公開などです。\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "第8回 スクウェア・エニックス 前編：AIを現場で使われる技術へ変える - 連載",
-      "url": "https://cgworld.jp/regular/202606-manabi8-1.html",
+      "title": "第8回 スクウェア・エニックス 後編：実務につながる学びをどう設計するか - 連載",
+      "url": "https://cgworld.jp/regular/202606-manabi8-2.html",
       "source": "CGWORLD",
       "category": "tech",
       "importance": "normal",
-      "published": "2026-06-18T01:00:00",
-      "image": "https://cgworld.jp/regular/assets_c/2026/06/202606-manabi8_a1-thumb-1000x667-84504.jpg"
+      "published": "2026-06-19T01:00:00",
+      "image": "https://cgworld.jp/regular/assets_c/2026/06/202606-manabi8_d2-thumb-1000x563-84519.jpg"
     },
     {
-      "title": "スタジオダックビル、3DGS Meetup vol.2の登壇資料「ブラウザだけで3DGSを\"歩ける世界に\"」公開　自社開発ビューア「SplatStrollファミリー」の技術的トピックを詳説 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202606-3dgsmeetup.html",
+      "title": "Jared Chavez氏、Substance 3D PainterとMarmoset Toolbagを組み合わせたディスプレイスメントマップ構築方法の解説動画を公開 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202606-SP-Displace.html",
       "source": "CGWORLD",
       "category": "tech",
       "importance": "normal",
-      "published": "2026-06-17T22:07:27",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/3dgsmeetup-01-thumb-1920x1080-85199.jpg"
+      "published": "2026-06-18T22:38:10",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/SP_Displace-01-thumb-1920x1080-85231.jpg"
     },
     {
-      "title": "スタジオブロスが製造業向けに全10回の「Twinmotionビジュアライゼーションセミナー」を開催 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2606-twinmotion.html",
+      "title": "【保存版】Unity Industry活用ガイド：建築・製造・産業分野に広がり続けるUnityの最新機能を解説 - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/2606-unity-unityindustry.html",
       "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-06-17T04:09:40",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/675c4aa9221a3c84b384503317e1a3059ff9736d-thumb-840x473-85198.jpg"
+      "published": "2026-06-18T07:25:00",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/06/2f661704d33db220aa2e33465cf11893849a4bfe-thumb-1000x563-85089.jpg"
     },
     {
-      "title": "LiberNovo、新型電動ワークチェア3モデルを発売。期間限定の早割価格も実施。 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2606-libernovo.html",
+      "title": "「自然やばい！」ー昆虫・恐竜・絶滅生物を3DCGで精緻に再現するBoycraftの世界 - 特集",
+      "url": "https://cgworld.jp/article/3dcgboycraft.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-06-18T04:24:46",
+      "image": "https://cgworld.jp/article/assets_c/2026/06/e0ea736394a2b825704c0e64201c6ecc0b517f9a-thumb-1000x609-84709.jpg"
+    },
+    {
+      "title": "【無料】天草市視察ツアー参加者募集！企業向け・クリエイター向けに分かれた2ルートで\"デジタルアートの島\"を体感するツアー - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2606-amakusa.html",
       "source": "CGWORLD",
       "category": "industry",
       "importance": "normal",
-      "published": "2026-06-17T02:00:07",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/LiberNovo_main-thumb-1000x563-85163.jpg"
+      "published": "2026-06-18T03:57:25",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/e15ef1a382b262e56eafccc0d3b935c760e94cb0-thumb-1000x562-85206.jpg"
     },
     {
-      "title": "【7/12（日）〆切】東京都支援の「現代版トキワ荘 起業家育成プログラム」第2期生を追加募集。説明会も開催します！ - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2606-tokiwa.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-06-17T00:20:13",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/108056-50-896385e624872a272112738558923d80-920x450-thumb-1000x563-85088.jpg"
-    },
-    {
-      "title": "初代『コール オブ デューティ ブラックオプス』および『コール オブ デューティ ブラックオプス 2』が、現行のPlayStationハード向けに2026年7月に発売決定。「ゾンビ」モードも完全収録へ",
-      "url": "https://news.denfaminicogamer.jp/news/260618d",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-17T22:53:44",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_e3ad24dd02143ffbbbf17467fde104b462c9120e.1920x1080.jpg"
-    },
-    {
-      "title": "『グランド・セフト・オートV』PS4・Xbox One版ユーザー向けにPS5・Xbox Series X|S版への「無料アップグレード」提供へ、公式サイトにて発表。『GTAオンライン』“美術品強盗”が目玉の新アプデも予告",
-      "url": "https://news.denfaminicogamer.jp/news/260618b",
-      "source": "電ファミニコゲーマー",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-06-17T22:41:52",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/HLBU9oPXAAAmfoX.jpg"
-    },
-    {
-      "title": "【半額】『ブルーアーカイブ オフィシャルアートワークス』Kindle版が50％オフのセール開催中、1〜3弾が「1万1715円→5858円」で購入できる。生徒たちの初期設定やラフ、制作陣へのインタビューなど盛りだくさん",
-      "url": "https://news.denfaminicogamer.jp/news/2606172w",
+      "title": "Epic Games StoreにてTRPG風SFアドベンチャー『シチズン・スリーパー』とリズムFPS『ROBOBEAT』の無料配布が開始。期間は6月25日まで",
+      "url": "https://news.denfaminicogamer.jp/news/260619c",
       "source": "電ファミニコゲーマー",
       "category": "sale",
       "importance": "high",
-      "published": "2026-06-17T11:53:35",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/81Z8gYzy7L._SL1500_.jpg"
+      "published": "2026-06-18T22:55:13",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/citizen-sleeper-i89d6.jpg"
     },
     {
-      "title": "新エンジン「Unreal Engine 6」のロードマップが公開。早期アクセス版は2027年末にリリース。ライブサービス型のコンテンツを簡単に開発する新言語「Verse」に移行し、「Claude」「Gemini」がUEのツール内で作業を補助してくれるように",
-      "url": "https://news.denfaminicogamer.jp/news/260618c",
-      "source": "電ファミニコゲーマー",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-06-17T23:08:25",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/unreal-engine-x-uefn-1.webp"
-    },
-    {
-      "title": "1992年にネオジオで発売された対戦格闘ゲーム『ニンジャマスターズ ～覇王忍法帖～』Steam版が近日中に配信へ。オンライン対戦モードやトーナメント戦なども追加された豪華版",
-      "url": "https://news.denfaminicogamer.jp/news/260618j",
+      "title": "アニメ調のかわいいオープンワールド・アクションRPG『ドラゴンソード:アウェイクニング』7月23日に発売決定。本編のみの通常版にくわ、アートブックやサントラなどの付属するデラックスエディションも発売予定",
+      "url": "https://news.denfaminicogamer.jp/news/260619f",
       "source": "電ファミニコゲーマー",
       "category": "release",
-      "importance": "normal",
-      "published": "2026-06-18T00:31:55",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/main-33.png"
-    },
-    {
-      "title": "「ゲームはAGIへの最小実験場」。Google DeepMindが語る，ゲームで進めるAI研究の最前線［NDC26］",
-      "url": "https://www.4gamer.net/games/991/G999104/20260617051/",
-      "source": "4Gamer.net",
-      "category": "tech",
       "importance": "high",
-      "published": "2026-06-17T23:50:00",
-      "image": "https://www.4gamer.net/games/991/G999104/20260617051/SS/009.jpg"
+      "published": "2026-06-18T22:52:56",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/maxresdefault-17.jpg"
     },
     {
-      "title": "Monolakeはネクソンの“コンテキスト資本”。AI時代に向けた全社データ基盤の構築と「AI Readyなデータ」への進化［NDC26］",
-      "url": "https://www.4gamer.net/games/991/G999104/20260617056/",
-      "source": "4Gamer.net",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-18T00:20:00",
-      "image": "https://www.4gamer.net/games/991/G999104/20260617056/SS/008.jpg"
-    },
-    {
-      "title": "スマホゲームのセルラン分析（2026年6月4日〜6月10日）。今週の1位は「eFootball」。1月〜3月の全世界DL数ランキングも紹介",
-      "url": "https://www.4gamer.net/games/536/G053628/20260615009/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-06-18T00:00:00",
-      "image": "https://www.4gamer.net/games/536/G053628/20260615009/SS/002.jpg"
-    },
-    {
-      "title": "キャラクターに没入できる声を――「ブルアカ」を支えるTTS開発と，日本語特化モデルを韓国語へ対応させた道のり［NDC26］",
-      "url": "https://www.4gamer.net/games/915/G091533/20260617028/",
-      "source": "4Gamer.net",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-17T23:56:38",
-      "image": "https://www.4gamer.net/games/915/G091533/20260617028/SS/011.png"
-    },
-    {
-      "title": "「私が作ったのは，巨大で動的なネットワークそのものだ」。「RimWorld」タイナン・シルベスター氏が語る，システムクラフターの哲学と倫理をレポート［NDC26］",
-      "url": "https://www.4gamer.net/games/920/G092042/20260617054/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-06-17T23:30:00",
-      "image": "https://www.4gamer.net/games/920/G092042/20260617054/SS/006.jpg"
-    },
-    {
-      "title": "戦国風格闘ゲーム『ニンジャマスターズ ～覇王忍法帖～』Steam版発表。快適オンライン対戦対応で蘇る、武芸者たちの武器・素手切り替えバトル",
-      "url": "https://automaton-media.com/articles/newsjp/20260617-450285/",
-      "source": "Automaton",
+      "title": "『ナルト』の新作TCGが発表！バンダイから2027年に全世界同時リリース決定",
+      "url": "https://news.denfaminicogamer.jp/news/2606184q",
+      "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-06-17T14:09:51",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260617-450285-header.jpg"
+      "published": "2026-06-18T14:44:29",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/HLGhFqPawAATZou.jpg"
     },
     {
-      "title": "新作発表後すぐ“閉鎖危機”のNinja Theory、「新作発表前からスタジオ閉鎖・売却方針が決まっていた」との報道。“買い手”を探す狙いもあってか",
-      "url": "https://automaton-media.com/articles/newsjp/ninja-theory-20260617-450231/",
-      "source": "Automaton",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-06-17T10:16:42",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/ninja-theory-20260617-450231-header.jpg"
-    },
-    {
-      "title": "基本プレイ無料戦車シューター『World of Tanks: HEAT』開発者インタビュー。なぜヒーロー系に？プレイヤーの声、どう思ってる？など諸々訊いた",
-      "url": "https://automaton-media.com/articles/interviewsjp/world-of-tanks-heat-interview-20260617-450211/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-06-17T10:00:15",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/world-of-tanks-heat-interview-20260617-450211-image1.jpg"
-    },
-    {
-      "title": "『ドラクエ』が好きすぎる海外開発者が放つJRPG『PARAGON STORY』発表。転職、結婚、馬車に飛空艇、JRPG愛全部盛りゲーム",
-      "url": "https://automaton-media.com/articles/newsjp/20260617-450178/",
-      "source": "Automaton",
+      "title": "『僕のヒーローアカデミア All’s Justice』Switch 2版が9月3日に発売決定。『パックマン』とのコラボゲームも登場",
+      "url": "https://news.denfaminicogamer.jp/news/2606184p",
+      "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-06-17T07:48:02",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260617-450178-header.jpg"
+      "published": "2026-06-18T14:27:20",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/SdYHZO3p.jpeg"
     },
     {
-      "title": "『ストリートファイター6』新キャラ「ヤスミン」は8月3日実装へ。カランビットナイフ使いのスピードキャラ、“強化状態”など詳細お披露目",
-      "url": "https://automaton-media.com/articles/newsjp/street-fighter-6-20260618-450303/",
+      "title": "『ペルソナ６』のSteamストアページが公開、ウィッシュリスト登録の受付も開始。現代日本の街を舞台に、オカルティックな事件に立ち向かう少年少女たちの1年を描く",
+      "url": "https://news.denfaminicogamer.jp/news/260619b",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-18T21:58:44",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/1d8657e6feca8e302a053fe011c61d88.jpg"
+    },
+    {
+      "title": "新作TCG「NARUTOカードゲーム」が2027年に全世界同時リリースへ。商品の詳細は7月29日に発表予定",
+      "url": "https://www.4gamer.net/games/018/G101845/20260618080/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-18T14:33:24",
+      "image": "https://www.4gamer.net/games/018/G101845/20260618080/SS/001.jpg"
+    },
+    {
+      "title": "Switch向けDL版「キャプテン翼2 WORLD FIGHTERS」の予約受付がスタート。豪華ゲストを迎えた発売決定記念番組が6月19日20：00から配信",
+      "url": "https://www.4gamer.net/games/981/G098134/20260618071/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-18T11:58:57",
+      "image": "https://www.4gamer.net/games/981/G098134/20260618071/SS/002.jpg"
+    },
+    {
+      "title": "コードは溢れ，レビューは止まった。“理解負債”を返すAI「CodeOnBoard」とコードベース資産化への取り組み［NDC26］",
+      "url": "https://www.4gamer.net/games/991/G999104/20260618068/",
+      "source": "4Gamer.net",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-06-18T11:48:44",
+      "image": "https://www.4gamer.net/games/991/G999104/20260618068/SS/002.jpg"
+    },
+    {
+      "title": "「Call of Duty: Black Ops」と「Call of Duty: Black Ops II」の現世代PlayStationへの移植が発表に。リリースは7月予定",
+      "url": "https://www.4gamer.net/games/018/G101839/20260618064/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-18T11:14:41",
+      "image": "https://www.4gamer.net/games/018/G101839/20260618064/SS/001.jpg"
+    },
+    {
+      "title": "「グランド・セフト・オートVI」の予約受付は6月25日スタート。11月19日の発売に備えよう",
+      "url": "https://www.4gamer.net/games/758/G075801/20260618076/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-18T13:37:09",
+      "image": "https://www.4gamer.net/games/758/G075801/20260618076/SS/002.jpg"
+    },
+    {
+      "title": "もちもちRPG『トリッカル』が、SF作家から見ても「かなりSFっぽくなってきた」件。大型アプデで感じる謎の“SFファンタジー感”と、そしてもちほっぺ",
+      "url": "https://automaton-media.com/articles/columnjp/20260618-450503/",
       "source": "Automaton",
       "category": "update",
-      "importance": "normal",
-      "published": "2026-06-17T23:52:15",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/street-fighter-6-20260618-450303-header.jpg"
-    },
-    {
-      "title": "Android XR対応のグラス型デバイス「XREAL AURA」、今年秋に発売予定。Unityでのサポートも併せて発表",
-      "url": "https://gamemakers.jp/article/2026_06_17_139706/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
       "importance": "high",
-      "published": "2026-06-17T08:32:39",
-      "image": null
+      "published": "2026-06-18T09:00:06",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260618-450503-header.jpg"
     },
     {
-      "title": "ROGとXREALが贈るゲーミングARグラス「ROG XREAL R1」予約販売スタート！世界初の240Hz対応で滑らかなゲーム体験を実現",
-      "url": "https://gamemakers.jp/article/2026_06_16_139632/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
+      "title": "スペースコロニーRPG『シチズン・スリーパー』無料配布中、Epic Gamesストアにて。高評価作品2本立て、合計4280円分もらえる",
+      "url": "https://automaton-media.com/articles/newsjp/epic-games-20260618-450560/",
+      "source": "Automaton",
+      "category": "sale",
       "importance": "high",
-      "published": "2026-06-16T10:51:48",
-      "image": null
+      "published": "2026-06-18T15:00:09",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/epic-games-20260618-450560-header.jpg"
     },
     {
-      "title": "Epic Games、ゲーム開発向けの次世代バージョン管理システム「Lore」をオープンソースで公開。MITライセンスで無料提供",
-      "url": "https://gamemakers.jp/article/2026_06_18_139744/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
+      "title": "静寂廃世界オープンワールドサバイバル『DUSKDOG』発表。壊れた人工太陽が照らす薄暗い地表を、たった一人で歩いていく",
+      "url": "https://automaton-media.com/articles/newsjp/20260618-450531/",
+      "source": "Automaton",
+      "category": "release",
       "importance": "high",
-      "published": "2026-06-17T17:06:05",
-      "image": null
+      "published": "2026-06-18T09:15:58",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260618-450531-header2.jpg"
     },
     {
-      "title": "UE6、2027年末に早期アクセス開始予定。アクターとブループリントは続投されるが、いずれ非推奨に移行",
-      "url": "https://gamemakers.jp/article/2026_06_18_139729/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-17T16:47:52",
-      "image": null
+      "title": "『グランド・セフト・オートVI』6月25日に「予約受付開始」へ。もう延期せずに出そう",
+      "url": "https://automaton-media.com/articles/newsjp/20260618-450585/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-18T13:31:03",
+      "image": "https://automaton-media.com/wp-content/uploads/2025/11/gta-6-20251107-365048-header.jpg"
     },
     {
-      "title": "Unreal Engine 5.8がリリース。MCPサーバー搭載により、AIエージェントからBPやマテリアル、Niagaraの編集が可能に",
-      "url": "https://gamemakers.jp/article/2026_06_18_139722/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
+      "title": "アニメ調オープンワールドRPG『ドラゴンソード:アウェイクニング』、7月23日配信へ。“泥沼の訴訟沙汰”にある『ドラゴンソード』をベースに、買い切り型ゲーム化",
+      "url": "https://automaton-media.com/articles/newsjp/20260618-450576/",
+      "source": "Automaton",
+      "category": "release",
       "importance": "normal",
-      "published": "2026-06-17T15:08:28",
-      "image": null
+      "published": "2026-06-18T12:38:56",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260618-450576-header.jpg"
     },
     {
       "title": "またまた1日で100万本上乗せ！自分の体に絵を描いて風景に溶け込むかくれんぼゲーム『めっちゃカメレオン』売上300万本突破。Steam同時接続数は20万人超え",
       "url": "https://www.gamebusiness.jp/article/2026/06/17/27241.html",
       "source": "GameBusiness.jp",
-      "category": "other",
+      "category": "release",
       "importance": "high",
       "published": "2026-06-17T11:30:03",
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/186985.png"
     },
     {
-      "title": "Claudeのエージェント別枠化が撤回、Anthropicが当日発表―今後のプラン変更に向け再検討中",
-      "url": "https://www.gamebusiness.jp/article/2026/06/17/27229.html",
-      "source": "GameBusiness.jp",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-06-17T03:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186829.jpg"
-    },
-    {
-      "title": "米国市場で探る“次の一手”──スマホ新法時代のアプリ外課金とD2C戦略【Stripeインタビュー】",
-      "url": "https://www.gamebusiness.jp/article/2026/06/17/27228.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-06-17T02:45:56",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186157.jpg"
-    },
-    {
-      "title": "『ライフ イズ ストレンジ』開発元「DON’T NOD」追加資金なければ11月にも資金枯渇見込み―監査役が事業継続に懸念",
-      "url": "https://www.gamebusiness.jp/article/2026/06/17/27231.html",
+      "title": "名越スタジオに新たな動きか。プロデューサー・取締役の佐藤大輔氏のプロフィールが「元名越スタジオ」に変更―公式声明は未だなし",
+      "url": "https://www.gamebusiness.jp/article/2026/06/18/27256.html",
       "source": "GameBusiness.jp",
       "category": "business",
-      "importance": "high",
-      "published": "2026-06-17T03:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186820.jpg"
+      "importance": "normal",
+      "published": "2026-06-18T11:45:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187089.jpg"
     },
     {
-      "title": "自分のPCで「とりあえず動く」ではなく「一番賢く使える」ローカルLLMを教えてくれる「whichllm」、実測ベンチでランク付け（生成AIクローズアップ）",
-      "url": "https://www.gamebusiness.jp/article/2026/06/17/27242.html",
+      "title": "映像・アニメ・XRの海外展開を後押し。文化庁「クリエイター支援基金」令和8年度進捗報告会が開催",
+      "url": "https://www.gamebusiness.jp/article/2026/06/18/27255.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-06-18T11:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187100.jpg"
+    },
+    {
+      "title": "ボタンから指が離れない！？ソニー取得の変形ボタン特許情報が公開―ぬかるむ足場の表現や操作性、アクセシビリティの向上にも利用か",
+      "url": "https://www.gamebusiness.jp/article/2026/06/18/27254.html",
       "source": "GameBusiness.jp",
       "category": "tech",
       "importance": "normal",
-      "published": "2026-06-17T11:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/186974.png"
+      "published": "2026-06-18T11:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187110.png"
+    },
+    {
+      "title": "アリババクラウド、東京に5カ所目のデータセンターを開設——AI開発基盤「Model Studio」も日本で提供開始",
+      "url": "https://www.gamebusiness.jp/article/2026/06/18/27253.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-06-18T10:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187037.jpg"
     }
   ]
 }
