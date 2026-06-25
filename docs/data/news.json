@@ -1,141 +1,141 @@
 {
-  "generated_at": "2026-06-24T00:24:32.052975",
-  "poem": "おはようございます！ 💻\n今日のゲームニュースは、ドラゴンボール ゼノバース3の新PVや、スター・ウォーズ：ギャラクティック・レーサーの先行プレイなど、多くの新作やアップデートが発表されました 🚀\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-06-25T00:31:04.955025",
+  "poem": "おはようございます！🌞\n今日のゲームニュースはたくさんありますね。新作『Star Fox』や『神貌のクリファ』の発表、アップデートの情報などが目玉です 💻\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "「RAIDEN FIGHTERS REMIX COLLECTION」，スムージング機能の追加や不具合修正を行うアップデートVer.1.2を配信",
-      "url": "https://www.4gamer.net/games/841/G084166/20260622034/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-06-24T00:00:00",
-      "image": "https://www.4gamer.net/games/841/G084166/20260622034/SS/005.webp"
-    },
-    {
-      "title": "倒れたペンギンを起こすだけの仕事で生きていきたい――そんな人のための新作タイトル「Penguin Lifter」，Steamストアページを公開",
-      "url": "https://www.4gamer.net/games/019/G101955/20260624002/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-06-23T18:55:52",
-      "image": "https://www.4gamer.net/games/019/G101955/20260624002/SS/002.jpg"
-    },
-    {
-      "title": "「ドラゴンボール ゼノバース3」，第1弾PVを公開。新たな物語と，歴戦の戦士たちの力を宿し闘う新アクション“ソウルチェンジ”をチェック",
-      "url": "https://www.4gamer.net/games/000/G100033/20260624001/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-06-23T18:22:40",
-      "image": "https://www.4gamer.net/games/000/G100033/20260624001/SS/005.jpg"
-    },
-    {
-      "title": "高速レースで銀河を駆け巡る賞金稼ぎに。「スター・ウォーズ：ギャラクティック・レーサー」をSGFで先行プレイ",
-      "url": "https://www.4gamer.net/games/968/G096885/20260618063/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-06-23T15:00:00",
-      "image": "https://www.4gamer.net/games/968/G096885/20260618063/SS/001.jpg"
-    },
-    {
-      "title": "言葉を交わさずに絆を深める少年と小鹿の旅路を描く，シネマティックプラットフォーマー「鹿と少年」本日発売",
-      "url": "https://www.4gamer.net/games/807/G080715/20260623046/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-06-23T14:00:00",
-      "image": "https://www.4gamer.net/games/807/G080715/20260623046/SS/001.jpg"
-    },
-    {
-      "title": "大ヒット・マルチ対応サバイバルクラフト『RuneScape: Dragonwilds』大型アプデでついに日本語対応。“太陽が命を削る”砂漠エリアなども実装、早期アクセス最後の大拡張",
-      "url": "https://automaton-media.com/articles/newsjp/20260623-451375/",
-      "source": "Automaton",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-06-23T14:02:38",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260623-451375-header.jpeg"
-    },
-    {
-      "title": "“異常制圧”ホラーADV『俯瞰同盟』発表。「エラーを殺せる罪人」と挑む失踪事件調査、『柘榴団地』作者によるシリーズ完結作",
-      "url": "https://automaton-media.com/articles/newsjp/20260623-451304/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-23T09:51:01",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260623-451304-header.jpg"
-    },
-    {
-      "title": "『マインクラフト』新スナップショットで紅葉バイオーム「まだらな森」実装。羊毛の階段＆ハーフブロックもついに登場、新要素いっぱい試せる",
-      "url": "https://automaton-media.com/articles/newsjp/20260624-451392/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-06-23T23:40:08",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260624-451392-header.jpg"
-    },
-    {
-      "title": "“セリフ一切なし”絆の旅ゲーム『鹿と少年』本日発売。家出少年と小鹿が支え合う、「1人と1匹」の静かな旅路",
-      "url": "https://automaton-media.com/articles/newsjp/20260623-451158/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-06-23T13:01:14",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260623-451158-header-1.jpg"
-    },
-    {
-      "title": "美少女ゲーム『Nursery Rhyme -ナーサリィ☆ライム-』現代向けにリマスターorリメイクへ。“きしめん”でおなじみのゲームが蘇る",
-      "url": "https://automaton-media.com/articles/newsjp/20260623-451340/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-06-23T12:32:33",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260623-451340-header.jpg"
-    },
-    {
-      "title": "『ソニックフロンティア』Switch 2版がいきなり発表！しかも発売開始。無料大型アップデート3種やデジタルアートブックなど一挙に収録した「超・デラックス」版として展開",
-      "url": "https://news.denfaminicogamer.jp/news/260624c",
+      "title": "アークシステムワークスの完全新作RPG『神貌のクリファ』発表！9月24日に発売予定。流れる時間のなかでスキルを発動し、カウンターを叩き込むタクティカルカウンター・タイムラインRPG",
+      "url": "https://news.denfaminicogamer.jp/news/260625h",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-06-23T23:11:33",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/5d9a8bdeb66bb51cd45f05b8a620793816172db6d71cf4fd481eb435a1b6fa0c.jpg"
+      "published": "2026-06-24T21:13:53",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/WS000398.jpg"
     },
     {
-      "title": "『フールナイト』アニメ化決定&年内にNetflix独占配信。「サンライズ×シャフト」新作アニメがついに発表。“人を植物に変える”技術で生き延びる人類が、人として生きるか植物として新たな生へ踏み出すか迫られる",
-      "url": "https://news.denfaminicogamer.jp/news/2606242y",
+      "title": "新作『Star Fox（スターフォックス）』海外レビューでメタスコア平均「81/100」を獲得。「任天堂リメイク作品の中でも特に美しい」「ジャンルの頂点に近い」とレビュー集まる",
+      "url": "https://news.denfaminicogamer.jp/news/2606254a",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-24T15:29:17",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/27194eb169fd4e5716daf9e09755bb63bdd66bff2e202bd47a408e950aef1345-2.jpg"
+    },
+    {
+      "title": "『ペルソナ5X』1周年記念の10大キャンペーンが発表。対象キャラから1体を選べる「特別招待券」が追加！",
+      "url": "https://news.denfaminicogamer.jp/news/2606243p",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-06-23T15:30:59",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/c9c37e97b634cf670f78c4f885f7a539.jpg"
+      "published": "2026-06-24T14:02:12",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/771609e05d7f1e162cf36355e1831712-1.png"
     },
     {
-      "title": "剣をくわえた恐竜が死闘を繰り広げるアクションRPG『Dinoblade』7月24日に発売決定。ド派手な戦闘の様子をチェックできる新たなトレイラーが公開。",
-      "url": "https://news.denfaminicogamer.jp/news/2606234f",
+      "title": "『GTA6』価格は「9800円」！ アルティメット・エディションは1万2280円。PS5、Xbox Series X|Sで11月19日発売、いよいよ本日6月25日から予約受付スタート",
+      "url": "https://news.denfaminicogamer.jp/news/2606253x",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-06-23T12:12:59",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_cf37d18b5f5d390723ccc70d8edd556dced99b85.1920x1080.jpg"
+      "published": "2026-06-24T15:02:12",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/poster_full.0az_iud2g3y4j-1.webp"
     },
     {
-      "title": "にじさんじ・ルンルンさん、7月5日からの活動休止を発表。キャパシティや体調の都合を理由とし、期限は未定だが「少しの間」とのこと",
-      "url": "https://news.denfaminicogamer.jp/news/2606234d",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-06-23T11:37:53",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/sub5-78.jpg"
-    },
-    {
-      "title": "新作『ドラゴンボール ゼノバース３』ゲームプレイ初解禁となる「第1弾PV」が公開。トランクスなど歴戦の戦士たちの力をその身に宿す「ソウルチェンジ」によるバトルシーンも",
-      "url": "https://news.denfaminicogamer.jp/news/260624b",
+      "title": "新作『Star Fox（スターフォックス）』本日発売。グラフィックが刷新され、新規ムービーやオンラインバトルモードなどの新要素も",
+      "url": "https://news.denfaminicogamer.jp/news/260625a",
       "source": "電ファミニコゲーマー",
       "category": "release",
-      "importance": "normal",
-      "published": "2026-06-23T15:55:56",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/003_DBXV3.png"
+      "importance": "high",
+      "published": "2026-06-24T15:00:35",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/360a7eccc662f91e80e15a6f0ff077d0436a055d73b250e085618cf52b6d038b.webp"
+    },
+    {
+      "title": "Steamで「AI生成コンテンツの使用開示」に記載がある場合、レビューが少なくなるというデータ分析報告",
+      "url": "https://automaton-media.com/articles/newsjp/20260624-451676/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-06-24T12:53:56",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260624-451676-header.jpg"
+    },
+    {
+      "title": "“時速8000km”太陽系レースゲーム『BRAYZ』正式発表。反重力コースで64台が大混戦、“人類史上最速”マッハレース開幕",
+      "url": "https://automaton-media.com/articles/newsjp/20260624-451660/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-24T10:54:11",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260624-451660-header.jpg"
+    },
+    {
+      "title": "金子一馬氏が携わるデッキ構築型ローグライク『KAZUMA KANEKO’S ツクヨミ』Steam版発表、7月24日配信へ。塔を登って「神魔」に挑む戦略カードバトル",
+      "url": "https://automaton-media.com/articles/newsjp/20260624-451605/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-24T08:16:23",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260624-451605-header.jpg"
+    },
+    {
+      "title": "Steam・2人協力アクション『Sixth Force』配信開始、からの即“無料配布”。期間限定でタダ",
+      "url": "https://automaton-media.com/articles/newsjp/20260624-451592/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-24T07:43:33",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260624-451592-001.jpg"
+    },
+    {
+      "title": "“左か右か”勝手に戦う美少女ローグライトACT『Steel Maiden』発表。操作は「左右の2ボタンだけ」、超シンプル超高速アクション",
+      "url": "https://automaton-media.com/articles/newsjp/20260624-451540/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-24T05:43:23",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260624-451540-header.jpeg"
+    },
+    {
+      "title": "「DAMON and BABY」メジャーアップデート「Ver 2.00」が配信開始。新コンテンツ「ブラッドエッジ卿の試練」が追加に",
+      "url": "https://www.4gamer.net/games/970/G097070/20260625007/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-06-24T22:13:16",
+      "image": "https://www.4gamer.net/games/970/G097070/20260625007/SS/007.jpg"
+    },
+    {
+      "title": "ベルトスクロール×ローグライトの傑作「Absolum（アブソラム）」のNintendo Switch 2版を発表。発売は9月17日を予定",
+      "url": "https://www.4gamer.net/games/020/G102040/20260625006/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-24T21:52:16",
+      "image": "https://www.4gamer.net/games/020/G102040/20260625006/SS/003.jpg"
+    },
+    {
+      "title": "「BLAZBLUE CENTRALFICTION」にまさかの新キャラ追加が決定。詳細はEVO 2026で発表予定",
+      "url": "https://www.4gamer.net/games/341/G034109/20260625002/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-24T21:33:58",
+      "image": "https://www.4gamer.net/games/341/G034109/20260625002/SS/003.jpg"
+    },
+    {
+      "title": "「デイヴ・ザ・ダイバー」のCOMPLETE EDITIONが10月8日に発売決定。デイヴのすべてを詰め込んだ完全版が登場",
+      "url": "https://www.4gamer.net/games/771/G077159/20260625004/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-24T21:19:42",
+      "image": "https://www.4gamer.net/games/771/G077159/20260625004/SS/002.jpg"
+    },
+    {
+      "title": "「神貌のクリファ」発表。アークシステムワークスとユナイトプラスが贈るタクティカルカウンター・タイムラインRPG",
+      "url": "https://www.4gamer.net/games/020/G102039/20260625001/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-24T21:06:44",
+      "image": "https://www.4gamer.net/games/020/G102039/20260625001/SS/002.jpg"
     },
     {
       "title": "【指先の微細な動きまで忠実にトラッキング】Diver-X、グローブ型 VR コントローラ「ContactGlove3」を発表公式ストアにて予約販売を開始！― 電磁場(EMF)方式の採用により、世界最高峰の精度を実現。 - ニュース",
@@ -145,6 +145,15 @@
       "importance": "high",
       "published": "2026-06-23T09:14:42",
       "image": "https://cgworld.jp/flashnews/assets_c/2026/06/e4dd112a03452f421726763214e6d3d2260b423e-thumb-1000x563-85335.jpg"
+    },
+    {
+      "title": "【7/15（水）】Cygames、テクニカルアーティスト向けオンライン採用セミナー「TAラウンドテーブル  最高のコンテンツを支えるTA組織とは」を開催 - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2606-cygames.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-06-24T11:30:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/a39bedba1a984c9efd40c5891f3ec33b-thumb-1000x563-84960.jpg"
     },
     {
       "title": "Abe Leal氏、Substance 3D PainterとMarmoset Toolbag 5のテクスチャリング機能の比較検証動画を公開　UIの使い勝手からジェネレータ、書き出しまで - ニュース",
@@ -159,7 +168,7 @@
       "title": "求めているのは\"渡来人\" 遊技機・アニメでセルルック表現を追求するギャラクシーグラフィックスが求人募集中 - スペシャルコンテンツ",
       "url": "https://cgworld.jp/special-feature/2606-gg.html",
       "source": "CGWORLD",
-      "category": "business",
+      "category": "industry",
       "importance": "normal",
       "published": "2026-06-23T06:14:21",
       "image": "https://cgworld.jp/special-feature/assets_c/2026/06/b4f7100e9ac350b5368fc138cc31bc71a516c4d7-thumb-939x528-85243.jpg"
@@ -174,67 +183,67 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/06/2d8521e76bcc051076e2fea170ec91f00f789800-thumb-1000x563-85291.png"
     },
     {
-      "title": "未知の追求は止まらない。コンテンツIPスタジオ「maxilla」が3DCGデザイナーを募集。映像からグラフィック、イベント、グッズまで広がるIPプロモーション/プロデュースの面白さとは？ - スペシャルコンテンツ",
-      "url": "https://cgworld.jp/special-feature/2606-maxilla.html",
-      "source": "CGWORLD",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-06-23T01:13:15",
-      "image": "https://cgworld.jp/special-feature/assets_c/2026/06/af2bd21afd341885166087730beef365b126a1e1-thumb-1000x562-84650.jpg"
-    },
-    {
-      "title": "ゴア表現は「ホラーに不可欠」。超グロホラーFPS『ILL』日本語音声含むフルローカライズを目標に！【開発者インタビュー】",
-      "url": "https://www.gamebusiness.jp/article/2026/06/23/27301.html",
-      "source": "GameBusiness.jp",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-23T11:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187536.jpg"
-    },
-    {
-      "title": "Getty ImagesがOpenAIと複数年契約、ChatGPTにライセンス画像を提供へ",
-      "url": "https://www.gamebusiness.jp/article/2026/06/23/27302.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-06-23T11:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187513.jpg"
-    },
-    {
-      "title": "【夏休み2026】東大メタバース工学部、小・中・高校生向け3講座",
-      "url": "https://www.gamebusiness.jp/article/2026/06/23/27300.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-06-23T11:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187551.jpg"
-    },
-    {
-      "title": "「Steam Machine」、KOMODO STATIONにて本日6月23日より販売開始―512GBモデル約19万円、2TBモデル約25万円",
-      "url": "https://www.gamebusiness.jp/article/2026/06/23/27299.html",
+      "title": "Claude Codeが進化、Slackで動くClaude Tag発表―Anthropic製品のコード65%を書く実績、新たな権限モデル採用",
+      "url": "https://www.gamebusiness.jp/article/2026/06/24/27313.html",
       "source": "GameBusiness.jp",
       "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-23T11:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187496.png"
+      "importance": "high",
+      "published": "2026-06-24T10:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187571.jpg"
     },
     {
-      "title": "GENDA1Qは7.5億円の赤字に転落、北米事業の利益が計画に届かず【ゲーム企業の決算を読む】",
-      "url": "https://www.gamebusiness.jp/article/2026/06/23/27298.html",
+      "title": "サイバーエージェント、ゲーム事業の海外売上が3.5倍に急拡大　『ウマ娘』英語版とカジュアルゲームが牽引【ゲーム企業の決算を読む】",
+      "url": "https://www.gamebusiness.jp/article/2026/06/24/27312.html",
       "source": "GameBusiness.jp",
       "category": "business",
-      "importance": "normal",
-      "published": "2026-06-23T08:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187432.jpg"
+      "importance": "high",
+      "published": "2026-06-24T10:15:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187563.jpg"
+    },
+    {
+      "title": "『ゼルダの伝説 時のオカリナ』ファンメイドのリメイク計画が中止。「本家リメイク」発表に興奮しつつ10年も映像投稿したクリエイターが伝える",
+      "url": "https://www.gamebusiness.jp/article/2026/06/24/27307.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-06-24T02:45:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187466.png"
+    },
+    {
+      "title": "GLOEはeスポーツ売上が約4割増、VTuber・自治体案件が押し上げ【ゲーム企業の決算を読む】",
+      "url": "https://www.gamebusiness.jp/article/2026/06/24/27306.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-06-24T02:35:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187558.jpg"
+    },
+    {
+      "title": "Xboxのショーケースで発表も…韓国の大型ミリタリーステルスACT『MUDANG』開発のEVR STUDIO破産宣告を受けていた",
+      "url": "https://www.gamebusiness.jp/article/2026/06/24/27305.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-06-24T02:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187477.png"
     },
     {
       "title": "『ファイナルファンタジー レゾナンス』インタビュー 構想から6〜7年、企画の原点から浮かび上がる本作の目指すFF像",
       "url": "https://jp.ign.com/final-fantasy-resonance/83563/67ff",
       "source": "IGN Japan",
-      "category": "release",
+      "category": "other",
       "importance": "high",
       "published": "2026-06-23T10:43:54",
       "image": "https://sm.ign.com/ign_jp/interview/f/final-fant/final-fantasy-resonance-interview-the-first-hd-2d-ff-was-con_zges.png"
+    },
+    {
+      "title": "『ドラゴンボール ゼノバース3』スクリーンショット",
+      "url": "https://jp.ign.com/dragon-ball-xenoverse-3/83586/3",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-06-24T04:57:05",
+      "image": "https://sm.ign.com/ign_jp/gallery/d/dragon-bal/dragon-ball-xenoverse-3-screenshots_1tf7.jpg"
     },
     {
       "title": "【特別回】10年間ありがとう！野口感謝祭：#494 しゃべりすぎGAMER",
@@ -244,51 +253,6 @@
       "importance": "normal",
       "published": "2026-06-23T11:03:34",
       "image": "https://sm.ign.com/ign_jp/screenshot/default/sg_811b.jpg"
-    },
-    {
-      "title": "UE5.8でXbox/Windowsゲームを開発可能。「Microsoft GDK」UE用プラグインの最新版がリリース",
-      "url": "https://gamemakers.jp/article/2026_06_23_140108/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-23T08:04:29",
-      "image": null
-    },
-    {
-      "title": "「CEDEC2026」基調講演、吉田 修平氏と登 大遊氏が登壇。若手クリエイター育成支援「TGCA」に関する講演もアナウンス",
-      "url": "https://gamemakers.jp/article/2026_06_23_140118/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-06-23T06:49:02",
-      "image": null
-    },
-    {
-      "title": "Valve、ゲーミングPC「Steam Machine」の国内販売を開始。新型「Steam Controller」同梱版も展開",
-      "url": "https://gamemakers.jp/article/2026_06_23_140099/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-23T03:20:21",
-      "image": null
-    },
-    {
-      "title": "オープンソースのC++製3Dゲームエンジン「Wicked Engine」、アクションADVのサンプルプロジェクトがリリース。ゲーム内アセットとLuaソースコードも同梱",
-      "url": "https://gamemakers.jp/article/2026_06_22_139986/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-22T10:21:01",
-      "image": null
-    },
-    {
-      "title": "『アークナイツ：エンドフィールド』などのパブリッシャーから見る日本モバイルゲーム市場の強み。中国との協業可能性も語られた講演をレポート【GAME FUTURE SUMMIT 2026】",
-      "url": "https://gamemakers.jp/article/2026_06_22_139887/",
-      "source": "ゲームメーカーズ",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-06-22T03:35:27",
-      "image": null
     }
   ]
 }
