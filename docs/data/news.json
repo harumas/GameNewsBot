@@ -1,150 +1,42 @@
 {
-  "generated_at": "2026-06-25T00:31:04.955025",
-  "poem": "おはようございます！🌞\n今日のゲームニュースはたくさんありますね。新作『Star Fox』や『神貌のクリファ』の発表、アップデートの情報などが目玉です 💻\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-06-26T00:30:33.796315",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、Bungieの大規模レイオフやXbox Series X|Sの値上げが話題になっています。また、Steamサマーセールも始まっていて、デトロイト ビカム ヒューマンを90％オフで買えるチャンスがあります 🎮\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "アークシステムワークスの完全新作RPG『神貌のクリファ』発表！9月24日に発売予定。流れる時間のなかでスキルを発動し、カウンターを叩き込むタクティカルカウンター・タイムラインRPG",
-      "url": "https://news.denfaminicogamer.jp/news/260625h",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-24T21:13:53",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/WS000398.jpg"
-    },
-    {
-      "title": "新作『Star Fox（スターフォックス）』海外レビューでメタスコア平均「81/100」を獲得。「任天堂リメイク作品の中でも特に美しい」「ジャンルの頂点に近い」とレビュー集まる",
-      "url": "https://news.denfaminicogamer.jp/news/2606254a",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-24T15:29:17",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/27194eb169fd4e5716daf9e09755bb63bdd66bff2e202bd47a408e950aef1345-2.jpg"
-    },
-    {
-      "title": "『ペルソナ5X』1周年記念の10大キャンペーンが発表。対象キャラから1体を選べる「特別招待券」が追加！",
-      "url": "https://news.denfaminicogamer.jp/news/2606243p",
-      "source": "電ファミニコゲーマー",
+      "title": "2026年第1弾　背景・プロップ部門　結果発表！ 優秀賞&審査員講評コメント一挙公開 - 連載",
+      "url": "https://cgworld.jp/regular/whosnextbg2026v1.html",
+      "source": "CGWORLD",
       "category": "other",
       "importance": "high",
-      "published": "2026-06-24T14:02:12",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/771609e05d7f1e162cf36355e1831712-1.png"
+      "published": "2026-06-26T00:35:54",
+      "image": "https://cgworld.jp/regular/assets_c/2026/06/WHOSNEXT_2026_backs-thumb-800x450-85263.jpg"
     },
     {
-      "title": "『GTA6』価格は「9800円」！ アルティメット・エディションは1万2280円。PS5、Xbox Series X|Sで11月19日発売、いよいよ本日6月25日から予約受付スタート",
-      "url": "https://news.denfaminicogamer.jp/news/2606253x",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-24T15:02:12",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/poster_full.0az_iud2g3y4j-1.webp"
-    },
-    {
-      "title": "新作『Star Fox（スターフォックス）』本日発売。グラフィックが刷新され、新規ムービーやオンラインバトルモードなどの新要素も",
-      "url": "https://news.denfaminicogamer.jp/news/260625a",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-24T15:00:35",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/360a7eccc662f91e80e15a6f0ff077d0436a055d73b250e085618cf52b6d038b.webp"
-    },
-    {
-      "title": "Steamで「AI生成コンテンツの使用開示」に記載がある場合、レビューが少なくなるというデータ分析報告",
-      "url": "https://automaton-media.com/articles/newsjp/20260624-451676/",
-      "source": "Automaton",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-06-24T12:53:56",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260624-451676-header.jpg"
-    },
-    {
-      "title": "“時速8000km”太陽系レースゲーム『BRAYZ』正式発表。反重力コースで64台が大混戦、“人類史上最速”マッハレース開幕",
-      "url": "https://automaton-media.com/articles/newsjp/20260624-451660/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-24T10:54:11",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260624-451660-header.jpg"
-    },
-    {
-      "title": "金子一馬氏が携わるデッキ構築型ローグライク『KAZUMA KANEKO’S ツクヨミ』Steam版発表、7月24日配信へ。塔を登って「神魔」に挑む戦略カードバトル",
-      "url": "https://automaton-media.com/articles/newsjp/20260624-451605/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-24T08:16:23",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260624-451605-header.jpg"
-    },
-    {
-      "title": "Steam・2人協力アクション『Sixth Force』配信開始、からの即“無料配布”。期間限定でタダ",
-      "url": "https://automaton-media.com/articles/newsjp/20260624-451592/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-24T07:43:33",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260624-451592-001.jpg"
-    },
-    {
-      "title": "“左か右か”勝手に戦う美少女ローグライトACT『Steel Maiden』発表。操作は「左右の2ボタンだけ」、超シンプル超高速アクション",
-      "url": "https://automaton-media.com/articles/newsjp/20260624-451540/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-24T05:43:23",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260624-451540-header.jpeg"
-    },
-    {
-      "title": "「DAMON and BABY」メジャーアップデート「Ver 2.00」が配信開始。新コンテンツ「ブラッドエッジ卿の試練」が追加に",
-      "url": "https://www.4gamer.net/games/970/G097070/20260625007/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-06-24T22:13:16",
-      "image": "https://www.4gamer.net/games/970/G097070/20260625007/SS/007.jpg"
-    },
-    {
-      "title": "ベルトスクロール×ローグライトの傑作「Absolum（アブソラム）」のNintendo Switch 2版を発表。発売は9月17日を予定",
-      "url": "https://www.4gamer.net/games/020/G102040/20260625006/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-24T21:52:16",
-      "image": "https://www.4gamer.net/games/020/G102040/20260625006/SS/003.jpg"
-    },
-    {
-      "title": "「BLAZBLUE CENTRALFICTION」にまさかの新キャラ追加が決定。詳細はEVO 2026で発表予定",
-      "url": "https://www.4gamer.net/games/341/G034109/20260625002/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-24T21:33:58",
-      "image": "https://www.4gamer.net/games/341/G034109/20260625002/SS/003.jpg"
-    },
-    {
-      "title": "「デイヴ・ザ・ダイバー」のCOMPLETE EDITIONが10月8日に発売決定。デイヴのすべてを詰め込んだ完全版が登場",
-      "url": "https://www.4gamer.net/games/771/G077159/20260625004/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-24T21:19:42",
-      "image": "https://www.4gamer.net/games/771/G077159/20260625004/SS/002.jpg"
-    },
-    {
-      "title": "「神貌のクリファ」発表。アークシステムワークスとユナイトプラスが贈るタクティカルカウンター・タイムラインRPG",
-      "url": "https://www.4gamer.net/games/020/G102039/20260625001/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-24T21:06:44",
-      "image": "https://www.4gamer.net/games/020/G102039/20260625001/SS/002.jpg"
-    },
-    {
-      "title": "【指先の微細な動きまで忠実にトラッキング】Diver-X、グローブ型 VR コントローラ「ContactGlove3」を発表公式ストアにて予約販売を開始！― 電磁場(EMF)方式の採用により、世界最高峰の精度を実現。 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2606-contactglove3.html",
+      "title": "デュアルGeForce RTX 5090の真価とは？　M&Eクリエイターを熱と騒音から解放するGDEPソリューションズの液冷GPUワークステーション「AquSys」の破壊力 - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/202606-gdepsolutions-colossus.html",
       "source": "CGWORLD",
       "category": "tech",
-      "importance": "high",
-      "published": "2026-06-23T09:14:42",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/e4dd112a03452f421726763214e6d3d2260b423e-thumb-1000x563-85335.jpg"
+      "importance": "normal",
+      "published": "2026-06-25T10:05:35",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/06/e3d3b252ea4cac636de56a801ec3161cf0754b92-thumb-1000x563-85587.jpg"
+    },
+    {
+      "title": "Unity基礎からVR/AR医療アプリ開発まで学ぶ「医療XR開発養成講座2026」、7/7（火）開講 - ニュース",
+      "url": "https://cgworld.jp/flashnews/-innovation-labunityvrarxr202677.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-06-25T04:32:25",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/cover-QNuGhU6JzwOK9AMcfQihNmCat44rg22F-thumb-920x450-85539.jpg"
+    },
+    {
+      "title": "【mount inc.✕まめたろう】「ぽよんぽよん」をWeb上でインタラクティブに再現！  - 特集",
+      "url": "https://cgworld.jp/article/202606-cgw334-mount03.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-06-25T03:34:00",
+      "image": "https://cgworld.jp/article/assets_c/2026/06/main_inbrowser-thumb-1000x682-84439.jpg"
     },
     {
       "title": "【7/15（水）】Cygames、テクニカルアーティスト向けオンライン採用セミナー「TAラウンドテーブル  最高のコンテンツを支えるTA組織とは」を開催 - ニュース",
@@ -156,31 +48,139 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/06/a39bedba1a984c9efd40c5891f3ec33b-thumb-1000x563-84960.jpg"
     },
     {
-      "title": "Abe Leal氏、Substance 3D PainterとMarmoset Toolbag 5のテクスチャリング機能の比較検証動画を公開　UIの使い勝手からジェネレータ、書き出しまで - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202606-SPvsMarmo.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-23T22:21:11",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/SPvsMarmo-01-thumb-1920x1080-85347.jpg"
+      "title": "大ヒット協力おっさんドライブ『RV There Yet?』、実は「息抜き」で作られていた。本命ゲームから“現実逃避”、2か月ちょいでマッハ開発",
+      "url": "https://automaton-media.com/articles/newsjp/20260625-451820/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-06-25T07:33:46",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260625-451820-header.jpg"
     },
     {
-      "title": "求めているのは\"渡来人\" 遊技機・アニメでセルルック表現を追求するギャラクシーグラフィックスが求人募集中 - スペシャルコンテンツ",
-      "url": "https://cgworld.jp/special-feature/2606-gg.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-06-23T06:14:21",
-      "image": "https://cgworld.jp/special-feature/assets_c/2026/06/b4f7100e9ac350b5368fc138cc31bc71a516c4d7-thumb-939x528-85243.jpg"
+      "title": "『Desitny 2』開発を終えたSIE傘下Bungieで早くも大規模レイオフ。“『Destiny』開発チームの大半”が削減対象に",
+      "url": "https://automaton-media.com/articles/newsjp/20260626-451936/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-06-25T22:44:58",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260626-451936-header.jpg"
     },
     {
-      "title": "世界基準のモーションクリエイティブイベント「Pixel x Pixel 2026 」開催決定！ 国内外のトップクリエイターが東京・寺田倉庫に集結 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2606-pixel-x-pixel-2026.html",
-      "source": "CGWORLD",
-      "category": "industry",
+      "title": "Xbox Series X|Sが全世界でまた値上げへ。“倍増し続けるメモリ・ストレージ価格”で大打撃、がっつり値上げ",
+      "url": "https://automaton-media.com/articles/newsjp/20260626-451920/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-06-25T21:12:30",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260626-451920-header.jpg"
+    },
+    {
+      "title": "話題の巨大砲台ワンオペシム『IRON NEST』8月7日配信へ。地図と弾道計算機で角度を算出、一つのミスが惨事を招く“過酷砲兵生活シム”ついに登場",
+      "url": "https://automaton-media.com/articles/newsjp/20260626-451946/",
+      "source": "Automaton",
+      "category": "release",
       "importance": "normal",
-      "published": "2026-06-23T03:00:06",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/2d8521e76bcc051076e2fea170ec91f00f789800-thumb-1000x563-85291.png"
+      "published": "2026-06-26T00:23:37",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260626-451946-header.jpg"
+    },
+    {
+      "title": "須田剛一・時空警察アクション『ROMEO IS A DEAD MAN』初大型アプデで「コスチューム」実装。“悪魔ハンター”や“殺し屋”の須田ゲー衣装で、もっと残忍に切り刻める",
+      "url": "https://automaton-media.com/articles/newsjp/20260625-451887/",
+      "source": "Automaton",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-06-25T21:43:00",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260625-451887-header.jpg"
+    },
+    {
+      "title": "『バイオハザード』30周年を記念した世界初の大型展覧会が開催決定。シリーズを追体験できる大画面シアターや開発資料などを展示。10月30日から12月24日まで",
+      "url": "https://news.denfaminicogamer.jp/news/260626j",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-06-25T23:43:45",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/main-125.jpg"
+    },
+    {
+      "title": "SIE、傘下のスタジオBungieで人員削減の実施を発表。『Destiny』開発チームの大部分や『Marathon』チームの一部などが対象に",
+      "url": "https://news.denfaminicogamer.jp/news/260626m",
+      "source": "電ファミニコゲーマー",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-06-25T23:40:49",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/EN_Bungie_D2_v950_OfferLandscape_S1_2560x1440_2560x1440-61cd46cb2d27e41f358293225ec354c8.jpg"
+    },
+    {
+      "title": "「Xbox」本体が8月1日より全世界で値上げ。512GBモデルは100ドル（約1万5000円）、1TBモデルは150ドル（約2万2000円）の上昇、2TBモデルの販売が終了へ",
+      "url": "https://news.denfaminicogamer.jp/news/260626n",
+      "source": "電ファミニコゲーマー",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-06-25T23:48:32",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/PhotoshopExtension_Image-2026-06-26T082654.298.png"
+    },
+    {
+      "title": "【4500円→450円】『デトロイト ビカム ヒューマン』を90％オフで買える破格のセールがSteamにて開催中！無数のストーリー分岐とともに、3人のアンドロイドを中心とした重厚な物語が描かれる“圧倒的に好評”な名作",
+      "url": "https://news.denfaminicogamer.jp/news/260626o",
+      "source": "電ファミニコゲーマー",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-06-26T00:01:11",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/videoframe_11576.png"
+    },
+    {
+      "title": "「Steamサマーセール」が始まったので注目タイトル120種類をピックアップして紹介してみた。全力おすすめリストを更新",
+      "url": "https://news.denfaminicogamer.jp/kikakuthetower/260626b",
+      "source": "電ファミニコゲーマー",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-06-25T22:53:43",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/b2b11afcf21507eb.webp"
+    },
+    {
+      "title": "「モンスターハンターストーリーズ3　〜運命の双竜〜」，キングモンスターが登場する無料アップデートを配信。有料DLC「ルディ編」も配信開始",
+      "url": "https://www.4gamer.net/games/933/G093333/20260626004/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-06-25T23:35:37",
+      "image": "https://www.4gamer.net/games/933/G093333/20260626004/SS/009.jpg"
+    },
+    {
+      "title": "「バイオハザード」30周年記念の世界初の大型展覧会「THE WORLD OF BIOHAZARD 30周年展」，10月30日に渋谷で開幕",
+      "url": "https://www.4gamer.net/games/917/G091773/20260626002/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-06-25T22:44:56",
+      "image": "https://www.4gamer.net/games/917/G091773/20260626002/SS/001.jpg"
+    },
+    {
+      "title": "「DELTARUNE」，Chapter 5が追加される無料アップデートを配信開始",
+      "url": "https://www.4gamer.net/games/439/G043952/20260625054/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-06-25T11:25:22",
+      "image": "https://www.4gamer.net/games/439/G043952/20260625054/SS/005.jpg"
+    },
+    {
+      "title": "XBOX，2026年8月1日から世界各国で本体価格を改定。512GBモデルは100ドル，1TBモデルは150ドル値上げへ",
+      "url": "https://www.4gamer.net/games/990/G999028/20260626003/",
+      "source": "4Gamer.net",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-06-25T22:55:05",
+      "image": "https://www.4gamer.net/games/990/G999028/20260626003/SS/002.jpg"
+    },
+    {
+      "title": "「鬼武者 Way of the Sword」，強力な曲者幻魔「怒伐天」との戦闘を収録した最新映像を公開。PC向けベンチマークソフトを7月14日から配信",
+      "url": "https://www.4gamer.net/games/865/G086595/20260626001/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-06-25T22:14:34",
+      "image": "https://www.4gamer.net/games/865/G086595/20260626001/SS/002.jpg"
     },
     {
       "title": "Claude Codeが進化、Slackで動くClaude Tag発表―Anthropic製品のコード65%を書く実績、新たな権限モデル採用",
@@ -228,13 +228,31 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/187477.png"
     },
     {
-      "title": "『ファイナルファンタジー レゾナンス』インタビュー 構想から6〜7年、企画の原点から浮かび上がる本作の目指すFF像",
-      "url": "https://jp.ign.com/final-fantasy-resonance/83563/67ff",
+      "title": "『グランド・セフト・オートVI』について新たに判明した、ゲームプレイに関する22の事柄",
+      "url": "https://jp.ign.com/grand-theft-auto-vi/83599/vi22",
+      "source": "IGN Japan",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-06-25T09:02:37",
+      "image": "https://sm.ign.com/ign_jp/feature/2/22-new-gta/22-new-gta-6-gameplay-details-revealed_q9xv.jpg"
+    },
+    {
+      "title": "『Star Fox』レビュー  やや野心に欠けるものの、リメイクとしては理想的",
+      "url": "https://jp.ign.com/star-fox-2026/83595/star-fox",
       "source": "IGN Japan",
       "category": "other",
       "importance": "high",
-      "published": "2026-06-23T10:43:54",
-      "image": "https://sm.ign.com/ign_jp/interview/f/final-fant/final-fantasy-resonance-interview-the-first-hd-2d-ff-was-con_zges.png"
+      "published": "2026-06-25T04:19:03",
+      "image": "https://sm.ign.com/ign_jp/review/s/star-fox-r/star-fox-review_cf1v.jpg"
+    },
+    {
+      "title": "Star Fox (2026) Review Gallery",
+      "url": "https://jp.ign.com/star-fox-2026/83596/star-fox-2026-review-gallery",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-06-25T04:19:03",
+      "image": "https://sm.ign.com/ign_jp/gallery/s/star-fox-2/star-fox-2026-review-gallery_y5ph.jpg"
     },
     {
       "title": "『ドラゴンボール ゼノバース3』スクリーンショット",
@@ -246,13 +264,22 @@
       "image": "https://sm.ign.com/ign_jp/gallery/d/dragon-bal/dragon-ball-xenoverse-3-screenshots_1tf7.jpg"
     },
     {
-      "title": "【特別回】10年間ありがとう！野口感謝祭：#494 しゃべりすぎGAMER",
-      "url": "https://jp.ign.com/gamer-1/83580/10494-gamer",
-      "source": "IGN Japan",
-      "category": "other",
+      "title": "Windows用ゲームをAppleデバイス向けに移植するツール「Game Porting Toolkit 4」がリリース。GitHubではエージェントスキルのコレクションやサンプルコードを公開",
+      "url": "https://gamemakers.jp/article/2026_06_25_140258/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
       "importance": "normal",
-      "published": "2026-06-23T11:03:34",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/sg_811b.jpg"
+      "published": "2026-06-25T06:38:39",
+      "image": null
+    },
+    {
+      "title": "オープンソースのRust製ゲームエンジン「Bevy 0.19」リリース。シーン記述用の構文「BSN」や、高品質な影を描画できる「Contact Shadows」などが実装",
+      "url": "https://gamemakers.jp/article/2026_06_24_140154/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-06-24T06:26:17",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/c99b2b61f4af64542ac0357ff05727eb.jpg"
     }
   ]
 }
