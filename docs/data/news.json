@@ -1,57 +1,84 @@
 {
-  "generated_at": "2026-06-27T00:28:20.773691",
-  "poem": "おはようございます！ 🌞\n今日もゲーム業界は大きな動きを見せています。『ポケモンユナイト』の実写ショートドラマや『キングダム ハーツ』シリーズのセールなど、注目すべきニュースがたくさんです！ \n『めっちゃカメレオン』の爆速売上1000万本突破も目を見張る出来事ですね。\nそれでは今日のニュースをどうぞ！ 🎮",
+  "generated_at": "2026-06-28T00:27:16.301907",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、インディーゲームのロケットスタートや新しいゲームの発表など、色々なニュースがあります。特に注目しているのは、『GUILTY GEAR -STRIVE-』の新追加キャラクター「ロボカイ」のリリースです 💻\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "『ポケモンユナイト』完全オリジナルの実写ショートドラマ制作が決定！キャスト陣や公開時期、ストーリーの全貌などは未発表",
-      "url": "https://news.denfaminicogamer.jp/news/2606263z",
-      "source": "電ファミニコゲーマー",
+      "title": "とあるインディーゲーム開発者、「ほとんど宣伝しなかったのにめっちゃ売れた」と大喜び。動画宣伝はうまくいかなかったけど、想定売上をはるかに超えたロケットスタート",
+      "url": "https://automaton-media.com/articles/newsjp/20260627-452319/",
+      "source": "Automaton",
       "category": "other",
       "importance": "high",
-      "published": "2026-06-26T14:43:33",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/HLvknzSXsAAcHoZ.jpeg"
+      "published": "2026-06-27T10:05:16",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260627-452319-header.jpg"
     },
     {
-      "title": "宇宙人に飼われた人間が命がけで歌う超人気アニメ『ALIEN STAGE』のパラレルを描く新作「Zombie Stage」公開。ゾンビのアイドルが歌って踊る姿が見られる。再生回数は公開から1日と経たず「260万回」を突破",
-      "url": "https://news.denfaminicogamer.jp/news/260627f",
-      "source": "電ファミニコゲーマー",
+      "title": "『デトロイト ビカム ヒューマン』開発元の「115人規模レイオフ」発表で、抗議のストライキが実施されたとの報道。混沌模様",
+      "url": "https://automaton-media.com/articles/newsjp/quantic-dream-20260627-452293/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-06-27T08:10:35",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/quantic-dream-20260627-452293-header.jpg"
+    },
+    {
+      "title": "宇宙刑務所脱走アクション『DUST: Origins』発表。凶悪犯＆モンスターだらけの崩壊寸前絶望ステーションで、なんとしても生き延びる“没入型ゲーム”",
+      "url": "https://automaton-media.com/articles/newsjp/dust-origins-20260627-452275/",
+      "source": "Automaton",
       "category": "release",
-      "importance": "normal",
-      "published": "2026-06-27T00:22:27",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/HLusTZ9b0AA4Kel.jpg"
+      "importance": "high",
+      "published": "2026-06-27T01:13:55",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/dust-origins-20260627-452275-header.jpg"
     },
     {
-      "title": "アニメ版『Among Us』のサウンドトラックが各種配信サービスに向けて公開。YouTube、Spotify、Apple Music、iTunes Store、Deezer、amazon music、SoundCloud、TIDALで視聴可能",
-      "url": "https://news.denfaminicogamer.jp/news/260627e",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-06-26T23:06:26",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/HLw2ciraUAALTH1.jpg"
+      "title": "Steam協力ローグライク『Barony』11年目にして「売上100万本」達成。じわ売れどころか“今が全盛期”、超遅咲きゲーム",
+      "url": "https://automaton-media.com/articles/newsjp/barony-20260626-452208/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-06-26T11:03:23",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/barony-20260626-452208-header.jpg"
     },
     {
-      "title": "『キングダム ハーツ』シリーズが一気に遊べるバンドルがSteamで「60％オフ」セール中。定価1万7160円のところ6864円（税込）と破格でディズニーワールドを冒険できる",
-      "url": "https://news.denfaminicogamer.jp/news/260627c",
-      "source": "電ファミニコゲーマー",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-06-26T22:16:25",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/maxresdefault-26.jpg"
-    },
-    {
-      "title": "『めっちゃカメレオン』で“分身”が作れるようになるアプデ「2.0.0」が配信開始。最大で2体まで作れるが、撃破されると本体もやられるリスクあり。また、今週中にステージにランダム性を持たせるアプデが配信予定",
-      "url": "https://news.denfaminicogamer.jp/news/260627a",
-      "source": "電ファミニコゲーマー",
+      "title": "『GUILTY GEAR -STRIVE-』新追加キャラクター「ロボカイ」は7月2日リリースへ。奇天烈攻撃手段はそのまま、武器は新たに“二刀流”で見参",
+      "url": "https://automaton-media.com/articles/newsjp/20260628-452371/",
+      "source": "Automaton",
       "category": "update",
       "importance": "normal",
-      "published": "2026-06-26T21:24:05",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/HLwEgd5a0AAnJJd.jpg"
+      "published": "2026-06-27T23:06:25",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260628-452371-header.jpg"
+    },
+    {
+      "title": "「GBVSR」，最新アップデートVer 2.60を9月17日に配信。「リリンク」シリーズより「イド」が参戦。Switch2版も同日発売決定",
+      "url": "https://www.4gamer.net/games/680/G068071/20260626049/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-06-27T21:00:00",
+      "image": "https://www.4gamer.net/games/680/G068071/20260626049/SS/001.jpg"
+    },
+    {
+      "title": "「鳴潮」，アップデートVer.3.5「遺志を紡ぐは剣，夢に響くは歌」の配信が7月10日に決定。漂泊者の新属性「電導」や新エリア「夢州・玄方地界」が登場",
+      "url": "https://www.4gamer.net/games/634/G063420/20260627008/",
+      "source": "4Gamer.net",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-06-27T11:32:25",
+      "image": "https://www.4gamer.net/games/634/G063420/20260627008/SS/001.jpg"
+    },
+    {
+      "title": "「リーグ・オブ・レジェンド」，過去の体験を再現する「League of Legends Classic」を発表。詳細は7月のMSIファイナルで明らかに",
+      "url": "https://www.4gamer.net/games/073/G007372/20260627007/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-06-27T09:15:44",
+      "image": "https://www.4gamer.net/games/073/G007372/20260627007/SS/002.jpg"
     },
     {
       "title": "携帯型Androidゲーム機「AYANEO Pocket MICRO 2」，正式発表。Snapdragon 865クラスのカスタムプロセッサ採用で処理能力が向上",
       "url": "https://www.4gamer.net/games/557/G055725/20260627003/",
       "source": "4Gamer.net",
-      "category": "release",
+      "category": "other",
       "importance": "high",
       "published": "2026-06-26T17:21:01",
       "image": "https://www.4gamer.net/games/557/G055725/20260627003/SS/001.jpg"
@@ -66,76 +93,85 @@
       "image": "https://www.4gamer.net/games/414/G041434/20260627002/SS/009.jpg"
     },
     {
-      "title": "「バンドリ」新作ゲーム「BanG Dream! Our Notes」，公式番組発表情報まとめ。新キービジュアルや新システムなど，多数の情報が明らかに",
-      "url": "https://www.4gamer.net/games/974/G097456/20260627001/",
-      "source": "4Gamer.net",
-      "category": "release",
+      "title": "『グラブルVSR』新DLCキャラクター「イド」が『リリンク』から登場。最新アップデートVer2.60が9月17日に配信。同日にはNintendo Switch 2版も発売決定",
+      "url": "https://news.denfaminicogamer.jp/news/2606283m",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
       "importance": "high",
-      "published": "2026-06-26T15:13:42",
-      "image": "https://www.4gamer.net/games/974/G097456/20260627001/SS/001.jpg"
+      "published": "2026-06-27T21:00:06",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/03-5.png"
     },
     {
-      "title": "「ROG XBOX Ally X」をメインPCとして3か月使ってみたお話【放課後れびゅあーず！】",
-      "url": "https://www.4gamer.net/games/925/G092590/20260624029/",
-      "source": "4Gamer.net",
+      "title": "『めっちゃカメレオン』がGeForce NOWに対応、Macや非ゲーミングPCでもプレイ可能に。6月26日には売上1000万本を突破した話題作",
+      "url": "https://news.denfaminicogamer.jp/news/260627m",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-06-27T08:20:01",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/ss_6c0a47cc2fba1b160901d1553637a764198bdc98.1920x1080-6.jpg"
+    },
+    {
+      "title": "『ギルティギア ストライヴ』新キャラ「ロボカイ（CV:千葉繁）」が7月2日に参戦決定！ 二刀流のバトルスタイルを映したフルトレーラー公開",
+      "url": "https://news.denfaminicogamer.jp/news/260628a",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-06-27T21:19:15",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/WS016798.jpg"
+    },
+    {
+      "title": "『アーマード・コア6』「バルテウス」が立体化決定！全長約450ミリ、全高約220ミリ、全幅約320ミリの大型サイズで再現",
+      "url": "https://news.denfaminicogamer.jp/news/260627p",
+      "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-06-26T23:00:00",
-      "image": "https://www.4gamer.net/games/925/G092590/20260624029/SS/010.jpg"
+      "published": "2026-06-27T10:16:21",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/project02_img01.jpg"
     },
     {
-      "title": "「モンギル：STAR DIVE」，最新アプデの改善内容を紹介する開発者ノートを公開。モンぷらん強化など，多数の要素が快適に",
-      "url": "https://www.4gamer.net/games/857/G085718/20260626064/",
-      "source": "4Gamer.net",
+      "title": "『勝利の女神：NIKKE』夏イベントで水着姿の新SSRニケ「シンデレラ：クリスタルウェーブ」「マルチャーナ：マリンスタディ」が登場。『ペルソナ』シリーズとのコラボも示唆",
+      "url": "https://news.denfaminicogamer.jp/news/260627o",
+      "source": "電ファミニコゲーマー",
       "category": "update",
       "importance": "normal",
-      "published": "2026-06-26T14:13:17",
-      "image": "https://www.4gamer.net/games/857/G085718/20260626064/SS/002.jpg"
+      "published": "2026-06-27T10:13:47",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/6c624557e295d8f7c99141453237eac8.jpeg"
     },
     {
-      "title": "Steam協力ローグライク『Barony』11年目にして「売上100万本」達成。じわ売れどころか“今が全盛期”、超遅咲きゲーム",
-      "url": "https://automaton-media.com/articles/newsjp/barony-20260626-452208/",
-      "source": "Automaton",
-      "category": "sale",
+      "title": "OpenAI、次世代AIモデル「GPT-5.6」発表、まず米国政府承認ユーザーに限定プレビュー開始",
+      "url": "https://www.gamebusiness.jp/article/2026/06/27/27338.html",
+      "source": "GameBusiness.jp",
+      "category": "tech",
       "importance": "high",
-      "published": "2026-06-26T11:03:23",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/barony-20260626-452208-header.jpg"
+      "published": "2026-06-27T11:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187800.jpg"
     },
     {
-      "title": "巨大怪獣「掘削」FPS『KAIJECT』発表。怪獣の体内を“自由に掘り進めて”弱点を探す、体内破壊探索アクション",
-      "url": "https://automaton-media.com/articles/newsjp/kaiject-20260626-452126/",
-      "source": "Automaton",
-      "category": "release",
+      "title": "人気大爆発の『めっちゃカメレオン』発売半月で売上“1000万本”突破！6月25日のアプデでは新キャラ「キューブ」追加",
+      "url": "https://www.gamebusiness.jp/article/2026/06/27/27336.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
       "importance": "high",
-      "published": "2026-06-26T06:42:20",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/kaiject-20260626-452126-header.jpeg"
+      "published": "2026-06-27T03:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187699.jpg"
     },
     {
-      "title": "大ブームのお絵描きかくれんぼゲーム『めっちゃカメレオン』売上1000万本突破。リリースからわずか16日、超爆速で大記録達成",
-      "url": "https://automaton-media.com/articles/newsjp/20260626-452049/",
-      "source": "Automaton",
-      "category": "sale",
+      "title": "XBOXコンソール全世界で8月1日より最大150USドル値上げ。2TBモデルは廃止、分割払いなどの購入支援策も発表",
+      "url": "https://www.gamebusiness.jp/article/2026/06/27/27334.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
       "importance": "high",
-      "published": "2026-06-26T04:08:37",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260626-452049-header.jpg"
+      "published": "2026-06-27T02:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187714.jpg"
     },
     {
-      "title": "『鳴潮』Ver3.5アプデではPC版容量約20GB分がっつり削減、モバイル版も不要リソース整理機能強化で容量さらに圧縮可能に。新エリアや新キャラも到来、7月10日配信へ",
-      "url": "https://automaton-media.com/articles/newsjp/20260626-452217/",
-      "source": "Automaton",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-06-26T14:03:12",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260626-452217-header.jpg"
-    },
-    {
-      "title": "マルチ対応ドラゴン大陸サバイバルクラフト『ルーンスケープ：ドラゴンワイルズ』一気に人気再燃中。大型アプデでついに日本語対応、戦闘も素材集めも“全部魔法でヨシ”冒険ぐらし",
-      "url": "https://automaton-media.com/articles/newsjp/20260626-452156/",
-      "source": "Automaton",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-06-26T10:04:19",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260626-452156-header.jpg"
+      "title": "SIE、Bungieの大規模人員削減を発表―『Destiny』チームの大半と『Marathon』チームの一部が対象",
+      "url": "https://www.gamebusiness.jp/article/2026/06/27/27332.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-06-27T02:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187726.jpg"
     },
     {
       "title": "Discord分析「comcom Analytics」がAI機能を実装した大型アップデート—事業譲受から約7カ月、無料のAI分析で差別化図る",
@@ -147,49 +183,58 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/187680.jpg"
     },
     {
-      "title": "『GTA 6』予約受付開始。アルティメット版はアイテムやショップなど特典モリモリ",
-      "url": "https://www.gamebusiness.jp/article/2026/06/25/27318.html",
-      "source": "GameBusiness.jp",
-      "category": "release",
+      "title": "Steam Machineレビュー",
+      "url": "https://jp.ign.com/steam-machine/83576/steam-machine",
+      "source": "IGN Japan",
+      "category": "other",
       "importance": "high",
-      "published": "2026-06-25T11:45:02",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187665.jpg"
+      "published": "2026-06-26T02:31:16",
+      "image": "https://sm.ign.com/ign_jp/review/s/steam-mach/steam-machine-review_dd7p.jpg"
     },
     {
-      "title": "高難度メトロイドヴァニア『Blasphemous』売り上げ500万本を突破―不定期90％オフセールも背景か",
-      "url": "https://www.gamebusiness.jp/article/2026/06/26/27331.html",
-      "source": "GameBusiness.jp",
-      "category": "sale",
+      "title": "FIFINEのゲーミングヘッドセット「AmpliGame H9」がAmazonにて20％オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83612/fifineampligame-h9amazon20",
+      "source": "IGN Japan",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-06-26T11:45:02",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187736.jpg"
+      "published": "2026-06-27T03:33:33",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_mem7.jpg"
     },
     {
-      "title": "note、物語IPのゲーム化を支援する開発基盤の実証を開始—経産省「IP360」に採択",
-      "url": "https://www.gamebusiness.jp/article/2026/06/26/27330.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
+      "title": "Steam Machine – Hands On Photos",
+      "url": "https://jp.ign.com/steam-machine/83577/steam-machine-hands-on-photos",
+      "source": "IGN Japan",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-06-26T08:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187694.webp"
+      "published": "2026-06-26T02:31:16",
+      "image": "https://sm.ign.com/ign_jp/gallery/s/steam-mach/steam-machine-hands-on-photos_zj17.jpg"
     },
     {
-      "title": "『ドラゴンクエストスマッシュグロウ』のプロモーション・マネタイズスキームを徹底分析 ―シリーズ初スキルビルド×アクションRPG【LIVEOPSIS 調査レポート】",
-      "url": "https://www.gamebusiness.jp/article/2026/06/26/27329.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-06-26T08:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187693.png"
-    },
-    {
-      "title": "2026年第1弾　背景・プロップ部門　結果発表！ 優秀賞&審査員講評コメント一挙公開 - 連載",
-      "url": "https://cgworld.jp/regular/whosnextbg2026v1.html",
-      "source": "CGWORLD",
-      "category": "cg",
+      "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/6/27】",
+      "url": "https://gamemakers.jp/article/2026_06_27_140256/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
       "importance": "high",
-      "published": "2026-06-26T00:35:54",
-      "image": "https://cgworld.jp/regular/assets_c/2026/06/WHOSNEXT_2026_backs-thumb-800x450-85263.jpg"
+      "published": "2026-06-27T01:58:52",
+      "image": null
+    },
+    {
+      "title": "Unityの次期LTS版「Unity 6.7」、Alpha版がリリース。今後予定された破壊的変更についてもアナウンス",
+      "url": "https://gamemakers.jp/article/2026_06_26_140306/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-06-26T07:09:17",
+      "image": null
+    },
+    {
+      "title": "ローグライトシューター『DDoD』UE5採用事例を紹介。「Lyra」をベースに独自機能を実装した事例など、小規模開発のノウハウが語られた配信アーカイブが公開中",
+      "url": "https://gamemakers.jp/article/2026_06_26_140313/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-06-26T09:22:39",
+      "image": null
     },
     {
       "title": "「想像以上です」Unity歴9年のXRエンジニアがUnity Studioを徹底検証。ノーコードでの操作、ブラウザから即公開可能 - スペシャルコンテンツ",
@@ -204,7 +249,7 @@
       "title": "【サイコム】ホロラボが数値的にも立証。独自の水冷システムがリアリティキャプチャの効率化にも貢献する｜Boost with Sycom #04 - スペシャルコンテンツ",
       "url": "https://cgworld.jp/special-feature/202606-sycom-hololab-04.html",
       "source": "CGWORLD",
-      "category": "tech",
+      "category": "other",
       "importance": "normal",
       "published": "2026-06-26T05:13:20",
       "image": "https://cgworld.jp/special-feature/assets_c/2026/06/top_sycom_boost_04-thumb-1920x1080-85736.jpg"
@@ -228,76 +273,13 @@
       "image": "https://cgworld.jp/regular/assets_c/2026/06/techroom_12_compressed-thumb-1920x1080-85071.jpg"
     },
     {
-      "title": "ローグライトシューター『DDoD』UE5採用事例を紹介。「Lyra」をベースに独自機能を実装した事例など、小規模開発のノウハウが語られた配信アーカイブが公開中",
-      "url": "https://gamemakers.jp/article/2026_06_26_140313/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
+      "title": "異ジャンルクリエイターたちが制作の心得を語り尽くす～PULSE Powered by AMD レポート～ - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/2606-AMD-pulse-report.html",
+      "source": "CGWORLD",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-06-26T09:22:39",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/d14202da9ab57a6ff894cfa3bfdf04b7.jpg"
-    },
-    {
-      "title": "Unityの次期LTS版「Unity 6.7」、Alpha版がリリース。今後予定された破壊的変更についてもアナウンス",
-      "url": "https://gamemakers.jp/article/2026_06_26_140306/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-26T07:09:17",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/842b21aa361bcbf66c2faea8c3ebee35.jpg"
-    },
-    {
-      "title": "Windows用ゲームをAppleデバイス向けに移植するツール「Game Porting Toolkit 4」がリリース。GitHubではエージェントスキルのコレクションやサンプルコードを公開",
-      "url": "https://gamemakers.jp/article/2026_06_25_140258/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-25T06:38:39",
-      "image": null
-    },
-    {
-      "title": "『グランド・セフト・オートVI』について新たに判明した、ゲームプレイに関する22の事柄",
-      "url": "https://jp.ign.com/grand-theft-auto-vi/83599/vi22",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-25T09:02:37",
-      "image": "https://sm.ign.com/ign_jp/feature/2/22-new-gta/22-new-gta-6-gameplay-details-revealed_q9xv.jpg"
-    },
-    {
-      "title": "Steam Machineレビュー",
-      "url": "https://jp.ign.com/steam-machine/83576/steam-machine",
-      "source": "IGN Japan",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-06-26T02:31:16",
-      "image": "https://sm.ign.com/ign_jp/review/s/steam-mach/steam-machine-review_dd7p.jpg"
-    },
-    {
-      "title": "『Star Fox』レビュー  やや野心に欠けるものの、リメイクとしては理想的",
-      "url": "https://jp.ign.com/star-fox-2026/83595/star-fox",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-25T04:19:03",
-      "image": "https://sm.ign.com/ign_jp/review/s/star-fox-r/star-fox-review_cf1v.jpg"
-    },
-    {
-      "title": "Steam Machine – Hands On Photos",
-      "url": "https://jp.ign.com/steam-machine/83577/steam-machine-hands-on-photos",
-      "source": "IGN Japan",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-26T02:31:16",
-      "image": "https://sm.ign.com/ign_jp/gallery/s/steam-mach/steam-machine-hands-on-photos_zj17.jpg"
-    },
-    {
-      "title": "Star Fox (2026) Review Gallery",
-      "url": "https://jp.ign.com/star-fox-2026/83596/star-fox-2026-review-gallery",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-06-25T04:19:03",
-      "image": "https://sm.ign.com/ign_jp/gallery/s/star-fox-2/star-fox-2026-review-gallery_y5ph.jpg"
+      "published": "2026-06-26T02:25:00",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/06/bfd00adb47b5b473df1b8237f23f434806c46c25-thumb-1000x563-85305.jpg"
     }
   ]
 }
