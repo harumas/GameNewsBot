@@ -1,96 +1,186 @@
 {
-  "generated_at": "2026-07-01T00:31:04.699935",
-  "poem": "おはようございます！ 🌞\n今日はサイバーパンク都市でお店を経営する『Nivalis Nights』の発売決定や、新作RPGの開発進展など、ゲーム業界では新しいプロジェクトが続々と発表されています 💻\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-07-02T00:28:38.440717",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、PS3とPS Vita向けPS Storeの終了やPlayStation向けの物理ディスク生産の終了など、大きな変化が起こっています。また、新作ゲームの発表も続々と行われています 💻\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "サイバーパンク都市でお店を経営するゲーム『Nivalis Nights』9月30日に発売決定。“ラーメン屋さん”などの小さな店舗から、高級レストランやナイトクラブといった大規模な店舗まで経営できる",
-      "url": "https://news.denfaminicogamer.jp/news/260701f",
+      "title": "『進撃の巨人3』今冬に発売決定。立体機動アクションやキャラとの交流シーン、キャラメイクや自分だけの班で挑む壁外調査などの実機プレイ映像が公開",
+      "url": "https://news.denfaminicogamer.jp/news/260702c",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-06-30T23:46:35",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/ss_1a1d69d64dc62c6b1b049ea4922cd0633bd275ba.1920x1080.jpg"
+      "published": "2026-07-01T22:20:41",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/4c3f4fdceea80aa723d67368e87f949b.jpg"
     },
     {
-      "title": "『ヒットマン』制作スタジオ、新作RPGにおける外部パートナーとの契約終了を発表。開発は継続する意向。海外メディアの取材を受けたXboxも否定はせず「投資先を見直し中」と返",
-      "url": "https://news.denfaminicogamer.jp/news/260701e",
+      "title": "『リズム天国 ミラクルスターズ』ついに本日7月2日に発売！『リズム天国』シリーズ最新作が11年ぶりに登場。「80種類以上」のリズムゲームを“オール新作”で収録",
+      "url": "https://news.denfaminicogamer.jp/news/260702e",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-02T00:01:30",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/maxresdefault-1.jpg"
+    },
+    {
+      "title": "PS3とPS Vita向けPS Store、2027年に全世界で終了へ。一部の国・地域では2026年より順次終了していく",
+      "url": "https://news.denfaminicogamer.jp/news/2607014k",
       "source": "電ファミニコゲーマー",
       "category": "business",
       "importance": "high",
-      "published": "2026-06-30T22:59:08",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/07fb3da722a0390db4c845d72b2f96a7.png"
+      "published": "2026-07-01T13:03:59",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/HFRaRJla4AAJzxr.jpg"
     },
     {
-      "title": "『オブリビオン』リマスターのSwitch 2版が8月12日に発売決定！戦士・暗殺者・魔術師・鍛冶師など、自分だけの道で広大な世界を自由に冒険する“オープンワールド”RPG",
-      "url": "https://news.denfaminicogamer.jp/news/260701c",
+      "title": "プレイステーションコンソール向け新作ゲームの「ディスク生産」が2028年1月に終了へ。以降はPS Storeと販売店でダウンロード版のみ提供",
+      "url": "https://news.denfaminicogamer.jp/news/2607014b",
+      "source": "電ファミニコゲーマー",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-07-01T12:13:20",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/70bb22030b29f4234fd812253bf1129b00609c4c.webp"
+    },
+    {
+      "title": "空中で華麗な“トリックショット”をキめるゲーム『Gunjutsu』が気持ちよさそう。弾丸を曲げる「カーブショット」や障害物を活かした「跳弾」などを駆使してターゲットを打ち抜く",
+      "url": "https://news.denfaminicogamer.jp/news/260702b",
       "source": "電ファミニコゲーマー",
       "category": "release",
-      "importance": "high",
-      "published": "2026-06-30T22:34:36",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/51e34a5c0f8e75b6ca8b2b429c4e7e3c14715e3836a43ba7511f0d04fb7139d7.webp"
+      "importance": "normal",
+      "published": "2026-07-01T22:36:04",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/ss_b16fa2ddddd453e57b6429ce3558cfb5b8b23cdb.1920x1080-2.jpg"
     },
     {
-      "title": "『恋と深空』新男性主人公「ロウガ」の実装予定を取り消すと発表。コンテンツ展開においても、新たな男性主人公を追加しないことを報告、今後は既存5人の物語の展開と長期的な恋愛体験の向上に注力",
-      "url": "https://news.denfaminicogamer.jp/news/2606303z",
-      "source": "電ファミニコゲーマー",
+      "title": "「ギア・クラブ アンリミテッド3」，PS5版が10月8日に発売決定。日本とフランスを舞台にしたリアル系レーシングゲームが登場",
+      "url": "https://www.4gamer.net/games/022/G102208/20260701058/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-01T22:00:00",
+      "image": "https://www.4gamer.net/games/022/G102208/20260701058/SS/010.jpg"
+    },
+    {
+      "title": "PlayStation向けの物理ディスク生産終了方針，およびPS3/PS Vitaストアの閉鎖を発表",
+      "url": "https://www.4gamer.net/games/999/G999903/20260701053/",
+      "source": "4Gamer.net",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-07-01T12:23:08",
+      "image": "https://www.4gamer.net/games/999/G999903/20260701053/SS/001.jpg"
+    },
+    {
+      "title": "キーボードを食べ尽くしたい欲求を満たすホラーパズルADV「KEYKRUNCHER」が発表に。アナウンストレイラーを公開",
+      "url": "https://www.4gamer.net/games/022/G102207/20260701052/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-01T12:12:57",
+      "image": "https://www.4gamer.net/games/022/G102207/20260701052/SS/003.jpg"
+    },
+    {
+      "title": "11年ぶりに「リズム天国」が帰ってきた！　シリーズ最新作「リズム天国 ミラクルスターズ」でリズムを刻む心地よさを楽しもう",
+      "url": "https://www.4gamer.net/games/895/G089553/20260629023/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-01T23:00:00",
+      "image": "https://www.4gamer.net/games/895/G089553/20260629023/SS/002.jpg"
+    },
+    {
+      "title": "劇場アニメ「SEKIRO: NO DEFEAT」は，主人公の狼と竜胤の御子である九郎の関係性にフィーチャーした人間ドラマに",
+      "url": "https://www.4gamer.net/games/422/G042247/20260701025/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-07-02T00:00:00",
+      "image": "https://www.4gamer.net/games/422/G042247/20260701025/SS/002.jpg"
+    },
+    {
+      "title": "悪霊掃除ホラーコメディ『100均除霊師』発表。調査無視の脳筋プレイも可、ただし悪霊ブチギレ",
+      "url": "https://automaton-media.com/articles/newsjp/20260701-452815/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-01T08:53:35",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260701-452815-header.jpg"
+    },
+    {
+      "title": "“作曲家が個人開発する”文明発展ストラテジー『Chronages』発表。焚き火の地から高度文明リアルタイムおこし、6年かかってまだ作りこむ野心作",
+      "url": "https://automaton-media.com/articles/newsjp/20260701-452800/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-01T08:34:21",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260701-452800-header.jpg"
+    },
+    {
+      "title": "PlayStation向けゲームの物理ディスク生産、2028年1月をもって終了へ。デジタルへの“完全移行”進む",
+      "url": "https://automaton-media.com/articles/newsjp/20260701-452867/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-07-01T12:28:57",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260701-452867-header.jpg"
+    },
+    {
+      "title": "基本プレイ無料・戦車ヒーローシューター『World of Tanks: HEAT』シーズン1開幕、「砂漠新マップ」実装。陽動特化エージェント＆戦車で“残骸のふり”もできる",
+      "url": "https://automaton-media.com/articles/newsjp/20260701-452875/",
+      "source": "Automaton",
       "category": "update",
-      "importance": "high",
-      "published": "2026-06-30T13:46:42",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/PhotoshopExtension_Image-92-1.png"
-    },
-    {
-      "title": "【マルチ対応】「リボルバー」での戦闘が渋くてカッコよすぎる新作“西部劇”FPS『ガンズ・オブ・エスカトン』発表。。『Half-Life 2』などのアートディレクターが最後に構想した世界観のもと制作",
-      "url": "https://news.denfaminicogamer.jp/news/260630j",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-30T13:00:38",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/06/GoE_screenshot_1.jpg"
-    },
-    {
-      "title": "協力マルチ対応「恐竜園」運営シム『Very Safe Dino Park』発表。エサは自分か仲間か客か、“事故”の隠蔽までこなすえげつない恐竜パークのお仕事",
-      "url": "https://automaton-media.com/articles/newsjp/20260701-452709/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-01T00:07:54",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260701-452709-header.jpg"
-    },
-    {
-      "title": "西部劇ソウルライクFPS『ガンズ・オブ・エスカトン』発表。“多腕ガンマン”となって暗黒アメリカ大陸を切り拓く、攻防一体オカルトガンアクション",
-      "url": "https://automaton-media.com/articles/newsjp/20260630-452692/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-30T13:00:00",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260630-452692-header.jpg"
-    },
-    {
-      "title": "Steamの次なる協力プレイゲーム、病院シム『Night Shift Hospital』発表。「医療ミス10回までOK」、奇病大集合な地獄の夜勤オペ",
-      "url": "https://automaton-media.com/articles/newsjp/20260630-452624/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-30T07:48:12",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260630-452624-header.jpg"
-    },
-    {
-      "title": "サイバーパンク自由ライフシム『Nivalis Nights』9月30日配信へ。治安悪めの未来都市で気ままに生活、「ラーメン屋」から成り上がる",
-      "url": "https://automaton-media.com/articles/newsjp/20260630-452700/",
-      "source": "Automaton",
-      "category": "release",
       "importance": "normal",
-      "published": "2026-06-30T14:49:57",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260630-452700-header.jpeg"
+      "published": "2026-07-01T12:47:26",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260701-452875-header.jpg"
     },
     {
-      "title": "Steamマルチ“殺人犯あぶり出し”学級裁判ゲーム『Deadly Trick』7月14日に早期アクセスへ。協力か裏切りか、最大8人で命がけ捜査＆マジ議論マダミス",
-      "url": "https://automaton-media.com/articles/newsjp/20260630-452681/",
+      "title": "Epic Gamesのボスが「Steamは手数料が高すぎて『原神』など基本プレイ無料ゲームを取り逃がして損してる」と主張も、ツッコミ相次ぐ。Steamにも割と出てる",
+      "url": "https://automaton-media.com/articles/newsjp/20260701-452862/",
       "source": "Automaton",
-      "category": "release",
+      "category": "business",
       "importance": "normal",
-      "published": "2026-06-30T10:59:48",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/06/20260630-452681-header.jpg"
+      "published": "2026-07-01T12:25:18",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260701-452862-header.jpg"
+    },
+    {
+      "title": "Google、「Google Play」の手数料引き下げを発表。日本は12/31から適用",
+      "url": "https://gamemakers.jp/article/2026_06_30_140456/",
+      "source": "ゲームメーカーズ",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-06-30T13:18:42",
+      "image": null
+    },
+    {
+      "title": "「CEDEC AWARDS 2026」特別賞は吉田 修平氏が受賞。PlayStationタイトルの牽引、インディーゲーム推進活動など数々の功績を称える",
+      "url": "https://gamemakers.jp/article/2026_07_01_140542/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-07-01T12:10:16",
+      "image": null
+    },
+    {
+      "title": "Unityでアプリ内課金を実装・管理できるパッケージ「Unity IAP 5.4」リリース。D2Cに対応したほか、ノーコードでオンラインストアを自作可能に",
+      "url": "https://gamemakers.jp/article/2026_07_01_140500/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-01T07:40:22",
+      "image": null
+    },
+    {
+      "title": "Epic Gamesのマーケットプレイス「Fab」、7/14（火）までの期間限定で無料コンテンツを公開。SF世界の砂漠都市をイメージした環境アセットなど3製品",
+      "url": "https://gamemakers.jp/article/2026_07_01_140495/",
+      "source": "ゲームメーカーズ",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-07-01T06:40:27",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/c8d938df52a00eeeda0d7a0bcdadf7a1.jpg"
+    },
+    {
+      "title": "オープンソース＆無料のゲームエンジン「Defold 1.13.0」リリース。モーフターゲットをサポートしたほか、Luaスクリプトでジョイントを作成・制御可能に",
+      "url": "https://gamemakers.jp/article/2026_06_30_140465/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-06-30T12:20:45",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/efbe7d48e4049f92e890356b4babce78.jpg"
     },
     {
       "title": "なぜ『バイオハザード RE:ベロニカ』はクレア・レッドフィールドにとって最高のリメイクになるのか",
@@ -111,76 +201,58 @@
       "image": "https://sm.ign.com/ign_jp/feature/d/deltarune-/deltarune-chapter-5-was-not-what-i-was-expecting-and-thats-f_44rk.jpg"
     },
     {
-      "title": "ティム・スウィーニー インタビュー：Epic Games CEOが語る、UE6におけるAIの役割と、新作ゲームが成功を掴めない理由",
-      "url": "https://jp.ign.com/clair-obscur-expedition-33/83614/epic-games-ceoue6ai",
-      "source": "IGN Japan",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-06-29T06:27:09",
-      "image": "https://sm.ign.com/ign_jp/interview/t/tim-sweene/tim-sweeney-interview-epic-games-ceo-on-ai-in-ue6-and-why-ga_zw3f.jpg"
-    },
-    {
-      "title": "JBLのゲーミングヘッドセット「Quantum 360 Wireless」がAmazonにて29％オフでセール中",
-      "url": "https://jp.ign.com/gaming-device/83621/jblquantum-360-wirelessamazon29",
-      "source": "IGN Japan",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-06-30T22:00:36",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_c167.jpg"
-    },
-    {
-      "title": "年を重ねて変わったことってある？難易度や設定の好み、プレイ時間など、ゲームの向き合い方の変化：#495 音声版 しゃべりすぎGAMER",
-      "url": "https://jp.ign.com/shaberisugi-gamer/83661/495-gamer",
+      "title": "磨き上げられた体験ではあるが、課題も 『冒険家エリオットの千年物語』レビュアーによる感想：今週遊んだゲーム 06/24/2026",
+      "url": "https://jp.ign.com/gamer-1/83680/06242026",
       "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-06-30T16:20:02",
-      "image": null
+      "published": "2026-07-01T11:00:36",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/kg-final_bkn1.jpg"
     },
     {
-      "title": "「恋と深空」，新男性主人公“ロウガ”の実装を取りやめ。今後も新たな男性主人公は追加しないと発表",
-      "url": "https://www.4gamer.net/games/535/G053594/20260630040/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-06-30T12:45:51",
-      "image": "https://www.4gamer.net/games/535/G053594/20260630040/SS/002.jpg"
+      "title": "TURTLE BEACHのゲーミングヘッドセット「Recon 50」がAmazonにて34％オフ 2000円を切る価格でタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83672/turtle-beachrecon-50amazon34-2000",
+      "source": "IGN Japan",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-07-01T06:27:03",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_jzmz.png"
     },
     {
-      "title": "「第4回 全日本高校eスポーツ選手権」の概要が発表に。2026年大会は5タイトル6部門を実施し，1500チームの参加を目指す",
-      "url": "https://www.4gamer.net/games/991/G999107/20260630038/",
-      "source": "4Gamer.net",
-      "category": "esports",
-      "importance": "high",
-      "published": "2026-06-30T12:28:40",
-      "image": "https://www.4gamer.net/games/991/G999107/20260630038/SS/015.jpg"
+      "title": "『スプラトゥーン レイダース』スクリーンショット（2026年6月）",
+      "url": "https://jp.ign.com/splatoon-raiders/83676/20266",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-07-01T05:25:12",
+      "image": "https://sm.ign.com/ign_jp/gallery/s/splatoon-r/splatoon-raiders-june-2026-screenshots_zn4g.jpg"
     },
     {
-      "title": "「マモンキング」，Switch2版が10月8日に発売決定。限定特典付きパッケージ版も同時リリース",
-      "url": "https://www.4gamer.net/games/021/G102173/20260630034/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-06-30T11:11:13",
-      "image": "https://www.4gamer.net/games/021/G102173/20260630034/SS/001.jpg"
-    },
-    {
-      "title": "「東京ゲームショウ2026」，オフィシャルサポーターに宮田俊哉さん（Kis-My-Ft2）が就任",
-      "url": "https://www.4gamer.net/games/991/G999110/20260630037/",
-      "source": "4Gamer.net",
+      "title": "7/15（水）オンラインセミナー開催！AI映像制作の最前線をnpaka氏と検証。はじめてのAutodesk Flow Studio - ニュース",
+      "url": "https://cgworld.jp/flashnews/2607-flowstudio-first-sem.html",
+      "source": "CGWORLD",
       "category": "industry",
       "importance": "normal",
-      "published": "2026-06-30T19:00:00",
-      "image": "https://www.4gamer.net/games/991/G999110/20260630037/SS/001.jpg"
+      "published": "2026-07-01T08:20:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/283_seminar_flowstudio_full_web-thumb-1920x1080-85957.jpg"
     },
     {
-      "title": "「スプラトゥーン レイダース」ゲームの流れや仕組み，協力プレイなどの詳細が明らかに。最大4人でウズシオ諸島のオタカラを追え",
-      "url": "https://www.4gamer.net/games/919/G091973/20260630041/",
-      "source": "4Gamer.net",
-      "category": "release",
+      "title": "【スタジオカラー✕BASSDRUM】『エヴァンゲリオン』シリーズ初の大型フェス「EVANGELION:30+；」横浜アリーナでの大規模イベントを成功に導いたテクニカルディレクションとは - 特集",
+      "url": "https://cgworld.jp/article/202607-cgw333hs-eva30th.html",
+      "source": "CGWORLD",
+      "category": "cg",
       "importance": "normal",
-      "published": "2026-06-30T15:00:00",
-      "image": "https://www.4gamer.net/games/919/G091973/20260630041/SS/026.jpg"
+      "published": "2026-07-01T01:16:00",
+      "image": "https://cgworld.jp/article/assets_c/2026/06/main01__DSC3351-thumb-1000x667-84876.jpg"
+    },
+    {
+      "title": "SideFX、『フォールアウト シーズン2』におけるHoudiniのVFXメイキング動画公開　 FMX HIVE 2026でのRISEの講演 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202607-Houdini-Fallout.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-06-30T23:37:14",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/Houdini_Fallout-01-thumb-1920x1080-85938.jpg"
     },
     {
       "title": "vol.004：「四足歩行ロボット」と「飛行ドローン」で取り組む、スペースデータの最先端シミュレーション - 連載",
@@ -189,7 +261,7 @@
       "category": "tech",
       "importance": "normal",
       "published": "2026-06-30T12:26:10",
-      "image": "https://cgworld.jp/regular/assets_c/2026/06/73e64ac3d03ad1a5a562e3374af502162786245e-thumb-1200x675-85893.jpg"
+      "image": "https://cgworld.jp/regular/assets_c/2026/07/PhysicalAI_4-thumb-1920x1080-85963.jpg"
     },
     {
       "title": "アジアの文脈と向き合う若手メディアアーティストを募集! Hyundai Motor Group主催「第7回 VH AWARD」が公募開始 - ニュース",
@@ -199,33 +271,6 @@
       "importance": "normal",
       "published": "2026-06-30T12:00:00",
       "image": "https://cgworld.jp/flashnews/assets_c/2026/06/7th-ph1-KV-layout-static-1920x1080-thumb-1920x1080-85133.jpg"
-    },
-    {
-      "title": "業界の壁を越える\"翻訳力\"が、ものづくりを変える――劇場アニメ『KILLTUBE』が挑む新しい組織論 - スペシャルコンテンツ",
-      "url": "https://cgworld.jp/special-feature/2606-freee-killtube.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-06-30T11:50:00",
-      "image": "https://cgworld.jp/special-feature/assets_c/2026/06/6a16323bcf4ee3a4e824bd9fbf4f85e8d7da3589-thumb-1000x563-85484.png"
-    },
-    {
-      "title": "A440、CafeGroupなど静岡市進出を即決した企業が語るそのワケ。地場産業とCGの組み合わせでビジネスを創出する - スペシャルコンテンツ",
-      "url": "https://cgworld.jp/special-feature/2606-shizuoka.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-06-30T09:00:18",
-      "image": "https://cgworld.jp/special-feature/assets_c/2026/06/915e7d78988b0d1206abf90e7caa4d5b17399c54-thumb-1000x563-85797.jpg"
-    },
-    {
-      "title": "岡山市、デジタルコンテンツ企業向け視察ツアーを8月開催！専門学校・進出企業訪問や学生交流イベントも - ニュース",
-      "url": "https://cgworld.jp/flashnews/okayamacity-tour-2026/06.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-06-30T09:00:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/okayamatour_v2%20%281%29-thumb-1920x1080-85842.jpg"
     },
     {
       "title": "音楽ストリーミングのTidal、AI生成音楽関する新しいポリシーの導入を発表、収益化禁止・識別タグ表示へ",
@@ -246,13 +291,13 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/187899.jpg"
     },
     {
-      "title": "PC初3D表現導入の最新作『RPGツクールU2U』開発者インタビュー！「誰でもゲームが作れる」ツクールの理念は変わらない",
-      "url": "https://www.gamebusiness.jp/article/2026/06/29/27348.html",
+      "title": "XBOX関連スタジオ、7月上旬に大規模レイオフか。マイクロソフト社員が非難の声明―全米通信労働組合に所属",
+      "url": "https://www.gamebusiness.jp/article/2026/07/01/27360.html",
       "source": "GameBusiness.jp",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-06-29T11:45:02",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187952.png"
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-07-01T02:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187967.jpg"
     },
     {
       "title": "『紅の砂漠』、CEDEC 2026で特別招待講演を実施―大規模オープンワールド開発の知見を公開",
