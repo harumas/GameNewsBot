@@ -1,150 +1,249 @@
 {
-  "generated_at": "2026-07-02T00:28:38.440717",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、PS3とPS Vita向けPS Storeの終了やPlayStation向けの物理ディスク生産の終了など、大きな変化が起こっています。また、新作ゲームの発表も続々と行われています 💻\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-07-03T01:52:52.403708",
+  "poem": "おはようございます！🌞\n今日のゲームニュースは、 UE5やMayaの新機能、サバイバルクラフト『異星開拓記 Wonderia』の早期アクセス開始など、ゲーム業界の最新動向をまとめています。\n注目は『Phasmophobia』のロードマップや『ALIEN STAGE』の3Dライブ化など ⭐️\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "『進撃の巨人3』今冬に発売決定。立体機動アクションやキャラとの交流シーン、キャラメイクや自分だけの班で挑む壁外調査などの実機プレイ映像が公開",
-      "url": "https://news.denfaminicogamer.jp/news/260702c",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-01T22:20:41",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/4c3f4fdceea80aa723d67368e87f949b.jpg"
-    },
-    {
-      "title": "『リズム天国 ミラクルスターズ』ついに本日7月2日に発売！『リズム天国』シリーズ最新作が11年ぶりに登場。「80種類以上」のリズムゲームを“オール新作”で収録",
-      "url": "https://news.denfaminicogamer.jp/news/260702e",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-02T00:01:30",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/maxresdefault-1.jpg"
-    },
-    {
-      "title": "PS3とPS Vita向けPS Store、2027年に全世界で終了へ。一部の国・地域では2026年より順次終了していく",
-      "url": "https://news.denfaminicogamer.jp/news/2607014k",
-      "source": "電ファミニコゲーマー",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-07-01T13:03:59",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/HFRaRJla4AAJzxr.jpg"
-    },
-    {
-      "title": "プレイステーションコンソール向け新作ゲームの「ディスク生産」が2028年1月に終了へ。以降はPS Storeと販売店でダウンロード版のみ提供",
-      "url": "https://news.denfaminicogamer.jp/news/2607014b",
-      "source": "電ファミニコゲーマー",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-07-01T12:13:20",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/70bb22030b29f4234fd812253bf1129b00609c4c.webp"
-    },
-    {
-      "title": "空中で華麗な“トリックショット”をキめるゲーム『Gunjutsu』が気持ちよさそう。弾丸を曲げる「カーブショット」や障害物を活かした「跳弾」などを駆使してターゲットを打ち抜く",
-      "url": "https://news.denfaminicogamer.jp/news/260702b",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-01T22:36:04",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/ss_b16fa2ddddd453e57b6429ce3558cfb5b8b23cdb.1920x1080-2.jpg"
-    },
-    {
-      "title": "「ギア・クラブ アンリミテッド3」，PS5版が10月8日に発売決定。日本とフランスを舞台にしたリアル系レーシングゲームが登場",
-      "url": "https://www.4gamer.net/games/022/G102208/20260701058/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-01T22:00:00",
-      "image": "https://www.4gamer.net/games/022/G102208/20260701058/SS/010.jpg"
-    },
-    {
-      "title": "PlayStation向けの物理ディスク生産終了方針，およびPS3/PS Vitaストアの閉鎖を発表",
-      "url": "https://www.4gamer.net/games/999/G999903/20260701053/",
-      "source": "4Gamer.net",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-07-01T12:23:08",
-      "image": "https://www.4gamer.net/games/999/G999903/20260701053/SS/001.jpg"
-    },
-    {
-      "title": "キーボードを食べ尽くしたい欲求を満たすホラーパズルADV「KEYKRUNCHER」が発表に。アナウンストレイラーを公開",
-      "url": "https://www.4gamer.net/games/022/G102207/20260701052/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-01T12:12:57",
-      "image": "https://www.4gamer.net/games/022/G102207/20260701052/SS/003.jpg"
-    },
-    {
-      "title": "11年ぶりに「リズム天国」が帰ってきた！　シリーズ最新作「リズム天国 ミラクルスターズ」でリズムを刻む心地よさを楽しもう",
-      "url": "https://www.4gamer.net/games/895/G089553/20260629023/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-01T23:00:00",
-      "image": "https://www.4gamer.net/games/895/G089553/20260629023/SS/002.jpg"
-    },
-    {
-      "title": "劇場アニメ「SEKIRO: NO DEFEAT」は，主人公の狼と竜胤の御子である九郎の関係性にフィーチャーした人間ドラマに",
-      "url": "https://www.4gamer.net/games/422/G042247/20260701025/",
-      "source": "4Gamer.net",
+      "title": "ぐんま次世代映像クリエイターコンペ「Gunma Next Generation Filmmaker Competition 2026」開催決定 - ニュース",
+      "url": "https://cgworld.jp/flashnews/gunma-next-generation-filmmaker-competition-2026.html",
+      "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-07-02T00:00:00",
-      "image": "https://www.4gamer.net/games/422/G042247/20260701025/SS/002.jpg"
+      "published": "2026-07-03T08:16:18",
+      "image": null
     },
     {
-      "title": "悪霊掃除ホラーコメディ『100均除霊師』発表。調査無視の脳筋プレイも可、ただし悪霊ブチギレ",
-      "url": "https://automaton-media.com/articles/newsjp/20260701-452815/",
+      "title": "株式会社TA、Maya×UE5用の揺れもの物理ツール「Bonjolt」ベータ公開　髪、スカート、アクセサリーなどのボーン物理をMaya上でセットアップし、UE5へ持ち込めるツール - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202607-Bonjolt.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-02T23:10:56",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/Bonjolt-01-thumb-1920x1080-86093.jpg"
+    },
+    {
+      "title": "7/16（木）オンライン開催！「MotionMaker × 新スキンツール：Maya 制作現場のワークフロー効率化ウェビナー」クリーク･アンド･リバー社のTAチームが検証結果を報告 - ニュース",
+      "url": "https://cgworld.jp/flashnews/2607-maya2027-sem.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-02T03:20:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/image4_web-thumb-1920x1081-86015.jpg"
+    },
+    {
+      "title": "第22回：UE5.8で追加されたEditor Utility機能 - 連載",
+      "url": "https://cgworld.jp/regular/202607-ue5tool-22.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-02T02:49:00",
+      "image": "https://cgworld.jp/regular/assets_c/2026/07/UE5_EditorUtility_banner_vol22-thumb-1000x563-85954.jpg"
+    },
+    {
+      "title": "Artem Erikenov氏、Houdini 21.0＋MetaHumanグルームツールセットを活用した裏編み込みヘアスタイルの構築手法を公開 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202607-Houdini-groom.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-01T23:34:35",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/Houdini_groom-01-thumb-1920x1080-85997.jpg"
+    },
+    {
+      "title": "『爆走兄弟レッツ＆ゴー!!』ドラマCDが発売決定！アニメ30周年を記念して新規書き下ろしシナリオ収録",
+      "url": "https://news.denfaminicogamer.jp/news/260703n",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-03T01:20:35",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/HMIyS5waQAAEsNW.jpg"
+    },
+    {
+      "title": "『Phasmophobia』今後のロードマップを発表。バージョン1.0の延期に伴い、安定性と改善を優先。開発は「期待に応えられなかった」と謝罪し、全ゴーストのビジュアル刷新や新収集アイテムを予告",
+      "url": "https://news.denfaminicogamer.jp/news/260703d",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-07-02T22:18:09",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/phas_2026_roadmap_4k_updated_16x9-1.webp"
+    },
+    {
+      "title": "最大8人で探索・建築・農業・バトルを楽しめるサバイバルクラフト『異星開拓記 Wonderia』が7月23日よりSteamで早期アクセス開始。オープンワールドでエイリアンの惑星を開拓する",
+      "url": "https://news.denfaminicogamer.jp/news/260703l",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-03T01:46:48",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/6.jpeg"
+    },
+    {
+      "title": "エイリアンに飼われた人間が“命がけの歌唱バトル”を強制される人気プロジェクト『ALIEN STAGE』が3Dライブ化！2027年に韓国・日本・米国でワールドツアー開催決定",
+      "url": "https://news.denfaminicogamer.jp/news/260703g",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-07-03T01:00:04",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/maxresdefault-4.jpg"
+    },
+    {
+      "title": "『SAO』“110分”にわたる長編新作アニメが7月5日20時よりYouTubeで配信へ。新作ゲーム『EOA』の長編プロモアニメで、アーカイブ配信はなし",
+      "url": "https://news.denfaminicogamer.jp/news/260703f",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-02T23:31:10",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/maxresdefault-2.jpg"
+    },
+    {
+      "title": "世界で熱い人気の魔女裁判乙女ゲーム『even if TEMPEST 宵闇にかく語りき魔女』Steam版発表。石川界人さんなど出演の壮絶ダーク推理物語、「テンペスト魔女」がPCに",
+      "url": "https://automaton-media.com/articles/newsjp/20260702-453054/",
       "source": "Automaton",
       "category": "release",
       "importance": "high",
-      "published": "2026-07-01T08:53:35",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260701-452815-header.jpg"
+      "published": "2026-07-02T10:05:23",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260702-453054-header.jpg"
     },
     {
-      "title": "“作曲家が個人開発する”文明発展ストラテジー『Chronages』発表。焚き火の地から高度文明リアルタイムおこし、6年かかってまだ作りこむ野心作",
-      "url": "https://automaton-media.com/articles/newsjp/20260701-452800/",
+      "title": "ローグライク・オートバトラー『Cats In The Shell』発表。パーツカスタマイズ戦闘メカでネコパイロットがタイマンバトル、世界のプレイヤーが作ったメカとも戦える",
+      "url": "https://automaton-media.com/articles/newsjp/cats-in-the-shell-20260702-453026/",
       "source": "Automaton",
       "category": "release",
       "importance": "high",
-      "published": "2026-07-01T08:34:21",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260701-452800-header.jpg"
+      "published": "2026-07-02T07:29:01",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/cats-in-the-shell-20260702-453026-header.jpeg"
     },
     {
-      "title": "PlayStation向けゲームの物理ディスク生産、2028年1月をもって終了へ。デジタルへの“完全移行”進む",
-      "url": "https://automaton-media.com/articles/newsjp/20260701-452867/",
+      "title": "最大6人協力・核ミサイル防衛シム『Dynamite Day』発表。敵襲かそれとも民間機か、誤射は許されない“疑心暗鬼”極限パニック管制室",
+      "url": "https://automaton-media.com/articles/newsjp/20260702-452993/",
       "source": "Automaton",
-      "category": "business",
+      "category": "release",
       "importance": "high",
-      "published": "2026-07-01T12:28:57",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260701-452867-header.jpg"
+      "published": "2026-07-02T03:42:40",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260702-452993-header.jpg"
     },
     {
-      "title": "基本プレイ無料・戦車ヒーローシューター『World of Tanks: HEAT』シーズン1開幕、「砂漠新マップ」実装。陽動特化エージェント＆戦車で“残骸のふり”もできる",
-      "url": "https://automaton-media.com/articles/newsjp/20260701-452875/",
+      "title": "基本プレイ無料MMORPG『メイプルストーリー』大型アプデ「CROWN」配信開始。育成爆速・既存職“遊びやす化”で始めどき",
+      "url": "https://automaton-media.com/articles/newsjp/maplestory-20260703-453105/",
       "source": "Automaton",
       "category": "update",
       "importance": "normal",
-      "published": "2026-07-01T12:47:26",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260701-452875-header.jpg"
+      "published": "2026-07-03T01:37:15",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/maplestory-20260703-453105-header.jpg"
     },
     {
-      "title": "Epic Gamesのボスが「Steamは手数料が高すぎて『原神』など基本プレイ無料ゲームを取り逃がして損してる」と主張も、ツッコミ相次ぐ。Steamにも割と出てる",
-      "url": "https://automaton-media.com/articles/newsjp/20260701-452862/",
+      "title": "『リズム天国 ミラクルスターズ』の「ドラムレッスン」に猛者たち殺到、異様な熱気。“リズムのプロ”も籠る、ドラム地獄",
+      "url": "https://automaton-media.com/articles/newsjp/rhythm-heaven-groove-20260703-453104/",
       "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-07-03T01:31:57",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/rhythm-heaven-groove-20260703-453104-header.jpg"
+    },
+    {
+      "title": "かくれんぼゲーム「めっちゃカメレオン」本日中に新モード「逆算チキンレース」を追加予定。アップデート2.3.2を配信",
+      "url": "https://www.4gamer.net/games/007/G100712/20260702032/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-07-02T11:20:09",
+      "image": "https://www.4gamer.net/games/007/G100712/20260702032/SS/001.png"
+    },
+    {
+      "title": "平均年齢29歳のインドと19歳のアフリカ，人口ボーナスが効くポテンシャル市場へ注目［IVS2026］",
+      "url": "https://www.4gamer.net/games/991/G999110/20260701061/",
+      "source": "4Gamer.net",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-07-02T22:00:00",
+      "image": "https://www.4gamer.net/games/991/G999110/20260701061/SS/001.jpg"
+    },
+    {
+      "title": "日本の高校野球部で球を拾う「球ひろいSimulator」，ストアページを公開。かつての抑圧や理不尽さを，実体験をもとに描く“心理的ホラー”",
+      "url": "https://www.4gamer.net/games/022/G102251/20260702038/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-02T14:07:40",
+      "image": "https://www.4gamer.net/games/022/G102251/20260702038/SS/001.jpg"
+    },
+    {
+      "title": "「オクトパストラベラー」，シリーズ8周年記念の公式生放送を7月13日20：00に配信。開発秘話が語られ，8周年記念企画なども行われる",
+      "url": "https://www.4gamer.net/games/368/G036845/20260702037/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-07-02T12:54:23",
+      "image": "https://www.4gamer.net/games/368/G036845/20260702037/SS/001.jpg"
+    },
+    {
+      "title": "「GGST」，珍妙な挙動から繰り出されるトリッキーな技で戦う「ロボカイ」を本日実装。音楽配信ストアではテーマ曲「Breath」の配信がスタート",
+      "url": "https://www.4gamer.net/games/527/G052700/20260702036/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-07-02T12:14:19",
+      "image": "https://www.4gamer.net/games/527/G052700/20260702036/SS/005.jpg"
+    },
+    {
+      "title": "ついにClaude Fable 5が復帰。復活祭は7月7日までで、以降はサブスク勢も追加課金が必要に（CloseBox）",
+      "url": "https://www.gamebusiness.jp/article/2026/07/02/27377.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-07-02T11:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188147.png"
+    },
+    {
+      "title": "PS3・PS Vitaのストア今度こそ閉鎖、2027年7月に全世界でサービス終了へ―延命から5年",
+      "url": "https://www.gamebusiness.jp/article/2026/07/02/27376.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-07-02T11:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188198.jpg"
+    },
+    {
+      "title": "老舗PC壁紙ツール『Wallpaper Engine』マルウェア混入報告の壁紙タイプをワークショップから排除する方針へ",
+      "url": "https://www.gamebusiness.jp/article/2026/07/02/27375.html",
+      "source": "GameBusiness.jp",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-02T11:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188161.jpg"
+    },
+    {
+      "title": "大量解雇で“組合つぶし”疑惑のさなか、Rockstar Games従業員が労働組合の正式承認を申請―実現すればイギリスのゲームスタジオで2例目",
+      "url": "https://www.gamebusiness.jp/article/2026/07/02/27374.html",
+      "source": "GameBusiness.jp",
       "category": "business",
       "importance": "normal",
-      "published": "2026-07-01T12:25:18",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260701-452862-header.jpg"
+      "published": "2026-07-02T11:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188173.jpg"
     },
     {
-      "title": "Google、「Google Play」の手数料引き下げを発表。日本は12/31から適用",
-      "url": "https://gamemakers.jp/article/2026_06_30_140456/",
+      "title": "ソニー、PS5 / PS4のディスク版ゲーム発売は2027年で終了―以降はダウンロード版のみ用意　「購買トレンドの変化を踏まえ」",
+      "url": "https://www.gamebusiness.jp/article/2026/07/02/27373.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-07-02T10:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188180.jpg"
+    },
+    {
+      "title": "3D物理エンジン「Box3D」、オープンソースで無料公開。「Box2D」の技術を3Dへ応用し、高い安定性を実現",
+      "url": "https://gamemakers.jp/article/2026_07_02_140607/",
       "source": "ゲームメーカーズ",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-06-30T13:18:42",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-02T11:15:23",
       "image": null
+    },
+    {
+      "title": "農場をモチーフとした2Dドットアート素材が130種以上収録。アセットパック『Tiny Farm』、Webサイト「Kenney」にて無料公開",
+      "url": "https://gamemakers.jp/article/2026_07_02_140555/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-02T03:46:37",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/02bba246425ded610dd743d4d33a7d8c.png"
     },
     {
       "title": "「CEDEC AWARDS 2026」特別賞は吉田 修平氏が受賞。PlayStationタイトルの牽引、インディーゲーム推進活動など数々の功績を称える",
@@ -153,7 +252,7 @@
       "category": "industry",
       "importance": "normal",
       "published": "2026-07-01T12:10:16",
-      "image": null
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/ac112c4b3738de7069109cea69f7e9f9.jpg"
     },
     {
       "title": "Unityでアプリ内課金を実装・管理できるパッケージ「Unity IAP 5.4」リリース。D2Cに対応したほか、ノーコードでオンラインストアを自作可能に",
@@ -162,43 +261,34 @@
       "category": "tech",
       "importance": "normal",
       "published": "2026-07-01T07:40:22",
-      "image": null
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/ff49969a7213edc7ea8ea2f838ffa3fd.jpg"
     },
     {
       "title": "Epic Gamesのマーケットプレイス「Fab」、7/14（火）までの期間限定で無料コンテンツを公開。SF世界の砂漠都市をイメージした環境アセットなど3製品",
       "url": "https://gamemakers.jp/article/2026_07_01_140495/",
       "source": "ゲームメーカーズ",
-      "category": "sale",
+      "category": "tech",
       "importance": "normal",
       "published": "2026-07-01T06:40:27",
       "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/c8d938df52a00eeeda0d7a0bcdadf7a1.jpg"
     },
     {
-      "title": "オープンソース＆無料のゲームエンジン「Defold 1.13.0」リリース。モーフターゲットをサポートしたほか、Luaスクリプトでジョイントを作成・制御可能に",
-      "url": "https://gamemakers.jp/article/2026_06_30_140465/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
+      "title": "『リズム天国 ミラクルスターズ』 レビュー",
+      "url": "https://jp.ign.com/rhythm-heaven-groove/83682/",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-07-02T06:16:39",
+      "image": "https://sm.ign.com/ign_jp/review/r/rhythm-hea/rhythm-heaven-groove-review_pnpc.jpg"
+    },
+    {
+      "title": "ゼンハイザーの有線イヤホン「IE 300」がAmazonにて半額以下でタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83681/ie-300amazon",
+      "source": "IGN Japan",
+      "category": "sale",
       "importance": "normal",
-      "published": "2026-06-30T12:20:45",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/06/efbe7d48e4049f92e890356b4babce78.jpg"
-    },
-    {
-      "title": "なぜ『バイオハザード RE:ベロニカ』はクレア・レッドフィールドにとって最高のリメイクになるのか",
-      "url": "https://jp.ign.com/resident-evil-veronica/83624/re",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-06-30T23:03:35",
-      "image": "https://sm.ign.com/ign_jp/feature/r/resident-e/resident-evil-veronica-finally-gives-claire-redfield-her-due_1fza.jpg"
-    },
-    {
-      "title": "『DELTARUNE』チャプター5は予想を裏切る展開だった――だからこそ、最高だ",
-      "url": "https://jp.ign.com/deltarune-full-release/83622/deltarune5",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-06-30T07:46:54",
-      "image": "https://sm.ign.com/ign_jp/feature/d/deltarune-/deltarune-chapter-5-was-not-what-i-was-expecting-and-thats-f_44rk.jpg"
+      "published": "2026-07-02T07:19:13",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_59yh.jpg"
     },
     {
       "title": "磨き上げられた体験ではあるが、課題も 『冒険家エリオットの千年物語』レビュアーによる感想：今週遊んだゲーム 06/24/2026",
@@ -226,96 +316,6 @@
       "importance": "normal",
       "published": "2026-07-01T05:25:12",
       "image": "https://sm.ign.com/ign_jp/gallery/s/splatoon-r/splatoon-raiders-june-2026-screenshots_zn4g.jpg"
-    },
-    {
-      "title": "7/15（水）オンラインセミナー開催！AI映像制作の最前線をnpaka氏と検証。はじめてのAutodesk Flow Studio - ニュース",
-      "url": "https://cgworld.jp/flashnews/2607-flowstudio-first-sem.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-07-01T08:20:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/283_seminar_flowstudio_full_web-thumb-1920x1080-85957.jpg"
-    },
-    {
-      "title": "【スタジオカラー✕BASSDRUM】『エヴァンゲリオン』シリーズ初の大型フェス「EVANGELION:30+；」横浜アリーナでの大規模イベントを成功に導いたテクニカルディレクションとは - 特集",
-      "url": "https://cgworld.jp/article/202607-cgw333hs-eva30th.html",
-      "source": "CGWORLD",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-07-01T01:16:00",
-      "image": "https://cgworld.jp/article/assets_c/2026/06/main01__DSC3351-thumb-1000x667-84876.jpg"
-    },
-    {
-      "title": "SideFX、『フォールアウト シーズン2』におけるHoudiniのVFXメイキング動画公開　 FMX HIVE 2026でのRISEの講演 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202607-Houdini-Fallout.html",
-      "source": "CGWORLD",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-06-30T23:37:14",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/Houdini_Fallout-01-thumb-1920x1080-85938.jpg"
-    },
-    {
-      "title": "vol.004：「四足歩行ロボット」と「飛行ドローン」で取り組む、スペースデータの最先端シミュレーション - 連載",
-      "url": "https://cgworld.jp/regular/202606-physicalai-004.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-30T12:26:10",
-      "image": "https://cgworld.jp/regular/assets_c/2026/07/PhysicalAI_4-thumb-1920x1080-85963.jpg"
-    },
-    {
-      "title": "アジアの文脈と向き合う若手メディアアーティストを募集! Hyundai Motor Group主催「第7回 VH AWARD」が公募開始 - ニュース",
-      "url": "https://cgworld.jp/flashnews/-hyundai-motor-group7-vh-award.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-06-30T12:00:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/7th-ph1-KV-layout-static-1920x1080-thumb-1920x1080-85133.jpg"
-    },
-    {
-      "title": "音楽ストリーミングのTidal、AI生成音楽関する新しいポリシーの導入を発表、収益化禁止・識別タグ表示へ",
-      "url": "https://www.gamebusiness.jp/article/2026/06/30/27357.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-06-30T11:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188000.jpg"
-    },
-    {
-      "title": "『プラグマタ』開発初期は「ゲームロジックが完全に崩壊」「心底失望」など社内で酷評の嵐―衝撃の開発秘話も、それを乗り越え大ヒットへ",
-      "url": "https://www.gamebusiness.jp/article/2026/06/30/27352.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-06-30T02:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187899.jpg"
-    },
-    {
-      "title": "XBOX関連スタジオ、7月上旬に大規模レイオフか。マイクロソフト社員が非難の声明―全米通信労働組合に所属",
-      "url": "https://www.gamebusiness.jp/article/2026/07/01/27360.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-07-01T02:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187967.jpg"
-    },
-    {
-      "title": "『紅の砂漠』、CEDEC 2026で特別招待講演を実施―大規模オープンワールド開発の知見を公開",
-      "url": "https://www.gamebusiness.jp/article/2026/06/30/27359.html",
-      "source": "GameBusiness.jp",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-06-30T11:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187987.png"
-    },
-    {
-      "title": "小中高生対象「マンガ・イラストコンテスト」募集締切7/31…テーマは学園",
-      "url": "https://www.gamebusiness.jp/article/2026/06/30/27358.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-06-30T11:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/187997.jpg"
     }
   ]
 }
