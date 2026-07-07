@@ -1,141 +1,150 @@
 {
-  "generated_at": "2026-07-06T02:05:12.788111",
-  "poem": "おはようございます！ 🌞\n今日もゲーム業界は大活躍です！『ポケモン』と「Jリーグ」のタイアップや『めっちゃカメレオン』の売上記録が話題になっています。\nそれでは今日のニュースをどうぞ！ 🎮",
+  "generated_at": "2026-07-07T02:00:31.938525",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、任天堂のNintendo Switch 2がバッテリー交換型に変更されることが話題です。また、Xbox部門のレイオフや新作ゲームの発表など、様々なニュースが飛び交っています。 \nゲームファンの皆さん、今日も楽しんでください！ \nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "『ポケモン』と「Jリーグ」のタイアップが決定！7月6日18時に全国60クラブそれぞれのクラブパートナーポケモンを発表",
-      "url": "https://news.denfaminicogamer.jp/news/260705u",
-      "source": "電ファミニコゲーマー",
+      "title": "SNS推理ADV『ミカクテイ事件の観測者-Demons’Timeline-』さっそく売上1万本突破。“妙にリアルなSNS”が話題の怪事件ミステリー、システムも活かしたストーリーが光る",
+      "url": "https://automaton-media.com/articles/newsjp/20260706-453470/",
+      "source": "Automaton",
       "category": "other",
       "importance": "high",
-      "published": "2026-07-05T09:15:56",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/HMX2DM4boAA8zN0.png"
+      "published": "2026-07-06T09:23:09",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260706-453470-header.jpg"
     },
     {
-      "title": "【驚異的】『めっちゃカメレオン』なんと売上本数「1500万本」を達成！さらに“有名日本人”とのコラボ開催を予告",
-      "url": "https://news.denfaminicogamer.jp/news/260705s",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
+      "title": "須田剛一氏の新作『ロミオ・イズ・ア・デッドマン』、「酷評レビュー」をあえて宣伝トレイラーに載せて困惑される。しかも満点レビューは載せない",
+      "url": "https://automaton-media.com/articles/newsjp/20260706-453452/",
+      "source": "Automaton",
+      "category": "other",
       "importance": "high",
-      "published": "2026-07-05T08:15:45",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/HMb3r7YaYAAmSJO.png"
+      "published": "2026-07-06T06:24:35",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260706-453452-header.jpg"
     },
     {
-      "title": "「初音ミク」新作パーティゲーム『初音ミク スターリーパーティ』発表！最大6人プレイ対応、Switch 2、Steam向けに2027年発売へ",
-      "url": "https://news.denfaminicogamer.jp/news/260705o",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-05T06:51:57",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/5c88ef911f234c635a2b8257239b95a3.jpg"
-    },
-    {
-      "title": "難攻不落の「城」を建築し、領地を“防衛”するシミュレーションゲーム『Bergfried』が面白そう。弓兵・槍兵・騎士などの部隊を配置、押し寄せる敵勢力との“攻城戦”で勝利を目指す",
-      "url": "https://news.denfaminicogamer.jp/news/260706c",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-06T01:56:33",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/ss_63026e7f77dc94d5fcc69fcc035578dc1b43e9ce.1920x1080-1.jpg"
-    },
-    {
-      "title": "『サイバーパンク2077』Steam版の同接が10万人を記録、70%オフセールで人気が再燃。犯罪が横行する大都市「ナイトシティ」を生き抜く、全世界で4000万本売り上げた人気作",
-      "url": "https://news.denfaminicogamer.jp/news/260706e",
-      "source": "電ファミニコゲーマー",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-07-06T01:55:46",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/ss_8640d9db74f7cad714f6ecfb0e1aceaa3f887e58.1920x1080.jpg"
-    },
-    {
-      "title": "デザインとアニメーションをクリエイティブするオバケ集団Spooky graphicが中途採用人材募集。3Dアニメーターと2D衣装デザイナーの採用を強化中",
-      "url": "https://automaton-media.com/articles/newsjp/spooky-20260706-453399/",
+      "title": "XBOX部門の過去最大級レイオフ、現場から“寝耳に水”と悲鳴上がる。『アウター・ワールド』開発元Obsidianのベテランや、「昇給したばかり」のスタッフも対象に",
+      "url": "https://automaton-media.com/articles/newsjp/20260707-453541/",
       "source": "Automaton",
       "category": "business",
-      "importance": "normal",
-      "published": "2026-07-06T01:48:54",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/spooky-20260706-453399-header.jpg"
+      "importance": "high",
+      "published": "2026-07-07T01:47:50",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260707-453541-header.jpg"
     },
     {
-      "title": "Steamセールでの“爆買い”を「疑似体験できるゲーム」登場。片っ端からポチって積み放題、財布はノーダメージ",
-      "url": "https://automaton-media.com/articles/newsjp/20260706-453400/",
+      "title": "任天堂、EU向けのNintendo Switch 2などを「バッテリーをセルフ交換できる仕様」に変更へ。一方EUの初代Switchシリーズは“来年2月で販売終了”に",
+      "url": "https://automaton-media.com/articles/newsjp/20260707-453518/",
       "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-07-06T15:54:53",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260707-453518-header.jpg"
+    },
+    {
+      "title": "Xbox部門で過去最大のレイオフ、従業員の20%にあたる1600名の人員削減へ。買収したスタジオ4つも独立、XBOXの再建を掲げて",
+      "url": "https://automaton-media.com/articles/newsjp/xbox-20260707-453508/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-07-06T15:11:46",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/xbox-20260707-453508-header.jpg"
+    },
+    {
+      "title": "任天堂，2027年2月から適用されるEUバッテリー規則に対応。Nintendo Switch 2などをユーザー交換式バッテリー搭載の改訂版へ",
+      "url": "https://www.4gamer.net/games/999/G999902/20260707004/",
+      "source": "4Gamer.net",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-07-07T01:22:28",
+      "image": "https://www.4gamer.net/games/999/G999902/20260707004/SS/002.png"
+    },
+    {
+      "title": "「Dr.STONE バトルクラフト」，2026年9月1日10：00をもってサービス終了。理由は「プレイヤーに満足いただけるサービス提供が困難」",
+      "url": "https://www.4gamer.net/games/544/G054403/20260707006/",
+      "source": "4Gamer.net",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-07-07T01:54:27",
+      "image": "https://www.4gamer.net/games/544/G054403/20260707006/SS/001.jpg"
+    },
+    {
+      "title": "「週刊プロゲーマーファイル」File.340：dresscode選手【リーグ・オブ・レジェンド】",
+      "url": "https://www.4gamer.net/games/073/G007372/20260703056/",
+      "source": "4Gamer.net",
+      "category": "esports",
+      "importance": "normal",
+      "published": "2026-07-07T01:00:00",
+      "image": "https://www.4gamer.net/games/073/G007372/20260703056/SS/002.jpg"
+    },
+    {
+      "title": "「アズールレーン」，「NieR:Automata」コラボ記念生放送は7月11日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+      "url": "https://www.4gamer.net/games/421/G042182/20260706034/",
+      "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-07-06T01:43:38",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260706-453400-header.jpg"
+      "published": "2026-07-06T23:00:00",
+      "image": "https://www.4gamer.net/games/421/G042182/20260706034/SS/002.jpg"
     },
     {
-      "title": "『リズム天国 ミラクルスターズ』でリズムまみれの日々。『ぽこ あ ポケモン』のサントラください。『ULTRA0』の容赦ないテンポがいい。今週のゲーミング",
-      "url": "https://automaton-media.com/articles/now-gaming/20260705-453363/",
-      "source": "Automaton",
+      "title": "「マーベル闘魂」，飛び道具で敵を圧倒する「ドクター・ドゥーム」プレイガイドを公開。アルティメットスキルによる自己強化要素にも注目",
+      "url": "https://www.4gamer.net/games/916/G091625/20260707003/",
+      "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-07-05T08:20:31",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260705-453363-004.jpg"
+      "published": "2026-07-06T19:35:57",
+      "image": "https://www.4gamer.net/games/916/G091625/20260707003/SS/002.jpg"
     },
     {
-      "title": "オープンワールドハッキングアクション『ウォッチドッグス2』が95％オフで396円。『洞窟物語』リメイク版は90％オフでわずか148円。今週の高割引率PCゲーム",
-      "url": "https://automaton-media.com/articles/newsjp/steam-sale-20260705-453351/",
-      "source": "Automaton",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-07-05T06:19:24",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/steam-sale-20260705-453351-header.jpg"
+      "title": "Xbox、2027会計年度を通じて約3200人の人員削減を決定。4スタジオがXboxを離れ、新たな経営体制へ移行と発表",
+      "url": "https://news.denfaminicogamer.jp/news/2607062y",
+      "source": "電ファミニコゲーマー",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-07-06T15:25:22",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/Bootup_Wire-9c068aa206c9a72d2b1f.webp"
     },
     {
-      "title": "サイバーパンクライフシム『Nivalis Nights』9月30日配信へ。『妹、他者、パラノイア』は8月15日発売。成人向け“セクシー８番ライク”『45番電車』が爆発的人気。今週の見逃せないゲーム記事7選",
-      "url": "https://automaton-media.com/articles/newsjp/20260705-453339/",
-      "source": "Automaton",
+      "title": "Nintendo Switch 2の「バッテリー交換型」欧州で展開へ。電池規制の変更に対応、初代Switchファミリーは2027年2月中旬頃販売終了に。バッテリー交換キットも欧州のNintendo Storeで販売予定",
+      "url": "https://news.denfaminicogamer.jp/news/260707e",
+      "source": "電ファミニコゲーマー",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-07-07T01:51:37",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/61Sp-YE4bnL._AC_SL1500_.jpg"
+    },
+    {
+      "title": "『劇場版 ソードアート・オンライン – インテグラル・ドメイン-』2028年に公開決定！“特報映像＆ティザービジュアル”が解禁。「アリシゼーション」編のその先が完全新作オリジナルストーリーで描かれる",
+      "url": "https://news.denfaminicogamer.jp/news/260707b",
+      "source": "電ファミニコゲーマー",
       "category": "release",
-      "importance": "normal",
-      "published": "2026-07-05T03:35:14",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260705-453339-header.jpg"
+      "importance": "high",
+      "published": "2026-07-06T21:40:06",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/HMjGLQPbAAEcBVp-1.jpg"
     },
     {
-      "title": "Switch版「空の軌跡 the 1st」，本日12：00から「いっせいトライアル」で遊び放題に。期間は7月12日17：59まで",
-      "url": "https://www.4gamer.net/games/831/G083195/20260706003/",
-      "source": "4Gamer.net",
-      "category": "release",
+      "title": "TVアニメ『ヤニねこ』海外ファンを中心に“禁煙”の動きが広がりだす。ショッキングな映像に「あんなふうになりたくない…」切実な声も",
+      "url": "https://news.denfaminicogamer.jp/news/260707d",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-07-06T01:33:01",
-      "image": "https://www.4gamer.net/games/831/G083195/20260706003/SS/001.jpg"
+      "published": "2026-07-07T01:44:21",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/yanineko_01_c-1-1.webp"
     },
     {
-      "title": "AIで人を減らすというのは，ビジネスが分かっていない――IVS2026で語るエンジニアの役割の変化［IVS2026］",
-      "url": "https://www.4gamer.net/games/991/G999110/20260705005/",
-      "source": "4Gamer.net",
-      "category": "industry",
+      "title": "『スーパーマリオランド2 6つの金貨』「メインテーマ」がニンテンドーミュージックに追加。『マリオカート ワールド』のフリーランモードより",
+      "url": "https://news.denfaminicogamer.jp/news/260707k",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-07-06T01:00:00",
-      "image": "https://www.4gamer.net/games/991/G999110/20260705005/SS/012.jpg"
+      "published": "2026-07-07T01:24:36",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/be123546-fff6-4ee7-9466-1e700d1c2a03.png"
     },
     {
-      "title": "フィンランドはムーミンとサウナだけではない。世界トップ級の技術を生み出した国から，小国の生存戦略を学ぶ［IVS2026］",
-      "url": "https://www.4gamer.net/games/991/G999110/20260705004/",
-      "source": "4Gamer.net",
-      "category": "industry",
+      "title": "SOP Cemetery、Houdiniによる3DGSデータのリギング＆アニメーション作成チュートリアル動画公開　シーンデータ無償配布 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202607-Houdini-3DGS.html",
+      "source": "CGWORLD",
+      "category": "tech",
       "importance": "normal",
-      "published": "2026-07-06T00:00:00",
-      "image": "https://www.4gamer.net/games/991/G999110/20260705004/SS/005.jpg"
-    },
-    {
-      "title": "「NFTという言葉を聞かなくなってからが本番」ゲームで露呈した“稼ぐ”と“遊ぶ”の乖離から，トークンが事業に根づく条件［IVS2026］",
-      "url": "https://www.4gamer.net/games/991/G999110/20260705002/",
-      "source": "4Gamer.net",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-07-05T23:00:00",
-      "image": "https://www.4gamer.net/games/991/G999110/20260705002/SS/012.jpg"
-    },
-    {
-      "title": "【今週のモチベ】「アサシンクリード ブラックフラッグ Re: シンクロ」や「GRANBLUE FANTASY: Relink - Endless Ragnarok」が発売される 2026年7月6日〜7月12日",
-      "url": "https://www.4gamer.net/games/954/G095479/20260705007/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-05T23:00:00",
-      "image": "https://www.4gamer.net/games/954/G095479/20260705007/SS/006.jpg"
+      "published": "2026-07-06T23:26:28",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/840b8edf2117afdd6f2ad078214ac43a8e43b1ec-thumb-1920x1004-86191.jpg"
     },
     {
       "title": "第3回：UIを動かそう！（2）ボタンの作成と実装 - 連載",
@@ -165,6 +174,87 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/07/UE58_Mocap-01-thumb-1920x1080-86133.jpg"
     },
     {
+      "title": "『めっちゃカメレオン』1,500万本突破！発売から1か月経たずに達成―有名日本人とのコラボも実施へ",
+      "url": "https://www.gamebusiness.jp/article/2026/07/06/27392.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-07-06T11:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188422.jpg"
+    },
+    {
+      "title": "世界的RTAイベント「SGDQ 2026」が開幕。7月12日までぶっ通しで行われるRTAの祭典では『プラグマタ』や『バイオハザード レクイエム』も登場",
+      "url": "https://www.gamebusiness.jp/article/2026/07/06/27391.html",
+      "source": "GameBusiness.jp",
+      "category": "esports",
+      "importance": "normal",
+      "published": "2026-07-06T11:15:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188399.jpg"
+    },
+    {
+      "title": "【キャリアクエスト】Aimingのエンジニアは、上下関係のない社内で自主的に働き、「好き」を仕事にしていく",
+      "url": "https://www.gamebusiness.jp/article/2026/07/06/27390.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-07-06T05:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188374.jpg"
+    },
+    {
+      "title": "『グランド・セフト・オート』が巻き起こした物議の複雑怪奇な歴史",
+      "url": "https://jp.ign.com/grand-theft-auto-1997/83699/",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-07-06T04:25:25",
+      "image": "https://sm.ign.com/ign_jp/feature/t/the-compli/the-complicated-history-of-gta-controversies_m7xy.jpg"
+    },
+    {
+      "title": "『Resonance: A Plague Tale Legacy』スクリーンショット（2026年6月）",
+      "url": "https://jp.ign.com/resonance-a-plague-tale-legacy/83590/resonance-a-plague-tale-legacy20266",
+      "source": "IGN Japan",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-06T10:43:11",
+      "image": "https://sm.ign.com/ign_jp/gallery/r/resonance-/resonance-a-plague-tale-legacy-june-2026-screenshots_chym.png"
+    },
+    {
+      "title": "Fnaticとソニーが共同開発 有線ゲーミングイヤホン「INZONE E9」がAmazonにて20％オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/83698/fnatic-inzone-e9amazon20",
+      "source": "IGN Japan",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-07-06T04:18:57",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_5gtw.png"
+    },
+    {
+      "title": "【コラム】『スプラトゥーン レイダース』は日本で再びシュータージャンルを広げうる、「国産ルートシューター」への挑戦",
+      "url": "https://jp.ign.com/splatoon-raiders/83701/",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-07-06T03:33:46",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/01_br1s.jpg"
+    },
+    {
+      "title": "Cygames、『GRANBLUE FANTASY: Relink』サウンド実装技術をブログで解説。多数のSEを動的に制御する内製システムなどを紹介",
+      "url": "https://gamemakers.jp/article/2026_07_06_140734/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-06T09:42:27",
+      "image": null
+    },
+    {
+      "title": "Unityの物理エンジン「Unity Physics」最新機能や、2Dアクションゲームの実装手法も解説。「Unity 物理 完全に理解した勉強会」アーカイブ動画とスライド資料が公開",
+      "url": "https://gamemakers.jp/article/2026_07_06_140710/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-06T06:38:59",
+      "image": null
+    },
+    {
       "title": "『ロード・オブ・ザ・リング』で使われた群衆シミュレーションツール「Massive」、無料ライセンスの提供が開始。非商用に限り利用可能",
       "url": "https://gamemakers.jp/article/2026_07_05_140586/",
       "source": "ゲームメーカーズ",
@@ -172,51 +262,6 @@
       "importance": "normal",
       "published": "2026-07-05T03:00:58",
       "image": null
-    },
-    {
-      "title": "「50万本売れなければ解散の危機」、その結末は―『Mina the Hollower』開発元Yacht Club Gamesインタビュー。「最初のボス」と「ラスボス」の秘密、そして\"新たな次元\"とは【ネタバレあり】",
-      "url": "https://www.gamebusiness.jp/article/2026/07/04/27388.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-07-04T11:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188323.jpg"
-    },
-    {
-      "title": "現行機で遊べない状況を何とかしたかった―『がんばれゴエモン大集合！』インタビュー！13作品に込めた40周年への思い",
-      "url": "https://www.gamebusiness.jp/article/2026/07/04/27387.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-07-04T11:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188351.jpg"
-    },
-    {
-      "title": "『サイバーパンク2077』累計販売本数4,000万本を達成。アニメ「サイバーパンク: エッジランナーズ2」は2026年秋配信予定",
-      "url": "https://www.gamebusiness.jp/article/2026/07/04/27389.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-07-04T11:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188305.jpg"
-    },
-    {
-      "title": "カプコン、「年間1億本販売」に向けて開発人員・開発環境の拡充を目指す。毎年100名規模の積極採用へ―株主総会の質疑応答で明言",
-      "url": "https://www.gamebusiness.jp/article/2026/07/04/27386.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-07-04T02:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188240.png"
-    },
-    {
-      "title": "スクエニ株主総会で、サ終したスマホゲームの据え置き移植・続編開発に関する質問が飛ぶ―「お客様の声を聞きながら可能性を模索していきたい」",
-      "url": "https://www.gamebusiness.jp/article/2026/07/04/27385.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-07-04T02:15:06",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188248.jpg"
     }
   ]
 }
