@@ -1,147 +1,291 @@
 {
-  "generated_at": "2026-07-08T01:30:15.548628",
-  "poem": "おはようございます！ 🌞\nゲーム業界は活発な動きを見せており、新作ゲームや更新が続々と発表されています。注目度の高い『The Blood of Dawnwalker』や『NTE』などのニュースもあり、ゲームファンの方々は大いに盛り上がること間違いなし！ 💻\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-07-09T01:52:32.730723",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、注目のタイトル『アサシン クリード ブラック フラッグ RE:シンクロ』の海外レビューや、『ヨッシーとフカシギの図鑑』の体験版が配信開始しました。\nそれでは今日のニュースをどうぞ！ 🎮",
   "articles": [
     {
-      "title": "『ウィッチャー3』ディレクターが手がける新作『The Blood of Dawnwalker』は、NPCと「特別な関係」になれる。しかし噛み殺してしまうことも【先行プレイ＆インタビュー】",
-      "url": "https://news.denfaminicogamer.jp/kikakuthetower/260708b",
+      "title": "【高評価】『アサシン クリード ブラック フラッグ RE:シンクロ』海外レビューでメタクリ「84/100」を獲得。「シリーズ屈指の名作を現代の水準に磨き上げた」「ゲーム史上もっとも美しい世界」など高評価",
+      "url": "https://news.denfaminicogamer.jp/news/260709c",
       "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-07T16:00:39",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/24-2.jpg"
-    },
-    {
-      "title": "都市型オープンワールドRPG『NTE』Steamなどで配信開始。本日7月8日のメンテナンス後よりバージョン1.2が開放され、新Sランクキャラ「真紅」など多数の新要素が追加",
-      "url": "https://news.denfaminicogamer.jp/news/260708l",
-      "source": "電ファミニコゲーマー",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-07-08T01:27:07",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/nte-neverness-to-everness-1gi06.jpg"
-    },
-    {
-      "title": "『トマトアドベンチャー』と『ドクターマリオ&パネルでポン』が「ゲームボーイアドバンス Nintendo Classics」に登場！『トマトアドベンチャー』は、後に『マリオ&ルイージRPG』を生み出すアルファドリームが開発",
-      "url": "https://news.denfaminicogamer.jp/news/260708s",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-08T01:19:39",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/WhiteCanvas-3.jpg"
-    },
-    {
-      "title": "配信中に何度も死んでしまう“推し”を救うゲーム『ゆるゆる生配信する推しは100万回死ぬ』が7月29日に発売。シークバーで時間を巻き戻して運命を変える",
-      "url": "https://news.denfaminicogamer.jp/news/2607083g",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-08T01:00:54",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/b5c0f326f4c3007ba2fe155438c47ee6.png"
-    },
-    {
-      "title": "『シャンフロ』初のゲーム化作品『シャングリラ・フロンティア～七つの最強種～』主人公「サンラク」のゲーム内ビジュアルが初公開、PVではまるでマンガのようなストーリー演出も",
-      "url": "https://news.denfaminicogamer.jp/news/260708d",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-08T01:00:09",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/ee7875d4120e3e296d6ebcff4256d286.jpg"
-    },
-    {
-      "title": "NVIDIAのクラウドゲーミング「GeForce NOW」は『Forza Horizon 6』をガチで遊べる。“体感遅延ゼロ”、スマホもハンコンも使える「GeForce RTX 5080」級の本格ドライブ",
-      "url": "https://automaton-media.com/articles/special-column/nvidia-20260707-453764/",
-      "source": "Automaton",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-07-07T11:39:56",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/nvidia-20260707-453764-header.jpg"
-    },
-    {
-      "title": "MMORPG『The Elder Scrolls Online』、突如「開発ロードマップの見直し」を発表。早くもXBOX大規模レイオフの影響あらわに",
-      "url": "https://automaton-media.com/articles/newsjp/20260707-453605/",
-      "source": "Automaton",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-07-07T03:47:30",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260707-453605-header.jpg"
-    },
-    {
-      "title": "海洋惑星サバイバル『サブノーティカ2』バージョン1.1、明日いきなり配信へ。バイオモッド「枠拡張」で快適度ぐっと向上、敵対生物は“しっかり怯む”ように",
-      "url": "https://automaton-media.com/articles/newsjp/20260708-453804/",
-      "source": "Automaton",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-07-08T01:21:01",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260708-453804-header.jpg"
-    },
-    {
-      "title": "『マインクラフト』新スナップショットで「クッション」登場、ついに“座れる”ように。野宿に便利な使い捨て「藁のベッド」など待望の新アイテム続々",
-      "url": "https://automaton-media.com/articles/newsjp/20260708-453796/",
-      "source": "Automaton",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-07-07T22:58:39",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260708-453796-header.jpg"
-    },
-    {
-      "title": "元『ウィッチャー』開発者らの新作RPG『The Blood of Dawnwalker』はとにかく自由で、感情を揺さぶる。善悪にも“決められたレール”にも縛られない物語、その設計を訊く",
-      "url": "https://automaton-media.com/articles/interviewsjp/the-blood-of-dawnwalker-20260707-453659/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-07T16:00:04",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/the-blood-of-dawnwalker-20260707-453659-header.jpg"
-    },
-    {
-      "title": "Stefan Vaskevich氏、UE5に3DGSを取り込み実用的なFPSで運用するローカルパイプライン解説動画を公開　プラグイン導入から外部ツール＆生成AI活用まで - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202607-UE5-3DGS.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-07T22:20:39",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/UE5_3DGS-01-thumb-1920x1080-86215.jpg"
-    },
-    {
-      "title": "ニューロン・エイジ、モーション練習やデモリール制作に活用できるMaya用フリーリグ「NeuronAge_Rig」を無料公開 - ニュース",
-      "url": "https://cgworld.jp/flashnews/2607-03-neuronage.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-07T06:50:45",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/4e9e13987e9df8b264565bf83eb01511a49de6a8-thumb-1920x1080-86187.jpg"
-    },
-    {
-      "title": "SOP Cemetery、Houdiniによる3DGSデータのリギング＆アニメーション作成チュートリアル動画公開　シーンデータ無償配布 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202607-Houdini-3DGS.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-06T23:26:28",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/840b8edf2117afdd6f2ad078214ac43a8e43b1ec-thumb-1920x1004-86191.jpg"
-    },
-    {
-      "title": "『グランド・セフト・オート』が巻き起こした物議の複雑怪奇な歴史",
-      "url": "https://jp.ign.com/grand-theft-auto-1997/83699/",
-      "source": "IGN Japan",
       "category": "other",
       "importance": "high",
-      "published": "2026-07-06T04:25:25",
-      "image": "https://sm.ign.com/ign_jp/feature/t/the-compli/the-complicated-history-of-gta-controversies_m7xy.jpg"
+      "published": "2026-07-09T01:35:43",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/ss_fdb76ad33ab570b0768f0d3c0ce4f879ceb467d5.1920x1080.jpg"
     },
     {
-      "title": "『The Blood of Dawnwalker』は吸血鬼の魅力が戦闘や探索に凝縮されたオープンワールドアクションRPG 4時間試遊でわかった“夜だけ”吸血鬼の主人公の強さと孤独",
-      "url": "https://jp.ign.com/games/83727/the-blood-of-dawnwalkerrpg-4",
-      "source": "IGN Japan",
+      "title": "『マイクラ』“座る”ことができる「クッション」が便利すぎるとSNSで話題に。クッションに秘められた可能性に「このアップデート最高」「革命来たああああ」などの声集まる",
+      "url": "https://news.denfaminicogamer.jp/news/2607083f",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-07-08T11:13:08",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/2026-07-08_18.39.02.png"
+    },
+    {
+      "title": "『ヨッシーとフカシギの図鑑』体験版が配信開始。第1章「森の生き物」に登場する3種のふかしぎな生き物たちを調査可能",
+      "url": "https://news.denfaminicogamer.jp/news/260709i",
+      "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "normal",
-      "published": "2026-07-07T16:00:42",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/00-main-image_7yet.png"
+      "published": "2026-07-09T01:42:04",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/HHrgtYda8AARn6P.jpg"
+    },
+    {
+      "title": "「壺を壊して稼ぐ」“RPGあるある”をもとにしたクリッカーゲーム『Greedy Greedy Gnomes』8月12日に配信決定。ノームを雇ってのどかな町の家に送り込み、壺を割らせまくって一獲千金を目指そう",
+      "url": "https://news.denfaminicogamer.jp/news/260709g",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-09T01:39:56",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/ss_2c38a105b6e49964e3302aa06eda32217d552152.1920x1080.jpg"
+    },
+    {
+      "title": "【最大4人】スポンジの体で「いかだ」を乗りこなす“物理演算”川下りゲーム『Sponge Break』が面白そう。巨大なノコギリや有刺鉄線などの障害物をかわし、急流の先のゴールを目指す",
+      "url": "https://news.denfaminicogamer.jp/news/260709a",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-08T22:43:56",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/ss_20bc74272726f6d443cc2973e4b316a39f231701.1920x1080.jpg"
+    },
+    {
+      "title": "他人の心に干渉できる力を手にしたら，どうする？ 物語重視のサスペンスADV「The Colour Beyond: A Zeroth Kind」発表",
+      "url": "https://www.4gamer.net/games/023/G102368/20260708055/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-08T12:12:58",
+      "image": "https://www.4gamer.net/games/023/G102368/20260708055/SS/005.jpg"
+    },
+    {
+      "title": "「サカつく2026」，Ver2.1アップデートやハーフアニバに関する情報を紹介する生放送を7月14日に実施",
+      "url": "https://www.4gamer.net/games/915/G091522/20260708051/",
+      "source": "4Gamer.net",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-07-08T11:42:36",
+      "image": "https://www.4gamer.net/games/915/G091522/20260708051/SS/004.jpg"
+    },
+    {
+      "title": "アーケードアーカイブス「ハイパークラッシュ」配信開始。体当たりもジャンプもありのサバイバルレースに挑め",
+      "url": "https://www.4gamer.net/games/023/G102371/20260709001/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-09T01:41:21",
+      "image": "https://www.4gamer.net/games/023/G102371/20260709001/SS/006.jpg"
+    },
+    {
+      "title": "「アーケロン」，クローズドβテストを7月16日10：00よりSteamで開始。新たなゲームモードを導入した最新版をプレイ可能",
+      "url": "https://www.4gamer.net/games/869/G086971/20260707045/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-07-09T01:00:00",
+      "image": "https://www.4gamer.net/games/869/G086971/20260707045/SS/002.jpg"
+    },
+    {
+      "title": "スマホゲームのセルラン分析（2026年6月25日〜7月2日）。今週の1位は「プロスピA」。4月〜6月の国内収益ランキングも紹介",
+      "url": "https://www.4gamer.net/games/316/G031643/20260706002/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-07-09T00:00:00",
+      "image": "https://www.4gamer.net/games/316/G031643/20260706002/SS/002.jpg"
+    },
+    {
+      "title": "男女の“最後かもしれない友情”描くノベルゲーム『またね、と言わないままでいて』発表。『ghostpia』超水道が贈る、恋愛下手なふたりの「青春の外側」",
+      "url": "https://automaton-media.com/articles/newsjp/20260708-454000/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-08T13:36:43",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260708-454000-header.jpg"
+    },
+    {
+      "title": "『Fallout: New Vegas』など手がけたObsidian、XBOXリセットの影響で『Avowed』続編などが開発中止との報道。今後は“『Fallout』新作”に注力へ",
+      "url": "https://automaton-media.com/articles/newsjp/obsidian-entertainment-20260709-454034/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-07-09T01:17:02",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/obsidian-entertainment-20260709-454034-header.jpg"
+    },
+    {
+      "title": "Nintendo Switch 2『ヨッシーとフカシギの図鑑』の体験版が配信開始。ふかしぎな生き物を調査するヨッシーの冒険、セーブデータは製品版に引き継ぎ可",
+      "url": "https://automaton-media.com/articles/newsjp/20260709-454040/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-09T01:31:20",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260709-454040-header.jpg"
+    },
+    {
+      "title": "注目の塔昇りバトロワ『アーケロン（Arkheron）』、7月16日よりクローズドβテスト実施へ。ぐぐっと遊びやすくなった最新版、初心者も“楽しく上達”新モードも完備",
+      "url": "https://automaton-media.com/articles/newsjp/20260709-454025/",
+      "source": "Automaton",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-07-09T01:00:01",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260709-454025-header.jpg"
+    },
+    {
+      "title": "無慈悲ソウルライクARPG『Mortal Shell 2』8月20日発売へ。戦士の遺骸まとう“ビルド切り換え放題”ゲーム、大幅拡張の続編がついに来る",
+      "url": "https://automaton-media.com/articles/newsjp/20260709-454019/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-09T00:40:08",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260709-454019-002.jpg"
+    },
+    {
+      "title": "Hugh Chew氏、UE5におけるベイクされたライトの重要性を解説する動画を公開　基礎知識からLumenとのパフォーマンス比較まで - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202607-UE-BakedLight.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-08T23:28:06",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/UE_BakedLight-01-thumb-1920x1080-86316.jpg"
+    },
+    {
+      "title": "＜7/29（水）リアル開催＞セミナー「TouchDesignerではじめる空間演出 ─ クリエイターから学ぶリアルタイム映像表現」 - ニュース",
+      "url": "https://cgworld.jp/flashnews/2607-03-touchdesigner.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-07-08T10:50:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/touchdesigner_main-thumb-512x288-86211.jpg"
+    },
+    {
+      "title": "初作品でアヌシーに選出。『Bucket Man』ヤカタカナタ監督の\"アートとエンタメの中間\"をねらったユニークな作風に迫る - 特集",
+      "url": "https://cgworld.jp/article/202607-BucketMan-YAKATAKanata.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-07-08T09:32:01",
+      "image": "https://cgworld.jp/article/assets_c/2026/07/_cat02-01-img02-thumb-1920x1080-85953.jpg"
+    },
+    {
+      "title": "数々のヒット作を生み出すメソッドとは？ハリウッド式の「感情を動かす物語の構造」を学べる講座が8月18日開催 - ニュース",
+      "url": "https://cgworld.jp/flashnews/0818-plusone-andou.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-07-08T05:57:12",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/281_seminar_hollywood_full%20%281%29-thumb-1920x1080-86208.jpg"
+    },
+    {
+      "title": "Autodesk、CEDEC2026のスポンサーセッション情報を公開―『ファイナルファンタジーXIV: 白銀のワンダラー』、『プラグマタ』セッションやFlow PT紹介講演も - ニュース",
+      "url": "https://cgworld.jp/flashnews/03-2607-autodeskcedec.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-07-08T03:20:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/cedec2026_cover-thumb-1408x440-86131.jpg"
+    },
+    {
+      "title": "ゲームエンジン「Godot 4.8 dev 1」リリース。ゲームビューのエディタ内ドッキングがデフォルト化、疑似ローカライズをエディタ上でプレビューも",
+      "url": "https://gamemakers.jp/article/2026_07_08_140939/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-07-08T13:20:56",
+      "image": null
+    },
+    {
+      "title": "Core Ultraシリーズ3搭載で電源内蔵の極小ミニPC「GPD BOX」＆約1.6kgの軽量eGPUドック「GPD G2」8月発売！MCIO 8i対応で高速通信を実現",
+      "url": "https://gamemakers.jp/article/2026_07_08_140909/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-08T12:17:02",
+      "image": null
+    },
+    {
+      "title": "8/8（日）開催のインディーゲーム展示会「東京ゲームダンジョン13」、入場チケット販売。出展団体・作品の一覧も公開",
+      "url": "https://gamemakers.jp/article/2026_07_08_140884/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-07-08T08:39:28",
+      "image": null
+    },
+    {
+      "title": "オンラインマルチプレイ機能を実装できるUnity向けSDK「Photon Fusion 2.1」リリース。CPU負荷の低い「Forecast Physics」などが実装",
+      "url": "https://gamemakers.jp/article/2026_07_07_140819/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-07T10:33:39",
+      "image": null
+    },
+    {
+      "title": "『プラグマタ』開発事例やカプコン内製エンジン「RE ENGINE」の講演も実施。「CAPCOM オープンカンファレンス RE:2026」、東京＆大阪で10月に開催",
+      "url": "https://gamemakers.jp/article/2026_07_07_140770/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-07-07T07:42:12",
+      "image": null
+    },
+    {
+      "title": "Discordで誤BAN、『マイクラ』インベントリなどグリッド画像がなぜか問題に。画像誤検知バグで約8,200人に影響も「全アカウント復旧」と発表＆謝罪",
+      "url": "https://www.gamebusiness.jp/article/2026/07/07/27400.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-07-07T11:15:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188484.jpg"
+    },
+    {
+      "title": "『DOOM』などのid Software、XBOX大規模再編で従業員数半減か。ベテラン開発者らもスタジオを離れると報告",
+      "url": "https://www.gamebusiness.jp/article/2026/07/08/27405.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-07-08T11:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188666.jpg"
+    },
+    {
+      "title": "ベセスダや『エルダー・スクロールズ・オンライン』にもXBOX\"リセット\"の波が及び、多数スタッフ解雇か。『TESO』はロードマップも変更予定",
+      "url": "https://www.gamebusiness.jp/article/2026/07/07/27399.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-07-07T11:00:05",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188461.jpg"
+    },
+    {
+      "title": "限られたリソースでコアファンを囲うオンラインサロン運営 DMM・大井川鐵道・山口のインフルエンサーがディスカッション",
+      "url": "https://www.gamebusiness.jp/article/2026/07/08/27404.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-07-08T09:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188520.jpg"
+    },
+    {
+      "title": "CRIWARE、ゲームエンジン「Godot」に完全対応へ。急成長するオープンソースエンジンに国内大手ミドルウェアが参入",
+      "url": "https://www.gamebusiness.jp/article/2026/07/08/27403.html",
+      "source": "GameBusiness.jp",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-08T06:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188508.png"
+    },
+    {
+      "title": "『リズム天国 ミラクルスターズ』はシリーズ初見ならオススメ？：今週遊んだゲーム 07/08/2026",
+      "url": "https://jp.ign.com/gamer-1/83739/07082026",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-07-08T11:03:33",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/_g9xa.jpg"
     },
     {
       "title": "『オービタルズ Orbitals』先行プレイ感想！レトロアニメ×『It Takes Two』風の協力プレイ？",
       "url": "https://jp.ign.com/orbitals/83730/orbitalsit-takes-two",
       "source": "IGN Japan",
-      "category": "release",
+      "category": "other",
       "importance": "normal",
       "published": "2026-07-07T13:00:45",
       "image": "https://sm.ign.com/ign_jp/screenshot/default/orbitalsthumb_c8vb.png"
@@ -163,132 +307,6 @@
       "importance": "normal",
       "published": "2026-07-07T08:04:55",
       "image": "https://sm.ign.com/ign_jp/screenshot/default/1_w4my.jpg"
-    },
-    {
-      "title": "「The Blood of Dawnwalker」先行プレイレポート。昼夜で人と吸血鬼が切り換わるダークファンタジーアクションRPG",
-      "url": "https://www.4gamer.net/games/767/G076728/20260707023/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-07T16:00:00",
-      "image": "https://www.4gamer.net/games/767/G076728/20260707023/SS/001.jpg"
-    },
-    {
-      "title": "［プレイレポ］「グラブル リリンク：エンドレスラグナロク」，プレイヤーの期待に応えた大型拡張コンテンツは，シリーズを正統進化させる一本だった",
-      "url": "https://www.4gamer.net/games/982/G098219/20260707011/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-07-07T15:00:00",
-      "image": "https://www.4gamer.net/games/982/G098219/20260707011/SS/024.jpg"
-    },
-    {
-      "title": "［プレイレポ］ふたりのコミュニケーションで宇宙を駆けろ！　「オービタルズ」は，レトロなビジュアルが目を引く協力型アドベンチャーだ",
-      "url": "https://www.4gamer.net/games/968/G096866/20260701024/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-07T13:00:00",
-      "image": "https://www.4gamer.net/games/968/G096866/20260701024/SS/001.jpg"
-    },
-    {
-      "title": "レトロアニメ調の2人協力プレイADV「オービタルズ Orbitals」，景山梨彩さんや逢坂良太さんら日本語版の声優陣を公開",
-      "url": "https://www.4gamer.net/games/968/G096866/20260707051/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-07T13:00:00",
-      "image": "https://www.4gamer.net/games/968/G096866/20260707051/SS/002.jpg"
-    },
-    {
-      "title": "最大4000人が同時にミッションに挑むリアル脱出ゲーム「終わらないクリスマスからの脱出」が12月26日と27日にパシフィコ横浜で開催決定",
-      "url": "https://www.4gamer.net/games/991/G999111/20260707025/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-07-07T13:00:00",
-      "image": "https://www.4gamer.net/games/991/G999111/20260707025/SS/001.jpg"
-    },
-    {
-      "title": "Discordで誤BAN、『マイクラ』インベントリなどグリッド画像がなぜか問題に。画像誤検知バグで約8,200人に影響も「全アカウント復旧」と発表＆謝罪",
-      "url": "https://www.gamebusiness.jp/article/2026/07/07/27400.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-07-07T11:15:02",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188484.jpg"
-    },
-    {
-      "title": "ベセスダや『エルダー・スクロールズ・オンライン』にもXBOX\"リセット\"の波が及び、多数スタッフ解雇か。『TESO』はロードマップも変更予定",
-      "url": "https://www.gamebusiness.jp/article/2026/07/07/27399.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-07-07T11:00:05",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188461.jpg"
-    },
-    {
-      "title": "Claude Fable 5との残された時間に書いてもらった小説2作品、編集者とAI作家の対話には魂が宿っていたのか（CloseBox）",
-      "url": "https://www.gamebusiness.jp/article/2026/07/07/27402.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-07-07T11:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188502.png"
-    },
-    {
-      "title": "『ポケモン』×「一風堂」コラボ商品が自主回収へ―賞味期限表示に誤表記",
-      "url": "https://www.gamebusiness.jp/article/2026/07/07/27401.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-07-07T11:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188477.jpg"
-    },
-    {
-      "title": "Steamの返金制度は「消費者と開発者を守っている」―返金率21％に苦言のインディー開発者へ「インディーが存在し続けられる理由の1つ」と界隈インフルエンサーが説明",
-      "url": "https://www.gamebusiness.jp/article/2026/07/07/27398.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-07-07T10:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188491.jpg"
-    },
-    {
-      "title": "オンラインマルチプレイ機能を実装できるUnity向けSDK「Photon Fusion 2.1」リリース。CPU負荷の低い「Forecast Physics」などが実装",
-      "url": "https://gamemakers.jp/article/2026_07_07_140819/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-07T10:33:39",
-      "image": null
-    },
-    {
-      "title": "『プラグマタ』開発事例やカプコン内製エンジン「RE ENGINE」の講演も実施。「CAPCOM オープンカンファレンス RE:2026」、東京＆大阪で10月に開催",
-      "url": "https://gamemakers.jp/article/2026_07_07_140770/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-07T07:42:12",
-      "image": null
-    },
-    {
-      "title": "Cygames、『GRANBLUE FANTASY: Relink』サウンド実装技術をブログで解説。多数のSEを動的に制御する内製システムなどを紹介",
-      "url": "https://gamemakers.jp/article/2026_07_06_140734/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-06T09:42:27",
-      "image": null
-    },
-    {
-      "title": "Unityの物理エンジン「Unity Physics」最新機能や、2Dアクションゲームの実装手法も解説。「Unity 物理 完全に理解した勉強会」アーカイブ動画とスライド資料が公開",
-      "url": "https://gamemakers.jp/article/2026_07_06_140710/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-06T06:38:59",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/246c5a5b9f3fa95bb850c40ee7b4fe85.jpg"
     }
   ]
 }
