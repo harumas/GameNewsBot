@@ -1,7 +1,160 @@
 {
-  "generated_at": "2026-07-11T01:30:05.225462",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、創造性に溢れたシミュレーションゲームやスリリングなアクションゲームなど、様々なジャンルの作品が紹介されています。\n特に注目できるのは、人気ゲーム『パルワールド』が正式リリースされ、Steamで20万人以上がプレイしているというニュースです 🚀\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-07-12T01:42:30.866992",
+  "poem": "おはようございます！ 🌞\n今日もゲーム業界は活発です！「餓狼伝説 City of the Wolves」のEWC 2026決勝トーナメントや「Soulframe」の新機能、そして「アズールレーン」×「NieR：Automata」コラボイベントなど、注目のニュースがたくさんです！ 🎮\nそれでは今日のニュースをどうぞ！",
   "articles": [
+    {
+      "title": "「餓狼伝説 City of the Wolves」，EWC 2026の決勝トーナメントにNemo選手，Laggia選手，mi2ha4選手が進出。大会会場からインタビューをお届け",
+      "url": "https://www.4gamer.net/games/807/G080724/20260710054/",
+      "source": "4Gamer.net",
+      "category": "esports",
+      "importance": "high",
+      "published": "2026-07-11T07:03:02",
+      "image": "https://www.4gamer.net/games/807/G080724/20260710054/SS/009.jpg"
+    },
+    {
+      "title": "「エスケープ フロム ダッコフ」は買い切り作品として完成後も成長を続ける。プロデューサーに聞く，小規模体制と無料アップデートの理由［BW2026］",
+      "url": "https://www.4gamer.net/games/876/G087607/20260710048/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-10T15:00:00",
+      "image": "https://www.4gamer.net/games/876/G087607/20260710048/SS/016.jpg"
+    },
+    {
+      "title": "「Soulframe」でマウント機能が2026年秋の実装決定。本日から新たなボスとの戦闘も可能に",
+      "url": "https://www.4gamer.net/games/645/G064501/20260711008/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-07-12T01:36:22",
+      "image": "https://www.4gamer.net/games/645/G064501/20260711008/SS/001.jpg"
+    },
+    {
+      "title": "「アズールレーン」×「NieR：Automata」コラボイベントは7月16日にスタート。「2B」「A2」が参戦",
+      "url": "https://www.4gamer.net/games/390/G039084/20260711006/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-07-11T13:20:26",
+      "image": "https://www.4gamer.net/games/390/G039084/20260711006/SS/001.jpg"
+    },
+    {
+      "title": "週刊Steam広場 第161号：ネコと郵便を題材にした「Cat Mail Co.」や，ヴァンパイア生活を楽しむ「Moonlight Peaks」が発売に",
+      "url": "https://www.4gamer.net/games/038/G003821/20260711005/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-11T09:00:00",
+      "image": "https://www.4gamer.net/games/038/G003821/20260711005/TN/014.jpg"
+    },
+    {
+      "title": "『Soulframe』、待望の騎乗動物の情報が公開 『もののけ姫』を思い出すような狼に似た大型の獣が今秋に実装へ",
+      "url": "https://jp.ign.com/soulframe/83764/soulframe",
+      "source": "IGN Japan",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-07-12T01:33:44",
+      "image": "https://sm.ign.com/ign_jp/photo/default/sf-tc2026-screenshots-beaver-1783789040224_3dym.jpg"
+    },
+    {
+      "title": "Soulframe TennoCon 2026 Screenshots",
+      "url": "https://jp.ign.com/soulframe/83765/soulframe-tennocon-2026-screenshots",
+      "source": "IGN Japan",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-12T01:31:53",
+      "image": "https://sm.ign.com/ign_jp/gallery/s/soulframe-/soulframe-tennocon-2026-screenshots_h5yn.jpg"
+    },
+    {
+      "title": "ストリーミングメディアプレーヤー「Fire TV Stick HD」がAmazonにて46%オフでセール中",
+      "url": "https://jp.ign.com/gaming-device/83752/fire-tv-stick-hdamazon46",
+      "source": "IGN Japan",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-07-10T11:42:48",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_xju8.png"
+    },
+    {
+      "title": "TGS2026、純金メダル付き記念チケットを330万円で販売へ そのほかの特典付きチケットとともに7月11日に販売開始",
+      "url": "https://jp.ign.com/tgs-2026/83759/tgs2026330-711",
+      "source": "IGN Japan",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-07-10T07:44:30",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/tgs2026-kv_46tp.jpg"
+    },
+    {
+      "title": "『白猫プロジェクト』シリーズの新作アクションゲーム『白猫プロジェクト INFINITY』が発表。Switch/Switch 2向けに2027年発売予定",
+      "url": "https://news.denfaminicogamer.jp/news/260711j",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-11T13:56:56",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/main-25.png"
+    },
+    {
+      "title": "『Apex Legends』世界大会「ALGS Year 6 Split 1 Playoffs」で日本の「UNLIMIT」が優勝！ゆらりまん選手、Xtsuvi選手、Peace選手が、日本人選手としては初の快挙を達成",
+      "url": "https://news.denfaminicogamer.jp/news/260712a",
+      "source": "電ファミニコゲーマー",
+      "category": "esports",
+      "importance": "high",
+      "published": "2026-07-12T01:19:27",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/HM-Raa5agAEUxx4.jpg"
+    },
+    {
+      "title": "『アズールレーン』に『ニーア オートマタ』の2B（CV：石川由依）＆A2（CV：諏訪彩花）が登場！コラボイベント「自動歩兵人形の旅」が7月16日より開催",
+      "url": "https://news.denfaminicogamer.jp/news/260711i",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-07-11T12:24:13",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/4a1467d829b0658542c3b71ec27ca881.jpg"
+    },
+    {
+      "title": "“怪獣災害”で負傷した魔法少女たちを診察・治療するホラーゲーム『こちら魔法少女救命外科』のSteamストアページが公開",
+      "url": "https://news.denfaminicogamer.jp/news/260711h",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-11T10:21:33",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/b00c792deb826fc161df9c18ef4ee261.png"
+    },
+    {
+      "title": "小説を読んでいただけのはずなのに、いつの間にか怪異に巻き込まれる体験型イベント「放課後読書会」が超良かった。実際の廃校舎を会場に、真っ赤な部屋で渡されるのは梨氏の短編小説。怪談即売会「ホラーマーケット」内で7月12日まで開催",
+      "url": "https://news.denfaminicogamer.jp/kikakuthetower/260711e",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-07-11T09:00:30",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/image12-6.jpg"
+    },
+    {
+      "title": "『白猫プロジェクト INFINITY』Nintendo Switch/ Switch 2向けに発表、2027年発売へ。おなじみ“白猫”キャラたちが活躍する新作アクション、ついにお披露目",
+      "url": "https://automaton-media.com/articles/newsjp/20260711-454564/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-11T12:44:32",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260711-454564-header.jpg"
+    },
+    {
+      "title": "“事件だけ先に見せる”ガチ推理ゲーム『超探偵シャーロックちゃん2 ～爆炎の因習村～』発表。まずは事件編を無料公開、「真相」は発売までお預けなプレイヤー参加型ミステリー",
+      "url": "https://automaton-media.com/articles/newsjp/20260711-454525/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-11T09:00:05",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260711-454525-header.jpg"
+    },
+    {
+      "title": "Steamの今年上半期の売上が約1兆7900億円で「10年前の約5倍」まで拡大したとする調査報告。成長を続ける超巨大プラットフォーム",
+      "url": "https://automaton-media.com/articles/newsjp/20260711-454509/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-07-11T04:31:21",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260711-454509-header.jpg"
+    },
     {
       "title": "のんびり芸術家生活シム『Glenmara: Still Life Artist』発表。静物画から廃材アート風オブジェまでなんでも制作、創造性に身を任せる制作活動",
       "url": "https://automaton-media.com/articles/newsjp/20260711-454501/",
@@ -21,76 +174,85 @@
       "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260710-454404-header.jpg"
     },
     {
-      "title": "最大4人協力・死体処理アクション『Shady job』発表。未完成な摩天楼の頂上を目指して運搬、乱暴に扱うほど“袋の中身”が凶暴化",
-      "url": "https://automaton-media.com/articles/newsjp/shady-job-20260710-454364/",
-      "source": "Automaton",
+      "title": "『アサシン クリード ブラック フラッグ RE:シンクロ』発売初日に200万本突破！Steamレビューは“やや好評”に回復",
+      "url": "https://www.gamebusiness.jp/article/2026/07/11/27442.html",
+      "source": "GameBusiness.jp",
       "category": "release",
       "importance": "high",
-      "published": "2026-07-10T06:11:21",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/shady-job-20260710-454364-header.jpg"
+      "published": "2026-07-11T11:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188952.jpg"
     },
     {
-      "title": "「圧倒的に好評」推理ゲーム『未解決事件は終わらせないといけないから』PS5版発表、8月19日発売へ。関係者全員が“嘘”をついていた12年前の事件、記憶を辿り真相に迫る",
-      "url": "https://automaton-media.com/articles/newsjp/20260710-454343/",
-      "source": "Automaton",
-      "category": "release",
+      "title": "Steam、2026年上半期の売上高が過去最高の約1.8兆円に―旧作が収益の8割近くを占める",
+      "url": "https://www.gamebusiness.jp/article/2026/07/11/27439.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
       "importance": "high",
-      "published": "2026-07-10T05:19:41",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260710-454343-header.jpg"
+      "published": "2026-07-11T11:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188977.png"
     },
     {
-      "title": "『パルワールド』正式リリースでいきなり「Steam同接20万人超」の人気爆発。新コンテンツ大量投入に、新規勢も復帰勢も大集結",
-      "url": "https://automaton-media.com/articles/newsjp/20260710-454338/",
-      "source": "Automaton",
-      "category": "release",
+      "title": "NVIDIAがGeForceトレーディングカード発表―“カード”違いに困惑の声も？",
+      "url": "https://www.gamebusiness.jp/article/2026/07/11/27438.html",
+      "source": "GameBusiness.jp",
+      "category": "tech",
       "importance": "high",
-      "published": "2026-07-10T05:05:01",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260710-454338-header.jpg"
+      "published": "2026-07-11T10:45:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188996.png"
     },
     {
-      "title": "「エスケープ フロム ダッコフ」は買い切り作品として完成後も成長を続ける。プロデューサーに聞く，小規模体制と無料アップデートの理由［BW2026］",
-      "url": "https://www.4gamer.net/games/876/G087607/20260710048/",
-      "source": "4Gamer.net",
-      "category": "release",
+      "title": "チャッピーが代わりに働いてくれる時代到来『ChatGPT Work』発表―アプリやファイルを自律操作、下調べから成果物まで仕上げ―Codexを応用",
+      "url": "https://www.gamebusiness.jp/article/2026/07/11/27435.html",
+      "source": "GameBusiness.jp",
+      "category": "tech",
       "importance": "high",
-      "published": "2026-07-10T15:00:00",
-      "image": "https://www.4gamer.net/games/876/G087607/20260710048/SS/016.jpg"
+      "published": "2026-07-11T03:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188864.jpg"
     },
     {
-      "title": "「世界の井戸：カーロの血筋」，8月18日にSteamで発売決定。吸血鬼が支配する世界を描くダークファンタジーADV",
-      "url": "https://www.4gamer.net/games/953/G095331/20260710040/",
-      "source": "4Gamer.net",
-      "category": "release",
+      "title": "eスポーツ界のウィンブルドンへ—「eスポーツワールドカップ 2026」仏で開幕…タイトル選定の裏側とビジョンをキーマンが語る",
+      "url": "https://www.gamebusiness.jp/article/2026/07/11/27430.html",
+      "source": "GameBusiness.jp",
+      "category": "esports",
       "importance": "high",
-      "published": "2026-07-10T11:10:37",
-      "image": "https://www.4gamer.net/games/953/G095331/20260710040/SS/001.jpg"
+      "published": "2026-07-11T02:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188917.jpg"
     },
     {
-      "title": "【短期連載】男色蹴球日記〜世界大会とサカつく2026〜（3）：「人生で大切なことは，サッカーとゲイムがだいたい教えてくれる」",
-      "url": "https://www.4gamer.net/games/915/G091522/20260707040/",
-      "source": "4Gamer.net",
-      "category": "other",
+      "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/7/11】",
+      "url": "https://gamemakers.jp/article/2026_07_11_140967/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-07-11T01:58:48",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/75f64a72df06c8865e4a6fd31ea03dff.jpg"
+    },
+    {
+      "title": "台北のゲーム開発カンファレンス「Taipei Game Developers Forum 2026」7/15～16に開催。日本からも東映ゲームズなど企業・開発者が登壇",
+      "url": "https://gamemakers.jp/article/2026_07_10_141062/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
       "importance": "normal",
-      "published": "2026-07-11T01:00:00",
-      "image": "https://www.4gamer.net/games/915/G091522/20260707040/SS/002.jpg"
+      "published": "2026-07-10T09:31:08",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/d638dcdcd76ce28dc965618985b070b4.jpg"
     },
     {
-      "title": "「リバース：1999」×「Atomic Heart」コラボバージョンが7月23日にリリース。新キャラクターとして「双子」と「ノラ」が登場",
-      "url": "https://www.4gamer.net/games/724/G072407/20260711001/",
-      "source": "4Gamer.net",
-      "category": "release",
+      "title": "『NINJA GAIDEN４』刺激的なゲーム背景をローコストで仕上げる技法。リソース管理の極意と内製ツール活用事例【GCC 2026】",
+      "url": "https://gamemakers.jp/article/2026_07_10_135240/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
       "importance": "normal",
-      "published": "2026-07-10T15:32:55",
-      "image": "https://www.4gamer.net/games/724/G072407/20260711001/SS/003.jpg"
+      "published": "2026-07-10T08:29:57",
+      "image": null
     },
     {
-      "title": "「アークナイツ：エンドフィールド」，武陵決戦篇コアバージョン「向淵行」を7月16日にリリース。「GiGO」「フォートナイト」コラボも決定",
-      "url": "https://www.4gamer.net/games/622/G062211/20260710052/",
-      "source": "4Gamer.net",
-      "category": "release",
+      "title": "『EVE Online』を生み出したゲームエンジン「Carbon Engine」がオープンソース化。大半のコードはMITライセンスで提供",
+      "url": "https://gamemakers.jp/article/2026_07_10_140980/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
       "importance": "normal",
-      "published": "2026-07-10T14:43:15",
-      "image": "https://www.4gamer.net/games/622/G062211/20260710052/SS/001.jpg"
+      "published": "2026-07-10T06:58:53",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/c37d5a952515c4cbcc11b4acf9bcd9e4.jpg"
     },
     {
       "title": "NVIDIA、モーション生成AIフレームワーク「GPC」をSIGGRAPH 2026で発表　インタラクティブ制御のための、自然かつ物理的根拠のある動きを生成 - ニュース",
@@ -118,186 +280,6 @@
       "importance": "normal",
       "published": "2026-07-10T03:48:00",
       "image": "https://cgworld.jp/flashnews/assets_c/2026/07/maxresdefault%20%288%29-thumb-1280x720-86130.jpg"
-    },
-    {
-      "title": "#21：これからの映像制作の必須知識!!　『バーチャルプロダクションの教科書』 - 連載",
-      "url": "https://cgworld.jp/regular/202607-cgw336-book.html",
-      "source": "CGWORLD",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-07-10T00:55:00",
-      "image": "https://cgworld.jp/regular/assets_c/2026/07/book_of_the_month_202607-thumb-1000x563-86252.jpg"
-    },
-    {
-      "title": "SideFX、Houdiniによる『トロール2』メイキング動画を公開　Vellumを用いた心臓表現、RBDによる建物の破壊、KineFX活用の樹木制御など - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202607-Houdini-Troll2.html",
-      "source": "CGWORLD",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-07-10T00:46:55",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/Houdini_Troll2-01-thumb-1920x1080-86386.jpg"
-    },
-    {
-      "title": "『ケツバトラー』“シリ”ーズ2が7月30日に始動！ 大型アップデートとDLCキャラクター「キデン」が7月30日に配信",
-      "url": "https://news.denfaminicogamer.jp/news/2607103c",
-      "source": "電ファミニコゲーマー",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-07-10T12:11:20",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/image.png"
-    },
-    {
-      "title": "アニメ『斉木楠雄のΨ難』燃堂力（CV：小野大輔）の「ラーメン食いに行こーぜー！」を30分間ひたすら聞ける耐久動画が公開。7月11日の「ラーメンの日」を記念して",
-      "url": "https://news.denfaminicogamer.jp/news/260711y",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-07-10T15:00:23",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/adbf28e68d55b8e3986f9c96bfc9c5c6.png"
-    },
-    {
-      "title": "【無料】マンガ『ヒカルの碁』10巻分が「少年ジャンプ＋」で無料公開。7月26日までの期間限定",
-      "url": "https://news.denfaminicogamer.jp/news/2607103i",
-      "source": "電ファミニコゲーマー",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-07-10T14:39:05",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/HM2d0RubwAAqcfE.jpeg"
-    },
-    {
-      "title": "『グリッドマン ユニバース』のヒロインたちが“幼い姿”に。「たいむすりっぷ」をテーマにした坂本勝氏の描き下ろしグッズがeeo Store 池袋本店で8月22日より販売",
-      "url": "https://news.denfaminicogamer.jp/news/2607103h",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-07-10T14:17:06",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/HM2b-X8bMAAnfSZ.jpg"
-    },
-    {
-      "title": "『アークナイツ：エンドフィールド』新バージョン「向淵行」が7月16日にリリース。新オペレーター「オクギ」「リーノ」の実装など、ハーフアニバーサリーに相応しい盛りだくさんの内容",
-      "url": "https://news.denfaminicogamer.jp/news/2607103d",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-10T12:44:40",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/main-72.jpg"
-    },
-    {
-      "title": "『アサシン クリード ブラック フラッグ RE:シンクロ』レビュー 13年越しに最高の海賊ゲームが帰ってきた",
-      "url": "https://jp.ign.com/assassins-creed-black-flag-resynced/83744/re-13",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-09T02:22:16",
-      "image": "https://sm.ign.com/ign_jp/review/a/assassins-/assassins-creed-black-flag-resynced-review_8ubw.jpg"
-    },
-    {
-      "title": "ストリーミングメディアプレーヤー「Fire TV Stick HD」がAmazonにて46%オフでセール中",
-      "url": "https://jp.ign.com/gaming-device/83752/fire-tv-stick-hdamazon46",
-      "source": "IGN Japan",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-07-10T11:42:48",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_xju8.png"
-    },
-    {
-      "title": "TGS2026、純金メダル付き記念チケットを330万円で販売へ そのほかの特典付きチケットとともに7月11日に販売開始",
-      "url": "https://jp.ign.com/tgs-2026/83759/tgs2026330-711",
-      "source": "IGN Japan",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-07-10T07:44:30",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/tgs2026-kv_46tp.jpg"
-    },
-    {
-      "title": "『斑鳩』生みの親の井内ひろし氏がエムツーを正式に退職。同氏が手がける2014年発表の『ウブスナ』はどうなる？",
-      "url": "https://www.gamebusiness.jp/article/2026/07/10/27421.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-07-10T02:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188701.jpg"
-    },
-    {
-      "title": "「ガンダム」新作アニメ情報が7月24日午前3時に発表へ！YouTube「ガンダムチャンネル」にて全世界同時配信",
-      "url": "https://www.gamebusiness.jp/article/2026/07/09/27420.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-07-09T11:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188708.jpg"
-    },
-    {
-      "title": "任天堂、スマホ版マリカーこと『マリオカート ツアー』のサービス終了を発表―約7年の歴史に幕",
-      "url": "https://www.gamebusiness.jp/article/2026/07/09/27414.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-07-09T03:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188567.jpg"
-    },
-    {
-      "title": "NVIDIA倒産危機をセガが救って30年の突発イベント予告―革ジャンが秋葉原GiGO降臨、ファン招待で5090プレゼント―鈴木裕や入交元社長も参加",
-      "url": "https://www.gamebusiness.jp/article/2026/07/10/27428.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-07-10T11:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188855.png"
-    },
-    {
-      "title": "Discordコミュニティ分析「comcom Analytics」がAIコミュニティ評価・月次レポートなど4機能を一斉リリース、ゲーム含む全ジャンルに対象拡大",
-      "url": "https://www.gamebusiness.jp/article/2026/07/10/27427.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-07-10T09:15:02",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188838.png"
-    },
-    {
-      "title": "「東京ゲームショウ2026」来場者向け公式サイトがオープン。入場チケット販売情報、出展企業一覧なども発表",
-      "url": "https://gamemakers.jp/article/2026_07_09_140890/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-07-09T03:06:10",
-      "image": null
-    },
-    {
-      "title": "台北のゲーム開発カンファレンス「Taipei Game Developers Forum 2026」7/15～16に開催。日本からも東映ゲームズなど企業・開発者が登壇",
-      "url": "https://gamemakers.jp/article/2026_07_10_141062/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-07-10T09:31:08",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/d638dcdcd76ce28dc965618985b070b4.jpg"
-    },
-    {
-      "title": "『NINJA GAIDEN４』刺激的なゲーム背景をローコストで仕上げる技法。リソース管理の極意と内製ツール活用事例【GCC 2026】",
-      "url": "https://gamemakers.jp/article/2026_07_10_135240/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-10T08:29:57",
-      "image": null
-    },
-    {
-      "title": "『EVE Online』を生み出したゲームエンジン「Carbon Engine」がオープンソース化。大半のコードはMITライセンスで提供",
-      "url": "https://gamemakers.jp/article/2026_07_10_140980/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-10T06:58:53",
-      "image": null
-    },
-    {
-      "title": "アプリボット、自社制作タイトルのポートフォリオサイトを公開。過去未公開の設定画や資料の公開に加え、モーションや背景の制作事例なども解説",
-      "url": "https://gamemakers.jp/article/2026_07_09_140841/",
-      "source": "ゲームメーカーズ",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-07-09T06:44:43",
-      "image": null
     }
   ]
 }
