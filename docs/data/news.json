@@ -1,96 +1,60 @@
 {
-  "generated_at": "2026-07-14T01:22:00.190793",
-  "poem": "おはようございます！ 🌞\n今日もゲーム業界は活発です！『ドラゴンズドグマ2：ダークアリズン』や『キングダムハーツ』25周年パネルのニュースが注目されています 💻\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-07-15T01:18:51.587776",
+  "poem": "おはようございます！ 🌞\n今日もゲーム業界は活発に動いています。PlayStationの新しい格闘ゲーム用コントローラー「FlexStrike ワイヤレスファイトスティック」が発売延期されたり、新しいゲーム『Capy Castaway』が発表されたりと、面白いニュースがいっぱいです 💻\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "『ドラゴンズドグマ2：ダークアリズン』では、待ってくれたファンの「頼むぞカプコン」に応えたい──木下D・大山Pインタビュー。開発時には”数万件”の意見を読み込み仕様を検討。『ドグマ』らしい世界観も大事にしつつ、より遊びやすく調整。既存ファンの楽しみは奪わずに新規でも楽しめるものを目指す",
-      "url": "https://news.denfaminicogamer.jp/interview/260714q",
+      "title": "PlayStation初の格闘ゲーム用コントローラー「FlexStrike ワイヤレスファイトスティック」発売延期が発表。「PlayStation.Blog」で「製品の最終調整にもう少し時間をいただくこととしました」と説明",
+      "url": "https://news.denfaminicogamer.jp/news/260715d",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-07-13T15:00:26",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/sub4-51.jpg"
+      "published": "2026-07-14T22:58:46",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/b9939045eb3a62128a27c90145703c278ba071f2.webp"
     },
     {
-      "title": "『キングダムハーツ』25周年パネルが8月のディズニー超大型イベント「D23」で実施決定。シリーズの歴史を深く掘り下げる内容に、『KH4』続報も登場か注目集まる",
-      "url": "https://news.denfaminicogamer.jp/news/260714b",
+      "title": "夏目漱石のアンドロイドと言葉を交わせる「いのちの未来＋」が7月25日より東京で開催。大阪・関西万博のシグネチャーパビリオンをアップデート",
+      "url": "https://news.denfaminicogamer.jp/news/2607143h",
       "source": "電ファミニコゲーマー",
-      "category": "release",
+      "category": "other",
       "importance": "high",
-      "published": "2026-07-13T22:59:41",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/ss_80b9e7499d7d5f5242ccecd9171b4519f46c82bb.1920x1080.jpg"
+      "published": "2026-07-14T12:30:39",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/sub5-54.jpg"
     },
     {
-      "title": "『ゴールデンアイ 007』など“64”時代の名作FPSを彷彿とさせるレトロスパイFPS『Agent 64: Spies Never Die』が8月12日に発売へ。ローカルでの画面分割やオンライン通信によるマルチプレイに対応",
-      "url": "https://news.denfaminicogamer.jp/news/260714i",
+      "title": "西川貴教さんの「HOT LIMIT」が「THE FIRST TAKE」で史上最速の1000万再生を突破！梅雨を吹き飛ばす夏の代表曲が記録を樹立",
+      "url": "https://news.denfaminicogamer.jp/news/260715f",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "normal",
-      "published": "2026-07-14T01:10:08",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/ss_f0b7f07a871ecc449e5b7a4434b417d7032d5382.1920x1080.jpg"
+      "published": "2026-07-15T01:08:05",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/maxresdefault-14.jpg"
     },
     {
-      "title": "吉田修平氏がイベント施設「404 Not Found」の「Super CLAN」に就任。オリジナルポッドキャスト「よしPラジオ」の配信などを通じ、施設の象徴的な存在として活動",
-      "url": "https://news.denfaminicogamer.jp/news/260714z",
-      "source": "電ファミニコゲーマー",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-07-14T01:00:15",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/b2f6ad7bfa0e0f8bec5be29c70f3ab10.png"
-    },
-    {
-      "title": "うるし原智志氏による約10年ぶりの画集『うるし原智志 画集 -GLOSS & SHADOW-』が9月28日に発売。『ラングリッサー』などのイラスト130点以上にくわえ描き下ろしの新規ビジュアルも掲載",
-      "url": "https://news.denfaminicogamer.jp/news/260714f",
+      "title": "カピバラの赤ちゃんと小さなカラスが一緒に冒険するゲーム『Capy Castaway』が8月7日に発売。洪水によって“謎の島”に流されたカピバラが、賢いカラスとともに故郷への帰り方を探すほっこりストーリー",
+      "url": "https://news.denfaminicogamer.jp/news/260715h",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "normal",
-      "published": "2026-07-14T00:50:17",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/main-80.jpg"
+      "published": "2026-07-15T01:06:29",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/ss_5512abcbd580240fff1cfad4630ba06e07101b6e.1920x1080.jpg"
     },
     {
-      "title": "渋谷のクリエイター交流拠点「404 Not Found」，インディーゲーム領域への取り組み強化施策を多数発表。吉田修平氏が参加し，発信活動を実施",
-      "url": "https://www.4gamer.net/games/991/G999111/20260709055/",
-      "source": "4Gamer.net",
-      "category": "industry",
+      "title": "『餓狼伝説CotW』過去作キャラ「ダック・キング」「キム・カッファン」参戦か。次シーズンを示唆する新映像が公開",
+      "url": "https://news.denfaminicogamer.jp/news/260715b",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-07-14T22:56:52",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/videoframe_63202.png"
+    },
+    {
+      "title": "『スマスロ ミリオンゴッド』のユニバーサルエンターテインメント社が、遊技機の現場の標準PCにマウスコンピューター「DAIV」を選ぶ理由 - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/2606-mouse-universal.html",
+      "source": "CGWORLD",
+      "category": "business",
       "importance": "high",
-      "published": "2026-07-14T01:00:00",
-      "image": "https://www.4gamer.net/games/991/G999111/20260709055/SS/019.jpg"
-    },
-    {
-      "title": "［インタビュー］「ドラゴンズドグマ 2：ダークアリズン」，ユーザーの声から生まれた“より遊びやすく，まだ見ぬ冒険”への挑戦",
-      "url": "https://www.4gamer.net/games/015/G101558/20260714003/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-13T22:00:00",
-      "image": "https://www.4gamer.net/games/015/G101558/20260714003/SS/004.jpg"
-    },
-    {
-      "title": "「週刊プロゲーマーファイル」File.341：Taiyaki選手【リーグ・オブ・レジェンド】",
-      "url": "https://www.4gamer.net/games/073/G007372/20260710030/",
-      "source": "4Gamer.net",
-      "category": "esports",
-      "importance": "normal",
-      "published": "2026-07-14T01:00:00",
-      "image": "https://www.4gamer.net/games/073/G007372/20260710030/SS/002.jpg"
-    },
-    {
-      "title": "［プレイレポ］まもなく早期アクセス開始の「Hell Maiden」は，美少女ダンテが地獄を駆けめぐるヴァンサバ系デッキ構築ローグライトだった［BW2026］",
-      "url": "https://www.4gamer.net/games/020/G102061/20260714001/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-13T23:00:00",
-      "image": "https://www.4gamer.net/games/020/G102061/20260714001/SS/021.webp"
-    },
-    {
-      "title": "「ゼンレスゾーンゼロ」のVer.3.1「ロング・グッドバイ」予告番組は7月17日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
-      "url": "https://www.4gamer.net/games/421/G042182/20260713037/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-13T23:00:00",
-      "image": "https://www.4gamer.net/games/421/G042182/20260713037/SS/004.jpg"
+      "published": "2026-07-14T03:05:00",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/06/a6a647d587f1121d063f03c3467d595c9e3f51a0-thumb-1920x1058-85885.png"
     },
     {
       "title": "NVIDIA、リライト可能な3DGSパイプライン技術「TRON」発表　インタラクティブなフレームレートで形状、マテリアル、ライティング制御を可能に - ニュース",
@@ -111,130 +75,166 @@
       "image": "https://cgworld.jp/article/assets_c/2026/07/1e9778ebc5013d2f0d5df4ce5b20c7b37cecd5f6-thumb-1000x563-86182.jpg"
     },
     {
-      "title": "【無料】アニメ×ゲームの垣根を越える2日間のハッカソン！ 「アニメ×ゲームジャムUE2 in 京都」参加者募集！ - ニュース",
-      "url": "https://cgworld.jp/flashnews/2-ue2-inkyoto.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-07-13T03:03:29",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/UE2_KV_v3-thumb-1200x750-86512.jpg"
-    },
-    {
-      "title": "にゃんねこ氏、Substance 3D Painter用ジェネレータ「Nyanneco Position Mask」リリース　Positionマップから帯状シェイプを作成、髪の毛のテクスチャリングなどに利用可能 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202607-NyannecoPosMask.html",
+      "title": "【After Effects 2026】アドバンス3Dレンダラ対応の「被写界深度エフェクト」 - 連載",
+      "url": "https://cgworld.jp/regular/202607-tipsnote.html",
       "source": "CGWORLD",
       "category": "tech",
       "importance": "normal",
-      "published": "2026-07-12T23:39:18",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/NyannecoPositionMask-01-thumb-1920x1080-86496.jpg"
+      "published": "2026-07-15T01:00:53",
+      "image": "https://cgworld.jp/regular/assets_c/2026/07/Tipsnote-photo-2026201-thumb-800x445-86562.png"
     },
     {
-      "title": "“ゲームの将来の収益を推定できる”らしい、謎の推定モデル発表。できたらすごい",
-      "url": "https://automaton-media.com/articles/newsjp/20260713-454699/",
+      "title": "Arnold公式、Mayaでの3DGSを用いたマスクのワークフロー解説動画を公開　プリミティブを用いて非破壊でスプラットをクロッピング - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202607-Arnold-3DGS.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-14T23:24:44",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/Arnold_3DGS-01-thumb-1920x1080-86578.jpg"
+    },
+    {
+      "title": "基本プレイ無料『サカつく2026』代表チームで競う最新イベント「インターナショナルカップ」発表、7月16日の大型アプデで開幕へ。日本代表2026ユニフォームも獲得できる",
+      "url": "https://automaton-media.com/articles/newsjp/20260715-454974/",
       "source": "Automaton",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-07-15T00:09:34",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260715-454974-header.jpg"
+    },
+    {
+      "title": "大ヒット3Dアニメ会社が本気で作る初ゲーム『BRINGER』は清々しいほど“映像特化”。AAA級に輝く剥き出しの原石を、ひと足早くプレイした",
+      "url": "https://automaton-media.com/articles/reportjp/20260714-454950/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-14T10:35:59",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260714-454950-header.jpg"
+    },
+    {
+      "title": "潜水艦で情報検閲シム『False Echo』正式発表。「スパイが一人潜む」密室、“正解しちゃダメ”なときもある理不尽『Papers, Please』風スリラー",
+      "url": "https://automaton-media.com/articles/newsjp/20260714-454797/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-14T01:57:16",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260714-454797-header.jpg"
+    },
+    {
+      "title": "戦国自由RPG『Expeditions: Samurai』8月7日早期アクセス配信へ。高評価シリーズ最新作の舞台は「日本の戦国末期」、流れ者の西洋人として動乱を生き抜く",
+      "url": "https://automaton-media.com/articles/newsjp/20260715-454989/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-15T00:58:23",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260715-454989-header.jpg"
+    },
+    {
+      "title": "ほんわか不穏管理社会ゲーム『D-topia』配信開始。“理想の社会”の故障を直す日々、決断が住民にもたらすのは喜びか絶望か",
+      "url": "https://automaton-media.com/articles/newsjp/20260714-454963/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-14T13:00:06",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260714-454963-header.jpeg"
+    },
+    {
+      "title": "あれ，機長が機外に放り出されている。世界最悪の航空会社で乗客や貨物を届ける協力型シム「Dear Passengers」発表",
+      "url": "https://www.4gamer.net/games/024/G102496/20260714042/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-07-14T10:38:17",
+      "image": "https://www.4gamer.net/games/024/G102496/20260714042/SS/002.jpg"
+    },
+    {
+      "title": "フェスで気になったはず？　「スプラトゥーン レイダース」のスピード，パワー，テクニカル各タイプのガジェットをさっそく確かめてみた",
+      "url": "https://www.4gamer.net/games/919/G091973/20260710016/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-07-14T23:00:00",
+      "image": "https://www.4gamer.net/games/919/G091973/20260710016/TN/011.jpg"
+    },
+    {
+      "title": "「カルドセプト ビギンズ」開発陣に“俺が考える初心者向けブック”をプレゼンし合ってもらい，AI対戦で争ってもらった",
+      "url": "https://www.4gamer.net/games/981/G098181/20260708021/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-07-14T23:00:00",
+      "image": "https://www.4gamer.net/games/981/G098181/20260708021/SS/002.jpg"
+    },
+    {
+      "title": "PCIe 4.0 x4対応の内蔵型SSD「Samsung 990 SSD」が7月下旬発売。容量1TBで4万980円前後",
+      "url": "https://www.4gamer.net/games/417/G041740/20260714035/",
+      "source": "4Gamer.net",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-14T15:00:00",
+      "image": "https://www.4gamer.net/games/417/G041740/20260714035/SS/002.jpg"
+    },
+    {
+      "title": "仕事内容は“倒れたペンギンを起こす”こと。極寒の島で奇妙な仕事に就くシミュレーションゲーム「Penguin Lifter」が配信開始",
+      "url": "https://www.4gamer.net/games/019/G101955/20260714050/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-14T11:59:28",
+      "image": "https://www.4gamer.net/games/019/G101955/20260714050/SS/004.jpg"
+    },
+    {
+      "title": "『CoD: BO』移植版で早くもチーター出現が報告。レベル最大にするため自爆するプレイヤー…「問題を調査するため一部プレイリストを制限」",
+      "url": "https://www.gamebusiness.jp/article/2026/07/14/27460.html",
+      "source": "GameBusiness.jp",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-07-14T11:45:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189203.jpg"
+    },
+    {
+      "title": "フォートナイトで学ぶデータサイエンス…武蔵野大が公開",
+      "url": "https://www.gamebusiness.jp/article/2026/07/14/27459.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-07-14T11:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189213.jpg"
+    },
+    {
+      "title": "元SIEの吉田修平氏が渋谷404 Not Foundのスーパークランに就任。ポッドキャスト「よしPラジオ」制作や公開収録を予定",
+      "url": "https://www.gamebusiness.jp/article/2026/07/14/27458.html",
+      "source": "GameBusiness.jp",
       "category": "business",
-      "importance": "high",
-      "published": "2026-07-13T08:24:25",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260713-454699-header.jpg"
-    },
-    {
-      "title": "90年代“やのまん”タイトル復刻『SUPERやのまんCOLLECTION』発表、12月10日発売へ。『トリネア』『フェーダ』など3作品収録、プレミア作『ペンタドラゴン』も特典に",
-      "url": "https://automaton-media.com/articles/newsjp/20260713-454676/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-13T04:26:53",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260713-454676-header.jpg"
-    },
-    {
-      "title": "『ドラゴンズドグマ 2：ダークアリズン』は本編発売後の“反省と熱”から生まれた。「これで終わるなよ」の期待に向き合った2年弱、その本気度を訊く",
-      "url": "https://automaton-media.com/articles/interviewsjp/20260713-454757/",
-      "source": "Automaton",
-      "category": "release",
       "importance": "normal",
-      "published": "2026-07-13T15:00:01",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260713-454757-header.jpg"
+      "published": "2026-07-14T11:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189216.png"
     },
     {
-      "title": "少女ふたりのアクションRPG『ルナリウム星の旅』7月29日配信へ。ファンタジー世界を“ぬるぬる”駆ける、剣と魔法の箱庭ソウルライク",
-      "url": "https://automaton-media.com/articles/newsjp/20260713-454775/",
-      "source": "Automaton",
-      "category": "release",
+      "title": "連載「やってみようVibe Coding 」第2回：ヴァイブ・コーディングでできるのはプログラミングだけじゃない（小泉勝志郎）",
+      "url": "https://www.gamebusiness.jp/article/2026/07/14/27457.html",
+      "source": "GameBusiness.jp",
+      "category": "tech",
       "importance": "normal",
-      "published": "2026-07-13T13:04:10",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260713-454775-header.jpg"
+      "published": "2026-07-14T11:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189233.png"
     },
     {
-      "title": "ロシアのホラーゲーム開発者、“政府の表現規制が厳しすぎる”と悲鳴。そもそも「ホラー」がだめっぽい",
-      "url": "https://automaton-media.com/articles/newsjp/20260713-454758/",
-      "source": "Automaton",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-07-13T11:34:58",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260713-454758-header.jpg"
-    },
-    {
-      "title": "eスポーツワールドカップ『Apex Legends』で「UNLIMIT」日本人チーム初の世界優勝！「本当に夢みたい」…ZETA DIVISIONとの一騎打ちを制す",
-      "url": "https://www.gamebusiness.jp/article/2026/07/13/27445.html",
+      "title": "立川市×明星大、eスポーツで不登校中学生の居場所づくり…事前登録受付中",
+      "url": "https://www.gamebusiness.jp/article/2026/07/14/27456.html",
       "source": "GameBusiness.jp",
       "category": "esports",
+      "importance": "normal",
+      "published": "2026-07-14T04:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189059.jpg"
+    },
+    {
+      "title": "【オピニオン】Xboxの「リセット」の先にあるもの――大規模フランチャイズ優先へと舵を切る未来の青写真",
+      "url": "https://jp.ign.com/halo-infinite/83777/xboxs-reset-what-its-franchise-first-future-could-look-like-ign-opinion",
+      "source": "IGN Japan",
+      "category": "other",
       "importance": "high",
-      "published": "2026-07-13T11:15:02",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189147.jpg"
-    },
-    {
-      "title": "「GAME FUTURE SUMMIT 2027」は5月末～6月頭に開催決定。2026年は2,000名超が参加、アーカイブ動画も無料公開中",
-      "url": "https://www.gamebusiness.jp/article/2026/07/13/27448.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-07-13T14:24:16",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189033.jpg"
-    },
-    {
-      "title": "アップルがOpenAIを提訴、元従業員による機密情報窃取の疑い",
-      "url": "https://www.gamebusiness.jp/article/2026/07/13/27447.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-07-13T11:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189117.jpg"
-    },
-    {
-      "title": "まだまだ続くFable 5祭り、20日までサブスク提供延長―Claude Codeのレート50%増量も継続、GPT-5.6追う1週間",
-      "url": "https://www.gamebusiness.jp/article/2026/07/13/27446.html",
-      "source": "GameBusiness.jp",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-13T11:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189127.jpg"
-    },
-    {
-      "title": "ゲームの海外展開と、現場を変えるAI活用――KLab・ネクストニンジャが語るグローバル運営の実践知",
-      "url": "https://www.gamebusiness.jp/article/2026/07/13/27443.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-07-13T08:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/188834.png"
-    },
-    {
-      "title": "UE5.7でMoverとMotion Warpingを併用する手法、アドグローブがブログで解説。C++/ブループリント双方での実装例を紹介",
-      "url": "https://gamemakers.jp/article/2026_07_13_141205/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-13T12:45:06",
-      "image": null
-    },
-    {
-      "title": "オープンソースの3Dスキャンデータ編集ツール「SuperSplat」、ver2.29が公開。AIエージェントでの3Dシーン編集に最適化、360度動画の出力もサポート",
-      "url": "https://gamemakers.jp/article/2026_07_13_141168/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-13T10:04:26",
-      "image": null
+      "published": "2026-07-14T04:22:05",
+      "image": "https://sm.ign.com/ign_jp/feature/x/xboxs-rese/xboxs-reset-what-its-franchise-first-future-could-look-like_hpbg.jpg"
     },
     {
       "title": "【コラム】『グランド・セフト・オートIII』が「GTA」を、そしてゲーム史を変えた45秒",
@@ -246,31 +246,67 @@
       "image": "https://sm.ign.com/ign_jp/news/g/grand-thef/grand-theft-auto-the-trilogy-the-definitive-edition-rated-by_35jn.jpg"
     },
     {
-      "title": "『Blood of Dawnwalker』スキルツリーメニュー画面スクリーンショット",
-      "url": "https://jp.ign.com/rebel-wolves-project/83754/blood-of-dawnwalker",
+      "title": "数万件の要望すべてに目を通して生まれたDLC『ドラゴンズドグマ 2：ダークアリズン』開発者インタビュー",
+      "url": "https://jp.ign.com/dragons-dogma-ii/83751/dlc-2",
       "source": "IGN Japan",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-13T04:54:55",
-      "image": "https://sm.ign.com/ign_jp/gallery/t/the-blood-/the-blood-of-dawnwalker-skill-tree-menu-screenshots_emcg.jpg"
+      "category": "update",
+      "importance": "high",
+      "published": "2026-07-14T01:21:44",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/main_emwu.jpg"
     },
     {
-      "title": "『Soulframe』、待望の騎乗動物の情報が公開 『もののけ姫』を思い出すような狼に似た大型の獣が今秋に実装へ",
-      "url": "https://jp.ign.com/soulframe/83764/soulframe",
+      "title": "PlayStationの物理メディア終了、ぶっちゃけどう思う？：#497 しゃべりすぎGAMER",
+      "url": "https://jp.ign.com/ps5/83776/playstation497-gamer",
       "source": "IGN Japan",
-      "category": "release",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-07-12T01:33:44",
-      "image": "https://sm.ign.com/ign_jp/photo/default/sf-tc2026-screenshots-beaver-1783789040224_3dym.jpg"
+      "published": "2026-07-14T11:03:37",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/497_2qy7.png"
     },
     {
-      "title": "Soulframe TennoCon 2026 Screenshots",
-      "url": "https://jp.ign.com/soulframe/83765/soulframe-tennocon-2026-screenshots",
+      "title": "Xbox’s ‘Reset’ – What its Franchise-First Future Could Look Like | IGN Opinion",
+      "url": "https://jp.ign.com/xbox-series-x-1/83778/xboxs-reset-what-its-franchise-first-future-could-look-like-ign-opinion",
       "source": "IGN Japan",
-      "category": "release",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-07-12T01:31:53",
-      "image": "https://sm.ign.com/ign_jp/gallery/s/soulframe-/soulframe-tennocon-2026-screenshots_h5yn.jpg"
+      "published": "2026-07-13T14:00:00",
+      "image": "https://sm.ign.com/ign_jp/video/x/xboxs-rese/xboxs-reset-what-its-franchise-first-future-could-look-like_95aj.jpg"
+    },
+    {
+      "title": "『ウマ娘 プリティーダービー』や『Shadowverse: Worlds Beyond』の講演も。Cygames、「CEDEC2025」講演のアーカイブ・スライド資料を公開",
+      "url": "https://gamemakers.jp/article/2026_07_14_141233/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-07-14T10:35:48",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/1b7ee78c0efadc10f80f61972e5f9809.jpg"
+    },
+    {
+      "title": "オープンソースの物理エンジン「Jolt Physics 5.6.0」リリース。毛髪を1本1本シミュレーションできる新たな演算機能が実装",
+      "url": "https://gamemakers.jp/article/2026_07_14_141231/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-14T09:16:39",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/8fc00d526e08c6aa24d1c2676b178144.jpg"
+    },
+    {
+      "title": "UE5.7でMoverとMotion Warpingを併用する手法、アドグローブがブログで解説。C++/ブループリント双方での実装例を紹介",
+      "url": "https://gamemakers.jp/article/2026_07_13_141205/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-13T12:45:06",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/3c0423db01d567aafdd3e7eb645a494b.jpg"
+    },
+    {
+      "title": "オープンソースの3Dスキャンデータ編集ツール「SuperSplat」、ver2.29が公開。AIエージェントでの3Dシーン編集に最適化、360度動画の出力もサポート",
+      "url": "https://gamemakers.jp/article/2026_07_13_141168/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-13T10:04:26",
+      "image": null
     }
   ]
 }
