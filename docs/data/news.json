@@ -1,60 +1,249 @@
 {
-  "generated_at": "2026-07-16T01:28:44.289610",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、ポケモン30周年バーガーの発売や、新しいゲームの発表など、楽しい情報がたくさんです 💻\n特に注目されるのは、『ブレイブルー エントロピーエフェクトX』Nintendo Switch 2 Editionの発売決定です！\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-07-17T01:42:52.315475",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、ローグライク×オートバトルゲーム『Guildrun』の発表や、ニンテンドーミュージックへの『ドンキーコング バナンザ』楽曲の大量追加など、興味深い話題が勢揃いです 💻\n特に注目されるのは、セガがNVIDIAを救ったエピソードが明かされたイベントの話です！\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "『ブレイブルー エントロピーエフェクトX』Nintendo Switch 2 Editionが発売決定。発売日には新キャラ「プラチナ」も追加",
-      "url": "https://news.denfaminicogamer.jp/news/2607163h",
+      "title": "『ハースストーン』の元デザイナーが手がけるローグライク×オートバトルゲーム『Guildrun』発表。個性豊かなヒーローでチームを編成し、アイテム・レリックの組み合わせで“ぶっ壊れ”ビルドを作る",
+      "url": "https://news.denfaminicogamer.jp/news/2607163r",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-07-16T00:00:37",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/Screenshots02.png"
+      "published": "2026-07-16T14:37:23",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/8-Aria_02.png"
     },
     {
-      "title": "「マクドナルド」より「ポケモン30周年バーガー」が発売決定。7月22日より販売開始",
-      "url": "https://news.denfaminicogamer.jp/news/260716d",
+      "title": "『ドンキーコング バナンザ』楽曲がニンテンドーミュージックに大量追加。「DK登場」「バナルートタワー」など大量の楽曲が追加され、9曲→合計229曲に。「さえぎるすべてをブチ壊せ！」がテーマの『ドンキーコング』シリーズ最新作",
+      "url": "https://news.denfaminicogamer.jp/news/260717r",
       "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-07-15T22:33:09",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/file-1.png"
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-07-17T01:32:46",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/GwA1h6pbkAM-L4-.webp"
     },
     {
-      "title": "『Buckshot Roulette』開発者による2～4人プレイの“バイオレンス”パーティゲーム『Machine Party』7月30日に発売決定。全15種の「死のミニゲーム」でフレンドと争い、狡猾な手段で出し抜いて生存を目指せ",
-      "url": "https://news.denfaminicogamer.jp/news/260716b",
+      "title": "【最大4人】かわいい“ネズミ”が広大な世界を冒険するゲーム『Hela: of Mice & Magic』が2026年第4四半期に発売。魔法使いの病を治すため、小さな英雄がオープンワールドを駆け回る",
+      "url": "https://news.denfaminicogamer.jp/news/260717h",
       "source": "電ファミニコゲーマー",
       "category": "release",
-      "importance": "high",
-      "published": "2026-07-15T15:01:31",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/Machine-Party-Screenshot-1.jpg"
+      "importance": "normal",
+      "published": "2026-07-17T01:30:29",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/PhotoshopExtension_Image_3-17.png"
     },
     {
-      "title": "書籍「人物を手早く描く基本 男性編」 がKindleにて「2200円→499円」の日替わりセールを開催中。シンプルな線で描いた人物に陰影をつけ、躍動感を出す方法を教えてくれる一冊",
-      "url": "https://news.denfaminicogamer.jp/news/260716j",
+      "title": "ただの「マンゴー」として平凡に生きる”ゲーム『マンゴーシミュレーター』がチルい。時間経過とともマンゴーはゆっくりと熟していく",
+      "url": "https://news.denfaminicogamer.jp/news/260717f",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-17T01:20:10",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/ss_e5e1c64561fe7126bd6dcff4a0f5490dfc0302cd.1920x1080.jpg"
+    },
+    {
+      "title": "【76%オフ】デフォルメキャラ専門のイラスト集『スーパーデフォルメポーズ集 キャラバリエーション編』Kindle版が「2090円→499円」でセール中。トレースフリーで商用・個人問わず使える6種類×100体の特典データも付属",
+      "url": "https://news.denfaminicogamer.jp/news/260717n",
       "source": "電ファミニコゲーマー",
       "category": "sale",
       "importance": "normal",
-      "published": "2026-07-16T01:19:17",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/91u48GVXphL._SL1500_.jpg"
+      "published": "2026-07-17T00:47:41",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/91oavMRUqxL._SL1500_.jpg"
     },
     {
-      "title": "『フィットボクシング3』Switch 2版が7月16日より発売。USBカメラでのフォーム確認や最大4人の「おすそわけ通信対戦」に対応",
-      "url": "https://news.denfaminicogamer.jp/news/260716q",
-      "source": "電ファミニコゲーマー",
+      "title": "最大6人協力・廃墟ライブ配信ホラー『Stream Train』発表。バズるためなら怪異も煽る、命がけの“撮れ高”優先列車旅",
+      "url": "https://automaton-media.com/articles/newsjp/20260717-455447/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-17T01:25:59",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260717-455447-header-1.jpg"
+    },
+    {
+      "title": "『Path of Exile』新大型アプデ「Curse of the Allflame」正式発表、7月25日配信へ。装備ソケットの“色縛り緩和”でどのジェムでも装着可能に、リージョン周りも刷新で遊びやすさ急上昇",
+      "url": "https://automaton-media.com/articles/newsjp/20260717-455419/",
+      "source": "Automaton",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-07-16T21:30:01",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260717-455419-header.jpg"
+    },
+    {
+      "title": "Steamでゲームに“マルウェア入りアプデ”して仮想通貨を盗んでいた犯人、FBIに逮捕される。被害総額は少なくとも3500万円",
+      "url": "https://automaton-media.com/articles/newsjp/20260717-455442/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-07-17T01:10:11",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260717-455442-header.jpg"
+    },
+    {
+      "title": "“極寒世界”機関車ローグライク『フロストレイン2』正式リリース。「列車追放」に怯えつつ生存者を導く、シナジー構築凍土サバイバル",
+      "url": "https://automaton-media.com/articles/newsjp/20260716-455405/",
+      "source": "Automaton",
       "category": "release",
       "importance": "normal",
-      "published": "2026-07-16T01:00:50",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/01-2.png"
+      "published": "2026-07-17T00:30:04",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260716-455405-header.jpg"
     },
     {
-      "title": "『スマスロ ミリオンゴッド』のユニバーサルエンターテインメント社が、遊技機の現場の標準PCにマウスコンピューター「DAIV」を選ぶ理由 - スペシャルコンテンツ",
-      "url": "https://cgworld.jp/special-feature/2606-mouse-universal.html",
-      "source": "CGWORLD",
+      "title": "セガが救ったから今のNVIDIAがある。NVIDIAのCEOとセガのレジェンドたちが“アキバのゲーセン”に集結、ドリームキャスト開発秘話も飛び出したイベントまとめ",
+      "url": "https://automaton-media.com/articles/reportjp/20260716-455396/",
+      "source": "Automaton",
       "category": "business",
+      "importance": "normal",
+      "published": "2026-07-16T12:40:28",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260716-455396-header.jpg"
+    },
+    {
+      "title": "『モンスト』の熱狂を海外、そしてスポーツへ。MIXI CEOが語る「3度のパラダイムシフト」と「ソーシャルの力」【GAME FUTURE SUMMIT 2026】",
+      "url": "https://www.gamebusiness.jp/article/2026/07/17/27479.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-07-17T01:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189255.jpg"
+    },
+    {
+      "title": "「切なさ」はアルゴリズムで書けるか。初期ユーミン様式のバラード生成マシンをClaude Fable 5と作って考えたこと（CloseBox）",
+      "url": "https://www.gamebusiness.jp/article/2026/07/16/27477.html",
+      "source": "GameBusiness.jp",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-16T04:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189268.png"
+    },
+    {
+      "title": "ANYCOLOR、にじさんじ所属VTuberへの権利侵害で示談ー白雪巴に「二次被害を助長する複数の投稿」があったとして開示請求を実施",
+      "url": "https://www.gamebusiness.jp/article/2026/07/16/27476.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-07-16T03:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189278.png"
+    },
+    {
+      "title": "新たな国産SNS「POPOPO」9月17日にサービス終了へ―取締役に西村博之、庵野秀明ら就任でも話題、約6か月で幕",
+      "url": "https://www.gamebusiness.jp/article/2026/07/16/27475.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-07-16T03:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189289.jpg"
+    },
+    {
+      "title": "『Dead Space』生みの親グレン・スコフィールド氏が業界から引退表明―約35年携わり「この業界は本当に素晴らしい」と前向きに終える",
+      "url": "https://www.gamebusiness.jp/article/2026/07/16/27474.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-07-16T03:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189304.png"
+    },
+    {
+      "title": "「Ryzen 7 7700X3D」レビュー。遅れてきたZen 4世代の3D V-Cache搭載CPUは電力あたり性能が優秀ではあるものの価格がネックに",
+      "url": "https://www.4gamer.net/games/612/G061273/20260716036/",
+      "source": "4Gamer.net",
+      "category": "tech",
       "importance": "high",
-      "published": "2026-07-14T03:05:00",
-      "image": "https://cgworld.jp/special-feature/assets_c/2026/06/a6a647d587f1121d063f03c3467d595c9e3f51a0-thumb-1920x1058-85885.png"
+      "published": "2026-07-16T13:00:00",
+      "image": "https://www.4gamer.net/games/612/G061273/20260716036/SS/002.jpg"
+    },
+    {
+      "title": "「灼眼のシャナ ブレイズエッジ」，シャナからメッセージが届くキャンペーン実施を発表",
+      "url": "https://www.4gamer.net/games/996/G099697/20260716043/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-07-16T11:06:47",
+      "image": "https://www.4gamer.net/games/996/G099697/20260716043/SS/001.jpg"
+    },
+    {
+      "title": "「ポケモン ダイアモンド・パール」の「ちかつうろ」に着想を得た，洞窟採掘アクションADV「Glintseeker Island」，デモ版の配信を開始",
+      "url": "https://www.4gamer.net/games/025/G102563/20260716030/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-16T23:00:00",
+      "image": "https://www.4gamer.net/games/025/G102563/20260716030/SS/001.jpg"
+    },
+    {
+      "title": "「プロスピ2026」は，歴代日本代表で挑めるWBCモード搭載！　“最強の侍”はどのチームなのか，時代を超えた夢の対戦を目撃した",
+      "url": "https://www.4gamer.net/games/999/G099971/20260710014/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-16T22:00:00",
+      "image": "https://www.4gamer.net/games/999/G099971/20260710014/TN/018.jpg"
+    },
+    {
+      "title": "ブレイド登場！ トレモ可能！ オフライン対戦もOK！「マーベル闘魂」，至れり尽くせりなオープンβテストを紹介する最新トレイラーを公開",
+      "url": "https://www.4gamer.net/games/916/G091625/20260717001/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-16T18:24:21",
+      "image": "https://www.4gamer.net/games/916/G091625/20260717001/SS/002.jpg"
+    },
+    {
+      "title": "Houdini最新版「Houdini 22」リリース。KineFX・APEXの機能拡充、Gaussian Splatsの正式サポートなど",
+      "url": "https://gamemakers.jp/article/2026_07_16_141360/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-16T11:10:50",
+      "image": null
+    },
+    {
+      "title": "「Blender 5.2 LTS」正式リリース。髪の物理シミュレーションが可能な「XPBD Solver」ノードが追加、レンダリング効率改善も",
+      "url": "https://gamemakers.jp/article/2026_07_16_141380/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-16T08:38:31",
+      "image": null
+    },
+    {
+      "title": "『ブルアカ』総力戦の設計思想や、UEのRHI刷新なども解説。韓国のゲーム業界カンファレンス「NEXON Developers Conference 26」講演動画が公開",
+      "url": "https://gamemakers.jp/article/2026_07_16_141362/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-16T08:08:58",
+      "image": null
+    },
+    {
+      "title": "【今週末開催】UE5のゲーム制作コンテスト「第26回UE5ぷちコン」に向けたゲームジャムが開催！参加者を募集中",
+      "url": "https://gamemakers.jp/article/2026_07_16_141330/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-07-16T00:58:56",
+      "image": null
+    },
+    {
+      "title": "「Google Play」の手数料引き下げ、日本の導入が9/30に前倒し。請求手数料は米国などと同じく5%",
+      "url": "https://gamemakers.jp/article/2026_07_15_141325/",
+      "source": "ゲームメーカーズ",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-07-15T08:36:20",
+      "image": null
+    },
+    {
+      "title": "『モンスターハンターワイルズ』における「SGX」の活用事例をSpeech Graphicsが公開―多言語対応フェイシャルアニメーション制作を支援 - ニュース",
+      "url": "https://cgworld.jp/flashnews/03-2607-sgx.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-16T07:22:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/03-2607-sgx_main-thumb-1000x563-86614.png"
+    },
+    {
+      "title": "【九州初上陸】電動ワークチェア「LiberNovo Omni」シリーズが、六本松 蔦屋書店にて展示開始 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202607-libernovo.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-07-16T02:30:20",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/cf81d37138d9ceddb8a93230d2c341b66767a51b-thumb-736x552-86639.png"
     },
     {
       "title": "第1回：現場でのモーションキャプチャ収録判断 - 連載",
@@ -75,166 +264,22 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/07/Pixar_Hoppers-01-thumb-1920x1080-86615.jpg"
     },
     {
-      "title": "【After Effects 2026】アドバンス3Dレンダラ対応の「被写界深度エフェクト」 - 連載",
-      "url": "https://cgworld.jp/regular/202607-tipsnote.html",
-      "source": "CGWORLD",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-07-15T01:00:53",
-      "image": "https://cgworld.jp/regular/assets_c/2026/07/Tipsnote-photo-2026201-thumb-800x445-86562.png"
-    },
-    {
-      "title": "Arnold公式、Mayaでの3DGSを用いたマスクのワークフロー解説動画を公開　プリミティブを用いて非破壊でスプラットをクロッピング - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202607-Arnold-3DGS.html",
-      "source": "CGWORLD",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-07-14T23:24:44",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/Arnold_3DGS-01-thumb-1920x1080-86578.jpg"
-    },
-    {
-      "title": "最大4人マルチ対応鬼ごっこ『Catch Me!』、Steamにて期間限定で無料配布中。定価1200円のゲーム",
-      "url": "https://automaton-media.com/articles/newsjp/catch-me-20260716-455181/",
-      "source": "Automaton",
-      "category": "sale",
-      "importance": "high",
-      "published": "2026-07-16T00:23:41",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/catch-me-20260716-455181-header.jpg"
-    },
-    {
-      "title": "ローポリ裏社会暮らし探索アクション『Muhit』発表。90年代のイスタンブールにて犯罪・汚職で成り上がり、なりふり構わず家族を探す",
-      "url": "https://automaton-media.com/articles/newsjp/muhit-20260716-455165/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-15T23:05:25",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/muhit-20260716-455165-header.jpg"
-    },
-    {
-      "title": "“煽り合い”対戦ゲーム『カスみんど』正式発表。勝者は「とにかく煽った方」、罵倒・屈伸やりたい放題の治安最悪バトル",
-      "url": "https://automaton-media.com/articles/newsjp/20260715-455092/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-15T09:13:50",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260715-455092-header.jpg"
-    },
-    {
-      "title": "基本プレイ無料「街」オープンワールド『NTE』、約2か月で売上高「330億円」突破していた。Steam版が出る前から熱いグローバル人気",
-      "url": "https://automaton-media.com/articles/newsjp/nte-20260715-455057/",
-      "source": "Automaton",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-07-15T07:00:04",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/nte-20260715-455057-header.jpg"
-    },
-    {
-      "title": "期待の45人塔昇りバトロワ『アーケロン』Steamにてクローズドベータテスト開幕。塔の頂上を目指す3人1組バトル、アマギフ券抽選プレゼント企画も実施",
-      "url": "https://automaton-media.com/articles/newsjp/arkheron-20260716-455187/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-16T01:00:04",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/arkheron-20260716-455187-header.jpeg"
-    },
-    {
-      "title": "【今週末開催】UE5のゲーム制作コンテスト「第26回UE5ぷちコン」に向けたゲームジャムが開催！参加者を募集中",
-      "url": "https://gamemakers.jp/article/2026_07_16_141330/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-07-16T00:58:56",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/5d84e683e6a52d5bea256ae526984fa0.jpg"
-    },
-    {
-      "title": "「Google Play」の手数料引き下げ、日本の導入が9/30に前倒し。請求手数料は米国などと同じく5%",
-      "url": "https://gamemakers.jp/article/2026_07_15_141325/",
-      "source": "ゲームメーカーズ",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-07-15T08:36:20",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/b8eb4b70ddd17bc9a1516e41f9bbde71.jpg"
-    },
-    {
-      "title": "Epic Gamesのマーケットプレイス「Fab」、7/28（火）までの期間限定で無料コンテンツを公開。スタイライズな村を作れる環境アセットなど3製品",
-      "url": "https://gamemakers.jp/article/2026_07_15_141289/",
-      "source": "ゲームメーカーズ",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-07-15T07:38:12",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/5196c23e270b403d8b87aca49c906508.jpg"
-    },
-    {
-      "title": "ニンテンドーシステムズ、社内CI/CD基盤の構築・運用体制を紹介。GitHub ActionsのSelf-hosted Runner導入事例を解説した「SRE NEXT 2026」講演資料が公開",
-      "url": "https://gamemakers.jp/article/2026_07_15_141297/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-15T06:44:02",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/a52f474aa4e7dc14a106e77da0c0867e.jpg"
-    },
-    {
-      "title": "『ウマ娘 プリティーダービー』や『Shadowverse: Worlds Beyond』の講演も。Cygames、「CEDEC2025」講演のアーカイブ・スライド資料を公開",
-      "url": "https://gamemakers.jp/article/2026_07_14_141233/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-14T10:35:48",
-      "image": null
-    },
-    {
-      "title": "昼はラーメンや石けん，夜はエロ本や自作ナイフを販売。囚人と看守の板挟みになりながら刑務所の売店を切り盛りする「Joint Venture: 刑務所売店シミュレーター」発表",
-      "url": "https://www.4gamer.net/games/025/G102531/20260715044/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-15T11:46:57",
-      "image": "https://www.4gamer.net/games/025/G102531/20260715044/SS/010.jpg"
-    },
-    {
-      "title": "「BLAZBLUE ENTROPY EFFECT X」，Switch2版を8月13日に発売。グラフィックスの解像度やフレームレートを向上し，ロード時間を短縮",
-      "url": "https://www.4gamer.net/games/024/G102495/20260714038/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-16T00:00:00",
-      "image": "https://www.4gamer.net/games/024/G102495/20260714038/SS/002.jpg"
-    },
-    {
-      "title": "スマホゲームのセルラン分析（2026年7月2日〜7月8日）。今週の1位は「eFootball」。4月〜6月のグローバル収益ランキングも紹介",
-      "url": "https://www.4gamer.net/games/536/G053628/20260715009/",
-      "source": "4Gamer.net",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-07-16T00:00:00",
-      "image": "https://www.4gamer.net/games/536/G053628/20260715009/SS/002.jpg"
-    },
-    {
-      "title": "「ポケモン30周年バーガー」，マクドナルドで7月22日より期間限定で販売。CMにはSHAKAさん，吉沢 亮さんが出演",
-      "url": "https://www.4gamer.net/games/991/G999105/20260715036/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-07-15T23:00:00",
-      "image": "https://www.4gamer.net/games/991/G999105/20260715036/SS/014.jpg"
-    },
-    {
-      "title": "「マーベル闘魂」，4種の射撃を使いこなす「スター・ロード」のガイド動画を公開。自由度の高い空中機動と，技同士の独特な連携が見所",
-      "url": "https://www.4gamer.net/games/916/G091625/20260716003/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-15T18:31:58",
-      "image": "https://www.4gamer.net/games/916/G091625/20260716003/SS/002.jpg"
-    },
-    {
-      "title": "【オピニオン】Xboxの「リセット」の先にあるもの――大規模フランチャイズ優先へと舵を切る未来の青写真",
-      "url": "https://jp.ign.com/halo-infinite/83777/xboxs-reset-what-its-franchise-first-future-could-look-like-ign-opinion",
+      "title": "『Denshattack!』スクリーンショット",
+      "url": "https://jp.ign.com/denshattack/83798/denshattack",
       "source": "IGN Japan",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-07-14T04:22:05",
-      "image": "https://sm.ign.com/ign_jp/feature/x/xboxs-rese/xboxs-reset-what-its-franchise-first-future-could-look-like_hpbg.jpg"
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-07-16T06:40:36",
+      "image": "https://sm.ign.com/ign_jp/gallery/d/denshattac/denshattack-first-screenshots_4f21.jpg"
+    },
+    {
+      "title": "Denshattack! Video Review",
+      "url": "https://jp.ign.com/denshattack/83799/denshattack-video-review",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-07-15T15:00:00",
+      "image": "https://sm.ign.com/ign_jp/video/d/denshattac/denshattack-video-review_nx4a.jpg"
     },
     {
       "title": "世界一の企業は、セガがいなければ倒産していた？ NVIDIAのジェンスン・フアンCEOが語った恩義",
@@ -258,64 +303,10 @@
       "title": "CORSAIRの14.5インチLCDタッチスクリーン「XENEON EDGE」がAmazonにて21％オフでセール中",
       "url": "https://jp.ign.com/gaming-device/83785/corsair145lcdxeneon-edgeamazon21",
       "source": "IGN Japan",
-      "category": "other",
+      "category": "tech",
       "importance": "normal",
       "published": "2026-07-15T09:04:19",
       "image": "https://sm.ign.com/ign_jp/screenshot/default/1_qb3p.jpg"
-    },
-    {
-      "title": "【噂】Nintendo Switch 2の有機ELモデルが登場する可能性？ ただし任天堂は価格上昇を懸念していると報じられる",
-      "url": "https://jp.ign.com/nintendo-switch-2/83784/nintendo-switch-2el",
-      "source": "IGN Japan",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-07-14T15:04:35",
-      "image": "https://sm.ign.com/ign_jp/news/n/nintendo-r/nintendo-reportedly-considering-switch-2-oled-model-though-r_1v6d.jpg"
-    },
-    {
-      "title": "ユービーアイソフト・バルセロナ、51人レイオフ案に反対し3日間のストライキ実施―ユービーアイソフトは「あくまで提案段階」と回答",
-      "url": "https://www.gamebusiness.jp/article/2026/07/15/27467.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-07-15T11:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189379.jpg"
-    },
-    {
-      "title": "性能的に“ベストな体験を提供できない”ため『ダイイングライト：ザ・ビースト』PS4/Xbox One版リリース中止",
-      "url": "https://www.gamebusiness.jp/article/2026/07/15/27466.html",
-      "source": "GameBusiness.jp",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-07-15T11:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189392.jpg"
-    },
-    {
-      "title": "PS向けディスク生産終了めぐり、ソニーがメキシコで独占禁止法違反の訴えに直面。「ゲームを本当の意味で所有できなくなる」",
-      "url": "https://www.gamebusiness.jp/article/2026/07/15/27465.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-07-15T11:15:02",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189400.jpg"
-    },
-    {
-      "title": "ユービーアイソフト、ゲームの失敗要因として「リリースの遅れ」を追加。30歳未満の従業員割合の減少なども報告する年間報告書公開",
-      "url": "https://www.gamebusiness.jp/article/2026/07/15/27464.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-07-15T11:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189408.jpg"
-    },
-    {
-      "title": "ChatGPTのAIクローラーは比較サイトの口コミを人間の約17倍読んでいる",
-      "url": "https://www.gamebusiness.jp/article/2026/07/15/27462.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-07-15T02:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189189.jpg"
     }
   ]
 }
