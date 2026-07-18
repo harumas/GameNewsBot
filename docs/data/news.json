@@ -1,186 +1,222 @@
 {
-  "generated_at": "2026-07-17T01:42:52.315475",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、ローグライク×オートバトルゲーム『Guildrun』の発表や、ニンテンドーミュージックへの『ドンキーコング バナンザ』楽曲の大量追加など、興味深い話題が勢揃いです 💻\n特に注目されるのは、セガがNVIDIAを救ったエピソードが明かされたイベントの話です！\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-07-18T01:23:02.131580",
+  "poem": "おはようございます！ 🌞\n今日もゲーム業界は活況で、ベセスダの『Fallout 3』と『Fallout: New Vegas』のリマスター版が開発中と明かされたり、新作の発表が相次いでいます。\n注目はベセスダの新プロジェクト ☕️\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "『ハースストーン』の元デザイナーが手がけるローグライク×オートバトルゲーム『Guildrun』発表。個性豊かなヒーローでチームを編成し、アイテム・レリックの組み合わせで“ぶっ壊れ”ビルドを作る",
-      "url": "https://news.denfaminicogamer.jp/news/2607163r",
+      "title": "過酷異世界人生RPG『The Life and Suffering of Sir Brante』Steamにて期間限定で無料配布中。定価2050円の人気作",
+      "url": "https://automaton-media.com/articles/newsjp/20260718-455647/",
+      "source": "Automaton",
+      "category": "sale",
+      "importance": "high",
+      "published": "2026-07-18T01:20:54",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260718-455647-header.jpg"
+    },
+    {
+      "title": "ベセスダ、『Fallout 3』と『Fallout: New Vegas』リマスター版が開発中と明かす。Obsidianとの共同で“新『Fallout』プロジェクト”も進行中",
+      "url": "https://automaton-media.com/articles/newsjp/20260718-455641/",
+      "source": "Automaton",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-07-18T00:52:02",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260718-455641-header.jpg"
+    },
+    {
+      "title": "『ゼンレスゾーンゼロ』新バージョンは7月29日リリースへ。満を持して登場の新プレイアブルキャラ「レミエール」は、“編成次第で属性が変わる”万能アタッカー",
+      "url": "https://automaton-media.com/articles/newsjp/20260717-455636/",
+      "source": "Automaton",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-07-17T12:41:35",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260717-455636-header.jpg"
+    },
+    {
+      "title": "デスクトップマスコット少女『存在/しないリリス』、「非常に好評」スタート。カルト的人気誇るADVのキャラがデスクトップに“降臨”、なめらかキュートモーションで心を撃ち抜く",
+      "url": "https://automaton-media.com/articles/newsjp/20260717-455628/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-17T11:39:42",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260717-455628-header.jpg"
+    },
+    {
+      "title": "『ファイナルファンタジーXIV モバイル』、中国で早くもサービス終了へ。グローバル展開を前に",
+      "url": "https://automaton-media.com/articles/newsjp/20260717-455623/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-07-17T10:07:25",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260717-455623-header.jpg"
+    },
+    {
+      "title": "HoYoverseのgamescom出展ラインナップが発表。『崩壊：ネクサスアニマ』と『プチプラネット』が初登場",
+      "url": "https://news.denfaminicogamer.jp/news/2607174e",
+      "source": "電ファミニコゲーマー",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-07-17T13:44:35",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/main-114.jpg"
+    },
+    {
+      "title": "『ゼンレスゾーンゼロ』Ver.3.1「ロング・グッドバイ」が7月29日に配信へ。新属性「流明」のレミエール、限定S級エージェント1名とモチーフ音動機の配布、『スタレ』コラボなど一挙発表",
+      "url": "https://news.denfaminicogamer.jp/news/2607172o",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-07-17T11:52:21",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/83353157949ca715d242c22d99007bc4.png"
+    },
+    {
+      "title": "『めっちゃカメレオン』に新公式マップ「デスバーガー」が追加。不適切ワードがブロックされるようになるなど、最新アップデート2.8.0が配信",
+      "url": "https://news.denfaminicogamer.jp/news/2607174a",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-07-17T11:46:29",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/HNbB6ifbUAAEP-9.jpg"
+    },
+    {
+      "title": "『フォールアウト3』『フォールアウト：ニューベガス』リマスター版が開発中！『フォールアウト5』や『The Elder Scrolls VI』など、ベセスダが今後数年間の展開を公開",
+      "url": "https://news.denfaminicogamer.jp/news/260718b",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-07-16T14:37:23",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/8-Aria_02.png"
+      "published": "2026-07-17T16:26:06",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/HNbrtCkWkAAiEof.jpeg"
     },
     {
-      "title": "『ドンキーコング バナンザ』楽曲がニンテンドーミュージックに大量追加。「DK登場」「バナルートタワー」など大量の楽曲が追加され、9曲→合計229曲に。「さえぎるすべてをブチ壊せ！」がテーマの『ドンキーコング』シリーズ最新作",
-      "url": "https://news.denfaminicogamer.jp/news/260717r",
-      "source": "電ファミニコゲーマー",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-07-17T01:32:46",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/GwA1h6pbkAM-L4-.webp"
-    },
-    {
-      "title": "【最大4人】かわいい“ネズミ”が広大な世界を冒険するゲーム『Hela: of Mice & Magic』が2026年第4四半期に発売。魔法使いの病を治すため、小さな英雄がオープンワールドを駆け回る",
-      "url": "https://news.denfaminicogamer.jp/news/260717h",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-17T01:30:29",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/PhotoshopExtension_Image_3-17.png"
-    },
-    {
-      "title": "ただの「マンゴー」として平凡に生きる”ゲーム『マンゴーシミュレーター』がチルい。時間経過とともマンゴーはゆっくりと熟していく",
-      "url": "https://news.denfaminicogamer.jp/news/260717f",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-17T01:20:10",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/ss_e5e1c64561fe7126bd6dcff4a0f5490dfc0302cd.1920x1080.jpg"
-    },
-    {
-      "title": "【76%オフ】デフォルメキャラ専門のイラスト集『スーパーデフォルメポーズ集 キャラバリエーション編』Kindle版が「2090円→499円」でセール中。トレースフリーで商用・個人問わず使える6種類×100体の特典データも付属",
-      "url": "https://news.denfaminicogamer.jp/news/260717n",
+      "title": "“引きこもり”が自宅から脱出を目指す高評価ホラーゲーム『Luto』が無料で配布中、期間は7月24日まで。トラウマを抱えた主人公が、あらゆる恐怖が怪異として具現化する最悪の家からの脱出を目指す",
+      "url": "https://news.denfaminicogamer.jp/news/260718f",
       "source": "電ファミニコゲーマー",
       "category": "sale",
       "importance": "normal",
-      "published": "2026-07-17T00:47:41",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/91oavMRUqxL._SL1500_.jpg"
+      "published": "2026-07-18T00:28:32",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/ss_fc27fecbdaeda64601c8deba7648892b53eb0e6e.1920x1080.jpg"
     },
     {
-      "title": "最大6人協力・廃墟ライブ配信ホラー『Stream Train』発表。バズるためなら怪異も煽る、命がけの“撮れ高”優先列車旅",
-      "url": "https://automaton-media.com/articles/newsjp/20260717-455447/",
-      "source": "Automaton",
-      "category": "release",
+      "title": "「Warframe」と「Soulframe」のファンイベント“TennoCon 2026”にテンノと使者が集結。新発表に関しての開発者インタビューもお届けする",
+      "url": "https://www.4gamer.net/games/172/G017216/20260716024/",
+      "source": "4Gamer.net",
+      "category": "esports",
       "importance": "high",
-      "published": "2026-07-17T01:25:59",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260717-455447-header-1.jpg"
+      "published": "2026-07-18T00:00:00",
+      "image": "https://www.4gamer.net/games/172/G017216/20260716024/SS/005.jpg"
     },
     {
-      "title": "『Path of Exile』新大型アプデ「Curse of the Allflame」正式発表、7月25日配信へ。装備ソケットの“色縛り緩和”でどのジェムでも装着可能に、リージョン周りも刷新で遊びやすさ急上昇",
-      "url": "https://automaton-media.com/articles/newsjp/20260717-455419/",
-      "source": "Automaton",
+      "title": "［インタビュー］「EWC 2026」の舞台裏を主催団体Esports Foundationの幹部4人に聞く。運営資金からタイトル選定，日本市場の評価まで",
+      "url": "https://www.4gamer.net/games/991/G999107/20260710035/",
+      "source": "4Gamer.net",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-07-18T00:00:00",
+      "image": "https://www.4gamer.net/games/991/G999107/20260710035/SS/007.jpg"
+    },
+    {
+      "title": "「Necesse: ネセス」，初の大型アップデート「錆とロマンス」を7月30日に配信。新バイオームやロマンス要素を追加",
+      "url": "https://www.4gamer.net/games/875/G087572/20260717053/",
+      "source": "4Gamer.net",
       "category": "update",
       "importance": "high",
-      "published": "2026-07-16T21:30:01",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260717-455419-header.jpg"
+      "published": "2026-07-17T17:00:00",
+      "image": "https://www.4gamer.net/games/875/G087572/20260717053/SS/001.jpg"
     },
     {
-      "title": "Steamでゲームに“マルウェア入りアプデ”して仮想通貨を盗んでいた犯人、FBIに逮捕される。被害総額は少なくとも3500万円",
-      "url": "https://automaton-media.com/articles/newsjp/20260717-455442/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-07-17T01:10:11",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260717-455442-header.jpg"
+      "title": "「Escape from Tarkov」，“セキュアコンテナ Kappa”の入手条件が大幅緩和。7月末に実装予定のアップデート1.1.0.0にて",
+      "url": "https://www.4gamer.net/games/375/G037564/20260717055/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-07-17T12:26:21",
+      "image": "https://www.4gamer.net/games/375/G037564/20260717055/SS/001.jpg"
     },
     {
-      "title": "“極寒世界”機関車ローグライク『フロストレイン2』正式リリース。「列車追放」に怯えつつ生存者を導く、シナジー構築凍土サバイバル",
-      "url": "https://automaton-media.com/articles/newsjp/20260716-455405/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-17T00:30:04",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260716-455405-header.jpg"
+      "title": "「Fallout 3」「Fallout: New Vegas」のリマスター版が開発中！ Bethesda Game Studiosが各コンテンツの今後や開発状況をまとめたテキストを公開",
+      "url": "https://www.4gamer.net/games/422/G042264/20260717058/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-07-17T14:50:53",
+      "image": "https://www.4gamer.net/games/422/G042264/20260717058/SS/001.jpg"
     },
     {
-      "title": "セガが救ったから今のNVIDIAがある。NVIDIAのCEOとセガのレジェンドたちが“アキバのゲーセン”に集結、ドリームキャスト開発秘話も飛び出したイベントまとめ",
-      "url": "https://automaton-media.com/articles/reportjp/20260716-455396/",
-      "source": "Automaton",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-07-16T12:40:28",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260716-455396-header.jpg"
-    },
-    {
-      "title": "『モンスト』の熱狂を海外、そしてスポーツへ。MIXI CEOが語る「3度のパラダイムシフト」と「ソーシャルの力」【GAME FUTURE SUMMIT 2026】",
-      "url": "https://www.gamebusiness.jp/article/2026/07/17/27479.html",
+      "title": "米ハズブロが『ゼルダの伝説』製品のため任天堂とライセンス提携―新作フィギュアを発表予定",
+      "url": "https://www.gamebusiness.jp/article/2026/07/17/27488.html",
       "source": "GameBusiness.jp",
       "category": "business",
-      "importance": "normal",
-      "published": "2026-07-17T01:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189255.jpg"
+      "importance": "high",
+      "published": "2026-07-17T11:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189634.jpg"
     },
     {
-      "title": "「切なさ」はアルゴリズムで書けるか。初期ユーミン様式のバラード生成マシンをClaude Fable 5と作って考えたこと（CloseBox）",
-      "url": "https://www.gamebusiness.jp/article/2026/07/16/27477.html",
+      "title": "Google Store表参道はPixel 11発表の8月13日(木)オープン―国内初・米国外初の直営フラッグシップストア、販売・サポートに「AI体験」も提供",
+      "url": "https://www.gamebusiness.jp/article/2026/07/17/27485.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-07-17T03:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189450.jpg"
+    },
+    {
+      "title": "上位は再販の可能性もある「プレバンガンプラ総選挙2026」中間結果発表―昨年に続き「MG Ex-Sガンダム/Sガンダム」が強い！TOP20も注目",
+      "url": "https://www.gamebusiness.jp/article/2026/07/17/27481.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "high",
+      "published": "2026-07-17T02:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189508.jpg"
+    },
+    {
+      "title": "Google検索のAI ModeがYouTube Music、Canva、Instacartと連携可能に",
+      "url": "https://www.gamebusiness.jp/article/2026/07/17/27489.html",
       "source": "GameBusiness.jp",
       "category": "tech",
       "importance": "normal",
-      "published": "2026-07-16T04:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189268.png"
+      "published": "2026-07-17T11:45:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189624.jpg"
     },
     {
-      "title": "ANYCOLOR、にじさんじ所属VTuberへの権利侵害で示談ー白雪巴に「二次被害を助長する複数の投稿」があったとして開示請求を実施",
-      "url": "https://www.gamebusiness.jp/article/2026/07/16/27476.html",
+      "title": "G4、中国ゲーム市場の最新動向を学ぶ「Bilibili World」視察報告会を8月7日に開催",
+      "url": "https://www.gamebusiness.jp/article/2026/07/17/27487.html",
       "source": "GameBusiness.jp",
-      "category": "business",
+      "category": "industry",
       "importance": "normal",
-      "published": "2026-07-16T03:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189278.png"
+      "published": "2026-07-17T03:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189420.jpg"
     },
     {
-      "title": "新たな国産SNS「POPOPO」9月17日にサービス終了へ―取締役に西村博之、庵野秀明ら就任でも話題、約6か月で幕",
-      "url": "https://www.gamebusiness.jp/article/2026/07/16/27475.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-07-16T03:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189289.jpg"
-    },
-    {
-      "title": "『Dead Space』生みの親グレン・スコフィールド氏が業界から引退表明―約35年携わり「この業界は本当に素晴らしい」と前向きに終える",
-      "url": "https://www.gamebusiness.jp/article/2026/07/16/27474.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-07-16T03:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189304.png"
-    },
-    {
-      "title": "「Ryzen 7 7700X3D」レビュー。遅れてきたZen 4世代の3D V-Cache搭載CPUは電力あたり性能が優秀ではあるものの価格がネックに",
-      "url": "https://www.4gamer.net/games/612/G061273/20260716036/",
-      "source": "4Gamer.net",
+      "title": "GameMakerでオンラインマルチプレイ実装用のミドルウェア「Photon」が利用可能に。YoYo Gamesが公式拡張機能をリリース",
+      "url": "https://gamemakers.jp/article/2026_07_17_141560/",
+      "source": "ゲームメーカーズ",
       "category": "tech",
-      "importance": "high",
-      "published": "2026-07-16T13:00:00",
-      "image": "https://www.4gamer.net/games/612/G061273/20260716036/SS/002.jpg"
-    },
-    {
-      "title": "「灼眼のシャナ ブレイズエッジ」，シャナからメッセージが届くキャンペーン実施を発表",
-      "url": "https://www.4gamer.net/games/996/G099697/20260716043/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-07-16T11:06:47",
-      "image": "https://www.4gamer.net/games/996/G099697/20260716043/SS/001.jpg"
-    },
-    {
-      "title": "「ポケモン ダイアモンド・パール」の「ちかつうろ」に着想を得た，洞窟採掘アクションADV「Glintseeker Island」，デモ版の配信を開始",
-      "url": "https://www.4gamer.net/games/025/G102563/20260716030/",
-      "source": "4Gamer.net",
-      "category": "release",
       "importance": "normal",
-      "published": "2026-07-16T23:00:00",
-      "image": "https://www.4gamer.net/games/025/G102563/20260716030/SS/001.jpg"
+      "published": "2026-07-17T11:06:12",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/5a61b7300cb6b9115b45deb025accde2.jpg"
     },
     {
-      "title": "「プロスピ2026」は，歴代日本代表で挑めるWBCモード搭載！　“最強の侍”はどのチームなのか，時代を超えた夢の対戦を目撃した",
-      "url": "https://www.4gamer.net/games/999/G099971/20260710014/",
-      "source": "4Gamer.net",
-      "category": "release",
+      "title": "サイバーエージェント主催のUnity勉強会「CA.unity #11」、講演動画が公開。AIによる自律的な開発支援を行う「Unity CLI Loop」の活用事例など全4講演",
+      "url": "https://gamemakers.jp/article/2026_07_17_141485/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
       "importance": "normal",
-      "published": "2026-07-16T22:00:00",
-      "image": "https://www.4gamer.net/games/999/G099971/20260710014/TN/018.jpg"
+      "published": "2026-07-17T08:52:14",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/19f3fffc58fc00c1e108fe309bfbb039.jpg"
     },
     {
-      "title": "ブレイド登場！ トレモ可能！ オフライン対戦もOK！「マーベル闘魂」，至れり尽くせりなオープンβテストを紹介する最新トレイラーを公開",
-      "url": "https://www.4gamer.net/games/916/G091625/20260717001/",
-      "source": "4Gamer.net",
-      "category": "release",
+      "title": "京都で開催された「OPEN GAME FEST 2026」はインディーゲーム展示コーナーも大盛況！注目の出展作品をフォトレポートで紹介",
+      "url": "https://gamemakers.jp/article/2026_07_17_141430/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
       "importance": "normal",
-      "published": "2026-07-16T18:24:21",
-      "image": "https://www.4gamer.net/games/916/G091625/20260717001/SS/002.jpg"
+      "published": "2026-07-17T06:35:57",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/a6dcf4b7723df499c8026aa3ec6535f4.jpg"
+    },
+    {
+      "title": "「ゲームメーカーズ スクランブル2026」、Cygamesやバンダイナムコスタジオによる講演情報第一弾を公開！イベント特設サイトもオープン",
+      "url": "https://gamemakers.jp/article/2026_07_17_141246/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-07-17T03:04:24",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/14321705b1bf31ac821f3bd22d60d9d8.jpg"
     },
     {
       "title": "Houdini最新版「Houdini 22」リリース。KineFX・APEXの機能拡充、Gaussian Splatsの正式サポートなど",
@@ -189,42 +225,42 @@
       "category": "tech",
       "importance": "normal",
       "published": "2026-07-16T11:10:50",
-      "image": null
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/0494a304c6d324b8578488592cc3eb43.jpg"
     },
     {
-      "title": "「Blender 5.2 LTS」正式リリース。髪の物理シミュレーションが可能な「XPBD Solver」ノードが追加、レンダリング効率改善も",
-      "url": "https://gamemakers.jp/article/2026_07_16_141380/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-16T08:38:31",
-      "image": null
-    },
-    {
-      "title": "『ブルアカ』総力戦の設計思想や、UEのRHI刷新なども解説。韓国のゲーム業界カンファレンス「NEXON Developers Conference 26」講演動画が公開",
-      "url": "https://gamemakers.jp/article/2026_07_16_141362/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-16T08:08:58",
-      "image": null
-    },
-    {
-      "title": "【今週末開催】UE5のゲーム制作コンテスト「第26回UE5ぷちコン」に向けたゲームジャムが開催！参加者を募集中",
-      "url": "https://gamemakers.jp/article/2026_07_16_141330/",
-      "source": "ゲームメーカーズ",
+      "title": "Get It Studio 個展を「POCKO GALLERY TOKYO / ポコギャラリー東京」にて7月31日(金)より開催 - ニュース",
+      "url": "https://cgworld.jp/flashnews/pocko-gallery-tokyo-vol8.html",
+      "source": "CGWORLD",
       "category": "industry",
       "importance": "normal",
-      "published": "2026-07-16T00:58:56",
-      "image": null
+      "published": "2026-07-17T07:52:25",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/Flyer_A3_Vertical_03-thumb-1080x1080-86708.jpg"
     },
     {
-      "title": "「Google Play」の手数料引き下げ、日本の導入が9/30に前倒し。請求手数料は米国などと同じく5%",
-      "url": "https://gamemakers.jp/article/2026_07_15_141325/",
-      "source": "ゲームメーカーズ",
-      "category": "business",
+      "title": "Adobe Substance 3D公式、『DOOM：The Dark Ages』のマテリアルビルドブレイクダウン講演の動画を公開 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202607-Substance-DOOM.html",
+      "source": "CGWORLD",
+      "category": "tech",
       "importance": "normal",
-      "published": "2026-07-15T08:36:20",
+      "published": "2026-07-17T02:03:06",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/712f89a6bfaec53294f1bd8784426945d1e19129-thumb-1920x1080-86674.jpg"
+    },
+    {
+      "title": "「失敗してもリールを更新すれば、またチャレンジできます」リモートワークで日本にいながらILMで働く！ 第121回：木村昭太（Senior Effects Technical Director / ILM Sydney） - 連載",
+      "url": "https://cgworld.jp/regular/121-kimura.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-07-17T01:30:00",
+      "image": "https://cgworld.jp/regular/assets_c/2026/06/516a0d1e8d12c46d1ce847e98832ef714828e47a-thumb-1000x565-85284.jpg"
+    },
+    {
+      "title": "絵の上達に必要な考え方『エソラ流お絵かき クリエイター思考活性術』が8月25日にオンライン開催 - ニュース",
+      "url": "https://cgworld.jp/flashnews/2607-plusone-yakugi.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-07-16T08:40:07",
       "image": null
     },
     {
@@ -237,31 +273,22 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/07/03-2607-sgx_main-thumb-1000x563-86614.png"
     },
     {
-      "title": "【九州初上陸】電動ワークチェア「LiberNovo Omni」シリーズが、六本松 蔦屋書店にて展示開始 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202607-libernovo.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-07-16T02:30:20",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/cf81d37138d9ceddb8a93230d2c341b66767a51b-thumb-736x552-86639.png"
+      "title": "『Castlevania: Belmont’s Curse』プレビュー ジャンル始祖の堂々たる帰還、「悪魔城ドラキュラ」の新境地",
+      "url": "https://jp.ign.com/castlevania-belmonts-curse/83812/castlevania-belmonts-curse",
+      "source": "IGN Japan",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-17T07:00:35",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/02-rose_6emc.png"
     },
     {
-      "title": "第1回：現場でのモーションキャプチャ収録判断 - 連載",
-      "url": "https://cgworld.jp/regular/motion-capture01.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-16T01:00:07",
-      "image": "https://cgworld.jp/regular/assets_c/2026/06/motioncapture_vol1%20%282%29-thumb-1000x563-85195.png"
-    },
-    {
-      "title": "ピクサー最新作『私がビーバーになる時』ブレイクダウン動画公開　クマが登場するシーン制作の様子を工程別に解説 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202607-Pixar-Hoppers.html",
-      "source": "CGWORLD",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-07-15T23:42:39",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/Pixar_Hoppers-01-thumb-1920x1080-86615.jpg"
+      "title": "『オデュッセイア』レビュー",
+      "url": "https://jp.ign.com/the-odyssey-christopher-nolan-matt-damon-project/83801/",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-07-16T04:51:56",
+      "image": "https://sm.ign.com/ign_jp/review/t/the-odysse/the-odyssey-review_7fsk.jpg"
     },
     {
       "title": "『Denshattack!』スクリーンショット",
@@ -273,40 +300,13 @@
       "image": "https://sm.ign.com/ign_jp/gallery/d/denshattac/denshattack-first-screenshots_4f21.jpg"
     },
     {
-      "title": "Denshattack! Video Review",
-      "url": "https://jp.ign.com/denshattack/83799/denshattack-video-review",
+      "title": "The Odyssey Images",
+      "url": "https://jp.ign.com/the-odyssey-christopher-nolan-matt-damon-project/83802/the-odyssey-images",
       "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-07-15T15:00:00",
-      "image": "https://sm.ign.com/ign_jp/video/d/denshattac/denshattack-video-review_nx4a.jpg"
-    },
-    {
-      "title": "世界一の企業は、セガがいなければ倒産していた？ NVIDIAのジェンスン・フアンCEOが語った恩義",
-      "url": "https://jp.ign.com/nvidia/83795/nvidiaceo",
-      "source": "IGN Japan",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-07-15T12:42:58",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/pai_4wvk.png"
-    },
-    {
-      "title": "N64版に忠実なリメイクの決定版ならもうある？Switch 2版が待ちきれず、『ゼルダの伝説 時のオカリナ 3D』をプレイ：今週遊んだゲーム 07/15/2026",
-      "url": "https://jp.ign.com/shaberisugi-gamer/83792/n64switch-2-3d-07152026",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-07-15T11:03:31",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_yg1g.jpg"
-    },
-    {
-      "title": "CORSAIRの14.5インチLCDタッチスクリーン「XENEON EDGE」がAmazonにて21％オフでセール中",
-      "url": "https://jp.ign.com/gaming-device/83785/corsair145lcdxeneon-edgeamazon21",
-      "source": "IGN Japan",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-15T09:04:19",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_qb3p.jpg"
+      "published": "2026-07-16T04:51:56",
+      "image": "https://sm.ign.com/ign_jp/gallery/t/the-odysse/the-odyssey-images_2gnj.jpg"
     }
   ]
 }
