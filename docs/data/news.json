@@ -1,96 +1,33 @@
 {
-  "generated_at": "2026-07-21T01:28:48.118655",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、スマホ向け美少女RPG『パールインブルー』の発表や、ベセスダのトッド・ハワード氏のコメントなど、注目すべきニュースがたくさん！ 🎮\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-07-22T01:28:19.971948",
+  "poem": "おはようございます！ 🌞\nゲーム業界はどんどん進化しています。注目されるニュースとしては、「Xbox Game Pass」の新作配信タイトルや「ウィッチャー3」の新作拡張パックなどが発表されています。ゲームファンの皆さん、今日も楽しみいっぱいですね！ 🎮\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "“月刊ラブコメ”がテーマのスマホ向け美少女RPG『パールインブルー』発表。「殻っぽ」の少女たちのマネージャーとなり、毎月新たなヒロインと物語を紡ぐ",
-      "url": "https://news.denfaminicogamer.jp/news/260720q",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-20T09:00:36",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/260720_PB_PR_Image.png"
-    },
-    {
-      "title": "「積読ホルダー」がふるさと納税の返礼品に。“買ったけどまだ読んでいない本”をいつでも手に取れる卓上本棚",
-      "url": "https://news.denfaminicogamer.jp/news/260721h",
-      "source": "電ファミニコゲーマー",
+      "title": "第9回 プラチナゲームズ 前編：職種を越えて「ゲームを面白くする」人を育てる - 連載",
+      "url": "https://cgworld.jp/regular/202607-manabi9-1.html",
+      "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-07-21T00:57:51",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/sub3-82.jpg"
+      "published": "2026-07-22T01:30:00",
+      "image": "https://cgworld.jp/regular/assets_c/2026/07/4f5cf045243c81c213c1cf940c7ca2a18b07f1c6-thumb-1000x667-86298.jpg"
     },
     {
-      "title": "『Oblivion』『Skyrim』を手がけたベセスダのトッド・ハワード氏が海外の掲示板サイトに降臨。普段からファンのコメントを読んでおり、コミュニティからのアイデアがゲーム開発に影響を与えているとコメント",
-      "url": "https://news.denfaminicogamer.jp/news/260721e",
-      "source": "電ファミニコゲーマー",
+      "title": "SideFX、プロダクション向けAPEX活用アニメーションワークフロー解説動画公開　Paris HUG 2026でのマッテオ・マルティネス氏による講演 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202607-Houdini-APEX.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-21T23:38:54",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/Houdini_APEX-01-thumb-1920x1080-86752.jpg"
+    },
+    {
+      "title": "第14回 前編：デジタル・フロンティアのテクニカル系スタッフの仕事 - 連載",
+      "url": "https://cgworld.jp/regular/202607-chiyama-t-14-1.html",
+      "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-07-20T23:52:29",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/20260721084150_1.jpg"
-    },
-    {
-      "title": "『ペルソナ』シリーズと“くら寿司”が海外でコラボ決定。『ペルソナ』30周年を記念して、特別メニューや限定報酬が手に入る。詳細な開催日や概要は不明",
-      "url": "https://news.denfaminicogamer.jp/news/260721c",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-07-20T22:09:38",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/persona-campaign-banner-desk.jpg"
-    },
-    {
-      "title": "『雀魂 -じゃんたま-』Steam版が本日7月20日よりいきなり配信開始。かわいいキャラクターと派手な演出で人気な基本プレイ無料のオンライン麻雀ゲーム、プレイデータの引き継ぎにも対応",
-      "url": "https://news.denfaminicogamer.jp/news/2607202c",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-20T13:47:40",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/PhotoshopExtension_Image-2026-07-20T224236.449.png"
-    },
-    {
-      "title": "やたらと壮大ソウルライクARPG『Godless Dawn』発表。西欧の城から東洋の寺院まで、トルコ人開発者がUE5で作る野心作",
-      "url": "https://automaton-media.com/articles/newsjp/20260720-455797/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-20T09:45:35",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260720-455797-header.jpg"
-    },
-    {
-      "title": "基本プレイ無料“欲望開花”美少女RPG『パールインブルー』発表。毎月ヒロイン追加、少女たちと送る「ラブコメ主人公っぽい」日々",
-      "url": "https://automaton-media.com/articles/newsjp/20260720-455788/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-20T09:00:01",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260720-455788-header.jpg"
-    },
-    {
-      "title": "『Call of Duty: Modern Warfare 4』購入者向け先行ベータは8月21日より開催へ。翌週には“誰でも参加可能”なオープンベータも",
-      "url": "https://automaton-media.com/articles/newsjp/20260721-455822/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-21T00:29:42",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260721-455822-header.jpg"
-    },
-    {
-      "title": "『雀魂 -じゃんたま-』Steam版、いきなり配信開始。データの引き継ぎにも対応、定番の麻雀ゲームをSteamからも遊べる",
-      "url": "https://automaton-media.com/articles/newsjp/20260720-455813/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-20T12:34:18",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260720-455813-header.jpg"
-    },
-    {
-      "title": "Steam Nextフェスの体験版、「ウィッシュリスト登録率」中央値は約20％との調査結果。意外と“体験版を遊ばずに登録”が大量",
-      "url": "https://automaton-media.com/articles/newsjp/20260720-455807/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-07-20T10:31:24",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260720-455807-header.jpg"
+      "published": "2026-07-21T01:30:00",
+      "image": "https://cgworld.jp/regular/assets_c/2026/07/202607-chiyama-t-14-1_a1-thumb-1000x667-86146.jpg"
     },
     {
       "title": "Nore Pollentier氏、UEによる廃墟の階段シーンのブレイクダウン公開　ライトファンクションやWorld Position Offsetの実践的活用 - ニュース",
@@ -102,103 +39,211 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/07/UE_Stairways-01-thumb-1920x1080-86730.jpg"
     },
     {
-      "title": "「ネオスフィア：レガシー」正式発表。「蒼い空のネオスフィア」リマスター作品が2027年春に発売",
-      "url": "https://www.4gamer.net/games/024/G102457/20260713043/",
-      "source": "4Gamer.net",
+      "title": "ゲームフリーク新作『ビースト・オブ・リンカネーション』や『Halo: Campaign Evolved』など、「Xbox Game Pass」今後2週間の配信タイトルが発表",
+      "url": "https://news.denfaminicogamer.jp/news/260722i",
+      "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-07-20T03:00:00",
-      "image": "https://www.4gamer.net/games/024/G102457/20260713043/SS/001.jpg"
+      "published": "2026-07-22T01:17:24",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/BeastofReincarnation_TitledHeroArt_1920x1080-c592dc4d75a611248ea1-1900x1080-1.jpg"
     },
     {
-      "title": "「無職転生 〜異世界行ったら本気だす〜 クロニクル・オブ・エコーズ」初の特番は7月25日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
-      "url": "https://www.4gamer.net/games/421/G042182/20260717034/",
-      "source": "4Gamer.net",
+      "title": "『スプラトゥーン レイダース』の島は当初、爽やかで明るいデザインだった。「シャケがかわいそう」との声を受け「やべぇ所」へ方針転換、任天堂インタビュー「開発者に訊きました」が公開",
+      "url": "https://news.denfaminicogamer.jp/news/2607213v",
+      "source": "電ファミニコゲーマー",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-07-20T23:00:00",
-      "image": "https://www.4gamer.net/games/421/G042182/20260717034/SS/001.jpg"
+      "importance": "high",
+      "published": "2026-07-21T14:37:17",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/hero_pc.avif"
     },
     {
-      "title": "新作RTS「ZeroSpace」，アーリーアクセスを本日スタート。仲間との会話によるストーリー変化など，RPG要素を組み込んだ意欲作",
-      "url": "https://www.4gamer.net/games/017/G101719/20260721004/",
-      "source": "4Gamer.net",
+      "title": "『Arcaea』開発元が手がけるリズムゲーム『In Falsus』9月9日にリリース決定。独自システムのリズムゲームと、フルボイスで描かれる重厚なシナリオが組み合わさった新作",
+      "url": "https://news.denfaminicogamer.jp/news/260722f",
+      "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "normal",
-      "published": "2026-07-20T17:22:01",
-      "image": "https://www.4gamer.net/games/017/G101719/20260721004/SS/004.jpg"
+      "published": "2026-07-22T01:19:48",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/main-127.jpg"
     },
     {
-      "title": "お刺身派ねこも，日向ぼっこ派ねこも大満足。ねこがお客さんになる“猫の島”づくりゲーム「キャットアイランド」がSteamで本日発売",
-      "url": "https://www.4gamer.net/games/018/G101872/20260721003/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-20T17:09:09",
-      "image": "https://www.4gamer.net/games/018/G101872/20260721003/SS/001.jpg"
-    },
-    {
-      "title": "「マーベル闘魂」，デカいけど身軽な「ペニー・パーカー」ガイド動画を公開。ランダムに射出されるガジェット8種と，壁張り付きを使いこなせ",
-      "url": "https://www.4gamer.net/games/916/G091625/20260721001/",
-      "source": "4Gamer.net",
+      "title": "『ドキドキ文芸部！』と「東京タワー」のコラボイベントが開催決定。8月13日より、ミニゲーム付きのコラボチケットセットやオリジナルコラボグッズが「フットタウン2階 Co・Lab-TOKYO-」にて登場",
+      "url": "https://news.denfaminicogamer.jp/news/260722g",
+      "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-07-20T15:56:23",
-      "image": "https://www.4gamer.net/games/916/G091625/20260721001/SS/001.jpg"
+      "published": "2026-07-22T01:08:30",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/HNupLf7aIAA5Jco.jpg"
     },
     {
-      "title": "「ゲームメーカーズ スクランブル2026」第1弾講演にCygames、バンダイナムコスタジオ、プラチナゲームズら登壇",
-      "url": "https://www.gamebusiness.jp/article/2026/07/20/27507.html",
+      "title": "『ウィッチャー3』新作拡張パック「追憶の調べ」がgamescom ONLにてお披露目へ。日本時間8月26日午前3時より公開予定",
+      "url": "https://news.denfaminicogamer.jp/news/2607213u",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-07-21T15:22:14",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/HNszr75bQAALDym.jpeg"
+    },
+    {
+      "title": "『崩壊：スターレイル』の「姫子・旅立ち」があまりにもロマンの塊。「妖艶お姉さん」×「巨大ロボ」×「覚醒」1人にギュッと濃縮！濃い！ずっと味がする！",
+      "url": "https://automaton-media.com/articles/columnjp/starrail-20260721-455830/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-07-21T03:16:22",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/starrail-20260721-455830-header.jpg"
+    },
+    {
+      "title": "Steam好評消防士シム新作『Firefighters Code Red』発表。マルチプレイで仲間と出動、リアルに刻々と燃え崩れる予測不能の火災現場で決死の救出劇",
+      "url": "https://automaton-media.com/articles/newsjp/firefighters-code-red-20260722-456019/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-22T01:17:45",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/firefighters-code-red-20260722-456019-header.jpg"
+    },
+    {
+      "title": "『バーンアウト』元開発者によるオープンワールドレースゲーム『Wreckreation 2』発表。ライバル車をテイクダウンさせる激闘レース再び",
+      "url": "https://automaton-media.com/articles/newsjp/20260721-456011/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-21T14:15:43",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260721-456011-header.jpeg"
+    },
+    {
+      "title": "スマホ謎解きホラー『スマートフォン』Steam版発表。謎の密室で使えるのはスマホだけ、緊迫のマルチエンド脱出劇",
+      "url": "https://automaton-media.com/articles/newsjp/20260721-456003/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-21T12:20:17",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260721-456003-header.jpg"
+    },
+    {
+      "title": "PlayStationの「物理ディスク存続」が熱望されるなか、“PSのパッケージ版はかなり売れ行き厳しい”との米アナリスト報告。残す意義と、売れない現実",
+      "url": "https://automaton-media.com/articles/newsjp/20260721-455998/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-07-21T11:00:21",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260721-455998-header.jpg"
+    },
+    {
+      "title": "gamescom 2026はなんと出展エリア初の完売、ドイツ大統領も初来場─欧州最大級のゲームショウが新たなステージへ",
+      "url": "https://www.gamebusiness.jp/article/2026/07/22/27512.html",
       "source": "GameBusiness.jp",
       "category": "industry",
       "importance": "normal",
-      "published": "2026-07-19T22:31:27",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189755.png"
+      "published": "2026-07-22T00:46:49",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189873.jpg"
     },
     {
-      "title": "任天堂、『パルワールド』関連の特許出願に拒絶査定―カギを握ったのは2013年の“ファンメイド3Dポケモンゲーム”。著作権侵害の映像と述べるも退けられる",
-      "url": "https://www.gamebusiness.jp/article/2026/07/19/27506.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-07-19T03:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189648.jpg"
-    },
-    {
-      "title": "「人はレイオフを繰り返す」ZeniMax Media本社前で従業員らが抗議。XBOXの大規模人員削減に対して",
-      "url": "https://www.gamebusiness.jp/article/2026/07/19/27505.html",
+      "title": "PS5ディスク版生産終了、「Yahoo!オークション」「Yahoo!フリマ」のLINEヤフーの見解は？ 「憧れのタイトルに再び出会えることも、リユースならではの楽しさ」",
+      "url": "https://www.gamebusiness.jp/article/2026/07/21/27511.html",
       "source": "GameBusiness.jp",
       "category": "business",
       "importance": "normal",
-      "published": "2026-07-19T03:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189656.jpg"
+      "published": "2026-07-21T08:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189781.jpg"
     },
     {
-      "title": "『ディスコ エリジウム』開発元ZA/UM Studioでレイオフ―最新作『ZERO PARADES』の商業的不振によるもの",
-      "url": "https://www.gamebusiness.jp/article/2026/07/19/27504.html",
+      "title": "PS5ディスク版生産終了、ゲオホールディングスの見解は？ 「パッケージソフトは重要な位置づけだが、ゲーム事業からの撤退は全く考えていない」",
+      "url": "https://www.gamebusiness.jp/article/2026/07/21/27510.html",
       "source": "GameBusiness.jp",
       "category": "business",
       "importance": "normal",
-      "published": "2026-07-19T03:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189668.jpg"
+      "published": "2026-07-21T06:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189771.jpg"
     },
     {
-      "title": "マンガIPカンファレンス「IMART2026」11月開催決定。新設「IMARTアワード」で現場のキープレイヤーを顕彰",
-      "url": "https://www.gamebusiness.jp/article/2026/07/19/27502.html",
+      "title": "Unity 7が2027年第1四半期に正式リリースへ。Unity 6からの移行は「破壊的変更なし」で可能―新CLIとAPIで使い慣れたツールからのプッシュやコラボレーションも",
+      "url": "https://www.gamebusiness.jp/article/2026/07/21/27509.html",
       "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-07-19T02:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189687.jpg"
-    },
-    {
-      "title": "スカイボックス用の画像をパノラマ形式で収録。夜空や昼間など5種を揃えた『Skyboxes』、Webサイト「Kenney」で無料公開",
-      "url": "https://gamemakers.jp/article/2026_07_19_141354/",
-      "source": "ゲームメーカーズ",
       "category": "tech",
       "importance": "normal",
-      "published": "2026-07-19T01:58:46",
+      "published": "2026-07-21T06:08:08",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189760.jpg"
+    },
+    {
+      "title": "PS5ディスク版生産終了、二次流通大手「メルカリ」の見解は？ 「モノが循環することで生まれる体験や選択肢は重要」",
+      "url": "https://www.gamebusiness.jp/article/2026/07/21/27508.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-07-21T06:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189763.jpg"
+    },
+    {
+      "title": "［プレイレポ］7月23日リリースの「ドラゴンソード：アウェイクニング」先行インプレッション。爽快なバトルで“六英雄の真実”を追う，PC向けオープンワールドRPG",
+      "url": "https://www.4gamer.net/games/999/G099933/20260721002/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-21T22:00:00",
+      "image": "https://www.4gamer.net/games/999/G099933/20260721002/SS/025.webp"
+    },
+    {
+      "title": "「マーベル闘魂」，次元を飛び回る辺獄の女王「マジック」ガイド動画を公開。設置式ポータルとスキルの相互作用で，多彩な攻めを展開する",
+      "url": "https://www.4gamer.net/games/916/G091625/20260722003/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-07-21T17:55:31",
+      "image": "https://www.4gamer.net/games/916/G091625/20260722003/SS/001.jpg"
+    },
+    {
+      "title": "攻撃能力のないヒーラーになって，自動で戦う仲間を助ける。3Dダンジョン探索RPG「Occult: Scarlet Elegy」，Steamストアページを公開",
+      "url": "https://www.4gamer.net/games/026/G102642/20260722002/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-21T17:11:15",
+      "image": "https://www.4gamer.net/games/026/G102642/20260722002/SS/004.jpg"
+    },
+    {
+      "title": "すべてが放射能汚染された世界で“最後のバー”を営む。一人称視点サバイバル＆経営ゲーム「On the Rocks」，体験版をSteamで公開",
+      "url": "https://www.4gamer.net/games/026/G102641/20260722001/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-21T16:00:54",
+      "image": "https://www.4gamer.net/games/026/G102641/20260722001/SS/006.jpg"
+    },
+    {
+      "title": "木を切りまくって家具を作り，資金を稼いで事業を拡大させよう。「Chop Chop Inc.」，8月7日にリリース決定",
+      "url": "https://www.4gamer.net/games/026/G102640/20260721051/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-21T12:03:18",
+      "image": "https://www.4gamer.net/games/026/G102640/20260721051/SS/001.jpg"
+    },
+    {
+      "title": "「Unity 7」が発表。シェーダービルドが最大90%高速化、Unity 6から再構築なしで移行可能",
+      "url": "https://gamemakers.jp/article/2026_07_21_141662/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-07-21T07:25:31",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/53b863344ea7f5c336cebc40fb0973b6.jpg"
+    },
+    {
+      "title": "インディーゲーム紹介番組「INDIE Live Expo 2026.12.1」、12/1（火）に開催決定。出展募集は9月頃に開始予定",
+      "url": "https://gamemakers.jp/article/2026_07_21_141638/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-07-21T05:00:21",
       "image": null
+    },
+    {
+      "title": "Unreal Engine向けゲーム制作コンテスト「第26回UE5ぷちコン」の作品募集が開始！テーマは「だん」。応募締切は8/30（日）",
+      "url": "https://gamemakers.jp/article/2026_07_21_141626/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-07-21T03:30:04",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/ec721e1589a19c5c300388e72652a970.jpg"
     }
   ]
 }
