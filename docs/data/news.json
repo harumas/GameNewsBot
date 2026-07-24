@@ -1,7 +1,142 @@
 {
-  "generated_at": "2026-07-23T01:49:01.889416",
-  "poem": "おはようございます！ 🌞\n今日もゲーム業界は活発です！Unity の最新プラットフォーム「Unity 7」や新作ゲームの発表など、様々なニュースが届いています。\nそれでは今日のニュースをどうぞ！ 🎮",
+  "generated_at": "2026-07-24T01:43:05.941426",
+  "poem": "おはようございます！ 🌞\nゲーム業界はいつも新しい刺激と冒険で溢れています。今日も様々なゲームのニュースがありますが、特に新作アニメ『機動戦士ガンダムRG XARX-ZERO』の発表や、ホラーゲーム『SOMBRAS: negative frames』の発売決定が注目されています 🎮\nそれでは今日のニュースをどうぞ！",
   "articles": [
+    {
+      "title": "見下ろし型ゾンビシューターゲーム『Yet Another Zombie Defense HD』が7月31日2時までSteamで無料配布中。昼にバリケードや自動砲塔で基地を築き、夜に押し寄せるゾンビを迎え撃つタワーディフェンス",
+      "url": "https://news.denfaminicogamer.jp/news/260724g",
+      "source": "電ファミニコゲーマー",
+      "category": "sale",
+      "importance": "high",
+      "published": "2026-07-24T01:20:45",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/ss_813791c0b285a37ddb2fae1b272eab40233237e3.1920x1080.jpg"
+    },
+    {
+      "title": "怪異だらけの“闇の日本”をカメラで撮影する探索ホラーゲーム『SOMBRAS: negative frames』12月4日に発売決定。‎闇の次元へと迷い込んだカメラっこが、現実世界への脱出を目指す",
+      "url": "https://news.denfaminicogamer.jp/news/260724f",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-24T00:00:13",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/SOMBRAS_-negative-frames-Release-Date-Trailer-0-11-screenshot.jpg"
+    },
+    {
+      "title": "『ガンダム』新作アニメ、『機動戦士ガンダムRG XARX-ZERO（アレックスゼロ）』発表、2027年展開予定！ 監督・シリーズ構成を神山健治氏、SF設定監修として円城塔氏が参加",
+      "url": "https://news.denfaminicogamer.jp/news/260724b",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-23T18:05:11",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/WS000276.jpg"
+    },
+    {
+      "title": "海底SFホラー『SOMA』のNintendo Switch 2向けアップデートが配信。解像度やフレームレート、ロード時間などを強化し、10周年記念コレクターズエディションも数量限定で登場",
+      "url": "https://news.denfaminicogamer.jp/news/2607233v",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-07-23T14:37:30",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/3-7.jpg"
+    },
+    {
+      "title": "「ウルヴァリン」のアクションゲーム『Marvel’s Wolverine』のストーリー予告映像が公開。ローガンと深い関係を持つ「ジーン・グレイ」をはじめ、セイバートゥースや赤装束の忍者も登場",
+      "url": "https://news.denfaminicogamer.jp/news/260724e",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-23T23:02:04",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/Marvels-Wolverine-Story-Trailer-_-PS5-Games-1-12-screenshot.jpg"
+    },
+    {
+      "title": "［インタビュー］「ストレイチルドレン」は，100点じゃなくても生きていくことを伝えるRPGだった。木村祥朗氏が語る，4×4から生まれた世界と幻のRPG「ミカヅキ」",
+      "url": "https://www.4gamer.net/games/738/G073897/20260716038/",
+      "source": "4Gamer.net",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-07-24T01:00:00",
+      "image": "https://www.4gamer.net/games/738/G073897/20260716038/SS/001.jpg"
+    },
+    {
+      "title": "［インタビュー］「手作りのゲームは，未来の\"ジブリ\"になるかもしれない」――20周年のthatgamecompanyを率いるJenova Chenが語る，Skyと，ゴッホと，AIと，次なる新作",
+      "url": "https://www.4gamer.net/games/394/G039457/20260716051/",
+      "source": "4Gamer.net",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-07-24T00:30:00",
+      "image": "https://www.4gamer.net/games/394/G039457/20260716051/SS/002.jpg"
+    },
+    {
+      "title": "5つの“お宝”を収録した「ストレイチルドレン」の豪華版が12月10日発売へ。開発資料を収録した本や，幻のRPG「ミカヅキ」の音楽CDも収録",
+      "url": "https://www.4gamer.net/games/738/G073897/20260723058/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-24T01:00:00",
+      "image": "https://www.4gamer.net/games/738/G073897/20260723058/SS/002.jpg"
+    },
+    {
+      "title": "「超翼戦騎エスティーク」，Switch向けパッケージを11月26日に発売。アートブックやアクスタを同梱した限定版もラインナップ",
+      "url": "https://www.4gamer.net/games/959/G095936/20260723033/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-24T01:00:00",
+      "image": "https://www.4gamer.net/games/959/G095936/20260723033/SS/001.jpg"
+    },
+    {
+      "title": "「ドラゴンクエストモンスターズ4」，バトル＆配合システムの詳細が公開に。特殊配合や四体配合で最強モンスターを生み出せる",
+      "url": "https://www.4gamer.net/games/010/G101055/20260721050/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-07-23T22:00:00",
+      "image": "https://www.4gamer.net/games/010/G101055/20260721050/SS/018.jpg"
+    },
+    {
+      "title": "『アークナイツ：エンドフィールド』運営のGRYPH FRONTIERが日本向け人材を募集。職種は多様、日本向けの展開を手伝う大チャンス",
+      "url": "https://automaton-media.com/articles/hiring/gr-20260723-456330/",
+      "source": "Automaton",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-07-23T08:42:06",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/gr-20260723-456330-header.jpg"
+    },
+    {
+      "title": "美少女精神崩壊デッキ構築ローグライク『カオスゼロナイトメア』、がっつりナーフ発表からわずか2日で撤回。批判を受け止め“プレイ時間と努力をさらに尊重”方針に",
+      "url": "https://automaton-media.com/articles/newsjp/20260724-456418/",
+      "source": "Automaton",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-07-24T00:32:07",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260724-456418-header.jpg"
+    },
+    {
+      "title": "廃墟孤児院サバイバルホラー『Black Lake』発表。ゲームアート専門スタジオが贈る漆黒の闇、迫りくる「見えない脅威」から逃げ延びる",
+      "url": "https://automaton-media.com/articles/newsjp/20260723-456332/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-23T06:19:00",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260723-456332-header.jpg"
+    },
+    {
+      "title": "カプコン、『ストリートファイター6』非公式大会などの賞品として「地域特産品」もOKと発表。今後は“おいしい”記念品が登場するかも",
+      "url": "https://automaton-media.com/articles/newsjp/capcom-20260723-456307/",
+      "source": "Automaton",
+      "category": "esports",
+      "importance": "high",
+      "published": "2026-07-23T05:34:07",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/capcom-20260723-456307-header.jpg"
+    },
+    {
+      "title": "“往年のXboxタイトル”がPCで遊べる「XBOX on PC 後方互換機能」発表。『ブリンクス』や『コンカー：Live and Reloaded』などがさっそく提供開始",
+      "url": "https://automaton-media.com/articles/newsjp/xbox-20260723-456222/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-23T02:00:51",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/xbox-20260723-456222-header.jpeg"
+    },
     {
       "title": "Unity、次世代プラットフォーム「Unity 7」ロードマップをUnite Seoulで発表　CoreCLR採用による高速化やSurface Cache GIの実装など - ニュース",
       "url": "https://cgworld.jp/flashnews/01-202607-Unity7.html",
@@ -10,6 +145,15 @@
       "importance": "high",
       "published": "2026-07-22T22:45:41",
       "image": "https://cgworld.jp/flashnews/assets_c/2026/07/Unity7-01-thumb-1920x1080-86831.jpg"
+    },
+    {
+      "title": "UE5用リアルタイムオーシャンシステムプラグイン「Easy Waterscape」リリース　高速フーリエ変換海面シミュレーションをブループリント1つで実現 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202607-EasyWaterscape.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-23T23:50:09",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/UE_EasyWaterscape-01-thumb-1920x1080-86868.jpg"
     },
     {
       "title": "第9回 プラチナゲームズ 後編：越境と専門性を両立させる育成のしくみ - 連載",
@@ -21,166 +165,40 @@
       "image": "https://cgworld.jp/regular/assets_c/2026/07/d526ee07a53d1ee4f405d28767b0435f7768a502-thumb-1000x667-86286.jpg"
     },
     {
-      "title": "アーティスト・コレクティブGOLEM、フィギュアと彫刻を横断する8名の作家による企画展を8/14から開催 8/22にはトークイベントも実施 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202607-GOLEM.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-07-22T23:04:18",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/GOLEM-00b-thumb-1920x1080-86838.jpg"
-    },
-    {
-      "title": "エプソン、メーカー整備・保証付き中古PC『リユースPC』のトライアル販売を開始 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202607-Epson.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-07-22T02:48:31",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/260722_1_h-thumb-1920x1345-86766.jpg"
-    },
-    {
-      "title": "第9回 プラチナゲームズ 前編：職種を越えて「ゲームを面白くする」人を育てる - 連載",
-      "url": "https://cgworld.jp/regular/202607-manabi9-1.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-07-22T01:30:00",
-      "image": "https://cgworld.jp/regular/assets_c/2026/07/4f5cf045243c81c213c1cf940c7ca2a18b07f1c6-thumb-1000x667-86298.jpg"
-    },
-    {
-      "title": "インド屋台・ド派手料理シム『Mumbai Chef – Junk Food Simulator』発表。氷は石で砕き鍋は手でかき混ぜる、豪快パフォーマンスクッキング",
-      "url": "https://automaton-media.com/articles/newsjp/mumbai-chef-20260723-456213/",
-      "source": "Automaton",
-      "category": "release",
+      "title": "Unity&Epic協業による技術デモの発表や、Unity公式2Dサンプルゲーム『Bunny Blitz』のリリースも。「Unite Seoul 2026」基調講演のアーカイブが公開中",
+      "url": "https://gamemakers.jp/article/2026_07_22_141716/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
       "importance": "high",
-      "published": "2026-07-23T01:21:34",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/mumbai-chef-20260723-456213-header.jpg"
+      "published": "2026-07-22T07:28:58",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/2ef3587720b41215cf45dbfe2a9386bb.jpg"
     },
     {
-      "title": "人気メダル落としゲーム新作『古銭プッシャー外伝』発表。「珠」を落として妖怪洞窟探索、デッキ構築に“最大4人レイド”まで新要素てんこ盛り",
-      "url": "https://automaton-media.com/articles/newsjp/20260723-456178/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-22T15:00:01",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260723-456178-header.jpg"
-    },
-    {
-      "title": "人気SRPG最新作『ラングリッサー：剣の海』発表。“大胆な革新”を掲げる、『ラングリッサー』基本プレイ無料完全新作",
-      "url": "https://automaton-media.com/articles/newsjp/20260722-456142/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-22T07:36:21",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260722-456142-header.jpg"
-    },
-    {
-      "title": "NVIDIA、GPUブランド「GeForce」の“トレーディングカード”発表。歴代“カード”が本当にカード化",
-      "url": "https://automaton-media.com/articles/newsjp/20260722-456136/",
-      "source": "Automaton",
+      "title": "大規模ゲーム開発へ最大15億円補助する経産省の支援事業「IP360」、採択結果が出そろう。スタートアップ支援「創風」への申請は819件、ゲーム分野は15件採択",
+      "url": "https://gamemakers.jp/article/2026_07_23_141860/",
+      "source": "ゲームメーカーズ",
       "category": "business",
-      "importance": "high",
-      "published": "2026-07-22T07:26:07",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260722-456136-005.jpg"
-    },
-    {
-      "title": "異界温泉宿ホラーシム『異界ノ宿帳』発表。「付喪神」をもてなす旅館仕事、ただし夜は“ケガレ”が恐怖を引き起こす",
-      "url": "https://automaton-media.com/articles/newsjp/20260722-456119/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-22T05:40:23",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260722-456119-header.jpg"
-    },
-    {
-      "title": "『ゼルダの伝説 ティアーズ オブ ザ キングダム』のリンク、ゼルダ、ガノンドロフの可動フィギュアが海外向けに発表。それぞれ20カ所以上の可動域があり、付属品も含め複数のポージングが可能",
-      "url": "https://news.denfaminicogamer.jp/news/260723e",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-22T23:23:28",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/Snapshot_31.jpg"
-    },
-    {
-      "title": "「ブシロード新春大発表会2027」が2027年1月8日に開催決定。ブシロードが創立20周年を迎える同年には、「カードゲーム祭2027」やミルキィホームズ出演の記念ライブも開催",
-      "url": "https://news.denfaminicogamer.jp/news/2607222w",
-      "source": "電ファミニコゲーマー",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-07-22T12:46:53",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/2-4.png"
-    },
-    {
-      "title": "初代Xboxの作品がPCでプレイ可能になる「XBOX on PC 後方互換機能」発表。早期リリースとして4作品がプレイ可能に。『クリムゾンスカイ』『ブリンクス・ザ・ タイムスイーパー』などの4作が遊べる",
-      "url": "https://news.denfaminicogamer.jp/?p=1589548",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": null,
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/XBOX-Backward-Compatibility-on-PC-2-c1588b8f23e00a802283-scaled-1.jpg"
-    },
-    {
-      "title": "アーケードゲーム『ドンキーコング』のレゴブロックが欲しすぎる。転がってくるタルをジャンプで避けるアクションギミックを搭載、8月1日より一般販売を開始",
-      "url": "https://news.denfaminicogamer.jp/news/260723j",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
       "importance": "normal",
-      "published": "2026-07-23T01:09:00",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/main-135.jpg"
+      "published": "2026-07-23T13:28:33",
+      "image": null
     },
     {
-      "title": "『スト6』新キャラ「ヤスミン」先行体験！　ナイフ片手に手数で攻めるスピードキャラながら、自己強化技や裏表の見えにくい攻撃も備え、多彩な戦い方が楽しめそう。技名もカッコよかったので、わかる範囲で訳してみた",
-      "url": "https://news.denfaminicogamer.jp/kikakuthetower/260723s",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
+      "title": "森に作られた弓矢の訓練場がテーマの3Dモデルパック『Mini Forest』、Webサイト「Kenney」で無料公開",
+      "url": "https://gamemakers.jp/article/2026_07_23_141752/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
       "importance": "normal",
-      "published": "2026-07-22T23:00:35",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/2f0c72a90f617cc5aa027ddf0cf4fcaa.png"
+      "published": "2026-07-23T03:59:30",
+      "image": null
     },
     {
-      "title": "和風アクション「GUREI 愚霊」，PC/コンシューマ版を発売。ブラジルのLobo Sagaz studioが，チャンバラ映画をモデルに制作",
-      "url": "https://www.4gamer.net/games/917/G091721/20260722042/",
-      "source": "4Gamer.net",
-      "category": "release",
+      "title": "Unity 6でシェーダーコンパイルのスタッターを防止する「GraphicsStateCollection」の活用術、サイバーエージェント「コアテク」がブログ記事で解説",
+      "url": "https://gamemakers.jp/article/2026_07_22_141648/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
       "importance": "normal",
-      "published": "2026-07-23T01:00:00",
-      "image": "https://www.4gamer.net/games/917/G091721/20260722042/SS/004.jpg"
-    },
-    {
-      "title": "「るぅみマスター」は，お手軽にたくさんのモンスターを捕まえて育てられる。遊びやすさとシーズン制での豊富なコンテンツがウリ［BW2026］",
-      "url": "https://www.4gamer.net/games/002/G100250/20260722038/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-23T00:00:00",
-      "image": "https://www.4gamer.net/games/002/G100250/20260722038/SS/006.jpg"
-    },
-    {
-      "title": "スマホゲームのセルラン分析（2026年7月9日〜7月15日）。今週の1位は「Pok&#233;mon GO」。4月〜6月のパブリッシャ別国内収益ランキングも",
-      "url": "https://www.4gamer.net/games/316/G031663/20260721020/",
-      "source": "4Gamer.net",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-07-23T00:00:00",
-      "image": "https://www.4gamer.net/games/316/G031663/20260721020/SS/002.jpg"
-    },
-    {
-      "title": "［プレイレポ］腕前が重要？　レベルで押し切る？　「スプラトゥーン レイダース」は\"物語のひと区切り\"を迎えただけでは判断できないゲームだった",
-      "url": "https://www.4gamer.net/games/919/G091973/20260721005/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-07-22T23:00:00",
-      "image": "https://www.4gamer.net/games/919/G091973/20260721005/SS/001.jpg"
-    },
-    {
-      "title": "［プレイレポ］「ストリートファイター6」新キャラクター「ヤスミン」。手数と機動力を武器に攻め続けるラッシュ型ファイターの実力をチェック",
-      "url": "https://www.4gamer.net/games/635/G063504/20260723004/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-07-22T23:00:00",
-      "image": "https://www.4gamer.net/games/635/G063504/20260723004/SS/023.jpg"
+      "published": "2026-07-22T09:54:30",
+      "image": null
     },
     {
       "title": "「ヤスミン」CPU戦 レベル7 『ストリートファイター6』実機プレイ映像",
@@ -192,15 +210,6 @@
       "image": "https://sm.ign.com/ign_jp/screenshot/default/yasminthumb_ufmm.png"
     },
     {
-      "title": "ハイレゾ音源がワイヤレスで楽しめるヘッドホン「Anker Soundcore Space Q45」がAmazonで33%オフでタイムセール中",
-      "url": "https://jp.ign.com/gaming-device/76868/news/anker-soundcore-space-q451000amazon",
-      "source": "IGN Japan",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-07-22T12:32:10",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_8zup.jpg"
-    },
-    {
       "title": "GoogleがGemini新モデル3本を同時発表、AIエージェント向けに効率・速度・コストを強化",
       "url": "https://www.gamebusiness.jp/article/2026/07/23/27529.html",
       "source": "GameBusiness.jp",
@@ -210,28 +219,28 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/189973.jpg"
     },
     {
+      "title": "11年ぶり新作『リズム天国 ミラクルスターズ』、過去に「よく似た違うシリーズ出しませんか」との話もあった。つんく♂noteで心境語り任天堂前社長の岩田聡についても言及",
+      "url": "https://www.gamebusiness.jp/article/2026/07/23/27534.html",
+      "source": "GameBusiness.jp",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-22T22:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189899.png"
+    },
+    {
       "title": "自民党、「トレーディングカード」の議員連盟を発足との報道。「オリパ」ことオリジナルパック業界のロビイングに向けてか",
       "url": "https://www.gamebusiness.jp/article/2026/07/23/27535.html",
       "source": "GameBusiness.jp",
-      "category": "industry",
+      "category": "business",
       "importance": "normal",
       "published": "2026-07-22T22:45:02",
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/189889.jpg"
     },
     {
-      "title": "11年ぶり新作『リズム天国 ミラクルスターズ』、過去に「よく似た違うシリーズ出しませんか」との話もあった。つんく♂noteで心境語り任天堂前社長の岩田聡についても言及",
-      "url": "https://www.gamebusiness.jp/article/2026/07/23/27534.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-07-22T22:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/189899.png"
-    },
-    {
       "title": "「復旧不能」とされたMicrosoftアカウント問題、サポート体制に改善の動きか―クラウド時代のデジタル所有権にも注目",
       "url": "https://www.gamebusiness.jp/article/2026/07/23/27533.html",
       "source": "GameBusiness.jp",
-      "category": "industry",
+      "category": "business",
       "importance": "normal",
       "published": "2026-07-22T22:15:02",
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/189908.jpg"
@@ -240,7 +249,7 @@
       "title": "Anthropic相手に作家らが起こした著作権侵害訴訟、15億ドルの和解案が承認",
       "url": "https://www.gamebusiness.jp/article/2026/07/23/27532.html",
       "source": "GameBusiness.jp",
-      "category": "industry",
+      "category": "business",
       "importance": "normal",
       "published": "2026-07-22T22:00:03",
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/189915.jpg"
