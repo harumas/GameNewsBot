@@ -1,15 +1,33 @@
 {
-  "generated_at": "2026-07-25T01:43:07.660848",
-  "poem": "おはようございます！ 🌞\nゲーム業界は今も活発に動いています。新しいコラボやゲームの発表、セールなどが続々と行われています。特に『崩壊：スターレイル』の「Fate」コラボが話題ですね！\nそれでは今日のニュースをどうぞ！ 🎮",
+  "generated_at": "2026-07-26T01:47:34.743834",
+  "poem": "おはようございます！ 🌞\n今日はゲーム業界でいろいろなニュースが飛び交っています。注目度の高い『ゴッド・オブ・ウォー ラウフェイ』のリリースが発表されたり、ベセスダのレイオフに関する動きが話題になっています ✨\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "本日配信『崩壊：スターレイル』の「Fate」コラボキャラ再現度、第2期も“めっちゃすごい”。『スタレ』未プレイFateオタクがビビった「遠坂凛」「ギルガメッシュ」の解像度",
-      "url": "https://automaton-media.com/articles/columnjp/starrail-20260724-456500/",
+      "title": "Steamユーザーの約半数は、レビューが「賛否両論」以下だと購入をためらうという調査結果。“レビューステータス”はやっぱり売上への影響大きめ",
+      "url": "https://automaton-media.com/articles/newsjp/20260725-456647/",
       "source": "Automaton",
-      "category": "other",
+      "category": "business",
       "importance": "high",
-      "published": "2026-07-24T06:44:51",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/starrail-20260724-456500-header.jpg"
+      "published": "2026-07-25T07:33:52",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260725-456647-header.jpg"
+    },
+    {
+      "title": "『Forza Horizon 6』はエントリー級ゲーミングノートPCでも快適に遊べるのか検証してみた。遊べた。「DLSS 4.5」によりWQHD165fpsのヌルサク動作、超高速で駆ける美麗日本",
+      "url": "https://automaton-media.com/articles/columnjp/20260725-456609/",
+      "source": "Automaton",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-07-25T04:22:54",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260725-456609-001.jpeg"
+    },
+    {
+      "title": "チラズアート新作・雪かきホラーゲーム『雪葬（Snowed Under）』発表。鉄塔へ向かう雪の下には、“いろいろなもの”が眠る",
+      "url": "https://automaton-media.com/articles/newsjp/snowed-under-20260725-456696/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-25T13:39:12",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/snowed-under-20260725-456696-header.jpg"
     },
     {
       "title": "超能力推理ADV『Staffer Retro: 超能力推理クエスト』わずか1日で売上1万本突破。評判も上々、高評価な前作に続き波に乗る",
@@ -21,121 +39,22 @@
       "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260724-456594-header.jpg"
     },
     {
-      "title": "あるSteamゲーム開発者、「新規勢の99％が海賊版プレイヤー」と頭を抱える。サーバーを落とされ、売上もごっそり減る悪夢",
-      "url": "https://automaton-media.com/articles/newsjp/20260724-456577/",
+      "title": "『ゴッド・オブ・ウォー』新作『ゴッド・オブ・ウォー ラウフェイ』、来年2月16日リリースへ。クレイトスの妻「フェイ」の視点で描かれる新たな物語",
+      "url": "https://automaton-media.com/articles/newsjp/god-of-war-laufey-20260725-456633/",
       "source": "Automaton",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-07-24T10:14:53",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260724-456577-header.jpg"
-    },
-    {
-      "title": "『ライザのアトリエ』ASMRまさかの第2弾「ライザのアトリエ クラウディアASMR ～安らぎの時間と明日への旅路～」発表。クラウディアとライザが過ごす、隠れ家でのやさしい時間",
-      "url": "https://automaton-media.com/articles/newsjp/20260724-456567/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-07-24T09:26:39",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260724-456567-header.jpg"
-    },
-    {
-      "title": "最大6人協力・はた迷惑ギャンブルゲーム『Gamble With Your Friends』大型アプデで日本語対応。“お財布共有”して挑む大博打、アイテム説明などがグッとわかりやすく",
-      "url": "https://automaton-media.com/articles/newsjp/20260725-456621/",
-      "source": "Automaton",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-07-25T01:18:19",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260725-456621-header.jpg"
-    },
-    {
-      "title": "カプセルトイ「めっちゃカメレオン わっかチャーム」が11月に発売決定。身を隠す際に使うポーズのフィギュア付きチャームが全7種類",
-      "url": "https://www.4gamer.net/games/007/G100712/20260724059/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-07-24T11:37:42",
-      "image": "https://www.4gamer.net/games/007/G100712/20260724059/SS/001.jpg"
-    },
-    {
-      "title": "絶滅寸前の鳥類を保護するドームを巡り，鳥を研究・記録して図鑑を埋めていく。バードウォッチングを題材にしたデッキ構築カードゲーム「Feather Trace」発表",
-      "url": "https://www.4gamer.net/games/027/G102765/20260724058/",
-      "source": "4Gamer.net",
       "category": "release",
       "importance": "high",
-      "published": "2026-07-24T11:33:31",
-      "image": "https://www.4gamer.net/games/027/G102765/20260724058/SS/006.jpg"
+      "published": "2026-07-25T03:46:58",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/god-of-war-laufey-20260725-456633-header.jpg"
     },
     {
-      "title": "「ウマ娘」新シナリオはラーメンが主役！東京代表「ガッツリ豚ラーメン」を本気で再現。俺のコラボカフェ：Menu 090",
-      "url": "https://www.4gamer.net/games/448/G044868/20260724047/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-07-25T01:15:00",
-      "image": "https://www.4gamer.net/games/448/G044868/20260724047/SS/008.jpg"
-    },
-    {
-      "title": "「スプラトゥーン レイダース」初心者ガイド。これで“気がついたら囲まれていた”から卒業！　レイダース10箇条",
-      "url": "https://www.4gamer.net/games/919/G091973/20260724037/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-07-25T01:00:00",
-      "image": "https://www.4gamer.net/games/919/G091973/20260724037/SS/001.jpg"
-    },
-    {
-      "title": "「三國志14 with パワーアップキット Complete Edition」，Steamでプレオーダーを開始。「軍情」「功労」「天の時」などの情報も明らかに",
-      "url": "https://www.4gamer.net/games/018/G101804/20260724068/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-24T14:14:41",
-      "image": "https://www.4gamer.net/games/018/G101804/20260724068/SS/003.jpg"
-    },
-    {
-      "title": "『ライザのアトリエ』クラウディアのASMR音声作品がDLsiteにて発売決定。望郷岬でのピクニックや、秘密の隠れ家を舞台とした場面が収められる",
-      "url": "https://news.denfaminicogamer.jp/news/2607243l",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
+      "title": "「レイオフは『TES6』に影響しない」「『オブリビオン』リマスターに最適化を反映させたい」ベセスダがYouTuberからのインタビューに回答",
+      "url": "https://www.gamebusiness.jp/article/2026/07/26/27552.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
       "importance": "high",
-      "published": "2026-07-24T12:06:59",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/45331478406ee80ca6ddac7e270ebd39-1.jpg"
-    },
-    {
-      "title": "ミシュラン公認のレストラン経営ゲーム『シェフライフ レストランシミュレーター』が最大「85％オフ」セールを開催中。内装、仕入れ、レシピ開発、調理盛り付け、人事などすべてを担い、シェフの名誉“三つ星”獲得を目指す",
-      "url": "https://news.denfaminicogamer.jp/news/260725d",
-      "source": "電ファミニコゲーマー",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-07-25T00:44:09",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/ss_242b72dd7328af615c17b990068971d3d196b717.1920x1080.jpg"
-    },
-    {
-      "title": "『ファイアーエムブレム 万紫千紅』の“お母さん”キャラ「ミカエラ（声：平田宏美さん）」が国内外で人気爆発。一人娘の養育費を稼ぐためやってきた元傭兵で、現役時代は「鉄血のミカエラ」と呼ばれるほどの実力者",
-      "url": "https://news.denfaminicogamer.jp/news/260725c",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-07-24T23:27:56",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/HN9GThkbwAAWVzm.jpg"
-    },
-    {
-      "title": "いち傭兵としてファンタジー世界を生き抜くアクションRPG『Forsaken Realms: Vahrin’s Call』が面白そう。生成AIは不使用で、戦闘スタイルもプレイヤー次第で自在に変更可能。7月27日に発売予定",
-      "url": "https://news.denfaminicogamer.jp/news/260725a",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-24T21:59:22",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/Snapshot_38.jpg"
-    },
-    {
-      "title": "プレイステーションネットワークで7月24日20時ごろより障害発生中。サインインやゲーム起動などネットワークサービスが利用しづらい状況が発生。翌日に復旧",
-      "url": "https://news.denfaminicogamer.jp/news/2607243s",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-07-24T14:53:59",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/ps-default-listing-thumb-05oct20.webp"
+      "published": "2026-07-25T21:45:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/190205.jpg"
     },
     {
       "title": "『TES』『Fallout』今後の展開発表の裏で…ベセスダのレイオフ対象者が「労組を通さない最低賃金」での退職を通知されていた―労組は法的措置を表明",
@@ -147,40 +66,121 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/190162.jpg"
     },
     {
-      "title": "Google、パスワードを忘れても「自撮り動画でログイン」可能に。スマホを紛失しても利用可能、年齢確認やAIアバターにも活用",
-      "url": "https://www.gamebusiness.jp/article/2026/07/25/27548.html",
-      "source": "GameBusiness.jp",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-07-24T23:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/190055.jpg"
-    },
-    {
-      "title": "『アサシン クリード ブラック フラッグ RE:シンクロ』発売14日で“350万本”突破！ユービーアイの年間予想を早くも上回る",
-      "url": "https://www.gamebusiness.jp/article/2026/07/25/27544.html",
+      "title": "シリーズ完全新作『Tomb Raider: Catalyst』2028年に発売延期。ララ・クロフトの新たな冒険描く",
+      "url": "https://www.gamebusiness.jp/article/2026/07/26/27553.html",
       "source": "GameBusiness.jp",
       "category": "release",
       "importance": "high",
-      "published": "2026-07-24T22:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/190081.jpg"
+      "published": "2026-07-25T22:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/190237.png"
     },
     {
-      "title": "OpenAI、未公開AIモデルが試験環境から逸脱。Hugging Faceサーバーに侵入する前例のない事案に発展",
-      "url": "https://www.gamebusiness.jp/article/2026/07/24/27536.html",
+      "title": "吉田修平氏が約30年で出会ったクリエイターたちの創造力を振り返る。『クラッシュ』や『Demon's Souls』などの裏話も【CEDEC 2026】",
+      "url": "https://www.gamebusiness.jp/article/2026/07/26/27554.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-07-26T01:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/190189.png"
+    },
+    {
+      "title": "Claude Opus 5提供開始、Fable 5に迫る性能で半額―エージェント用途の判断力とタスク完遂力を向上、GPT-5.6 Sol投入から2週間",
+      "url": "https://www.gamebusiness.jp/article/2026/07/26/27550.html",
       "source": "GameBusiness.jp",
       "category": "tech",
-      "importance": "high",
-      "published": "2026-07-23T21:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/190011.jpg"
+      "importance": "normal",
+      "published": "2026-07-25T21:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/190218.jpg"
     },
     {
-      "title": "「CC11」王者の元プロゲーマー・翔氏が、VARREL所属ときど選手のコーチに就任したと報告",
-      "url": "https://www.gamebusiness.jp/article/2026/07/25/27547.html",
-      "source": "GameBusiness.jp",
-      "category": "esports",
+      "title": "『ヱヴァンゲリヲン 新劇場版』アスカと綾波の日本人形が発売決定。高級ブランドF:NEXの新商品として、人形の老舗「吉徳」とコラボし本格的な着物を纏って登場。フィギュアのボディに実際に袖を通す本格的な商品。予約受付中",
+      "url": "https://news.denfaminicogamer.jp/news/260725f",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-07-25T02:41:48",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/main-157.jpg"
+    },
+    {
+      "title": "『めっちゃカメレオン』公式Discordが乗っ取り被害に。参加中のユーザーには一時退出を推奨し、不審なリンクを開かないよう呼びかけ。開発者は「ゲーム本体にウイルスは100%ない」と説明",
+      "url": "https://news.denfaminicogamer.jp/news/260726b",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-07-24T23:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/190064.jpg"
+      "published": "2026-07-26T00:26:33",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/ss_6c0a47cc2fba1b160901d1553637a764198bdc98.1920x1080-3.jpg"
+    },
+    {
+      "title": "昭和日本に発生した“異界”を探査するサバイバルTPS『アノマリス／ANOMALITH』の体験版が配信決定。8月1日から1週間の期間限定",
+      "url": "https://news.denfaminicogamer.jp/news/260725o",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-25T15:14:48",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/51b110ca7c40f7032f3008ed83f51672.jpg"
+    },
+    {
+      "title": "『めっちゃカメレオン』にホラーゲーム『Garten of Banban』のコラボマップ「バンバンの幼稚園」が追加",
+      "url": "https://news.denfaminicogamer.jp/news/260725n",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-07-25T12:26:24",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/HOEnEtDbAAAAzdW.jpeg"
+    },
+    {
+      "title": "『FF14』新たな8人レイドは『FF7』がテーマ。ジョブ「バスティオン」や『エヴァ』コラボ映像など今後の新情報が公開",
+      "url": "https://news.denfaminicogamer.jp/news/260725m",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-07-25T08:27:07",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/cb3632d1cbee7b4c7dcfdbf575740e8e.png"
+    },
+    {
+      "title": "「FFXIV：白銀のワンダラー」で登場する最新ジョブ“バスティオン”発表。魔甲と呼ばれる武器で戦うタンクだ",
+      "url": "https://www.4gamer.net/games/199/G019924/20260725003/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-07-25T08:35:37",
+      "image": "https://www.4gamer.net/games/199/G019924/20260725003/SS/002.jpg"
+    },
+    {
+      "title": "Nintendo Switch 2版「ファイナルファンタジーXIV」は8月4日に発売",
+      "url": "https://www.4gamer.net/games/002/G100259/20260725006/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-25T10:48:14",
+      "image": "https://www.4gamer.net/games/002/G100259/20260725006/SS/001.jpg"
+    },
+    {
+      "title": "「God of War Laufey」，2027年2月16日のリリース決定。クレイトスの妻ラウフェイの戦いを描く「God of War」シリーズ最新作",
+      "url": "https://www.4gamer.net/games/012/G101200/20260725004/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-25T08:14:31",
+      "image": "https://www.4gamer.net/games/012/G101200/20260725004/SS/003.jpg"
+    },
+    {
+      "title": "「地獄降輪」，ボイスドラマEpisode1を公開。血の池（CV：沢城千春），海（CV：高橋怜也），龍巻（CV：森久保祥太郎）が登場",
+      "url": "https://www.4gamer.net/games/010/G101096/20260724051/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-07-25T12:00:00",
+      "image": "https://www.4gamer.net/games/010/G101096/20260724051/SS/005.png"
+    },
+    {
+      "title": "「アノマリス／ANOMALITH」「クライムライト／CRYMELIGHT」，8月1日にSteamでスタートする「Six One Demo Days」に出展決定",
+      "url": "https://www.4gamer.net/games/008/G100858/20260724033/",
+      "source": "4Gamer.net",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-07-25T11:00:00",
+      "image": "https://www.4gamer.net/games/008/G100858/20260724033/SS/001.jpg"
     },
     {
       "title": "「NVIDIA NemoClaw」×「NVIDIA DGX Spark」ではじめる自分専用AIエージェント　第1回：「自分専用AIエージェント」をつくる時代へ - スペシャルコンテンツ",
@@ -190,60 +190,6 @@
       "importance": "normal",
       "published": "2026-07-24T10:30:26",
       "image": "https://cgworld.jp/special-feature/assets_c/2026/07/nemoclaw01_top_v2-thumb-1920x1080-86899.jpg"
-    },
-    {
-      "title": "UE5用リアルタイムオーシャンシステムプラグイン「Easy Waterscape」リリース　高速フーリエ変換海面シミュレーションをブループリント1つで実現 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202607-EasyWaterscape.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-23T23:50:09",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/UE_EasyWaterscape-01-thumb-1920x1080-86868.jpg"
-    },
-    {
-      "title": "絵の上達に必要なこと。『エソラ流お絵かき クリエイター思考活性術』8月25日オンライン開催 - ニュース",
-      "url": "https://cgworld.jp/flashnews/2607-plusone-yakuki.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-23T03:20:30",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/298_seminar_esora_full%20%281%29-thumb-1920x1080-86852.jpg"
-    },
-    {
-      "title": "ピクセルアーティストのキャリア形成術などを学べる「ピクセルアートの学校」、第2シーズンの講義動画が期間限定で公開",
-      "url": "https://gamemakers.jp/article/2026_07_24_141945/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-24T06:59:42",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/760bcead9fcef22aebc0c2152f9af612.jpg"
-    },
-    {
-      "title": "サムザップ内製のUnityデバッグツール「Spica.Debugger」はUI Toolkitで構築。高い拡張性を実現した内部実装をブログで解説",
-      "url": "https://gamemakers.jp/article/2026_07_24_141823/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-24T02:06:45",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/be144136f8130a8e42c0efefcc9d0afc.jpg"
-    },
-    {
-      "title": "大規模ゲーム開発へ最大15億円補助する経産省の支援事業「IP360」、採択結果が出そろう。スタートアップ支援「創風」への申請は819件、ゲーム分野は15件採択",
-      "url": "https://gamemakers.jp/article/2026_07_23_141860/",
-      "source": "ゲームメーカーズ",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-07-23T13:28:33",
-      "image": null
-    },
-    {
-      "title": "森に作られた弓矢の訓練場がテーマの3Dモデルパック『Mini Forest』、Webサイト「Kenney」で無料公開",
-      "url": "https://gamemakers.jp/article/2026_07_23_141752/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-23T03:59:30",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/c7b65da085bc6c6b63c92a511c1055b3.jpg"
     }
   ]
 }
