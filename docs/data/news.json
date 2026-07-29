@@ -1,258 +1,285 @@
 {
-  "generated_at": "2026-07-28T01:27:46.050539",
-  "poem": "おはようございます！ 🌞\nゲーム業界はいつも如く賑わっています。新しいゲームやコラボレーションが発表され、「The Duskbloods」のネットワークテストへの参加応募も開始されています。\nそれでは今日のニュースをどうぞ！ 🎮",
+  "generated_at": "2026-07-29T01:28:15.845538",
+  "poem": "おはようございます！ 🌞\nゲーム業界は今、様々な分野で革新的でワクワクする展開を見せています！ \nショートアニメ制作や新しいゲームエンジンの開発、オンラインイベントなど、注目すべきニュースがたくさんです！ \nそれでは今日のニュースをどうぞ！ 🎮",
   "articles": [
+    {
+      "title": "登録者数4,020万（アメリカ）＋122万（日本語版）人 「ライアンズ・ワールド」で展開するショートアニメ制作 〜（2） VRモデリングソフト「Gravity Sketch」導入による直感的なプリビズ制作 - 特集",
+      "url": "https://cgworld.jp/article/2602-ryansworld02.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-07-29T09:00:23",
+      "image": "https://cgworld.jp/article/assets_c/2026/02/02maijn_RSQ_02-thumb-1000x563-79622.jpg"
+    },
+    {
+      "title": "SideFX、Netflix『プークーと魔法の植物』におけるHoudiniのVFXブレイクダウン動画公開　Annecy HIVE 2026でのSkydanceによる講演 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202607-Houdini-Swapped.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-07-28T23:13:46",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/Houdini_Swapped-01-thumb-1920x1080-86987.jpg"
+    },
+    {
+      "title": "【サイコム】デュアル水冷システムのワークステーション最上位モデルで実現。神戸雄平が求める\"途切れないクリエイティブ思考\"｜Boost with Sycom #05 - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/202607-sycom-kanbeyuhei-05.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-28T11:15:25",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/07/top_sycom_boost_05_02-thumb-1920x1080-86985.jpg"
+    },
+    {
+      "title": "【早期割引20％OFFチケット販売中】アニメーター必見オンラインフェス『CGWORLD MASTERCLASS ONLINE vol.22』8月22日～23日に2DAYS開催！ - ニュース",
+      "url": "https://cgworld.jp/flashnews/0822-plusone-masterclass22.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-07-28T08:15:44",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/20ebe2cc8754aba61563e35e4cb394108112f0e6-thumb-1329x726-86932.png"
+    },
     {
       "title": "登録者数4,020万（アメリカ）＋122万（日本語版）人 「ライアンズ・ワールド」で展開するショートアニメ制作 〜（1）りょーちも監督とOnakamaが挑むBlenderを活用したアニメ制作の\"解放\" - 特集",
       "url": "https://cgworld.jp/article/2602-ryansworld01.html",
       "source": "CGWORLD",
-      "category": "other",
+      "category": "cg",
       "importance": "normal",
       "published": "2026-07-28T04:00:17",
       "image": "https://cgworld.jp/article/assets_c/2026/02/01main-thumb-1000x563-79609.jpg"
     },
     {
-      "title": "デジタル・フロンティア、OpenPBR検証記事「OpenPBRのすゝめ ツールに依存しない新しい標準マテリアル」を公式noteで公開 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202607-DF-OpenPBR.html",
-      "source": "CGWORLD",
+      "title": "美少女精神崩壊デッキ構築ローグライク『カオスゼロナイトメア』に、新レンジャー「ヒルデ」発表。“上方調整方針”で迎える新シーズンまもなく開幕",
+      "url": "https://automaton-media.com/articles/newsjp/20260729-457109/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-29T00:58:42",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260729-457109-header.jpg"
+    },
+    {
+      "title": "大ヒットローグライト『BALL x PIT』、“最後”の無料大型アプデ8月6日配信へ。「ボール枠2倍」の新キャラや新ボール11種など追加要素ドカ盛り",
+      "url": "https://automaton-media.com/articles/newsjp/20260729-457100/",
+      "source": "Automaton",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-07-28T23:26:11",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260729-457100-header.jpg"
+    },
+    {
+      "title": "癒し系・ガンスミスシム『Wasteland Gunsmith Simulator』発表。キャンピングカーでボロボロの銃を磨き上げ、高値で“ギャングに売りさばく”世紀末スローライフ",
+      "url": "https://automaton-media.com/articles/newsjp/20260728-456953/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-28T02:42:29",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260728-456953-header.jpg"
+    },
+    {
+      "title": "元Unreal Engineのベテラン開発者集結、野心的“新ゲームエンジン”開発中。UE＆Unityに代わる「AIネイティブ」エンジン目指す",
+      "url": "https://automaton-media.com/articles/newsjp/20260728-456977/",
+      "source": "Automaton",
       "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-27T23:08:33",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/DF_OpenPBR-01-thumb-1920x1005-86944.jpg"
+      "importance": "high",
+      "published": "2026-07-28T03:31:52",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260728-456970-header-1.jpg"
     },
     {
-      "title": "《エフェクト》3DCG作品を大募集！　連載企画「CGWORLD GALLERY」応募受付は8/23（日）まで - ニュース",
-      "url": "https://cgworld.jp/flashnews/cgwg-v033.html",
-      "source": "CGWORLD",
-      "category": "cg",
+      "title": "“ぬるぬる液晶風”カルト撲滅アクション『Future Knight』8月14日配信へ。滑らかピクセルの名手『Narita Boy』開発元が放つ新作は、ますます濃厚奇ゲーに",
+      "url": "https://automaton-media.com/articles/newsjp/20260729-457093/",
+      "source": "Automaton",
+      "category": "release",
       "importance": "normal",
-      "published": "2026-07-27T09:00:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/vol.033_gallery_banner_33_web-thumb-1000x563-86929.jpg"
+      "published": "2026-07-28T23:07:22",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260729-457093-header.jpg"
     },
     {
-      "title": "【来週8/8開催】Chiharu氏による『【Blender Fes Extra】Kawaii！イラストルックな3Dアバターモデリング』が8/8(土)にオンライン開催決定！ - ニュース",
-      "url": "https://cgworld.jp/flashnews/chiharublender-fes-extrakawaii3d88.html",
-      "source": "CGWORLD",
-      "category": "cg",
+      "title": "B級ホラー映画『キラートマト』シリーズ“35年ぶり”新作『ORGANIC INTELLIGENCE』の予告映像が公開。より素早く、より賢くなって帰ってきた「殺人トマト」との戦いが描かれる",
+      "url": "https://news.denfaminicogamer.jp/news/260729i",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
       "importance": "normal",
-      "published": "2026-07-27T08:34:40",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/06/277_seminar_bfex_kawaii_full%20%282%29-thumb-1920x1080-84868.jpg"
+      "published": "2026-07-29T00:10:09",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/6a5e76cbf16c0e894cf11229_organicintelligence1-p-1080.webp"
     },
     {
-      "title": "全国CG講師求人情報まとめ。授業内容、使用ツール、ギャランティを一挙紹介【2026年6月更新】  - スペシャルコンテンツ",
-      "url": "https://cgworld.jp/special-feature/recruit-cgteacher-202604.html",
-      "source": "CGWORLD",
+      "title": "『ブルーアーカイブ』統括Pが「生徒募集」システムのリニューアルをめぐり謝罪。「ユーザーの負担を軽減したい」と意図を説明しつつ、直前の公開でユーザーに不安を与えてしまったとコメント",
+      "url": "https://news.denfaminicogamer.jp/news/260729j",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-07-29T00:04:35",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/unnamed-3.webp"
+    },
+    {
+      "title": "『クレイジータクシー：ワールドツアー』クローズドネットワークテストへの参加応募が開始。シリーズ初となるオンラインマルチプレイモードを一足先に楽しめる",
+      "url": "https://news.denfaminicogamer.jp/news/260729g",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-28T22:32:15",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/s_ctwt_cnt_ss_03-7a83fdb8.jpg.webp"
+    },
+    {
+      "title": "【最大4人マルチ】「もっと右！」とボイスチャットで連携しながら“イカダ”で川をくだるアクションゲーム『Sponge Break』Steamにて7月31日に発売。川に落ちた仲間をラバーカップで回収、力を合わせてギミックを攻略",
+      "url": "https://news.denfaminicogamer.jp/news/260729h",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-28T22:14:14",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/ss_20bc74272726f6d443cc2973e4b316a39f231701.1920x1080-1.jpg"
+    },
+    {
+      "title": "『ゼンゼロ』×「ウェンディーズ・ファーストキッチン」コラボの最新情報が公開。全国8店舗のフラッグシップ店にて、特別ラッピングのほか、オリジナルメニューやグッズが発売、エレンと狛野真斗による店内放送も",
+      "url": "https://news.denfaminicogamer.jp/news/2607283u",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-28T14:55:12",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/PhotoshopExtension_Image_1-44.png"
+    },
+    {
+      "title": "「黒い砂漠」の大型発表イベント“2026ハイデル宴会”視聴レポート。新クラス“エージェント”や新地域がまもなく実装",
+      "url": "https://www.4gamer.net/games/183/G018339/20260728060/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-07-28T23:00:00",
+      "image": "https://www.4gamer.net/games/183/G018339/20260728060/SS/003.jpg"
+    },
+    {
+      "title": "「ミキとネコの島 -Neko Odyssey-」，新マップ「アキバマップ」を追加する無料アップデートを7月30日に配信",
+      "url": "https://www.4gamer.net/games/729/G072958/20260728055/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "high",
+      "published": "2026-07-28T11:05:01",
+      "image": "https://www.4gamer.net/games/729/G072958/20260728055/SS/001.jpg"
+    },
+    {
+      "title": "XBOXとUbisoftがパートナーシップを拡大。「アサシン クリード ミラージュ」など13タイトル，XBOX版所有者にPC版を追加料金なしで提供",
+      "url": "https://www.4gamer.net/games/654/G065460/20260728059/",
+      "source": "4Gamer.net",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-07-28T11:33:57",
+      "image": "https://www.4gamer.net/games/654/G065460/20260728059/SS/002.jpg"
+    },
+    {
+      "title": "「Ratatan」はなぜ延期になったのか。15〜20人で4ハード10言語を作りきったTVTの開発事例［CEDEC 2026］",
+      "url": "https://www.4gamer.net/games/724/G072426/20260728058/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-28T22:00:00",
+      "image": "https://www.4gamer.net/games/724/G072426/20260728058/SS/019.jpg"
+    },
+    {
+      "title": "「億万長者ゲーム」では，世界各地にビルを持ち，株取引で大儲け！　しかし最後に必要なのは……。　昭和・平成レトロボードゲーム大百科 第17回",
+      "url": "https://www.4gamer.net/games/893/G089329/20260709006/",
+      "source": "4Gamer.net",
       "category": "industry",
       "importance": "normal",
-      "published": "2026-07-27T04:50:00",
-      "image": "https://cgworld.jp/special-feature/assets_c/2026/04/c2b3cc1efb831164a1b1c490127786364eaed02e-thumb-1000x563-81572-thumb-1000x563-81878.jpg"
+      "published": "2026-07-28T22:00:00",
+      "image": "https://www.4gamer.net/games/893/G089329/20260709006/SS/001.jpg"
     },
     {
-      "title": "いつか発生するかもしれない“ゾンビ災害”を想定し，さまざまな対処法を学ぶADV「ZOMBIE防災訓練」，Steam版を発表",
-      "url": "https://www.4gamer.net/games/028/G102807/20260727041/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-27T11:39:39",
-      "image": "https://www.4gamer.net/games/028/G102807/20260727041/SS/002.jpg"
-    },
-    {
-      "title": "6人協力ギャンブルゲーム「Gamble With Your Friends」，アップデートで日本語に対応。リリース1か月で販売本数が200万本を突破した人気作",
-      "url": "https://www.4gamer.net/games/005/G100565/20260727034/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-07-27T10:25:49",
-      "image": "https://www.4gamer.net/games/005/G100565/20260727034/SS/002.jpg"
-    },
-    {
-      "title": "水上アトラクションの地下に，恐ろしい秘密を抱えた研究施設が隠されている。不気味な雰囲気とコメディを組み合わせた3DホラーADV「CALL OF CUTIE」発表",
-      "url": "https://www.4gamer.net/games/028/G102804/20260727029/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-27T09:03:51",
-      "image": "https://www.4gamer.net/games/028/G102804/20260727029/SS/002.jpg"
-    },
-    {
-      "title": "MOBA的なスキル構築を，ターン制の戦場に持ち込んだ意欲作。新作ストラテジーRPG「Dreamsend: Wintersong」，Steamストアページを公開",
-      "url": "https://www.4gamer.net/games/028/G102810/20260728001/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-28T01:24:23",
-      "image": "https://www.4gamer.net/games/028/G102810/20260728001/SS/001.jpg"
-    },
-    {
-      "title": "「Fate/Grand Order」カルデア放送局 11周年SPは8月2日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
-      "url": "https://www.4gamer.net/games/421/G042182/20260727035/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-07-27T23:00:00",
-      "image": "https://www.4gamer.net/games/421/G042182/20260727035/SS/004.jpg"
-    },
-    {
-      "title": "フロム新作『The Duskbloods』ネットワークテストへの参加応募は本日22時59分まで。当選結果は8月7日に発表",
-      "url": "https://news.denfaminicogamer.jp/news/260728c",
-      "source": "電ファミニコゲーマー",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-07-27T23:52:06",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/HNRhyTSbUAETjN3.jpg"
-    },
-    {
-      "title": "『デュエル・マスターズ』と『ストリートファイター6』コラボパックが2027年5月に発売決定！『スト6』プロプレイヤーのカワノ氏やACQUA氏なども反応",
-      "url": "https://news.denfaminicogamer.jp/news/2607273f",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-27T13:33:37",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/HOOmin-acAAO_Rn.png"
-    },
-    {
-      "title": "「BEMANI」と『ホロライブドリームス』コラボが開催決定！『ホロドリ』楽曲が「BEMANI」機種で遊べるように、詳細は後日発表予定",
-      "url": "https://news.denfaminicogamer.jp/news/2607273d",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-07-27T12:49:35",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/HOOr0mtaIAA5pPU.png"
-    },
-    {
-      "title": "『S.T.A.L.K.E.R. 2: Heart of Chornobyl』初の大型DLC「Cost of Hope」が8月20日に配信決定。「チョルノービリ原子力発電所」などの新エリアやクエストを収録し、数十時間規模のボリュームで登場",
-      "url": "https://news.denfaminicogamer.jp/news/2607273h",
-      "source": "電ファミニコゲーマー",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-07-27T15:35:53",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/PhotoshopExtension_Image_13-5.png"
-    },
-    {
-      "title": "【4500円→1575円】『Cult of the Lamb』Switch版の本編+DLC3本セットが65%オフで購入できるセール中。赤き王冠の力を授けられた“子羊”が主人公のカルト教団運営×アクションゲームがお得",
-      "url": "https://news.denfaminicogamer.jp/news/260728u",
-      "source": "電ファミニコゲーマー",
-      "category": "sale",
-      "importance": "normal",
-      "published": "2026-07-28T01:21:18",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/07/d8f1e99ba980ba3baebeffbbb7559eefdb636bbc9b015f4517ba9a31eb7dd1a8.jpeg"
-    },
-    {
-      "title": "ChatGPT Voiceがデスクトップ対応、CodexやWorkも音声モードで指示が可能に―GPT-Liveで相槌も打てる自然な会話実現",
-      "url": "https://www.gamebusiness.jp/article/2026/07/28/27565.html",
-      "source": "GameBusiness.jp",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-07-27T23:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/190343.png"
-    },
-    {
-      "title": "購入しちゃダメ！『めっちゃカメレオン』VR版コピー作『Meccha Chameleon VR』の予約できるストアページが登場―公式も注意喚起",
-      "url": "https://www.gamebusiness.jp/article/2026/07/28/27564.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-07-27T23:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/190351.jpg"
-    },
-    {
-      "title": "マルウェア侵入先は怪しいゲームやModだけじゃない！Steam掲示板にもマルウェア導入手順が仕込まれていることがあると海外メディアが注意喚起",
-      "url": "https://www.gamebusiness.jp/article/2026/07/28/27563.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-07-27T22:45:02",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/190358.jpg"
-    },
-    {
-      "title": "縦型ショートドラマはマンガを育てる新たな一手になるか？STUDIO ZOON×DoFullが挑む同時展開の狙い",
-      "url": "https://www.gamebusiness.jp/article/2026/07/28/27562.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-07-27T22:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/190373.jpg"
-    },
-    {
-      "title": "マイクロアド、CB発行で約22億円調達―AIファクトリー構築に3.67億円、M&A資金に約18億円を充当",
-      "url": "https://www.gamebusiness.jp/article/2026/07/28/27561.html",
+      "title": "ブシロード、木谷高明氏が会長にー新社長は「バンドリ！プロジェクト」総合P・根本雄貴氏、新経営体制が発表",
+      "url": "https://www.gamebusiness.jp/article/2026/07/29/27572.html",
       "source": "GameBusiness.jp",
       "category": "business",
-      "importance": "normal",
-      "published": "2026-07-27T22:15:03",
-      "image": "https://www.gamebusiness.jp/base/images/img_ogp.png"
-    },
-    {
-      "title": "とあるSteam無料ゲーム、“『UNDERTALE』非公式オンラインプレイの踏み台”として使われまくり開発者が困惑。急に増える人と、謎の「ありがとう」レビュー",
-      "url": "https://automaton-media.com/articles/newsjp/20260727-456857/",
-      "source": "Automaton",
-      "category": "other",
       "importance": "high",
-      "published": "2026-07-27T09:17:08",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260727-456857-header.jpg"
+      "published": "2026-07-28T22:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/190498.jpg"
     },
     {
-      "title": "「流体シム」搭載、壊し放題地中PvP『Dirtnap』発表。最大10人バトル、水や溶岩がドバドバ流れるオンラインシューター",
-      "url": "https://automaton-media.com/articles/newsjp/20260727-456858/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-27T05:56:50",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260727-456858-header.jpeg"
-    },
-    {
-      "title": "人気オープンワールドRPG『ドラゴンソード:アウェイクニング』のDLCおとも生物、いまだけ無料配布中。“約1000円相当”が期間限定でタダ",
-      "url": "https://automaton-media.com/articles/newsjp/20260727-456851/",
-      "source": "Automaton",
-      "category": "sale",
-      "importance": "high",
-      "published": "2026-07-27T05:31:09",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260727-456851-header.jpg"
-    },
-    {
-      "title": "国産“タルコフ風”少女PvE脱出シューター『限界サバイ部！』発表。飢えや「尿意」とも戦う、銃撃ゆる過酷サバイバル",
-      "url": "https://automaton-media.com/articles/newsjp/20260727-456822/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-27T02:40:06",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260727-456822-header.jpg"
-    },
-    {
-      "title": "殺伐オープンワールドFPS『S.T.A.L.K.E.R. 2』初大型DLC「Cost of Hope」、8月20日配信へ。ボリューム数十時間規模、「チョルノービリ原子力発電所」も登場する新たな旅",
-      "url": "https://automaton-media.com/articles/newsjp/20260727-456922/",
-      "source": "Automaton",
+      "title": "『ブルーアーカイブ』国外Steam版が“圧倒的に不評”に。ガチャの「天井」システム変更に批判集まる",
+      "url": "https://www.gamebusiness.jp/article/2026/07/29/27573.html",
+      "source": "GameBusiness.jp",
       "category": "update",
+      "importance": "normal",
+      "published": "2026-07-28T22:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/190490.jpg"
+    },
+    {
+      "title": "KDDIが許諾済み約150コンテンツを情報源にした対話型AIサービス「Buffmee」を月額980円で提供開始",
+      "url": "https://www.gamebusiness.jp/article/2026/07/29/27571.html",
+      "source": "GameBusiness.jp",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-28T22:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/190507.png"
+    },
+    {
+      "title": "『サクラ大戦』シリーズ30周年記念展が東京・京都で開催決定！『新サクラ大戦』とあわせて描き下ろしイラストも公開",
+      "url": "https://www.gamebusiness.jp/article/2026/07/29/27570.html",
+      "source": "GameBusiness.jp",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-28T21:45:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/190512.jpg"
+    },
+    {
+      "title": "PS5版『GTA6』日本向けパッケージ版のコードは発売170日後に失効するので注意―期限付きになっている理由とは",
+      "url": "https://www.gamebusiness.jp/article/2026/07/29/27569.html",
+      "source": "GameBusiness.jp",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-07-28T21:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/190523.jpg"
+    },
+    {
+      "title": "無料で使える3Dマテリアル制作ツール「InstaMAT」がアップデート。UV上に直接ペイントできる機能が追加",
+      "url": "https://gamemakers.jp/article/2026_07_28_142144/",
+      "source": "ゲームメーカーズ",
+      "category": "cg",
       "importance": "high",
-      "published": "2026-07-27T13:51:07",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/07/20260727-456922-header.jpg"
+      "published": "2026-07-28T11:58:41",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/2abbd0ccb7c7cbcafb34554e51267c13.jpg"
     },
     {
       "title": "NVIDIA、「SIGGRAPH 2026」基調講演で「DLSS 5」の仕組みを解説。制作者が生成結果を調整できる機能も披露",
       "url": "https://gamemakers.jp/article/2026_07_27_142047/",
       "source": "ゲームメーカーズ",
       "category": "tech",
-      "importance": "normal",
+      "importance": "high",
       "published": "2026-07-27T12:11:28",
       "image": null
+    },
+    {
+      "title": "『ドンキーコング バナンザ』の豪快なプレイ感は、実はロジカルに作られた。ボクセル技術による「破壊の連鎖」を呼び覚ますレベルデザイン【CEDEC2026】",
+      "url": "https://gamemakers.jp/article/2026_07_28_142063/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-07-28T05:50:12",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/23ec2bfec6fda97c2f42ec3c03a40769.jpg"
     },
     {
       "title": "「Live2D Cubism 5.4」alpha版が無料でリリース。パラメータコントローラのSDK対応、モデルのステートセット導入など",
       "url": "https://gamemakers.jp/article/2026_07_27_142027/",
       "source": "ゲームメーカーズ",
-      "category": "tech",
+      "category": "cg",
       "importance": "normal",
       "published": "2026-07-27T10:28:40",
-      "image": null
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/e604b38825b2d2e862935c43d9c9b5dd.jpg"
     },
     {
-      "title": "洞窟のダンジョンを作成できる40種の3Dモデルを収録。アセットパック『Modular Cave Kit』、Webサイト「Kenney」で無料公開",
-      "url": "https://gamemakers.jp/article/2026_07_26_141734/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
+      "title": "レビューを書くのって怖い？レビューのやり甲斐や挑む気持ちについて：#498 しゃべりすぎGAMER",
+      "url": "https://jp.ign.com/shaberisugi-gamer/83877/498-gamer",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-07-28T11:51:27",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/podcast-logo-2025_3dxk.jpg"
+    },
+    {
+      "title": "一見地味なやられアニメーションの重要性とその作り方",
+      "url": "https://jp.ign.com/cedec-2026/83887/",
+      "source": "IGN Japan",
+      "category": "cg",
       "importance": "normal",
-      "published": "2026-07-26T01:58:24",
-      "image": null
+      "published": "2026-07-28T08:28:43",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/videoframe-58603_9xx6.png"
     }
   ]
 }
