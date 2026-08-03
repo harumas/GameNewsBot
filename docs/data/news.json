@@ -1,141 +1,159 @@
 {
-  "generated_at": "2026-08-02T01:45:16.333267",
-  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、スマホ版『魔法使いの夜』の発表や『ラグナロクオンライン3』の試遊レポートが注目されています。\n『NIKKE』と『ペルソナ』シリーズのコラボも楽しみです！ 🎮\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-08-03T01:47:27.898729",
+  "poem": "おはようございます！ 🌞\n今日も新しいゲームニュースが盛りだくさんです！『シヴィライゼーション VI』の90%オフセールや『僕のヒーローアカデミア UNITED SURVIVAL』の配信開始など、注目すべきニュースがたくさんあります。\nそれでは今日のニュースをどうぞ！ 🎮",
   "articles": [
     {
-      "title": "傑作ノベル『魔法使いの夜』スマートフォン版発表、11月20日配信へ。劇場公開にあわせて、スマホからも『まほよ』が遊べるように",
-      "url": "https://automaton-media.com/articles/newsjp/20260801-457806/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-01T05:24:32",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260801-457806-header.jpg"
-    },
-    {
-      "title": "MMORPG『ラグナロクオンライン3』試遊レポート。「プロンテラ南門」「マウスクリック移動」に感じた“あの頃の空気”が、今新しく蘇る",
-      "url": "https://automaton-media.com/articles/reportjp/20260802-457866/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-08-02T01:24:41",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260802-457866-000.jpg"
-    },
-    {
-      "title": "対人FPSが長くヒットするかは「リリース3日目時点の」配信/動画投稿者の数で予測できるとの調査報告。しかし単に“たくさん見られればいい”わけでもない",
-      "url": "https://automaton-media.com/articles/newsjp/20260802-457857/",
-      "source": "Automaton",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-08-02T00:32:26",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260802-457857-header.jpg"
-    },
-    {
-      "title": "Nintendo Switch向け推理アドベンチャー『ミステリーの歩き方2 人魚伝説殺人事件』9月17日発売へ。隠しシナリオではまさかの「ガチャピン＆ムック」が登場",
-      "url": "https://automaton-media.com/articles/newsjp/20260801-457845/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-08-01T13:18:17",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260801-457845-header.jpg"
-    },
-    {
-      "title": "『ファイナルファンタジーVII リベレーション』に関するいろいろな噂を浜口Dに訊いた。ハッピーエンドになりそうって本当？ACにつながるって本当？DLCは？",
-      "url": "https://automaton-media.com/articles/newsjp/ff7reb-20260801-457834/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-08-01T10:00:11",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/ff7reb-20260801-457834-header.jpg"
-    },
-    {
-      "title": "ボドゲ版「Baba Is You」が海外で発表。クラファンはKickstarterで9月15日から実施予定。「Baba」と「Keke」を操作する2人対戦ゲームに",
-      "url": "https://www.4gamer.net/games/029/G102974/20260801010/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-01T06:03:20",
-      "image": "https://www.4gamer.net/games/029/G102974/20260801010/SS/001.jpg"
-    },
-    {
-      "title": "スマホ版「魔法使いの夜」が11月20日に発売決定。オリジナル版をベースに，フルボイス化＆フルHD化したコンシューマ版の移植作",
-      "url": "https://www.4gamer.net/games/029/G102965/20260801008/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-01T05:06:52",
-      "image": "https://www.4gamer.net/games/029/G102965/20260801008/SS/001.jpg"
-    },
-    {
-      "title": "撃ち合いはシビアじゃなくていい。直感的に楽しめるカジュアルなヒーローシューター「代号：&#23545;決」（Lumeshift）を試遊［CJ2026］",
-      "url": "https://www.4gamer.net/games/029/G102962/20260801003/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-08-02T01:00:00",
-      "image": "https://www.4gamer.net/games/029/G102962/20260801003/SS/001.jpg"
-    },
-    {
-      "title": "「勝利の女神：NIKKE」で「ペルソナ」シリーズとのコラボを8月13日より開催。予告キービジュアルも公開",
-      "url": "https://www.4gamer.net/games/456/G045622/20260801012/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-08-02T01:00:00",
-      "image": "https://www.4gamer.net/games/456/G045622/20260801012/SS/003.jpg"
-    },
-    {
-      "title": "週刊Steam広場 第164号：海賊のアジトを作る「Corsair Cove」や，脱出系アクションRPG「Mistfall Hunter」が発売に",
-      "url": "https://www.4gamer.net/games/038/G003821/20260726006/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-08-01T09:00:00",
-      "image": "https://www.4gamer.net/games/038/G003821/20260726006/TN/013.jpg"
-    },
-    {
-      "title": "『デジモン』完全新作アニメプロジェクトが始動。放送は2027年を予定、作品タイトルやキャラクターなどの詳細は今後発表へ",
-      "url": "https://news.denfaminicogamer.jp/news/260801s",
+      "title": "【7000円→700円】『シヴィライゼーション VI』を90%オフで購入できるセールがSteamにて開催中。始皇帝やガンジー、北条時宗など実在する指導者として文明を築き上げる名作ストラテジーゲーム",
+      "url": "https://news.denfaminicogamer.jp/news/260802c",
       "source": "電ファミニコゲーマー",
-      "category": "release",
+      "category": "sale",
       "importance": "high",
-      "published": "2026-08-01T14:39:06",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/HOong0saIAAkPDi.jpg"
+      "published": "2026-08-02T14:46:27",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/ss_b2bf12299c38214fe520af0f724a6349d17ed330.1920x1080.jpg"
     },
     {
-      "title": "『スパロボDD』新たなクロッシングパイロットが発表。真ゲッター1に『エヴァ』の「アスカ」「シンジ」「レイ」が再び搭乗。「マイティーストライクフリーダムガンダム」「インフィニットジャスティスガンダム弐式」参戦も",
-      "url": "https://news.denfaminicogamer.jp/news/260801p",
+      "title": "『ガンダムSEED』ねぶたが“青森ねぶた祭2026”に登場、光り輝く2機体が夏の夜に立つ。『ちいかわ』『文スト』『メイドインアビス』のねぶたも運行される",
+      "url": "https://news.denfaminicogamer.jp/news/260803j",
       "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-01T12:34:27",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/WS004431.jpg"
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-03T01:36:58",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/HOtcaDha0AADlNw.jpg"
     },
     {
-      "title": "『第2次スーパーロボット大戦Z破界篇』のリマスター版の制作決定が発表。戦闘アニメーションの高解像度化やUI周りの改善など鋭意進行中、テキスト言語は複数言語に対応予定",
-      "url": "https://news.denfaminicogamer.jp/news/260801o",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-01T12:21:15",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/WS003897.jpg"
-    },
-    {
-      "title": "『NIKKE』×『ペルソナ』シリーズのコラボが8月13日より開催決定。反撃部隊のメンバーたちが、3作品を象徴するモチーフを手に贈り物を届けようとする予告キービジュアルも公開",
-      "url": "https://news.denfaminicogamer.jp/news/260802s",
+      "title": "『こち亀』新作アニメ、派出所メンバー4名（両津勘吉・中川圭一・秋本麗子・大原大次郎）の新キャストが判明へ。9月5日に開催予定の都内イベントで",
+      "url": "https://news.denfaminicogamer.jp/news/260803c",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "normal",
-      "published": "2026-08-02T01:00:00",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/01.jpg"
+      "published": "2026-08-03T01:00:33",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/G8lghkJb0AApabU.jpg"
     },
     {
-      "title": "『めっちゃカメレオン』×『8番出口』コラボマップが追加。おなじみの通路が公式マップとして登場して気軽に遊べる。フレンドのサーバーを検索できる機能やカラーパレットのUIも調整",
-      "url": "https://news.denfaminicogamer.jp/news/260801r",
+      "title": "【基本プレイ無料】『ヒロアカ』原作のローグライト・アクションゲーム『僕のヒーローアカデミア UNITED SURVIVAL』8月6日に配信開始。3人1組のチームを組んで「個性」を強化しながら、大量に押し寄せる敵をなぎ倒す",
+      "url": "https://news.denfaminicogamer.jp/news/260803h",
       "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-08-03T00:53:36",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/74da2eead2d0c513035950fb9d35643c.png"
+    },
+    {
+      "title": "『暗黒城の魔女』サウンドトラックの試聴動画＆ストアページが公開。『ファイナルファンタジータクティクス』などの楽曲を手がけた崎元仁氏による劇伴音楽全13曲を収録",
+      "url": "https://news.denfaminicogamer.jp/news/260803b",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-03T00:00:31",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/0.webp"
+    },
+    {
+      "title": "Lucas Piazzini氏、現実の金属における微細な傷が引き起こす複雑な反射の物理的メカニズムとレンダラ上で再現するための複数のアプローチについて比較・解説する動画を公開 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202608-MetalKnowledge.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-08-02T23:02:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/MetalKnowledge-01-thumb-1920x1080-87168.jpg"
+    },
+    {
+      "title": "Lukas Thorup氏、Cinema 4Dで砂鉄を表現するチュートリアル動画公開　磁力アニメーションをプロシージャルに構築 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202608-C4D-MagParticle.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-08-01T23:47:31",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/C4D_MagParticle-01-thumb-1920x1080-87151.jpg"
+    },
+    {
+      "title": "「第2次スーパーロボット大戦Z 破界篇リマスター」制作が発表に。「スーパーロボット大戦Y」の最新DLCは8月5日リリース",
+      "url": "https://www.4gamer.net/games/029/G102977/20260802008/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-08-02T06:05:24",
+      "image": "https://www.4gamer.net/games/029/G102977/20260802008/SS/013.jpg"
+    },
+    {
+      "title": "【今週のモチベ】「MARVEL Tōkon: Fighting Souls」や「Beast of Reincarnation」が発売される 2026年8月3日〜8月9日",
+      "url": "https://www.4gamer.net/games/954/G095479/20260725005/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-02T23:00:00",
+      "image": "https://www.4gamer.net/games/954/G095479/20260725005/SS/006.jpg"
+    },
+    {
+      "title": "ゾンビだらけの状況で生き抜く難しさを痛感できる「Into the Dead: Our Darkest Days」（あかねのSteam Pick Up！）",
+      "url": "https://www.4gamer.net/games/696/G069648/20260716014/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-02T23:00:00",
+      "image": "https://www.4gamer.net/games/696/G069648/20260716014/SS/018.jpg"
+    },
+    {
+      "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年7月27日〜8月2日",
+      "url": "https://www.4gamer.net/games/040/G004099/20260802010/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-02T22:00:00",
+      "image": "https://www.4gamer.net/games/040/G004099/20260802010/SS/030.jpg"
+    },
+    {
+      "title": "「ヘブンバーンズレッド」の“最終章”が始動。ゲーム内では新部隊「第19A部隊」が登場し，4.5周年を記念するキャンペーンがスタート",
+      "url": "https://www.4gamer.net/games/487/G048777/20260731063/",
+      "source": "4Gamer.net",
       "category": "update",
       "importance": "normal",
-      "published": "2026-08-01T13:36:46",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/HOoiPxdaoAAYjDs.jpg"
+      "published": "2026-08-02T13:00:00",
+      "image": "https://www.4gamer.net/games/487/G048777/20260731063/SS/001.jpg"
+    },
+    {
+      "title": "『ボーダーランズ3』が90％オフの798円で遊べる。ゴリラ大暴れ脱出アクション『APE OUT』は80％オフで340円のお求めやすさ。今週の高割引率PCゲーム",
+      "url": "https://automaton-media.com/articles/newsjp/steam-20260802-457972/",
+      "source": "Automaton",
+      "category": "sale",
+      "importance": "high",
+      "published": "2026-08-02T08:06:23",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/steam-20260802-457972-header.jpg"
+    },
+    {
+      "title": "『スプラトゥーン レイダース』はしばらく「空中フワフワ凍結カチ割りブラスター」ビルドに専念。『ほの暮しの庭』での“因習村生活”は意外と安心感あり。今週のゲーミング",
+      "url": "https://automaton-media.com/articles/now-gaming/20260802-458013/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-02T10:01:01",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260802-458013-005.jpg"
+    },
+    {
+      "title": "『メタルサーガ 鋼の季節』リマスター版を作った理由は、「救済が必要だ」と感じたから。熱き心を持つプロデューサーに、制作までのあれこれや“オリジナルからどこが変わるか”を色々訊いた",
+      "url": "https://automaton-media.com/articles/interviewsjp/20260802-457991/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-08-02T09:32:49",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260802-457991-000.jpg"
+    },
+    {
+      "title": "『Fate/Grand Order（FGO）』ビーストが必ず獲得できる「ビーストオーダー召喚」開催。人類悪確定ガチャ",
+      "url": "https://automaton-media.com/articles/newsjp/fate-grand-order-20260812-457992/",
+      "source": "Automaton",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-08-02T09:12:59",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/fate-grand-order-20260812-457992-header.jpg"
+    },
+    {
+      "title": "『Fate/Grand Order（FGO）』サーヴァント強化上限が3000まで引き上げ。人理・反理フォウくんで、サーヴァントがさらに強く",
+      "url": "https://automaton-media.com/articles/newsjp/20260802-457983/",
+      "source": "Automaton",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-08-02T08:38:22",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260802-457983-header.jpg"
     },
     {
       "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/8/1】",
@@ -144,15 +162,6 @@
       "category": "tech",
       "importance": "high",
       "published": "2026-08-01T01:58:54",
-      "image": null
-    },
-    {
-      "title": "20周年を迎えたオープンソース＆無料の2Dゲームエンジン「Solarus」、バージョン2.1.0へアップデート",
-      "url": "https://gamemakers.jp/article/2026_07_31_142408/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-07-31T06:46:57",
       "image": null
     },
     {
@@ -165,33 +174,6 @@
       "image": null
     },
     {
-      "title": "「東京ゲームショウ2026」、ビジネスデイの参加登録を受付中。有料パスの販売は9/8（火）まで、「事前登録コード」による無料の参加申請は9/16（水）まで",
-      "url": "https://gamemakers.jp/article/2026_07_31_142384/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-07-31T05:34:24",
-      "image": null
-    },
-    {
-      "title": "『シュレディンガーズ・コール』制作チームが「ゲームメーカーズ スクランブル2026」に登壇決定！",
-      "url": "https://gamemakers.jp/article/2026_07_31_142203/",
-      "source": "ゲームメーカーズ",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-07-31T03:25:53",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/07/14321705b1bf31ac821f3bd22d60d9d8.jpg"
-    },
-    {
-      "title": "Lukas Thorup氏、Cinema 4Dで砂鉄を表現するチュートリアル動画公開　磁力アニメーションをプロシージャルに構築 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202608-C4D-MagParticle.html",
-      "source": "CGWORLD",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-08-01T23:47:31",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/C4D_MagParticle-01-thumb-1920x1080-87151.jpg"
-    },
-    {
       "title": "ゲームフリーク新作『Beast of Reincarnation』ディレクターが狙う「ぬくもりの中にある寂しさ」とは？「一人と一匹」へのこだわり【インタビュー】",
       "url": "https://www.gamebusiness.jp/article/2026/08/02/27603.html",
       "source": "GameBusiness.jp",
@@ -201,15 +183,6 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/191251.jpg"
     },
     {
-      "title": "EA、約9兆円サウジなどによる買収が完了目前―550億ドルの非公開化取引、規制当局の承認をすべて取得と発表",
-      "url": "https://www.gamebusiness.jp/article/2026/08/01/27601.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-07-31T23:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/191186.png"
-    },
-    {
       "title": "XBOX本体各モデルが3万円の値上げ―Series Xは10万円超え、Sは9万円超えに。ゲーマーからは悲鳴",
       "url": "https://www.gamebusiness.jp/article/2026/08/02/27604.html",
       "source": "GameBusiness.jp",
@@ -217,51 +190,6 @@
       "importance": "high",
       "published": "2026-08-01T21:15:03",
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/191228.jpg"
-    },
-    {
-      "title": "Google、アプリ向け年齢確認APIを年内に世界展開…未成年者保護を強化",
-      "url": "https://www.gamebusiness.jp/article/2026/08/01/27602.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-07-31T23:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/191181.jpg"
-    },
-    {
-      "title": "XBOX再建へ「コンソール軸にプラットフォーム強化」―新CEOが優先すべき「4つのC」を提示。2030会計年度までの成長戦略メモの内容明らかに",
-      "url": "https://www.gamebusiness.jp/article/2026/08/01/27600.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-07-31T22:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/191194.png"
-    },
-    {
-      "title": "コンテンツがたっぷり！『崩壊:ネクサスアニマ』「進化テスト」プレビュー",
-      "url": "https://jp.ign.com/android/83910/",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-07-31T03:37:13",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/image2_qkzz.jpg"
-    },
-    {
-      "title": "Switch 2/PS5版も登場 3Dアニメ調のスローライフゲーム『Starsand Island』が8月18日に正式リリースへ",
-      "url": "https://jp.ign.com/starsand-island/83907/switch-2ps5-3dstarsand-island818",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-31T09:00:37",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/image4_pp76.jpg"
-    },
-    {
-      "title": "『METAL GEAR SOLID: MASTER COLLECTION Vol.2』最新トレーラー",
-      "url": "https://jp.ign.com/metal-gear-solid-master-collection-vol1/83909/metal-gear-solid-master-collection-vol2",
-      "source": "IGN Japan",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-07-31T03:24:24",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1349_keqs.png"
     }
   ]
 }
