@@ -1,96 +1,213 @@
 {
-  "generated_at": "2026-08-04T01:23:21.043015",
-  "poem": "おはようございます！ 🌞\n今日はゲーム業界が大いに賑わっています。新作ゲームの発売やアップデート、以及イベントの開催など、様々なニュースが飛び交っています ✨\n特に注目されるのは「Beast of Reincarnation」の発売や「進撃の巨人3」の予約開始です。\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-08-05T01:28:37.525191",
+  "poem": "おはようございます！ 🌞\n今日はゲームの新しい情報がたくさん出ました。『めっちゃカメレオン』のエモートコンテストや『マイクラ』の新機能、そして『ライザのアトリエ』のチャットAIアプリなどが注目されています 💻\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "「STRANGER THAN HEAVEN」TGS 2026出展内容が発表される番組は8月5日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
-      "url": "https://www.4gamer.net/games/421/G042182/20260803036/",
-      "source": "4Gamer.net",
-      "category": "release",
+      "title": "『めっちゃカメレオン』で初のエモートコンテストが開催。8月9日の結果発表と同時にゲーム内に実装されるという驚異的なスピード感",
+      "url": "https://news.denfaminicogamer.jp/news/260805d",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
       "importance": "high",
-      "published": "2026-08-03T23:00:00",
-      "image": "https://www.4gamer.net/games/421/G042182/20260803036/SS/003.jpg"
+      "published": "2026-08-05T01:05:03",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/HO4yVKVbYAAiT7r.jpg"
     },
     {
-      "title": "［プレイレポ］「ぽこ あ ポケモン」のあそびが水のなかへ！　無料アップデートと有料追加コンテンツ第1弾「ブクブクうみぞこの街」を先行体験",
-      "url": "https://www.4gamer.net/games/945/G094534/20260803002/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-08-03T13:00:00",
-      "image": "https://www.4gamer.net/games/945/G094534/20260803002/SS/017.jpg"
-    },
-    {
-      "title": "「Beast of Reincarnation」本日発売。終末世界を舞台にエマとクゥが旅するアクションRPG，新キャラクター情報も公開",
-      "url": "https://www.4gamer.net/games/918/G091816/20260803043/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-08-04T01:00:00",
-      "image": "https://www.4gamer.net/games/918/G091816/20260803043/SS/001.jpg"
-    },
-    {
-      "title": "韓国発のローグライトFPS「Guns and Dragons」をプレイ。最大3人でドラゴン討伐を目指す，銃と魔法の協力型シューター［CJ2026］",
-      "url": "https://www.4gamer.net/games/029/G102993/20260804002/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-08-04T00:00:00",
-      "image": "https://www.4gamer.net/games/029/G102993/20260804002/SS/001.webp"
-    },
-    {
-      "title": "「進撃の巨人3」の発売日が12月10日に決定し，DL版の予約受付がスタート。アートブックやグッズを同梱する限定版の情報も紹介",
-      "url": "https://www.4gamer.net/games/013/G101375/20260804001/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-08-03T16:46:45",
-      "image": "https://www.4gamer.net/games/013/G101375/20260804001/SS/002.jpg"
-    },
-    {
-      "title": "ゲーム『進撃の巨人3』が12月10日に発売決定！物語を“最初から最後まで”体験できるシリーズの集大成",
-      "url": "https://news.denfaminicogamer.jp/news/2608033d",
+      "title": "『ファイアーエムブレム 万紫千紅』“真の主人公”がお披露目。4人の主人公が活躍した時代から5年後、彼らが「この世に存在しない」状況で魔神・バロールと戦う",
+      "url": "https://news.denfaminicogamer.jp/news/2608043h",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-08-03T14:53:05",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/WS000227.jpg"
+      "published": "2026-08-04T14:26:55",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/c8ffe53b8eb25a68f113896d3d452c93.png"
     },
     {
-      "title": "【最大4人マルチ】サンタのエルフになりおもちゃ作ってソリへ投げ入れるゲーム『North Pole Workshop』体験版が配信。制限時間内にラッピングや配達までをこなす",
-      "url": "https://news.denfaminicogamer.jp/news/260804c",
+      "title": "話題沸騰のマルチ探索ゲーム『Big Walk』Steam最大同接数が「約4万」を超える盛況。最大12人でオープンワールドを冒険、チルで緩い空気感が“非常に好評”",
+      "url": "https://news.denfaminicogamer.jp/news/260805n",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "normal",
-      "published": "2026-08-04T00:52:16",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/SteamNorth-Pole-Workshop.mp4_snapshot_00.01.578.jpg"
+      "published": "2026-08-05T01:15:46",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/ss_f9e2493ed572d923cd877eed70cd66a4a45f2cbb.1920x1080-1.jpg"
     },
     {
-      "title": "『オーバーウォッチ』新キャラクター“D.Mon”の予告映像が公開。8月11日に開始されるシーズン4から追加。D.Vaが所属する元プロゲーマーで構成されたMEKA部隊の一員",
-      "url": "https://news.denfaminicogamer.jp/news/260804b",
+      "title": "初音ミクが『マジック：ザ・ギャザリング』の「Secret Lair」に登場。“24時間限定”で統率者デッキの受注販売を実施へ。また、カードのイラストも公開。初音ミクのオリジナルデザイナーKEI氏をはじめ、さいとうなおき氏、八三氏も参加",
+      "url": "https://news.denfaminicogamer.jp/news/260805c",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-05T00:47:02",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/HO49eFrbkAE8DxB.jpg"
+    },
+    {
+      "title": "『マイクラ』でコンクリートの階段・スラブが全16色で建築可能に。ほかのキャンプや建造物への道を示した“地図”も新登場。Javaのスナップショット版で触れることが可能",
+      "url": "https://news.denfaminicogamer.jp/news/260805b",
       "source": "電ファミニコゲーマー",
       "category": "update",
       "importance": "normal",
-      "published": "2026-08-03T22:42:13",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/yuna.png"
+      "published": "2026-08-04T23:27:19",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/HO4uf-KWwAAKzAS.jpg"
     },
     {
-      "title": "ゲームフリークの新作アクションRPG『ビースト・オブ・リンカネーション』が本日8月4日より発売。リアルタイムアクションとコマンド型RPGが融合、穢れ人・エマともふもふな犬・クゥが旅する注目作",
-      "url": "https://news.denfaminicogamer.jp/news/2608042v",
-      "source": "電ファミニコゲーマー",
+      "title": "物理演算リアル炭鉱経営シム『BERGWERK』発表。“地元が炭鉱地帯”な開発スタジオがとことん再現する、過酷地下採掘ゲーム",
+      "url": "https://automaton-media.com/articles/newsjp/20260804-458331/",
+      "source": "Automaton",
       "category": "release",
-      "importance": "normal",
-      "published": "2026-08-03T15:00:09",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/PhotoshopExtension_Image_3-2.png"
+      "importance": "high",
+      "published": "2026-08-04T07:52:48",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260804-458331-header.jpg"
     },
     {
-      "title": "終末世界で“ゾンビ”に襲われながら荷物を配達するゲーム『Tiny Hero Courier』が面白そう。ミニチュアを思わせる世界観で描かれた見下ろし視点のアクションゲーム",
-      "url": "https://news.denfaminicogamer.jp/news/2608033a",
-      "source": "電ファミニコゲーマー",
+      "title": "最大4人マルチ“叫んで”羊誘導ゲーム『SHEEPSTERS』発表。叫んでもダメなら投げ飛ばす、とにかくやかましいアグレッシブ羊飼いライフ",
+      "url": "https://automaton-media.com/articles/newsjp/20260804-458287/",
+      "source": "Automaton",
       "category": "release",
+      "importance": "high",
+      "published": "2026-08-04T06:23:50",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260804-458287-header.jpg"
+    },
+    {
+      "title": "Unityが新料金システム発表、ただし“ゲーム用途以外”のUnity Industry向けに。社内アプリの使用者数に応じて追加料金、来年8月より",
+      "url": "https://automaton-media.com/articles/newsjp/20260804-458255/",
+      "source": "Automaton",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-08-04T04:20:40",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260804-458255-header.jpg"
+    },
+    {
+      "title": "『ライザのアトリエ』チャットAIアプリ「RyzaChat:AI」発表。AIチャットRPG、ただしクリエイターリスペクトで、画像・動画生成AIは使用せず、収益は絵師や声優に還元",
+      "url": "https://automaton-media.com/articles/newsjp/ryazai-20260804-458244/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-08-04T03:40:20",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/batch_main.jpg"
+    },
+    {
+      "title": "PS5/PC新たな大型アクションRPG『太古の神：哪吒』は『SEKIRO』ライクかと思いきや“空中戦推し”。初試遊出展でさっそく「神々の戦い」を味わった",
+      "url": "https://automaton-media.com/articles/reportjp/20260804-458329/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-08-04T09:00:10",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260804-458329-header.jpg"
+    },
+    {
+      "title": "【訃報】DFM創設者・梅崎伸幸氏が急逝。43歳―日本初の給与制プロゲーミングチームを作った先駆者",
+      "url": "https://www.gamebusiness.jp/article/2026/08/04/27611.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "high",
+      "published": "2026-08-03T21:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/191355.jpg"
+    },
+    {
+      "title": "gamescom dev 2026、非公開リーダーシップサミットにPlayStation Studios CTOのルイス・ヴィレガス氏とテンセントのアミール・サットワット氏が登壇",
+      "url": "https://www.gamebusiness.jp/article/2026/08/05/27620.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
       "importance": "normal",
-      "published": "2026-08-03T14:25:57",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/PhotoshopExtension_Image_2-3.png"
+      "published": "2026-08-05T00:16:30",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/191564.jpg"
+    },
+    {
+      "title": "『スト6』『餓狼』日本代表選手6名が決定！サウジアラビアで開催するeスポーツ大会「ENC」で世界に挑む",
+      "url": "https://www.gamebusiness.jp/article/2026/08/05/27619.html",
+      "source": "GameBusiness.jp",
+      "category": "esports",
+      "importance": "normal",
+      "published": "2026-08-04T22:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/191453.jpg"
+    },
+    {
+      "title": "ゲーム開発者が知るべき「文化盗用」リスクと対策 ―キム・カーダシアンから『鬼滅の刃』まで【CEDEC2026】",
+      "url": "https://www.gamebusiness.jp/article/2026/08/05/27618.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-04T22:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/191478.jpg"
+    },
+    {
+      "title": "『ポケカ』マイナンバーカード認証を公式プレイヤーズクラブに導入―商品の優先的な抽選・販売、公式大会への参加申し込みに活用",
+      "url": "https://www.gamebusiness.jp/article/2026/08/05/27617.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-04T21:45:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/191488.png"
+    },
+    {
+      "title": "eスポーツ選手の支援・研究を目的としたトレーニング施設が東京・北区に誕生。「HPSC ESPORTS LAB」メディア発表会レポート",
+      "url": "https://www.4gamer.net/games/458/G045823/20260804042/",
+      "source": "4Gamer.net",
+      "category": "esports",
+      "importance": "high",
+      "published": "2026-08-05T00:00:00",
+      "image": "https://www.4gamer.net/games/458/G045823/20260804042/SS/001.webp"
+    },
+    {
+      "title": "［インタビュー］「知能が人間だけのものでなくなっていくほど，人間であることは重要になる」―――EVE Onlineを作った男が見る，AIと人間と7つの大罪，そして20年後の世界",
+      "url": "https://www.4gamer.net/games/868/G086893/20260728046/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-04T22:30:00",
+      "image": "https://www.4gamer.net/games/868/G086893/20260728046/SS/010.jpg"
+    },
+    {
+      "title": "“初めてのキス”や“最後の朝”，誰かの記憶を買い取って別の客へ販売する。物語主導型の店舗運営シム「Halsey Row」が発表に",
+      "url": "https://www.4gamer.net/games/030/G103033/20260804044/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-08-04T11:32:51",
+      "image": "https://www.4gamer.net/games/030/G103033/20260804044/SS/002.jpg"
+    },
+    {
+      "title": "メガホンで叫びながら羊を誘導する最大4人協力ゲーム「SHEEPSTERS」が発表に。アナウンストレイラーを公開",
+      "url": "https://www.4gamer.net/games/030/G103032/20260804041/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-08-04T10:50:00",
+      "image": "https://www.4gamer.net/games/030/G103032/20260804041/SS/002.jpg"
+    },
+    {
+      "title": "開いた状態で4：3画面のスマートフォンでゲームはどうなる？ Galaxy Z Fold8＆Galaxy Z Fold8 Ultraをテスト",
+      "url": "https://www.4gamer.net/games/151/G015158/20260804012/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-04T23:00:00",
+      "image": "https://www.4gamer.net/games/151/G015158/20260804012/SS/002.jpg"
+    },
+    {
+      "title": "アドビ、CoachやKate Spadeなどのブランドを手がけるTapestry社のSubstance 3D事例動画を公開　製品の高精細なデジタルツインを構築し、製品ライフサイクル全体を高速化 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202608-S3D-Tapestry.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-08-04T22:30:21",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/S3D_Tapestry-01-thumb-1920x1080-87337.jpg"
+    },
+    {
+      "title": "「君も、スポットライトに」――アイドルを輝かせる映像とビジュアルを現場でつくる、imaginateの仕事 - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/2607-imaginate.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-04T08:10:27",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/07/39393f22226c4a7210027db120d4f8145465bc4f-thumb-767x431-86422.png"
+    },
+    {
+      "title": "テーマは「スザンヌ」Blenderユーザー限定CG作品コンテスト「b3d創作祭」五回目の開催が決定! - 特集",
+      "url": "https://cgworld.jp/article/blendercgb3d-1.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-08-04T05:39:04",
+      "image": "https://cgworld.jp/article/assets_c/2026/08/KV-thumb-1920x1080-87230.jpg"
     },
     {
       "title": "Epic Games、Unreal Fest Chicago 2026でのUE5.8 リギング＆アニメーションツール紹介講演動画を公開 - ニュース",
@@ -105,145 +222,55 @@
       "title": "【今週8/8開催】Chiharu氏による『【Blender Fes Extra】Kawaii！イラストルックな3Dアバターモデリング』が8/8(土)にオンライン開催！ - ニュース",
       "url": "https://cgworld.jp/flashnews/chiharublender-fes-extrakawaii3d88.html",
       "source": "CGWORLD",
-      "category": "industry",
+      "category": "cg",
       "importance": "normal",
       "published": "2026-08-03T07:34:40",
       "image": "https://cgworld.jp/flashnews/assets_c/2026/06/277_seminar_bfex_kawaii_full%20%282%29-thumb-1920x1080-84868.jpg"
     },
     {
-      "title": "8/7（金）開催！VFXはよりシンプルに。Flow Studio 開発者が語る次世代のAI・CGワークフロー【来日講演】 - ニュース",
-      "url": "https://cgworld.jp/flashnews/flowstudio-newdev-sem-202608.html",
-      "source": "CGWORLD",
-      "category": "tech",
+      "title": "大好きなゲームを見つける方法：#499 しゃべりすぎGAMER",
+      "url": "https://jp.ign.com/shaberisugi-gamer/83931/499-gamer",
+      "source": "IGN Japan",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-08-03T06:38:16",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/288_seminar_flowstudio_full_web-thumb-1920x1080-87209.jpg"
+      "published": "2026-08-04T11:00:35",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/podcast-logo-2025_3dxk.jpg"
     },
     {
-      "title": "【8/27（木）リアル開催】エフェクトアーティスト必見！　サイバーコネクトツー×アプリボット　エフェクトアーティスト登壇イベントを開催！－サイバーエージェント - ニュース",
-      "url": "https://cgworld.jp/flashnews/2607-cyberagent03.html",
-      "source": "CGWORLD",
-      "category": "industry",
+      "title": "ロードムービー的で、相棒のことが「頭をよぎる」体験 『Beast of Reincarnation』が大切にしていること",
+      "url": "https://jp.ign.com/beast-of-reincarnation/83941/beast-of-reincarnation",
+      "source": "IGN Japan",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-08-03T03:00:30",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/07/3DScramble_20260827_-thumb-1080x567-86928.png"
-    },
-    {
-      "title": "【早割も実施】LiberNovo、新型モデル「LiberNovo Omni Gen」を発売。最大31% OFFの発売記念キャンペーンも。 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202608-libernovo.html",
-      "source": "CGWORLD",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-08-03T01:40:17",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/da329694d497a5d372e1f9c28b1fd92dfce6c554-thumb-720x540-87178.png"
-    },
-    {
-      "title": "AI使用について『アパシー学校であった怖い話』最新作の開発者がコメント「やりたい映像をほぼ100%再現してくれる」―インディーの領域で試したいこととも釈明",
-      "url": "https://www.gamebusiness.jp/article/2026/08/04/27613.html",
-      "source": "GameBusiness.jp",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-08-03T22:15:02",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/191341.png"
-    },
-    {
-      "title": "「ニンテンドーミュージアム」来館者数が100万人を突破！ 開館から約2年で達成",
-      "url": "https://www.gamebusiness.jp/article/2026/08/04/27612.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-08-03T22:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/191350.jpg"
-    },
-    {
-      "title": "大規模RTAイベント「RTAちゃんの夏休み」8月9日から15日まで開催。『ドラゴンクエストVII Reimagined』や『ケツバトラー』など個性豊かなタイトルが並ぶタイムテーブルも公開",
-      "url": "https://www.gamebusiness.jp/article/2026/08/04/27610.html",
-      "source": "GameBusiness.jp",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-08-03T21:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/191365.jpg"
-    },
-    {
-      "title": "電通デジタル、AI時代の「次世代オウンドメディア戦略・構築支援」を開始",
-      "url": "https://www.gamebusiness.jp/article/2026/08/04/27609.html",
-      "source": "GameBusiness.jp",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-08-03T21:15:02",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/191371.jpg"
-    },
-    {
-      "title": "自分と妻の歌声をAIボーカルシンセ「DiffSinger」に進化させた。もうボイチェン不要。アルゴリズムベースの自動作曲ソフトとも統合（CloseBox）",
-      "url": "https://www.gamebusiness.jp/article/2026/08/04/27608.html",
-      "source": "GameBusiness.jp",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-08-03T21:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/191385.png"
-    },
-    {
-      "title": "因習村生活シム『ほの暮しの庭』、発売から4日で売上10万本突破。「パッケージ版が一部で品切れ」する勢い",
-      "url": "https://automaton-media.com/articles/newsjp/20260803-458158/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-03T09:16:07",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260803-458158-header.jpg"
-    },
-    {
-      "title": "Steam協力「物理演算」雪かきホラー『SnowJob』発表。終末極寒世界でいろいろ荒ぶるお宝探し、もちろん“何か”がいる",
-      "url": "https://automaton-media.com/articles/newsjp/20260803-458107/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-03T07:25:54",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260803-458105-header-1.jpg"
-    },
-    {
-      "title": "『パルワールド』が「MMORPG」に。『パルワールド オンライン』発表、スマホ向けに年内リリースへ",
-      "url": "https://automaton-media.com/articles/newsjp/20260803-458066/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-03T04:01:49",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260803-458066-header.jpg"
-    },
-    {
-      "title": "『進撃の巨人3』12月10日発売へ。ω-Forceが放つ8年ぶりのシリーズ新作、「進撃の巨人」の物語を“最初から最後まで”収録",
-      "url": "https://automaton-media.com/articles/newsjp/20260804-458199/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-08-03T15:19:01",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260804-458199-header.jpg"
-    },
-    {
-      "title": "大きなハサミのカワイイ魔女ローグライトACT『魔女の庭』8月28日正式リリースへ。武器やスキルは個性豊かに、日本語ボイスも実装の大型アプデが来る",
-      "url": "https://automaton-media.com/articles/newsjp/20260803-458192/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-08-03T14:48:19",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260803-458192-header.jpg"
+      "published": "2026-08-04T08:28:59",
+      "image": "https://sm.ign.com/ign_jp/wiki/b/beast-of-r/beast-of-reincarnation_p4bk.jpg"
     },
     {
       "title": "ガラス製マウスパッドのWALLHACK、初のキーボード「K-001」とマウス「M-001」を発表。キーボードは8/21（金）発売",
       "url": "https://gamemakers.jp/article/2026_08_03_142517/",
       "source": "ゲームメーカーズ",
-      "category": "industry",
+      "category": "other",
       "importance": "high",
       "published": "2026-08-03T10:24:21",
       "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/08/a3aa32c0d28ea9f1eb48297aa8645ff0.jpg"
     },
     {
-      "title": "Games made with Unity: July 2026 in review",
-      "url": "https://unity.com/blog/games-made-with-unity-july-2026-releases",
-      "source": "Unity Japan",
+      "title": "10/3（土）・4（日）に大阪で開催されるインディーゲームイベント「OSAKA INDIE GAMES SUMMIT 2026」、入場チケットの販売が開始",
+      "url": "https://gamemakers.jp/article/2026_08_04_142560/",
+      "source": "ゲームメーカーズ",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-08-04T08:17:26",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/08/9eefc27394487ee6ba1059545761992f.jpg"
+    },
+    {
+      "title": "「Unity AI」によるゲーム開発事例や、『SILENT HILL』シリーズを取り上げた講演も。「CEDEC2026」約120本の講演資料が公開",
+      "url": "https://gamemakers.jp/article/2026_08_04_142564/",
+      "source": "ゲームメーカーズ",
       "category": "tech",
       "importance": "normal",
-      "published": "2026-08-03T00:00:00",
-      "image": null
+      "published": "2026-08-04T07:41:23",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/08/46180862617047a30c25a3722764e887.jpg"
     }
   ]
 }
