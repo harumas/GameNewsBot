@@ -1,186 +1,195 @@
 {
-  "generated_at": "2026-08-07T02:04:06.072994",
-  "poem": "おはようございます！🌞\n今日もゲーム業界は活況で、人気ゲーム『IRON NEST』や『リ・ストーリー』が好評を博しています。また、待望の続編『カラドリウス2/ダークエレメント』が今年冬に発売決定です！ 🎮\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-08-08T00:48:28.958871",
+  "poem": "おはようございます！ 🌞\n今日のゲームニュースは、愛犬と一緒に狩猟生活を楽しめる『Way of the Hunter 2』の発売決定や、人気ゲームのセール情報など、様々なトピックが盛りだくさんです！ 💻\n特に注目されるのは、ゲームフリーク・大森滋氏が語る『ぽこ あ ポケモン』の開発秘話です。\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "【人気】砲撃シミュレーションゲーム『IRON NEST』最大同接数約「1万2000人」を超える盛況。Steamレビューも約1200件・99％好評で“圧倒的に好評”",
-      "url": "https://news.denfaminicogamer.jp/news/2608072d",
+      "title": "“愛犬”と北米・アフリカで狩猟生活を営むゲーム『Way of the Hunter 2』9月29日に正式版が発売決定。猟犬は動物を追跡してくれる忠実な相棒として登場し、冒険を重ねると成長する。記念撮影も可能",
+      "url": "https://news.denfaminicogamer.jp/news/260808b",
       "source": "電ファミニコゲーマー",
       "category": "release",
       "importance": "high",
-      "published": "2026-08-07T01:59:40",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/ss_41df640432fccf5b594e1f9568eb4e12fa8faec2.1920x1080-1.jpg"
+      "published": "2026-08-07T21:27:32",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/ss_2d4d924dce5d7f847cfc1c796308181861c23087.1920x1080-1.jpg"
     },
     {
-      "title": "【人気】2000年代の東京でゲーム機を修理するゲーム『リ・ストーリー: 思い出修理屋』最大同接が約1万2000人を記録。レビュー約240件「非常に好評」を獲得、「黙々とやってしまった」などの声が相次ぐ",
-      "url": "https://news.denfaminicogamer.jp/news/260807k",
+      "title": "『ぽこ あ ポケモン』試作ゲームプレイの様子が世界初公開、貴重な企画書の一部も見れちゃう。ゲームフリーク・大森滋氏が開発秘話を語る動画がゲームフリーク公式YouTubeで公開中",
+      "url": "https://news.denfaminicogamer.jp/news/2608073l",
       "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-07T01:12:47",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/PhotoshopExtension_Image_2-11.png"
-    },
-    {
-      "title": "2013年に発売されたシューティングゲーム『カラドリウス』、その続編となる『カラドリウス2/ダークエレメント』が2026年冬に発売決定。個性豊かなキャラクターとともに、弾幕乱れる戦場を駆け抜ける",
-      "url": "https://news.denfaminicogamer.jp/news/2608072c",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-07T00:00:54",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/cld2_mv.jpg"
-    },
-    {
-      "title": "VTuber・ばあちゃるさんが引退を発表。時期などの詳細は8月9日15時からの配信で説明",
-      "url": "https://news.denfaminicogamer.jp/news/2608063t",
-      "source": "電ファミニコゲーマー",
-      "category": "esports",
-      "importance": "high",
-      "published": "2026-08-06T15:04:55",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/02_talent_Ubiba.png"
-    },
-    {
-      "title": "『マーベル 闘魂：ファイティングソウルズ』がリリース。マーベルキャラクターたちでチームを組み戦う、4v4タッグ制対戦格闘ゲーム",
-      "url": "https://news.denfaminicogamer.jp/news/260807p",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-07T01:12:53",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/ss_3e0586b860aa01cc1cf73cf0385fba6aafca9ce1.1920x1080.jpg"
-    },
-    {
-      "title": "不思議な本を舞台に，かわいらしさと不気味さが同居するADV「Beacon Pines」と，南極の呪われた中世の城を探索する協力パズルADV「We Were Here Together」が，Epic Games Storeで無料配布中",
-      "url": "https://www.4gamer.net/games/031/G103130/20260807005/",
-      "source": "4Gamer.net",
-      "category": "sale",
-      "importance": "high",
-      "published": "2026-08-07T00:36:31",
-      "image": "https://www.4gamer.net/games/031/G103130/20260807005/TN/002.jpg"
-    },
-    {
-      "title": "［インタビュー］「鬼武者 Way of the Sword」では，京都の実在する名所と伝承をゲームに取り入れ，重みのある物語を描く",
-      "url": "https://www.4gamer.net/games/865/G086595/20260806038/",
-      "source": "4Gamer.net",
       "category": "other",
       "importance": "high",
-      "published": "2026-08-06T15:00:00",
-      "image": "https://www.4gamer.net/games/865/G086595/20260806038/SS/009.jpg"
+      "published": "2026-08-07T12:32:04",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/4d8be6194a3a7219136aa6d0e8c8ea15.png"
     },
     {
-      "title": "インディーFPS「HOLE」，累計売上本数が10万本を突破。同開発チームによる“新作FPSゲーム”が開発中であることが明らかに",
-      "url": "https://www.4gamer.net/games/806/G080670/20260806057/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-06T13:20:15",
-      "image": "https://www.4gamer.net/games/806/G080670/20260806057/SS/001.jpg"
-    },
-    {
-      "title": "「イーグレットツー ミニ」向けの追加ソフトが発売決定へ。タイトルの詳細は，8月27日20：00から実施予定の番組で公開予定",
-      "url": "https://www.4gamer.net/games/579/G057941/20260806055/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-06T12:44:17",
-      "image": "https://www.4gamer.net/games/579/G057941/20260806055/SS/001.jpg"
-    },
-    {
-      "title": "2D弾幕シューティングゲーム「Caladrius2/Dark Element」，今冬に発売。初登場から13年を経てリリースされる完全新作",
-      "url": "https://www.4gamer.net/games/030/G103085/20260805057/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-07T00:00:00",
-      "image": "https://www.4gamer.net/games/030/G103085/20260805057/SS/001.jpg"
-    },
-    {
-      "title": "人気インディーゲーム連発企業Devolver Digitalが株式非公開化の意向を発表、上場以来“株価が約96％下落”するなかで。ゲームが大ヒットしても株価は上がらず",
-      "url": "https://automaton-media.com/articles/newsjp/20260806-458903/",
-      "source": "Automaton",
+      "title": "カプコンが令和8年熊本地震への支援として「義援金1000万円」の寄付を発表",
+      "url": "https://news.denfaminicogamer.jp/news/2608073u",
+      "source": "電ファミニコゲーマー",
       "category": "business",
       "importance": "high",
-      "published": "2026-08-06T11:13:21",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260806-458903-header.jpg"
+      "published": "2026-08-07T11:42:58",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/capcom.jpg"
     },
     {
-      "title": "近未来TPS『ゴーストリコン フューチャーソルジャー』PC版が期間限定で無料配布中、Ubisoft Connectにて。定価1980円が今なら無料",
-      "url": "https://automaton-media.com/articles/newsjp/20260807-458964/",
-      "source": "Automaton",
+      "title": "Bethesda Softworksの40周年記念セールが8月14日まで開催中。『エルダー・スクロールズ』や『フォールアウト』シリーズがまとめてお得にゲットできる",
+      "url": "https://news.denfaminicogamer.jp/news/260808e",
+      "source": "電ファミニコゲーマー",
       "category": "sale",
-      "importance": "high",
-      "published": "2026-08-07T00:03:41",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260807-458964-header.jpg"
+      "importance": "normal",
+      "published": "2026-08-08T00:38:18",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/Snapshot_113.jpg"
     },
     {
-      "title": "“どんどん肌が出る”弾幕STG『カラドリウス2/ダークエレメント』発表。敵も味方も服が破けるシューティングに、13年越しの新作が登場",
-      "url": "https://automaton-media.com/articles/newsjp/caladrius2-20260807-458949/",
-      "source": "Automaton",
+      "title": "人気作『Cuphead』のアートブックが「89％オフ」の499円で買える破格のセール中。1930年代風のビジュアルが特徴的なアクションゲームの初期コンセプトやボスキャラ、ステージのイラストも収録",
+      "url": "https://news.denfaminicogamer.jp/news/260808d",
+      "source": "電ファミニコゲーマー",
+      "category": "sale",
+      "importance": "normal",
+      "published": "2026-08-07T23:12:06",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/91yQuleMPbL._SL1500_.jpg"
+    },
+    {
+      "title": "「THQ Nordic デジタルショーケース 2026」発表情報まとめ。狩猟シミュレーション「Way of the Hunter 2」の発売日が9月29日に決定",
+      "url": "https://www.4gamer.net/games/991/G999110/20260807063/",
+      "source": "4Gamer.net",
       "category": "release",
       "importance": "high",
-      "published": "2026-08-07T00:00:04",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/caladrius2-20260807-458949-header.jpg"
+      "published": "2026-08-07T19:30:00",
+      "image": "https://www.4gamer.net/games/991/G999110/20260807063/SS/001.jpg"
     },
     {
-      "title": "協力登山ゲーム『PEAK』、「最後の大型アップデート」は8月11日配信へ。過酷そうな新バイオーム一挙に2つ実装",
-      "url": "https://automaton-media.com/articles/newsjp/peak-20260807-458952/",
-      "source": "Automaton",
+      "title": "スカウトたちを待ち受ける不穏な建築物の正体とは。オンライン協力クライミングゲーム「PEAK」，最後の大型アップデートを8月11日に配信",
+      "url": "https://www.4gamer.net/games/920/G092076/20260807052/",
+      "source": "4Gamer.net",
       "category": "update",
       "importance": "high",
-      "published": "2026-08-06T23:55:22",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/peak-20260807-458952-header.jpg"
+      "published": "2026-08-07T11:12:51",
+      "image": "https://www.4gamer.net/games/920/G092076/20260807052/SS/001.jpg"
     },
     {
-      "title": "地下ミサイル基地をエイリアンから守るローグライク『CLEAR RED』発表。地球侵略を防ぎ、限られた時間と資源で目指すは「ICBM発射」",
-      "url": "https://automaton-media.com/articles/newsjp/clear-red-20260806-458814/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-06T08:26:28",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/clear-red-20260806-458814-header.jpeg"
+      "title": "「MIMESIS」の開発過程が明かされた「KRAFTON × ReLU Games 開発トーク」をレポート。AIを用いたゲーム開発や，プレイヤーを模倣するNPCの制作手法などが紹介された",
+      "url": "https://www.4gamer.net/games/898/G089803/20260807066/",
+      "source": "4Gamer.net",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-08-08T00:00:00",
+      "image": "https://www.4gamer.net/games/898/G089803/20260807066/SS/001.jpg"
+    },
+    {
+      "title": "「プロセカ」，星乃一歌の誕生日イベント開催中。「魔法少女とチョコレゐト」と「アクセラレイト」にリズムゲーム音源を追加",
+      "url": "https://www.4gamer.net/games/476/G047609/20260807062/",
+      "source": "4Gamer.net",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-08-07T23:00:00",
+      "image": "https://www.4gamer.net/games/476/G047609/20260807062/SS/001.jpg"
+    },
+    {
+      "title": "「FFX」25周年記念展覧会「FINAL FANTASY X MUSEUM-幻光の記憶-」チケット販売を開始。入場特典や限定グッズ情報も一部公開に",
+      "url": "https://www.4gamer.net/games/015/G101520/20260807068/",
+      "source": "4Gamer.net",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-08-07T15:00:00",
+      "image": "https://www.4gamer.net/games/015/G101520/20260807068/SS/002.jpg"
+    },
+    {
+      "title": "オートデスク、3ds Max 2027.2における3DGS編集ワークフロー解説動画を公開　新搭載のポイントオブジェクトタイプを活用 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202608-max20272-3DGS.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-08-07T23:16:39",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/max20272_3dgs-01-thumb-1920x1080-87446.jpg"
+    },
+    {
+      "title": "【AI×VFX最前線】Autodesk Flow Studio開発者ニコラ・トドロビッチ氏に訊く、CGキャラクターと実写融合の現在地と未来 - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/aivfxautodesk-flow-studiocg.html",
+      "source": "CGWORLD",
+      "category": "cg",
+      "importance": "normal",
+      "published": "2026-08-07T13:51:29",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/08/85e79d2f57a60951b137e4d3f64ffe9b64ba5f1f-thumb-1000x667-87439.jpg"
+    },
+    {
+      "title": "【8月20日（木）開催】TVアニメ『魔法の姉妹ルルットリリィ』の制作事例から学ぶ、バーチャルカメラ「ジャンヌ・ダルク」活用セミナー - ニュース",
+      "url": "https://cgworld.jp/flashnews/tv820.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-08-07T06:42:52",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/301_seminar_jeannedarc_full-thumb-1920x1080-87435.jpg"
+    },
+    {
+      "title": "27卒学生向け最後の開催　就活イベント「クリ博　ポートフォリオオンライン選考会 9月」　2D / 3D / UI デザイナー志望者向け　※9/1（火）作品締切 - ニュース",
+      "url": "https://cgworld.jp/flashnews/2608-pfo9.html",
+      "source": "CGWORLD",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-08-07T05:16:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/2608_pfo9-thumb-1920x1080-87432.jpg"
     },
     {
       "title": "【全3回・第3回】Mori CalliopeのMV／3D LIVEはどう生まれる？――東映ツークン研究所の制作基盤 - 特集",
       "url": "https://cgworld.jp/article/202608-calliope-3.html",
       "source": "CGWORLD",
-      "category": "other",
+      "category": "cg",
       "importance": "normal",
       "published": "2026-08-07T01:00:00",
       "image": "https://cgworld.jp/interview/images/202607-syt/subsc_banner.jpg"
     },
     {
-      "title": "Epic Games、Unreal Fest Chicago 2026でのUE 5.8 メッシュ テレイン紹介講演動画を公開 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202608-UEfest-MeshTerrain.html",
-      "source": "CGWORLD",
+      "title": "『原神』の相棒パイモン、小学4年生説。しかしそんなパイモンにも成長と変化の兆し。スネージナヤ直前まで進めて振り返るパイモンと成長と変化の記録",
+      "url": "https://automaton-media.com/articles/special-column/genshin-20260805-458400/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-07T09:00:08",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/image.png"
+    },
+    {
+      "title": "クラフト宇宙サバイバル『Breathedge』Steamにて期間限定で無料配布中。定価2800円の好評タイトル",
+      "url": "https://automaton-media.com/articles/newsjp/20260808-459254/",
+      "source": "Automaton",
+      "category": "sale",
+      "importance": "high",
+      "published": "2026-08-07T22:38:02",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260808-459254-header.jpg"
+    },
+    {
+      "title": "かなり好評“キツネグモ”アクション『Spider Fox』無料配布中、Epic Gamesストアにて。怖い",
+      "url": "https://automaton-media.com/articles/newsjp/20260807-459107/",
+      "source": "Automaton",
+      "category": "sale",
+      "importance": "high",
+      "published": "2026-08-07T08:13:30",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260807-459107-header.jpg"
+    },
+    {
+      "title": "リアル狩猟オープンワールド『Way of the Hunter 2』9月29日に正式リリースへ、PS5/Xbox Series X|Sにも登場。猟犬を従え、広大自然に生きる野生動物ハント",
+      "url": "https://automaton-media.com/articles/newsjp/20260808-459247/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-08-07T22:00:02",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260808-459247-header.jpeg"
+    },
+    {
+      "title": "『鳴潮』大型アプデVer3.6で“フレームレート平均10fps向上”のパフォーマンス大改善へ。「プログラミング言語変更」までした本気の最適化、新要素と共に8月20日配信へ",
+      "url": "https://automaton-media.com/articles/newsjp/20260807-459222/",
+      "source": "Automaton",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-08-07T13:08:00",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260807-459222-header.jpg"
+    },
+    {
+      "title": "「作業時間を減らし、クリエイティブに集中する」Wwise 2026.1がもたらす開発環境の進化―Audiokineticレポート＆インタビュー【CEDEC2026】",
+      "url": "https://www.gamebusiness.jp/article/2026/08/07/27644.html",
+      "source": "GameBusiness.jp",
       "category": "tech",
-      "importance": "normal",
-      "published": "2026-08-06T22:28:52",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/UEfest_MeshTerrain-01-thumb-1920x1080-87416.jpg"
-    },
-    {
-      "title": "Foundry、Nuke向けAIロトスコーププラグイン「SmartRoto」を提供開始―ロト作業を最大4倍高速化 - ニュース",
-      "url": "https://cgworld.jp/flashnews/03-2608-smartroto.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-08-06T09:50:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/100_product_SmartRoto_page-1040x450-thumb-1040x450-87318.jpg"
-    },
-    {
-      "title": "【全3回・第2回】本人の演技を3Dモデルへ――MV「Die For You」を支えたUE最適化、モーション＆フェイシャル - 特集",
-      "url": "https://cgworld.jp/article/202608-calliope-2.html",
-      "source": "CGWORLD",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-08-06T01:00:00",
-      "image": "https://cgworld.jp/interview/images/202607-syt/subsc_banner.jpg"
-    },
-    {
-      "title": "にゃんねこ氏、Substance 3D Painter用Toonシェーダ「NyanToon」を無料でリリース　lilToon風のルックを再現し、UnityとSP間のルック差異を吸収 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202608-NyanToon.html",
-      "source": "CGWORLD",
-      "category": "cg",
-      "importance": "normal",
-      "published": "2026-08-05T22:47:26",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/NyanToon-01-thumb-1920x1080-87378.jpg"
+      "importance": "high",
+      "published": "2026-08-07T03:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/191935.jpg"
     },
     {
       "title": "『マインクラフト』スイッチ2版が10月27日に発売決定！グラフィックを強化するバイブラントビジュアルズに対応しアップグレードパスも販売へ",
@@ -192,49 +201,67 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/191925.png"
     },
     {
-      "title": "数十万本ヒットの成人向けタイトル開発者、Steamからの売上を銀行に受け取り拒否されたことを明かす―今も続く「銀行による成人向けコンテンツの規制」",
-      "url": "https://www.gamebusiness.jp/article/2026/08/06/27629.html",
+      "title": "『GTA6』、「早く見るためにはサブスク契約？」予告映像Netflix先行公開を受けて反発も…皆が不満を漏らしている事実こそ上手くいってる証拠との声など挙がる",
+      "url": "https://www.gamebusiness.jp/article/2026/08/08/27648.html",
       "source": "GameBusiness.jp",
-      "category": "business",
+      "category": "release",
       "importance": "high",
-      "published": "2026-08-05T22:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/191632.jpg"
+      "published": "2026-08-07T21:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192036.png"
     },
     {
-      "title": "iPhone購入者の9割超が「ペイディあと払いプランApple専用」の再利用を希望【Paidy調査】",
-      "url": "https://www.gamebusiness.jp/article/2026/08/07/27643.html",
+      "title": "「AIがなければ生まれなかった体験」とは？210万本突破『MIMESIS』開発陣が明かす、試作を重ねるゲーム作り",
+      "url": "https://www.gamebusiness.jp/article/2026/08/08/27651.html",
       "source": "GameBusiness.jp",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-08-07T22:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/191973.jpg"
+    },
+    {
+      "title": "日本テレビHD、2027年3月期1Q決算は営業利益36.6%減―FIFAワールドカップ関連コスト増が重荷に",
+      "url": "https://www.gamebusiness.jp/article/2026/08/08/27650.html",
+      "source": "GameBusiness.jp",
+      "category": "business",
+      "importance": "normal",
+      "published": "2026-08-07T22:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192012.jpg"
+    },
+    {
+      "title": "FPS制作に役立つクロスヘアの素材が200種類収録。無料アセットパック『Crosshair Pack』アップデート版、Webサイト「Kenney」で公開",
+      "url": "https://gamemakers.jp/article/2026_08_06_142714/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "high",
+      "published": "2026-08-06T08:42:18",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/08/a28e2ae4b8d9242ad21f7789ad4f4932.jpg"
+    },
+    {
+      "title": "パッキング不要でアセット管理を最適化。Unity 6.6で導入される「Content Directories」の解説記事、サイバーエージェント「コアテク」が公開",
+      "url": "https://gamemakers.jp/article/2026_08_07_142771/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-08-07T11:24:37",
+      "image": null
+    },
+    {
+      "title": "『ペルソナ』『真・女神転生』アトラスの開発環境や採用基準などを直接聞ける！中途向け転職イベントが9/11（金）に無料で開催",
+      "url": "https://gamemakers.jp/article/2026_08_07_141672/",
+      "source": "ゲームメーカーズ",
       "category": "industry",
       "importance": "normal",
-      "published": "2026-08-06T23:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/191831.jpg"
+      "published": "2026-08-07T03:00:02",
+      "image": null
     },
     {
-      "title": "プロeスポーツチーム「VARREL」にAITuberが所属！8月6日20時よりマゴ選手とコラボ配信を実施",
-      "url": "https://www.gamebusiness.jp/article/2026/08/07/27642.html",
-      "source": "GameBusiness.jp",
-      "category": "esports",
+      "title": "Electronic Artsのリアルタイムレンダリング技術や、IO Interactive内製エンジンのボリュームエフェクト描画機能を解説。「SIGGRAPH 2026」内勉強会の講演資料が公開",
+      "url": "https://gamemakers.jp/article/2026_08_06_142707/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
       "importance": "normal",
-      "published": "2026-08-06T23:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/191838.png"
-    },
-    {
-      "title": "カプコン、『モンハンワイルズ』販売は“改善傾向”と回答―中長期では販売本数『ワールド』超え目指す",
-      "url": "https://www.gamebusiness.jp/article/2026/08/07/27641.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-08-06T22:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/191846.jpg"
-    },
-    {
-      "title": "『鬼武者 Way of the Sword』のゲーム画面と実際の京都を比較してみた！",
-      "url": "https://jp.ign.com/onimusha-way-of-the-sword/83905/way-of-the-sword",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-08-06T15:00:36",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/onicrop0_n6uq.png"
+      "published": "2026-08-06T07:09:32",
+      "image": null
     },
     {
       "title": "【オピニオン】任天堂は「魂」を失ってしまったのか？",
@@ -255,67 +282,31 @@
       "image": "https://sm.ign.com/ign_jp/review/s/spider-man/spider-man-brand-new-day-review_yacn.jpg"
     },
     {
-      "title": "『鬼武者 Way of the Sword』って実はストーリー重視？RPGも大好きなディレクターが語る",
-      "url": "https://jp.ign.com/onimusha-way-of-the-sword/83946/way-of-the-swordrpg",
+      "title": "モバイルゲーム『幻想水滸伝 STAR LEAP』を10時間以上プレイして見えてきた課題と、シリーズファンにとって外せない理由",
+      "url": "https://jp.ign.com/star-leap/83962/star-leap10",
       "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-08-06T15:00:51",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/sub2_bguy.png"
+      "published": "2026-08-07T09:03:32",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/blob_hs1u.jpg"
     },
     {
-      "title": "『鬼武者 Way of the Sword』3時間プレイ感想！「チャレンジ」を与えつつ、「魅せる」心の余裕も残してくれる珍しいアクションゲーム",
-      "url": "https://jp.ign.com/onimusha-way-of-the-sword/83945/way-of-the-sword3",
+      "title": "日本ゲーム大賞2026へ最大7組14名を招待 東京ゲームショウ直前に行われる国内最大級のゲームアワード",
+      "url": "https://jp.ign.com/tgs-2026/83969/2026714",
       "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-08-06T15:00:35",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1123_6f16.png"
-    },
-    {
-      "title": "FPS制作に役立つクロスヘアの素材が200種類収録。無料アセットパック『Crosshair Pack』アップデート版、Webサイト「Kenney」で公開",
-      "url": "https://gamemakers.jp/article/2026_08_06_142714/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-08-06T08:42:18",
-      "image": null
-    },
-    {
-      "title": "「ゲームメーカーズ スクランブル2026」全講演&タイムテーブルを発表！『プラグマタ』の開発事例、ゲーム業界のAI活用など",
-      "url": "https://gamemakers.jp/article/2026_08_05_142624/",
-      "source": "ゲームメーカーズ",
       "category": "industry",
-      "importance": "high",
-      "published": "2026-08-05T02:55:55",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/08/af14e1389f029e13b9edaccfb52180ad.jpg"
+      "importance": "normal",
+      "published": "2026-08-07T08:29:15",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/awa_9ppg.jpg"
     },
     {
-      "title": "Electronic Artsのリアルタイムレンダリング技術や、IO Interactive内製エンジンのボリュームエフェクト描画機能を解説。「SIGGRAPH 2026」内勉強会の講演資料が公開",
-      "url": "https://gamemakers.jp/article/2026_08_06_142707/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
+      "title": "高精度なトラッキング性能を備えたSteelSeriesのゲーミングマウス「Rival 3 Gen 2」がAmazonにて最大28％オフでセール中",
+      "url": "https://jp.ign.com/gaming-device/83960/steelseriesrival-3-gen-2amazon28",
+      "source": "IGN Japan",
+      "category": "sale",
       "importance": "normal",
-      "published": "2026-08-06T07:09:32",
-      "image": null
-    },
-    {
-      "title": "「シャドバらしさ」と「革新性」が融合。『Shadowverse: Worlds Beyond』UIデザイン・アニメーション演出の設計思想【CEDEC2026】",
-      "url": "https://gamemakers.jp/article/2026_08_05_142673/",
-      "source": "ゲームメーカーズ",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-08-05T10:44:51",
-      "image": null
-    },
-    {
-      "title": "UE5.8公式勉強会が8/26（水）に開催！MCP・Lore・MegaLightsなど、最新機能やツールの活用術を学べる「Unreal Engine Tokyo Dev Days 26’」、先着100名まで参加者募集中",
-      "url": "https://gamemakers.jp/article/2026_08_05_142660/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-08-05T06:12:32",
-      "image": null
+      "published": "2026-08-07T06:34:08",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_7syy.png"
     }
   ]
 }
