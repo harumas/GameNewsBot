@@ -1,24 +1,33 @@
 {
-  "generated_at": "2026-08-13T01:01:53.925487",
-  "poem": "おはようございます！ 🌞\n今日もゲーム業界は活況です！新しいゲームの発表や大型アップデートが続々とリリースされています。\n特に注目されているのは、静岡市がアニメーター育成講座を開講したことです ⭐️\nそれでは今日のニュースをどうぞ！",
+  "generated_at": "2026-08-14T01:01:05.305711",
+  "poem": "おはようございます！ 🌞\nゲーム業界では新しいタイトルやツールの発表が続いています。特に、戦闘なしオープンワールドの『Caravan SandWitch』が無料配布中です ⭐️\nそれでは今日のニュースをどうぞ！",
   "articles": [
     {
-      "title": "KitBash社、ArtStationおよびSketchfabの買収を発表　ポートフォリオや利用料金は維持、SNSではAI生成スパムへの対策を求める声も - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202608-Kitbash-Artstation.html",
+      "title": "『機動警察パトレイバー EZY』プリプロから3Dが支えるレイバーたちの活躍！〜No.3／アニメーション＆色彩設計篇 - 特集",
+      "url": "https://cgworld.jp/article/336-ezy-patlabor03.html",
       "source": "CGWORLD",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-08-11T04:39:03",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/Kitbash_Artstation-01-thumb-1920x1080-87574.jpg"
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-14T01:00:16",
+      "image": "https://cgworld.jp/article/assets_c/2026/07/228fa99cd5ea6c8a9a78beed1b467792c49da832-thumb-1000x563-86558-thumb-995x563-86890.jpg"
     },
     {
-      "title": "『機動警察パトレイバー EZY』プリプロから3Dが支えるレイバーたちの活躍！〜No.2／リギング＆カット制作篇 - 特集",
-      "url": "https://cgworld.jp/article/336-ezy-patlabor02.html",
+      "title": "【Photoshop 2026】ガラス面に写り込んでいるものを、元の画像からレイヤーとして分離・削除する「反射の削除」 - 連載",
+      "url": "https://cgworld.jp/regular/202608-tipsnote.html",
       "source": "CGWORLD",
       "category": "tech",
       "importance": "normal",
-      "published": "2026-08-13T01:00:38",
-      "image": "https://cgworld.jp/article/assets_c/2026/07/85e2de9f6a7a2e05ca07a6e5aebbd390c26aca60-thumb-1000x563-86545.jpg"
+      "published": "2026-08-14T01:00:00",
+      "image": "https://cgworld.jp/regular/assets_c/2026/08/Tipsnote-photo-2026202-thumb-800x445-87476.png"
+    },
+    {
+      "title": "トミナガハルキ氏、ファンタジー世界地図を自動生成する無料Webツール「USOMAP」公開　ハイトマップやSVGのエクスポートに対応 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202608-USOMAP.html",
+      "source": "CGWORLD",
+      "category": "tech",
+      "importance": "normal",
+      "published": "2026-08-13T22:06:39",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/USOMAP-01-thumb-1920x1080-87661.jpg"
     },
     {
       "title": "じゃむぞう氏、ブラウザで動作する毛束モデリングツール「カミジャム」HTMLファイル無償配布　OBJ形式の読み書きに対応、商用利用可 - ニュース",
@@ -39,154 +48,145 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/08/c6acdcf9ebd1d91ad7d6bb4bb056605f826d1b94-thumb-1200x766-87630.jpg"
     },
     {
-      "title": "AIはクリエイターの仕事をどう変えるのか？ 新 清士氏と考える生成AI時代のものづくり。「クリエイターズHUB v3.00」レポート - 特集",
-      "url": "https://cgworld.jp/article/202608-creators-hub.html",
-      "source": "CGWORLD",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-08-12T05:07:00",
-      "image": "https://cgworld.jp/article/assets_c/2026/07/_DSC8719-thumb-1000x667-86961.jpg"
-    },
-    {
-      "title": "［インタビュー］「Beast of Reincarnation」の一人と一匹のゲームデザイン。どんな思いで作られ，発売後の声をどう受け止めているのか",
-      "url": "https://www.4gamer.net/games/918/G091815/20260810009/",
-      "source": "4Gamer.net",
-      "category": "business",
+      "title": "『Human Fall Flat』開発元の新作は「物理演算VRゲーム」、『Tiny Flock』発表。パズルが解けなきゃ物理で解く、頭脳派ゴリ押しゲーム",
+      "url": "https://automaton-media.com/articles/newsjp/20260814-460109/",
+      "source": "Automaton",
+      "category": "release",
       "importance": "high",
-      "published": "2026-08-13T01:00:00",
-      "image": "https://www.4gamer.net/games/918/G091815/20260810009/SS/001.jpg"
+      "published": "2026-08-13T21:17:59",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260814-460109-header.jpg"
     },
     {
-      "title": "Switch2版「BLAZBLUE ENTROPY EFFECT X」，本日リリース。魔法少女「プラチナ」をはじめとした新コンテンツを実装するアップデートも公開に",
-      "url": "https://www.4gamer.net/games/024/G102495/20260812032/",
+      "title": "戦闘なしオープンワールド『Caravan SandWitch』が無料配布中、Epic Gamesストアにて。2950円の高評価作品が貰える",
+      "url": "https://automaton-media.com/articles/newsjp/caravan-sandwitch-20260813-460099/",
+      "source": "Automaton",
+      "category": "sale",
+      "importance": "high",
+      "published": "2026-08-13T15:00:03",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/caravan-sandwitch-20260813-460099-header.jpg"
+    },
+    {
+      "title": "“バニーガール付き”闇パチンコローグライク『High Roller Penny』発表。盤面を改造しスコアを稼ぎまくる、借金返済デスゲーム",
+      "url": "https://automaton-media.com/articles/newsjp/high-roller-penny-20260813-460026/",
+      "source": "Automaton",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-08-13T05:44:29",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/high-roller-penny-20260813-460026-header.jpeg"
+    },
+    {
+      "title": "高評価“暗殺回避”異変探しホラー『Targeted –10 Days』期間限定で無料配布中、Epic Gamesストアにて。見逃せば死、殺意を見抜く10日間",
+      "url": "https://automaton-media.com/articles/newsjp/20260813-460027/",
+      "source": "Automaton",
+      "category": "sale",
+      "importance": "high",
+      "published": "2026-08-13T05:28:33",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260813-460027-header.jpg"
+    },
+    {
+      "title": "ドット絵モンスター収集RPG『ドキモンクエスト』Steamにて8月25日に無料配布へ。定価1200円のゲーム",
+      "url": "https://automaton-media.com/articles/newsjp/20260813-460018/",
+      "source": "Automaton",
+      "category": "sale",
+      "importance": "high",
+      "published": "2026-08-13T05:16:12",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260813-460018-header.jpg"
+    },
+    {
+      "title": "PS5『ウルヴァリン』がワイルドすぎた。期待通りのゴリゴリ近接戦闘アクションでスーパーヒーローになりきれる。無敵の爪で敵をザクザク斬り刻むのが気持ちいい。このヒーロー、強すぎでは？",
+      "url": "https://news.denfaminicogamer.jp/kikakuthetower/260814z",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-08-13T15:00:09",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/image59-1.jpg"
+    },
+    {
+      "title": "「Discord」無料版のアップロード制限が10MBから「20MB」に変更。よりサイズの大きいファイルを送られるように",
+      "url": "https://news.denfaminicogamer.jp/news/260814d",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-08-14T00:46:39",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/HAwvaswaAAAvukx.webp"
+    },
+    {
+      "title": "『フォートナイト』と『ペルソナ5』のコラボが決定。8月20日（北米時間）から始まるチャプター7シーズン4「OVERRIDE」から",
+      "url": "https://news.denfaminicogamer.jp/news/260814a",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-08-13T21:57:32",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/YTDown.com_YouTube_A-Calling-Card-Has-Been-Delivered_Media_bwoxvNj7Rlw_001_1080p.mp4_snapshot_00.05.201.jpg"
+    },
+    {
+      "title": "ピクセル単位で物理演算がはたらく2D工場ゲーム『Sandustry サンダストリー』が本日8月14日にSteamで早期アクセス開始。砂粒や雪の結晶などのピクセル資源を物理と科学で活用し自動化",
+      "url": "https://news.denfaminicogamer.jp/news/260814w",
+      "source": "電ファミニコゲーマー",
+      "category": "release",
+      "importance": "normal",
+      "published": "2026-08-13T15:17:56",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/ss_3de96147e911d224647fbd499680ac9e58d0b823.1920x1080.jpg"
+    },
+    {
+      "title": "『ポケットモンスター ファイアレッド・リーフグリーン』Switch版と『Pokémon HOME』が2026年10月に連携へ",
+      "url": "https://news.denfaminicogamer.jp/news/2608133u",
+      "source": "電ファミニコゲーマー",
+      "category": "update",
+      "importance": "normal",
+      "published": "2026-08-13T13:14:09",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/HPmqEp7XMAAGVaP.jpeg"
+    },
+    {
+      "title": "［インタビュー］「Marvel’s Wolverine」が描くのは，Insomniacならではのウルヴァリン。生々しく激しい戦闘システムと，各地を巡りながら自分自身の謎を解くストーリー",
+      "url": "https://www.4gamer.net/games/594/G059409/20260812052/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-08-13T15:00:00",
+      "image": "https://www.4gamer.net/games/594/G059409/20260812052/SS/005.jpg"
+    },
+    {
+      "title": "「CloverPit」，Switch2/PS5/Switch/PS4版が本日発売。100万本超を売り上げた悪魔的ローグライトスロットに全アップデートを収録",
+      "url": "https://www.4gamer.net/games/033/G103303/20260813034/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-08-13T13:30:00",
+      "image": "https://www.4gamer.net/games/033/G103303/20260813034/SS/001.jpg"
+    },
+    {
+      "title": "未来を垣間見て書き換えるシネマティックSFアドベンチャーRPG「.curator」が発表。「オルタード・カーボン」原作者が手掛ける新作ゲーム",
+      "url": "https://www.4gamer.net/games/032/G103287/20260813027/",
+      "source": "4Gamer.net",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-08-13T13:00:00",
+      "image": "https://www.4gamer.net/games/032/G103287/20260813027/SS/006.jpg"
+    },
+    {
+      "title": "「eFootball」，大型アップデート“Version6.0.0”を本日リリース。最大8人が参加できる「カスタム大会」など，多数の新要素が登場",
+      "url": "https://www.4gamer.net/games/536/G053628/20260813044/",
       "source": "4Gamer.net",
       "category": "update",
       "importance": "high",
-      "published": "2026-08-13T01:00:00",
-      "image": "https://www.4gamer.net/games/024/G102495/20260812032/SS/002.jpg"
+      "published": "2026-08-13T12:05:35",
+      "image": "https://www.4gamer.net/games/536/G053628/20260813044/SS/002.jpg"
     },
     {
-      "title": "「PEAK」，最後の大型アップデートが配信開始。コンソール版の開発に本格的に注力。クロスプラットフォームにも対応予定",
-      "url": "https://www.4gamer.net/games/920/G092076/20260812048/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "high",
-      "published": "2026-08-12T11:31:41",
-      "image": "https://www.4gamer.net/games/920/G092076/20260812048/SS/001.png"
-    },
-    {
-      "title": "「クッキーラン：冒険の塔」，日本地域における運営権の移管とグローバルサーバーへの統合を発表。実施時期は11月を予定",
-      "url": "https://www.4gamer.net/games/615/G061513/20260812046/",
-      "source": "4Gamer.net",
-      "category": "industry",
-      "importance": "high",
-      "published": "2026-08-12T10:56:17",
-      "image": "https://www.4gamer.net/games/615/G061513/20260812046/SS/001.jpg"
-    },
-    {
-      "title": "一匹の猫になって冒険を楽しめるアドベンチャー「Stray」，Nintendo Switch2向けパッケージ版を11月12日に発売",
-      "url": "https://www.4gamer.net/games/003/G100380/20260812037/",
+      "title": "［プレイレポ］レイジさえ溜まっていれば何度も立ち上がる。「Marvel’s Wolverine」，Insomniac GamesにSIEの招待で訪問。血しぶき満載の序盤を体験してきた",
+      "url": "https://www.4gamer.net/games/594/G059409/20260807002/",
       "source": "4Gamer.net",
       "category": "release",
-      "importance": "normal",
-      "published": "2026-08-13T01:00:00",
-      "image": "https://www.4gamer.net/games/003/G100380/20260812037/SS/001.jpg"
-    },
-    {
-      "title": "PS5『ゴースト・オブ・ヨウテイ』の“大型拡張”コンテンツ発表。新ストーリー「関ケ原 慕情譚」やサバイバルモードなどを収録、10月に1480円で発売へ",
-      "url": "https://automaton-media.com/articles/newsjp/20260812-459932/",
-      "source": "Automaton",
-      "category": "update",
       "importance": "high",
-      "published": "2026-08-12T14:20:13",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260812-459932-header.jpg"
-    },
-    {
-      "title": "合体ゲーム“6本分”欲張りセット『ケスージ』発表、8月28日リリースへ。撃って登って積み上げて、変化球マージゲームの六種競技",
-      "url": "https://automaton-media.com/articles/newsjp/20260812-459901/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-12T10:31:20",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260812-459901-header.jpg"
-    },
-    {
-      "title": "ラヴクラフトホラー街づくりゲーム『Isles of Innsmouth』発表。島を拡大＆建物を置いて旧き神々を鎮める“のんびり不気味”建設",
-      "url": "https://automaton-media.com/articles/newsjp/isles-of-innsmouth-20260812-459870/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-12T08:57:40",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/isles-of-innsmouth-20260812-459870-header.jpeg"
-    },
-    {
-      "title": "『AVA』新作『AVA RE:BIRTH』発表、2026年秋リリースへ。一世を風靡したオンラインFPS、「原点回帰」掲げ“再誕”",
-      "url": "https://automaton-media.com/articles/newsjp/20260812-459825/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-12T05:02:41",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260812-459825-header.jpg"
-    },
-    {
-      "title": "『ホグワーツ・レガシー』続編が本格的に開発中であることが明らかに。ワーナー随一の成功作、ついに動き出す",
-      "url": "https://automaton-media.com/articles/newsjp/20260813-459942/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-12T23:35:06",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260813-459942-header.jpg"
-    },
-    {
-      "title": "モバイル版『デイヴ・ザ・ダイバー』が9月17日に発売決定。無料のデモが体験できて、9.99ドルでゲーム全体が遊べる",
-      "url": "https://news.denfaminicogamer.jp/news/260813e",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-13T00:29:19",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/yt_bBoOsNaNUF8_maxresdefault.jpg"
-    },
-    {
-      "title": "にじさんじ所属ライバー「笹木咲」さんがYouTubeチャンネル登録者数100万人を突破。直筆コメントと記念動画が公開。新衣装配信や100万人記念の歌ってみた動画の投稿も発表",
-      "url": "https://news.denfaminicogamer.jp/news/2608123c",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-08-12T11:56:43",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/main-23.png"
-    },
-    {
-      "title": "日本ファルコム、2026年9月期第3四半期の営業利益が「485.2％増」（前年同期比）を記録。売上高も前年同期比「111.8％増」",
-      "url": "https://news.denfaminicogamer.jp/news/2608123b",
-      "source": "電ファミニコゲーマー",
-      "category": "business",
-      "importance": "high",
-      "published": "2026-08-12T11:48:32",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/thumb_falcom.jpg"
-    },
-    {
-      "title": "『アークナイツ』PC版が本日10時よりリリース。『アークナイツ：エンドフィールド』と世界観を共有する本格タワーディフェンス",
-      "url": "https://news.denfaminicogamer.jp/news/2608133e",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-08-12T15:00:31",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/HMyTvLjbkAANPtX.jpg"
-    },
-    {
-      "title": "“メダル落とし”の快楽が家でも楽しめる新作ゲーム『古銭プッシャー外伝』本日Steam、Nintendo Switch 2にてリリース。攻撃や防御、回復の効果を持つ「珠」で妖怪が出現する洞窟を探索",
-      "url": "https://news.denfaminicogamer.jp/news/260813c",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-08-12T15:00:09",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/5378eb7e16730cb862d1cdbb53692459.png"
+      "published": "2026-08-13T15:00:00",
+      "image": "https://www.4gamer.net/games/594/G059409/20260807002/SS/010.jpg"
     },
     {
       "title": "10年で40回メジャーアップデート『No Man's Sky』、今後もアプデは無料であり続ける―皆にプレイしてもらいたいから",
       "url": "https://www.gamebusiness.jp/article/2026/08/13/27691.html",
       "source": "GameBusiness.jp",
-      "category": "update",
+      "category": "industry",
       "importance": "high",
       "published": "2026-08-12T23:30:03",
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/192360.jpg"
@@ -201,31 +201,58 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/192416.jpg"
     },
     {
-      "title": "Linux版ChatGPTデスクトップアプリ発表。Ubuntu、Debian、Fedoraなどで動作",
-      "url": "https://www.gamebusiness.jp/article/2026/08/13/27682.html",
-      "source": "GameBusiness.jp",
-      "category": "tech",
-      "importance": "high",
-      "published": "2026-08-12T21:15:02",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192477.jpg"
-    },
-    {
-      "title": "『紅の砂漠』開発元の次回作オープンワールドACT『ドケビ』2027年後半から本格展開へ！試遊を含むマーケティング開始、2028年後半の発売目指す",
-      "url": "https://www.gamebusiness.jp/article/2026/08/13/27684.html",
+      "title": "『ホグワーツ・レガシー』第2弾の制作をワーナーが公式に認める―マルチプレイ搭載の噂も",
+      "url": "https://www.gamebusiness.jp/article/2026/08/14/27698.html",
       "source": "GameBusiness.jp",
       "category": "release",
       "importance": "high",
-      "published": "2026-08-12T21:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192453.jpg"
+      "published": "2026-08-13T22:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192534.jpg"
     },
     {
-      "title": "「これ以上何も言う必要はないと思った」―『No Man's Sky』開発元、2023年以来続報のない新作『Light No Fire』の開発が続いていることを表明",
-      "url": "https://www.gamebusiness.jp/article/2026/08/12/27678.html",
+      "title": "にじさんじ・夢月ロア、約5年半に及んだ誹謗中傷被害に決着―「元所属ライバーをいじめで引退に追い込んだ」とデマを発信した相手と和解成立",
+      "url": "https://www.gamebusiness.jp/article/2026/08/14/27702.html",
       "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-08-13T23:15:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192508.jpg"
+    },
+    {
+      "title": "インディーゲーム展示会「東京ゲームダンジョン14」が10月31日開催決定！出展申込は8月21日20時から先着順で受付開始",
+      "url": "https://www.gamebusiness.jp/article/2026/08/14/27701.html",
+      "source": "GameBusiness.jp",
+      "category": "industry",
+      "importance": "normal",
+      "published": "2026-08-13T23:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192515.png"
+    },
+    {
+      "title": "『Control Resonant』が近接戦闘に挑む理由――アクションゲームの「お約束」を打ち破るRemedy初の挑戦【IGN First】",
+      "url": "https://jp.ign.com/control-resonant/84001/control-resonant-wants-to-challenge-whats-come-before-in-action-games-ign-first",
+      "source": "IGN Japan",
       "category": "release",
       "importance": "high",
-      "published": "2026-08-11T23:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192244.jpg"
+      "published": "2026-08-13T06:08:09",
+      "image": "https://sm.ign.com/ign_jp/feature/c/control-re/control-resonant-wants-to-challenge-whats-come-before-in-act_4cnf.jpg"
+    },
+    {
+      "title": "【考察】『GTA 5』のトレバーはRockstarのアンチに中指を立てた：ゲームプレイとストーリーの調和による説得力",
+      "url": "https://jp.ign.com/grand-theft-auto-iv/83999/gta-5rockstar",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-13T05:06:57",
+      "image": "https://sm.ign.com/ign_jp/feature/g/gta-5s-tre/gta-5s-trevor-flipped-the-bird-at-rockstars-haters_5mz8.jpg"
+    },
+    {
+      "title": "『Beast of Reincarnation』レビュー ところどころに素晴らしいアイデアの花を咲かせるアクションRPGだが、雑草に埋もれてしまっていて見つけるのが難しい",
+      "url": "https://jp.ign.com/beast-of-reincarnation/83921/beast-of-reincarnation-rpg",
+      "source": "IGN Japan",
+      "category": "release",
+      "importance": "high",
+      "published": "2026-08-13T03:38:41",
+      "image": "https://sm.ign.com/ign_jp/review/b/beast-of-r/beast-of-reincarnation-review_bwnu.jpg"
     },
     {
       "title": "『MARVEL Tōkon: Fighting Souls』レビュー すべてが揃った素晴らしい格闘ゲーム",
@@ -237,22 +264,22 @@
       "image": "https://sm.ign.com/ign_jp/review/m/marvel-tok/marvel-tokon-fighting-souls-review_tr6m.jpg"
     },
     {
-      "title": "『鬼武者 Way of the Sword』を3時間プレイした感想：今週遊んだゲーム 08/12/2026",
-      "url": "https://jp.ign.com/shaberisugi-gamer/83993/way-of-the-sword3-08122026",
+      "title": "Control Resonant Screenshots",
+      "url": "https://jp.ign.com/control-resonant/84002/control-resonant-screenshots",
       "source": "IGN Japan",
-      "category": "other",
+      "category": "release",
       "importance": "normal",
-      "published": "2026-08-12T11:00:34",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/onimushasamune_us7s.jpg"
+      "published": "2026-08-13T06:08:09",
+      "image": "https://sm.ign.com/ign_jp/gallery/c/control-re/control-resonant-screenshots_x7hq.jpg"
     },
     {
-      "title": "しゃべりすぎGAMER 500回記念特別番組！ もう10年！",
-      "url": "https://jp.ign.com/shaberisugi-gamer/83987/gamer-500-10",
-      "source": "IGN Japan",
-      "category": "other",
+      "title": "C#の文法とC++のパフォーマンスを両立した言語「Beef」で構築。オープンソース＆無料の3Dゲームエンジン「Sedulous Engine」、MITライセンスで提供中",
+      "url": "https://gamemakers.jp/article/2026_08_13_142827/",
+      "source": "ゲームメーカーズ",
+      "category": "tech",
       "importance": "normal",
-      "published": "2026-08-11T11:03:32",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/podcast-logo-2025_3dxk.jpg"
+      "published": "2026-08-13T01:58:38",
+      "image": null
     },
     {
       "title": "Epic Gamesのマーケットプレイス「Fab」、8/25（火）までの期間限定で無料コンテンツを公開。北欧の湖畔をイメージした環境アセットなど3製品",
@@ -261,15 +288,6 @@
       "category": "sale",
       "importance": "normal",
       "published": "2026-08-12T03:58:18",
-      "image": null
-    },
-    {
-      "title": "『FFXIV: 白銀のワンダラー』ティザー映像の制作事例や、『プラグマタ』における髪・表情の表現などを解説。「CEDEC2026」アーカイブ約40本が公開",
-      "url": "https://gamemakers.jp/article/2026_08_11_142949/",
-      "source": "ゲームメーカーズ",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-08-11T01:58:19",
       "image": null
     }
   ]
