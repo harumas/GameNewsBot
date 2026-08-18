@@ -1,204 +1,276 @@
 {
-  "generated_at": "2026-08-17T00:36:17.125185",
-  "poem": "おはようございます！ 🌞\n今日もゲーム業界は動きまくり！『キングダム ハーツ4』が2027年に発売されることが決定しました。夢の共演など、注目すべきニュースがたくさん！\nそれでは今日のニュースをどうぞ！ 🎮",
+  "generated_at": "2026-08-18T00:35:48.597785",
+  "poem": "",
   "articles": [
     {
-      "title": "『めっちゃカメレオン』最新公式マップ「ショッピングモール」が追加！コラボを除き、公式マップの追加は次回が最後になると発表",
-      "url": "https://news.denfaminicogamer.jp/news/260816h",
-      "source": "電ファミニコゲーマー",
-      "category": "update",
+      "title": "最大4人協力・モンスター“救助”シム『Sanctuary of Small Things』正式発表、プレイテスト実施中。生き物たちの病気を癒す、魔法とやさしさのスローライフ",
+      "url": "https://automaton-media.com/articles/newsjp/20260817-460569/",
+      "source": "Automaton",
+      "category": "other",
       "importance": "high",
-      "published": "2026-08-16T09:48:12",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/HP1U8i5bYAAy6cE.png"
+      "published": "2026-08-17T11:44:36",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260817-460569-header.jpg"
     },
     {
-      "title": "『キングダム ハーツ4』は「確実に2027年に発売される」と野村哲也氏がコメント、安江泰氏も「絶対に遅れない 100%」と強調。4分ほどの映像も公開",
-      "url": "https://news.denfaminicogamer.jp/news/260816c",
-      "source": "電ファミニコゲーマー",
-      "category": "release",
+      "title": "締切直前タスク消化ローグライト『限界ライバー しめきり1週前』発表。ギリギリになってから本気出す、地獄のVTuber業務",
+      "url": "https://automaton-media.com/articles/newsjp/20260817-460531/",
+      "source": "Automaton",
+      "category": "other",
       "importance": "high",
-      "published": "2026-08-15T23:51:45",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/WS001213.jpg"
+      "published": "2026-08-17T10:07:35",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260817-460531-header.jpg"
     },
     {
-      "title": "Razerのヘッドセットに「ポムポムプリン」エディションが登場。かわいい“たれみみ”が完全再現",
-      "url": "https://news.denfaminicogamer.jp/news/260817f",
+      "title": "Steamではプレイ200時間超えだと「ネガティブなレビューがむしろ増える」との研究結果。何百時間やりこんでの不満、貴重な“熟成辛口レビュー”",
+      "url": "https://automaton-media.com/articles/newsjp/20260817-460520/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-17T09:28:43",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260817-460520-header.jpg"
+    },
+    {
+      "title": "Steam物理演算・錠剤お片付けゲーム『Pill & Chill』発表。“薬剤師気分”でごちゃ混ぜお薬仕分け放題、うっかり崩せば水の泡",
+      "url": "https://automaton-media.com/articles/newsjp/20260817-460503/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-17T07:52:51",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260817-460503-header.jpg"
+    },
+    {
+      "title": "ドット絵モンスター収集RPG『ドキモンクエスト II』正式発表。舞台は「江戸時代」、新ドキモン続々＋バトルシステム再構築など大幅進化",
+      "url": "https://automaton-media.com/articles/newsjp/20260817-460489/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-17T05:41:07",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260817-460489-header.jpg"
+    },
+    {
+      "title": "「EVEは死につつある。その過程を、我々は\"生きる\"と呼ぶ」―\"AIにとってのラスボス\"『EVE Online』開発元ヒルマーCEOに聞く、DeepMind提携と1億ドルの\"フロンティア\"【インタビュー】",
+      "url": "https://www.gamebusiness.jp/article/2026/08/18/27723.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-17T21:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192949.jpg"
+    },
+    {
+      "title": "「Sapporo Game Camp」10/9-11、高校生向けセッション新設",
+      "url": "https://www.gamebusiness.jp/article/2026/08/18/27732.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-17T23:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192851.jpg"
+    },
+    {
+      "title": "『ランブルローズ』影響の成人向けキャットファイトACT、銀行から取り扱いNGを受ける。Steamで近日早期アクセス予定だった―まだまだ続くデバンキング問題",
+      "url": "https://www.gamebusiness.jp/article/2026/08/18/27731.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-17T23:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192854.jpg"
+    },
+    {
+      "title": "約9年の歴史に幕！「実物大ユニコーンガンダム立像」が8月31日に展示終了、ラスト10日間のフィナーレ企画が始動へ",
+      "url": "https://www.gamebusiness.jp/article/2026/08/18/27730.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-17T23:15:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192869.png"
+    },
+    {
+      "title": "『悪魔城ドラキュラ - Grimoire of Souls』2026年9月3日にサ終―Apple Arcade限定配信のARPGが5年で閉幕",
+      "url": "https://www.gamebusiness.jp/article/2026/08/18/27729.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-17T23:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192883.jpg"
+    },
+    {
+      "title": "『パプリカ』今敏監督の生前のインタビューで構成された特別番組「NHK映像ファイル あの人に会いたい」が再放送。NHK総合にて8月22日5時40分から",
+      "url": "https://news.denfaminicogamer.jp/news/2608173e",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-17T15:05:28",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/ba4b5ed1ab70969c8e95883e4103e4e1.png"
+    },
+    {
+      "title": "歌い手・天月さんが所属事務所からの独立を発表。独立後もストリーマーとして「Crazy Raccoon」、声優として「ホーリーピーク」には引き続き所属するかたちに",
+      "url": "https://news.denfaminicogamer.jp/news/2608173f",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-17T14:59:19",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/d9542efac70371ecbce8702620026319.png"
+    },
+    {
+      "title": "YouTube、全動画で“視聴数のカウント”が「再生した瞬間」に変更。再生数の増加ペース早まる見込み",
+      "url": "https://news.denfaminicogamer.jp/news/260818d",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-08-17T00:28:41",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/GUEST_c17a3cec-e8c7-4c99-8752-7ce0086f4aec.jpg"
+      "published": "2026-08-17T23:15:03",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/yt_1200.png"
     },
     {
-      "title": "各サブスクで配信中の映画を“レンタルビデオショップ風”のバーチャル空間で探せる無料ウェブサービスがSNSで話題に。歩いてるだけで楽しすぎる",
-      "url": "https://news.denfaminicogamer.jp/news/260817b",
+      "title": "恐怖を超えた“不安”を追求した不気味すぎるホラーゲーム『UN:Me』の公式Xが開設。Steam、PS5、Switch 2向けに2026年発売予定の新作",
+      "url": "https://news.denfaminicogamer.jp/news/2608173d",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-08-16T22:52:35",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/e81ca3ef9b8bfdb4c7be5eaf495b145d.png"
+      "published": "2026-08-17T14:05:01",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/ss_5001ebc4a5ebe7875d89020e9b43bb0c7bbd7e72.1920x1080.jpg"
     },
     {
-      "title": "『フォートナイト』に「ソニック」「ロックマン」「リュウ」「ソラ」「ジョーカー」など多数参戦！人気ゲームキャラが夢の共演",
-      "url": "https://news.denfaminicogamer.jp/news/260817c",
+      "title": "Nintendo Switch 2版『エルデンリング』は「想像以上にちゃんと動く」。大作アクションRPGは、TV・携帯モード両方で大変スムーズに動作していた",
+      "url": "https://news.denfaminicogamer.jp/kikakuthetower/260817a",
       "source": "電ファミニコゲーマー",
-      "category": "update",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-08-16T22:44:04",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/HP3EhzgaQAApwun.jpg"
+      "published": "2026-08-17T14:00:03",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/ELDEN-RING-Tarnished-Edition_01.jpg"
+    },
+    {
+      "title": "「牧場物語」＆「ルーンファクトリー」シリーズのスペシャル生放送は8月24日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
+      "url": "https://www.4gamer.net/games/421/G042182/20260814030/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-17T23:00:00",
+      "image": "https://www.4gamer.net/games/421/G042182/20260814030/SS/002.jpg"
+    },
+    {
+      "title": "異端審判官となって事件を調べ，裁きを下すミステリーホラーADV「審判官シェパード」を紹介。重厚な世界観と音楽の一体感が光る一作［BIC2026］",
+      "url": "https://www.4gamer.net/games/008/G100815/20260817050/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-17T12:57:34",
+      "image": "https://www.4gamer.net/games/008/G100815/20260817050/SS/012.jpg"
+    },
+    {
+      "title": "敵だらけの職場で頂点を目指す“圧倒的に好評”なローグライクACT「Stick It to the Stickman」，9月23日に正式リリース決定",
+      "url": "https://www.4gamer.net/games/861/G086118/20260817049/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-17T12:13:36",
+      "image": "https://www.4gamer.net/games/861/G086118/20260817049/SS/001.jpg"
+    },
+    {
+      "title": "異星の昆虫に支配された地球で生き延びるサバイバルTPS「No More Light」，最新ゲームプレイトレイラーを公開",
+      "url": "https://www.4gamer.net/games/033/G103385/20260817048/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-17T11:42:44",
+      "image": "https://www.4gamer.net/games/033/G103385/20260817048/SS/005.jpg"
+    },
+    {
+      "title": "わしゃがなTVの最新動画では，コレクションアイテム「DRAGON BALL 全42巻セット Double Cover Box」を紹介。ゲンスルーのサングラスも登場",
+      "url": "https://www.4gamer.net/games/991/G999106/20260817003/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-17T11:00:00",
+      "image": "https://www.4gamer.net/games/991/G999106/20260817003/TN/001.jpg"
+    },
+    {
+      "title": "オートデスク、Flow Studioをアップデート　3D EditorとCanvasを搭載、Canvasでは動画生成AI「Seedance 2.5」も利用可能に - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202608-FlowStudio.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-17T22:32:36",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/FlowStudio_Canvas-01-thumb-1920x1080-87688.jpg"
+    },
+    {
+      "title": "第2回：アニメーターの考える「使いやすいデータの収録」 （前篇〜ノウハウの継承について考える） - 連載",
+      "url": "https://cgworld.jp/regular/motion-capture02a.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-17T01:00:37",
+      "image": "https://cgworld.jp/regular/assets_c/2026/07/motioncapture_2-1%20%281%29-thumb-1920x1080-86749.jpg"
     },
     {
       "title": "SideFX、SolarisのUSDワークフロー解説動画公開　FMX HIVE 2026でのMilk VFXによる講演 - ニュース",
       "url": "https://cgworld.jp/flashnews/01-202608-Houdini-SolarisUSD.html",
       "source": "CGWORLD",
-      "category": "tech",
+      "category": "other",
       "importance": "normal",
       "published": "2026-08-16T23:00:21",
       "image": "https://cgworld.jp/flashnews/assets_c/2026/08/Houdini_SolarisUSD-01-thumb-1920x1080-87675.jpg"
     },
     {
-      "title": "「キングダム ハーツIV」の発売が2027年後半に決定。新たな冒険の舞台を紹介する最新トレイラー公開",
-      "url": "https://www.4gamer.net/games/015/G101577/20260816004/",
-      "source": "4Gamer.net",
-      "category": "release",
+      "title": "『Control Resonant』独占ボス戦プレイ映像 – IGN First",
+      "url": "https://jp.ign.com/control-resonant/84030/control-resonant-ign-first",
+      "source": "IGN Japan",
+      "category": "other",
       "importance": "high",
-      "published": "2026-08-16T03:03:29",
-      "image": "https://www.4gamer.net/games/015/G101577/20260816004/SS/001.jpg"
+      "published": "2026-08-17T05:33:27",
+      "image": "https://sm.ign.com/ign_jp/feature/c/control-re/control-resonant-exclusive-boss-fight-gameplay-ign-first_jkqd.jpg"
     },
     {
-      "title": "三角測量で砲弾を撃ちまくるロマンの塊のようなシミュレーションゲーム「IRON NEST」（あかねのSteam Pick Up！）",
-      "url": "https://www.4gamer.net/games/025/G102544/20260814002/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-08-16T23:00:00",
-      "image": "https://www.4gamer.net/games/025/G102544/20260814002/SS/004.jpg"
-    },
-    {
-      "title": "【今週のモチベ】アクションRPG「Mortal Shell II」や，「STEINS;GATE RE:BOOT」が発売される 2026年8月17日〜8月23日",
-      "url": "https://www.4gamer.net/games/954/G095479/20260816006/",
-      "source": "4Gamer.net",
-      "category": "release",
-      "importance": "normal",
-      "published": "2026-08-16T23:00:00",
-      "image": "https://www.4gamer.net/games/954/G095479/20260816006/SS/005.jpg"
-    },
-    {
-      "title": "「餓狼伝説 City of the Wolves」，Season Pass 3のDLC第2弾「ダック・キング」を8月27日に配信。ダンスと格闘を融合した個性派ファイター",
-      "url": "https://www.4gamer.net/games/649/G064915/20260814038/",
-      "source": "4Gamer.net",
-      "category": "update",
-      "importance": "normal",
-      "published": "2026-08-16T21:00:00",
-      "image": "https://www.4gamer.net/games/649/G064915/20260814038/SS/001.jpg"
-    },
-    {
-      "title": "開発者育成の拠点は，首都ジャカルタではなくバンドン。インドネシア通信・デジタル省とBICが2027年1月から共同事業を実施［BIC2026］",
-      "url": "https://www.4gamer.net/games/999/G999905/20260816012/",
-      "source": "4Gamer.net",
-      "category": "industry",
-      "importance": "normal",
-      "published": "2026-08-16T05:45:52",
-      "image": "https://www.4gamer.net/games/999/G999905/20260816012/SS/007.jpg"
-    },
-    {
-      "title": "PS5『ゴースト・オブ・ヨウテイ』の“大型拡張”は10月1日発売。老舗FPS『AVA』の新作『AVA RE:BIRTH』発表。今週の見逃せないゲーム記事7選",
-      "url": "https://automaton-media.com/articles/newsjp/20260816-460353/",
-      "source": "Automaton",
-      "category": "release",
+      "title": "【コラム】『GTA6』は『GTA4』から多くを学ぶべきだ",
+      "url": "https://jp.ign.com/grand-theft-auto-iv/84029/gta6gta4",
+      "source": "IGN Japan",
+      "category": "other",
       "importance": "high",
-      "published": "2026-08-16T04:19:59",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260816-460353-header.jpg"
+      "published": "2026-08-17T04:58:03",
+      "image": "https://sm.ign.com/ign_jp/feature/i/i-hope-gta/i-hope-gta-6-borrows-a-lot-from-gta-4_2rs2.jpg"
     },
     {
-      "title": "アパートの住民を監視して“異常”を密告するゲーム『The Watcher』発表。見なかったことにもできるが、監視する自分もまた“監視されている”サイコスリラー",
-      "url": "https://automaton-media.com/articles/newsjp/20260815-460336/",
-      "source": "Automaton",
-      "category": "release",
+      "title": "携帯型PCゲーム機を愛してやまない私だが、「RAM危機」がこの市場を破滅させるのではないかと危惧している",
+      "url": "https://jp.ign.com/lenovo-legion-go-2/84025/i-love-handhelds-but-im-worried-the-ram-crisis-is-going-to-kill-them",
+      "source": "IGN Japan",
+      "category": "other",
       "importance": "high",
-      "published": "2026-08-15T05:57:09",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260815-460336-header.jpg"
+      "published": "2026-08-17T04:24:45",
+      "image": "https://sm.ign.com/ign_jp/feature/i/i-love-han/i-love-handhelds-but-im-worried-the-ram-crisis-is-going-to-k_cxng.jpg"
     },
     {
-      "title": "「『キングダム ハーツIV』は絶対2027年に出す」と野村哲也氏が断言。長尺映像や開発状況など、新情報いろいろ公開",
-      "url": "https://automaton-media.com/articles/newsjp/20260816-460374/",
-      "source": "Automaton",
-      "category": "release",
+      "title": "東京ゲームショウの30周年記念特設サイトがオープン 30周年特別企画も複数発表",
+      "url": "https://jp.ign.com/tgs-2026/84023/30-30",
+      "source": "IGN Japan",
+      "category": "other",
       "importance": "high",
-      "published": "2026-08-16T02:23:36",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260816-460374-header.jpg"
+      "published": "2026-08-17T10:15:52",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/kv-30_xrq6.png"
     },
     {
-      "title": "『キングダム ハーツ』、なんとアニメ化決定。Disney ChannelとDisney+にて配信予定",
-      "url": "https://automaton-media.com/articles/newsjp/kingdom-hearts-the-series-20260815-460321/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-15T03:57:46",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/kingdom-hearts-the-series-20260815-460321-header.jpg"
-    },
-    {
-      "title": "『キングダム ハーツIV』、2027年後半に発売へ。ソラたちの新たな冒険が、ついに",
-      "url": "https://automaton-media.com/articles/newsjp/20260815-460317/",
-      "source": "Automaton",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-15T03:39:33",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260815-460317-header.jpg"
-    },
-    {
-      "title": "『キングダム ハーツIV』は2027年後半に発売で「リメンバー・ミー」のワールド登場！ゲームプレイ含むトレイラー公開―ディズニーと野村哲也氏、スクエニ共同制作のアニメシリーズも発表",
-      "url": "https://www.gamebusiness.jp/article/2026/08/16/27717.html",
-      "source": "GameBusiness.jp",
-      "category": "release",
-      "importance": "high",
-      "published": "2026-08-15T21:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192826.png"
-    },
-    {
-      "title": "ChatGPTにライターの座を奪われたと暴露した開発者と否定するCEOの対立続く運転シム『Rideshare \"スティミュレーター\"』ストアページにAI生成コンテンツの開示を記載",
-      "url": "https://www.gamebusiness.jp/article/2026/08/16/27720.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
+      "title": "MSI Claw 8 EX AI+ – Hands-On Photos",
+      "url": "https://jp.ign.com/msi-claw-8-ex-ai/84027/msi-claw-8-ex-ai-hands-on-photos",
+      "source": "IGN Japan",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-08-15T22:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192780.jpg"
+      "published": "2026-08-17T04:24:45",
+      "image": "https://sm.ign.com/ign_jp/gallery/m/msi-claw-8/msi-claw-8-ex-ai-hands-on-photos_1sqq.jpg"
     },
     {
-      "title": "アソビシステムとORIGINAL、資本業務提携を締結。日本文化の国際市場定着へ長期戦略で共同基盤構築",
-      "url": "https://www.gamebusiness.jp/article/2026/08/16/27719.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-08-15T21:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192789.jpg"
-    },
-    {
-      "title": "AIで自作した放置型絵文字ローグライク『探犬∞』に一人称視点をつけたらDOOMライクになった（CloseBox）",
-      "url": "https://www.gamebusiness.jp/article/2026/08/16/27718.html",
-      "source": "GameBusiness.jp",
-      "category": "tech",
-      "importance": "normal",
-      "published": "2026-08-15T21:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192803.png"
-    },
-    {
-      "title": "「ホロライブ」のカバーCEO・谷郷氏がX（旧Twitter）乗っ取り被害を報告―「ご心配をおかけしました」",
-      "url": "https://www.gamebusiness.jp/article/2026/08/16/27716.html",
-      "source": "GameBusiness.jp",
-      "category": "business",
-      "importance": "normal",
-      "published": "2026-08-15T21:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192840.jpg"
-    },
-    {
-      "title": "SNSフォロワー57万人のそり滑りゲーム『Sledding Game』は、なぜこんなに「チル」なのか。開発者に聞いた、交流を生むゲームデザイン",
-      "url": "https://gamemakers.jp/article/2026_08_15_142996/",
+      "title": "札幌のゲームビジネスイベント「GLGa2027 NORTH」、インディーゲームの無料出展枠を開設。応募は9/25（金）17時まで",
+      "url": "https://gamemakers.jp/article/2026_08_17_143147/",
       "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "normal",
-      "published": "2026-08-15T02:04:29",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/08/d93c8a4ad89346d4bf40c423fc0302ef.jpg"
+      "published": "2026-08-17T07:27:34",
+      "image": null
+    },
+    {
+      "title": "10/31（土）開催のインディーゲーム展示会「東京ゲームダンジョン14」、出展者募集を8/21（金）20時より開始。先着順で受付",
+      "url": "https://gamemakers.jp/article/2026_08_17_143123/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-17T03:41:35",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/08/ea2a247293879591249d009ccd32065b.jpg"
     }
   ]
 }
