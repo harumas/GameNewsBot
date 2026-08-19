@@ -1,186 +1,195 @@
 {
-  "generated_at": "2026-08-18T00:35:48.597785",
+  "generated_at": "2026-08-19T00:38:05.009109",
   "poem": "",
   "articles": [
     {
-      "title": "最大4人協力・モンスター“救助”シム『Sanctuary of Small Things』正式発表、プレイテスト実施中。生き物たちの病気を癒す、魔法とやさしさのスローライフ",
-      "url": "https://automaton-media.com/articles/newsjp/20260817-460569/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-08-17T11:44:36",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260817-460569-header.jpg"
-    },
-    {
-      "title": "締切直前タスク消化ローグライト『限界ライバー しめきり1週前』発表。ギリギリになってから本気出す、地獄のVTuber業務",
-      "url": "https://automaton-media.com/articles/newsjp/20260817-460531/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-08-17T10:07:35",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260817-460531-header.jpg"
-    },
-    {
-      "title": "Steamではプレイ200時間超えだと「ネガティブなレビューがむしろ増える」との研究結果。何百時間やりこんでの不満、貴重な“熟成辛口レビュー”",
-      "url": "https://automaton-media.com/articles/newsjp/20260817-460520/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-08-17T09:28:43",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260817-460520-header.jpg"
-    },
-    {
-      "title": "Steam物理演算・錠剤お片付けゲーム『Pill & Chill』発表。“薬剤師気分”でごちゃ混ぜお薬仕分け放題、うっかり崩せば水の泡",
-      "url": "https://automaton-media.com/articles/newsjp/20260817-460503/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-08-17T07:52:51",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260817-460503-header.jpg"
-    },
-    {
-      "title": "ドット絵モンスター収集RPG『ドキモンクエスト II』正式発表。舞台は「江戸時代」、新ドキモン続々＋バトルシステム再構築など大幅進化",
-      "url": "https://automaton-media.com/articles/newsjp/20260817-460489/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-08-17T05:41:07",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260817-460489-header.jpg"
-    },
-    {
-      "title": "「EVEは死につつある。その過程を、我々は\"生きる\"と呼ぶ」―\"AIにとってのラスボス\"『EVE Online』開発元ヒルマーCEOに聞く、DeepMind提携と1億ドルの\"フロンティア\"【インタビュー】",
-      "url": "https://www.gamebusiness.jp/article/2026/08/18/27723.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-08-17T21:30:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192949.jpg"
-    },
-    {
-      "title": "「Sapporo Game Camp」10/9-11、高校生向けセッション新設",
-      "url": "https://www.gamebusiness.jp/article/2026/08/18/27732.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-08-17T23:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192851.jpg"
-    },
-    {
-      "title": "『ランブルローズ』影響の成人向けキャットファイトACT、銀行から取り扱いNGを受ける。Steamで近日早期アクセス予定だった―まだまだ続くデバンキング問題",
-      "url": "https://www.gamebusiness.jp/article/2026/08/18/27731.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-08-17T23:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192854.jpg"
-    },
-    {
-      "title": "約9年の歴史に幕！「実物大ユニコーンガンダム立像」が8月31日に展示終了、ラスト10日間のフィナーレ企画が始動へ",
-      "url": "https://www.gamebusiness.jp/article/2026/08/18/27730.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-08-17T23:15:02",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192869.png"
-    },
-    {
-      "title": "『悪魔城ドラキュラ - Grimoire of Souls』2026年9月3日にサ終―Apple Arcade限定配信のARPGが5年で閉幕",
-      "url": "https://www.gamebusiness.jp/article/2026/08/18/27729.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-08-17T23:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192883.jpg"
-    },
-    {
-      "title": "『パプリカ』今敏監督の生前のインタビューで構成された特別番組「NHK映像ファイル あの人に会いたい」が再放送。NHK総合にて8月22日5時40分から",
-      "url": "https://news.denfaminicogamer.jp/news/2608173e",
+      "title": "SIE初のデスクトップ向けワイヤレススピーカー「PULSE Elevate」が11月12日に発売決定。9月1日より順次予約開始",
+      "url": "https://news.denfaminicogamer.jp/news/260819b",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-08-17T15:05:28",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/ba4b5ed1ab70969c8e95883e4103e4e1.png"
+      "published": "2026-08-18T16:10:22",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/dce6998d39fb345198eabd6ee2fce25c69fd0428.jpg.webp"
     },
     {
-      "title": "歌い手・天月さんが所属事務所からの独立を発表。独立後もストリーマーとして「Crazy Raccoon」、声優として「ホーリーピーク」には引き続き所属するかたちに",
-      "url": "https://news.denfaminicogamer.jp/news/2608173f",
+      "title": "『The Witness』開発者による新作パズルゲーム『Order of the Sinking Star』が10月8日に発売決定。1000個以上ものパズルが収録された広大な世界を舞台に、数百時間楽しめる",
+      "url": "https://news.denfaminicogamer.jp/news/2608183c",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-08-17T14:59:19",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/d9542efac70371ecbce8702620026319.png"
+      "published": "2026-08-18T14:55:59",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/PhotoshopExtension_Image_19-2.png"
     },
     {
-      "title": "YouTube、全動画で“視聴数のカウント”が「再生した瞬間」に変更。再生数の増加ペース早まる見込み",
-      "url": "https://news.denfaminicogamer.jp/news/260818d",
+      "title": "【最大4人】クビになった社員が“残り15分”でムカつく上司に復讐する協力ゲーム『Layoff Revenge!』が発表。会社のあらゆる道具を駆使して妨害コンボを決め、上司をブチギレさせよう",
+      "url": "https://news.denfaminicogamer.jp/news/2608182x",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-18T11:29:02",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/ss_8def847c8d66c5da4181ab40b4a919f6a4c0ca83.1920x1080.jpg"
+    },
+    {
+      "title": "『BLACK LAGOON』地球で一番“おっかない”女たちのポップアップショップが開催決定。原作・広江礼威氏の描き下ろしイラストがカッコよすぎる",
+      "url": "https://news.denfaminicogamer.jp/news/260819e",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-08-17T23:15:03",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/yt_1200.png"
+      "published": "2026-08-19T00:04:22",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/main-73.jpg"
     },
     {
-      "title": "恐怖を超えた“不安”を追求した不気味すぎるホラーゲーム『UN:Me』の公式Xが開設。Steam、PS5、Switch 2向けに2026年発売予定の新作",
-      "url": "https://news.denfaminicogamer.jp/news/2608173d",
+      "title": "『Among Us』に新役職「ジャッジ」が追加。投票結果を無視して指定したクルーを強制的に排除",
+      "url": "https://news.denfaminicogamer.jp/news/260819c",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-08-17T14:05:01",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/ss_5001ebc4a5ebe7875d89020e9b43bb0c7bbd7e72.1920x1080.jpg"
+      "published": "2026-08-18T22:05:54",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/yt_pqX21F0c_w0_maxresdefault.jpg"
     },
     {
-      "title": "Nintendo Switch 2版『エルデンリング』は「想像以上にちゃんと動く」。大作アクションRPGは、TV・携帯モード両方で大変スムーズに動作していた",
-      "url": "https://news.denfaminicogamer.jp/kikakuthetower/260817a",
-      "source": "電ファミニコゲーマー",
+      "title": "「仁王3」のDLC「慶安地獄変」について開発陣に聞いたメールインタビューをお届け。攻防一体の新たな武器「鉾盾」を携えて，妖怪が跋扈する未来の江戸に挑む",
+      "url": "https://www.4gamer.net/games/916/G091630/20260806054/",
+      "source": "4Gamer.net",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-08-17T14:00:03",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/ELDEN-RING-Tarnished-Edition_01.jpg"
+      "importance": "high",
+      "published": "2026-08-18T12:00:00",
+      "image": "https://www.4gamer.net/games/916/G091630/20260806054/SS/011.jpg"
     },
     {
-      "title": "「牧場物語」＆「ルーンファクトリー」シリーズのスペシャル生放送は8月24日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
-      "url": "https://www.4gamer.net/games/421/G042182/20260814030/",
+      "title": "「サカつく2026」，Ver2.2アップデート放送を8月24日に実施",
+      "url": "https://www.4gamer.net/games/915/G091522/20260818034/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-18T08:51:42",
+      "image": "https://www.4gamer.net/games/915/G091522/20260818034/SS/001.jpg"
+    },
+    {
+      "title": "ウェブトゥーン作家が手掛けるボクセルシューティング「ワールドウォーV：ラストコール」を紹介。かわいい見た目とは裏腹の高難度［BIC2026］",
+      "url": "https://www.4gamer.net/games/034/G103422/20260818046/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-08-17T23:00:00",
-      "image": "https://www.4gamer.net/games/421/G042182/20260814030/SS/002.jpg"
+      "published": "2026-08-19T00:00:00",
+      "image": "https://www.4gamer.net/games/034/G103422/20260818046/SS/004.jpg"
     },
     {
-      "title": "異端審判官となって事件を調べ，裁きを下すミステリーホラーADV「審判官シェパード」を紹介。重厚な世界観と音楽の一体感が光る一作［BIC2026］",
-      "url": "https://www.4gamer.net/games/008/G100815/20260817050/",
+      "title": "「Phantom Blade Zero」が勝ちにきてるのが分かった。ここ数年の試遊体験と，PlayStation特番で判明した情報で，全体像を想像する",
+      "url": "https://www.4gamer.net/games/709/G070971/20260818007/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-08-17T12:57:34",
-      "image": "https://www.4gamer.net/games/008/G100815/20260817050/SS/012.jpg"
+      "published": "2026-08-18T23:00:00",
+      "image": "https://www.4gamer.net/games/709/G070971/20260818007/SS/025.jpg"
     },
     {
-      "title": "敵だらけの職場で頂点を目指す“圧倒的に好評”なローグライクACT「Stick It to the Stickman」，9月23日に正式リリース決定",
-      "url": "https://www.4gamer.net/games/861/G086118/20260817049/",
+      "title": "「The Witness」や「Braid」を手掛けたクリエイターによる新作「Order of the Sinking Star」，発売日を10月8日に決定",
+      "url": "https://www.4gamer.net/games/968/G096803/20260819001/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-08-17T12:13:36",
-      "image": "https://www.4gamer.net/games/861/G086118/20260817049/SS/001.jpg"
+      "published": "2026-08-18T16:53:15",
+      "image": "https://www.4gamer.net/games/968/G096803/20260819001/SS/002.jpg"
     },
     {
-      "title": "異星の昆虫に支配された地球で生き延びるサバイバルTPS「No More Light」，最新ゲームプレイトレイラーを公開",
-      "url": "https://www.4gamer.net/games/033/G103385/20260817048/",
-      "source": "4Gamer.net",
+      "title": "ソニーグループ社長「社内でもPS6発売の正確な日取りはまだ決定していない。」と海外メディアインタビューに回答―貿易摩擦等多数の課題を認識",
+      "url": "https://www.gamebusiness.jp/article/2026/08/19/27738.html",
+      "source": "GameBusiness.jp",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-08-17T11:42:44",
-      "image": "https://www.4gamer.net/games/033/G103385/20260817048/SS/005.jpg"
+      "importance": "high",
+      "published": "2026-08-18T22:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/193032.jpg"
     },
     {
-      "title": "わしゃがなTVの最新動画では，コレクションアイテム「DRAGON BALL 全42巻セット Double Cover Box」を紹介。ゲンスルーのサングラスも登場",
-      "url": "https://www.4gamer.net/games/991/G999106/20260817003/",
-      "source": "4Gamer.net",
+      "title": "ソニーが販売者契約を一方的に解除…！？人気株式市場シム開発元がPSストア同社提供作品の8月23日での販売停止を発表",
+      "url": "https://www.gamebusiness.jp/article/2026/08/19/27734.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-18T21:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/193066.jpg"
+    },
+    {
+      "title": "バトルヒロイン漫画「フリージング」を原作とした二次創作ゲーム作品が相次いで8月末Steam配信停止へ。IPライセンス契約満了に伴い―購入しておけば今後もDL可能",
+      "url": "https://www.gamebusiness.jp/article/2026/08/19/27744.html",
+      "source": "GameBusiness.jp",
       "category": "other",
       "importance": "normal",
-      "published": "2026-08-17T11:00:00",
-      "image": "https://www.4gamer.net/games/991/G999106/20260817003/TN/001.jpg"
+      "published": "2026-08-18T23:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/192999.jpg"
+    },
+    {
+      "title": "「AI Marketing Day 2026」に小林製薬 大槻開氏が登壇、生成AIを機能させる“土台づくり”のリアルを語る",
+      "url": "https://www.gamebusiness.jp/article/2026/08/19/27743.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-18T23:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/193007.png"
+    },
+    {
+      "title": "マンガプラットフォーム「comico」が27年1月終了へ―今後は編集・制作事業に特化",
+      "url": "https://www.gamebusiness.jp/article/2026/08/19/27742.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-18T23:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/193011.jpg"
+    },
+    {
+      "title": "「箱を開けまくるだけ」癒しゲーム『Your Cozy Unboxing』発表。開封フェチ特化、“箱開け系”クリエイター生活",
+      "url": "https://automaton-media.com/articles/newsjp/20260819-460996/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-18T23:09:19",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260819-460996-header.jpg"
+    },
+    {
+      "title": "世界最大級のゲームイベント「gamescom 2026」は“日本からでも”楽しめる。新作発表からRTAイベントまで、ライブ配信情報まとめ",
+      "url": "https://automaton-media.com/articles/newsjp/20260818-460870/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-18T11:00:06",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260818-460870-header.jpg"
+    },
+    {
+      "title": "『The Witness』開発者が“10年かけた”新作『Order of the Sinking Star』10月8日に満を持して配信へ。広大世界に1000以上の「生きたパズル」が待ち受ける",
+      "url": "https://automaton-media.com/articles/newsjp/20260818-460959/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-18T13:02:54",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260818-460959-header.jpeg"
+    },
+    {
+      "title": "人気島暮らしシム『スターサンド・アイランド』正式リリース、Switch 2/PS5版も配信開始。待望の「最大4人マルチ」対応、もっと賑やか田舎島スローライフ",
+      "url": "https://automaton-media.com/articles/newsjp/20260818-460900/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-18T12:02:42",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260818-460900-header.jpg"
+    },
+    {
+      "title": "『ライザのアトリエ』チャットAIアプリ『RyzaChat:AI』配信延期。事前登録に人が殺到し、サーバー強化が必要に",
+      "url": "https://automaton-media.com/articles/newsjp/20260818-460908/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-18T11:30:24",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260806-458678-header.jpg"
+    },
+    {
+      "title": "Disney Research、モーション生成と編集を統合するAI手法を発表　大規模生成モデルを活用し、既存のモーションを維持しながら新しいコンテンツを対話的に生成・編集 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202608-Disney-Motion.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-18T22:53:58",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/Disney_Motion-01-thumb-1920x1080-87781.jpg"
     },
     {
       "title": "オートデスク、Flow Studioをアップデート　3D EditorとCanvasを搭載、Canvasでは動画生成AI「Seedance 2.5」も利用可能に - ニュース",
@@ -192,22 +201,31 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/08/FlowStudio_Canvas-01-thumb-1920x1080-87688.jpg"
     },
     {
-      "title": "第2回：アニメーターの考える「使いやすいデータの収録」 （前篇〜ノウハウの継承について考える） - 連載",
-      "url": "https://cgworld.jp/regular/motion-capture02a.html",
+      "title": "CGWORLD vol.338（2026年10月号）「アニメ『攻殻機動隊 THE GHOST IN THE SHELL』」特集号を先行告知！ - ニュース",
+      "url": "https://cgworld.jp/flashnews/cgw338-pr.html",
       "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-08-17T01:00:37",
-      "image": "https://cgworld.jp/regular/assets_c/2026/07/motioncapture_2-1%20%281%29-thumb-1920x1080-86749.jpg"
+      "published": "2026-08-18T03:00:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/web_338_infobanner_before-thumb-1000x563-87697.jpg"
     },
     {
-      "title": "SideFX、SolarisのUSDワークフロー解説動画公開　FMX HIVE 2026でのMilk VFXによる講演 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202608-Houdini-SolarisUSD.html",
+      "title": "【予告】LiberNovoのワークチェアが最大38% OFFになる「サポートウィーク」が8月25日より開催！　Amazonでも取り扱いを開始。 - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-202608-libernovo.html",
       "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-08-16T23:00:21",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/Houdini_SolarisUSD-01-thumb-1920x1080-87675.jpg"
+      "published": "2026-08-18T01:39:08",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/645ab4050688fe02b91800cce2651ea25ea40c7b-thumb-1200x900-87703.jpg"
+    },
+    {
+      "title": "第2回：アニメーターの考える「使いやすいデータ収録」 （後篇〜「良い演技」を活かすアクターとアニメター双方のノウハウ） - 連載",
+      "url": "https://cgworld.jp/regular/motion-capture02b.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-18T01:00:37",
+      "image": "https://cgworld.jp/regular/assets_c/2026/07/motioncapture_2-2%20%281%29-thumb-1920x1080-86750.jpg"
     },
     {
       "title": "『Control Resonant』独占ボス戦プレイ映像 – IGN First",
@@ -237,6 +255,15 @@
       "image": "https://sm.ign.com/ign_jp/feature/i/i-love-han/i-love-handhelds-but-im-worried-the-ram-crisis-is-going-to-k_cxng.jpg"
     },
     {
+      "title": "『Mortal Shell II』レビュー",
+      "url": "https://jp.ign.com/mortal-shell-ii/84042/mortal-shell-ii",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-18T03:55:04",
+      "image": "https://sm.ign.com/ign_jp/review/m/mortal-she/mortal-shell-2-review_v594.jpg"
+    },
+    {
       "title": "東京ゲームショウの30周年記念特設サイトがオープン 30周年特別企画も複数発表",
       "url": "https://jp.ign.com/tgs-2026/84023/30-30",
       "source": "IGN Japan",
@@ -244,33 +271,6 @@
       "importance": "high",
       "published": "2026-08-17T10:15:52",
       "image": "https://sm.ign.com/ign_jp/screenshot/default/kv-30_xrq6.png"
-    },
-    {
-      "title": "MSI Claw 8 EX AI+ – Hands-On Photos",
-      "url": "https://jp.ign.com/msi-claw-8-ex-ai/84027/msi-claw-8-ex-ai-hands-on-photos",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-08-17T04:24:45",
-      "image": "https://sm.ign.com/ign_jp/gallery/m/msi-claw-8/msi-claw-8-ex-ai-hands-on-photos_1sqq.jpg"
-    },
-    {
-      "title": "札幌のゲームビジネスイベント「GLGa2027 NORTH」、インディーゲームの無料出展枠を開設。応募は9/25（金）17時まで",
-      "url": "https://gamemakers.jp/article/2026_08_17_143147/",
-      "source": "ゲームメーカーズ",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-08-17T07:27:34",
-      "image": null
-    },
-    {
-      "title": "10/31（土）開催のインディーゲーム展示会「東京ゲームダンジョン14」、出展者募集を8/21（金）20時より開始。先着順で受付",
-      "url": "https://gamemakers.jp/article/2026_08_17_143123/",
-      "source": "ゲームメーカーズ",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-08-17T03:41:35",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/08/ea2a247293879591249d009ccd32065b.jpg"
     }
   ]
 }
