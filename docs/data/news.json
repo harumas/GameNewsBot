@@ -1,186 +1,150 @@
 {
-  "generated_at": "2026-08-28T07:45:44.955289",
+  "generated_at": "2026-08-29T04:42:06.962585",
   "poem": "",
   "articles": [
     {
-      "title": "【サイコム】GPUだけではない。自動車や建築など、ノンゲーム領域でのUnreal Engine運用を支えるPCパーツの役割｜Boost with Sycom #06 - スペシャルコンテンツ",
-      "url": "https://cgworld.jp/special-feature/202608-sycom-arcnel-06.html",
-      "source": "CGWORLD",
+      "title": "『STAR WARS ゼロ・カンパニー』Steam版の同接数が発売から1日で「約7万人」を記録し盛況。『X-COM』ファンに好評な『スター・ウォーズ』の戦略シミュレーションゲーム",
+      "url": "https://news.denfaminicogamer.jp/news/260829m",
+      "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-08-28T08:01:33",
+      "published": "2026-08-29T04:23:05",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/ss_68d5acedd1b34badb379215eaf2bd0af3f43c3b1.1920x1080.jpg"
+    },
+    {
+      "title": "『がんばれゴエモン』関連マンガのKindle版が「50％ポイント還元」でお得に。『きらきら道中』『ネオ桃山幕府』『マッギネス』など、ゲームをもとに描かれた帯ひろ志氏の描く『ゴエモン』シリーズが多数対象に",
+      "url": "https://news.denfaminicogamer.jp/news/260829h",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-29T03:08:24",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/Snapshot_27.jpg"
+    },
+    {
+      "title": "『無限大ANANTA』の都市は、なぜここまで広いのか──街をぶらつき、車で走り回り、カフェでコーヒーを飲み、村では茶を摘む。すべては「生きている世界」を体験してもらうためだった【gamescom 2026】",
+      "url": "https://news.denfaminicogamer.jp/kikakuthetower/260829l",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-29T03:01:30",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/img_008-8.jpg"
+    },
+    {
+      "title": "『名探偵プリキュア！』第31話「名探偵キュアアルカナ」先行場面カット解禁。キュアアルカナ・シャドウの新たな姿「キュアアルカナ」が登場、そして明かされる森亜るるかの“真意”",
+      "url": "https://news.denfaminicogamer.jp/news/260829j",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-29T03:00:08",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/tanpre31_release_04.png"
+    },
+    {
+      "title": "『メイドインアビス』公式サイトに“上昇負荷”のギミックが仕組まれておりSNSで話題に。作者つくしあきひと氏も「なんか実装されてる」と反応",
+      "url": "https://news.denfaminicogamer.jp/news/260829k",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-29T02:38:45",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/6d792ffed491784fd578c17667e1b89a.png"
+    },
+    {
+      "title": "東映ゲームズがTGSへの出展を発表。新作タイトル「HINO」「KILLA」「DEBUG NEPHEMEE」の特別試遊版を展示",
+      "url": "https://www.4gamer.net/games/901/G090124/20260828065/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-28T12:59:32",
+      "image": "https://www.4gamer.net/games/901/G090124/20260828065/SS/002.jpg"
+    },
+    {
+      "title": "ヴィクトル・アントノフが遺した西部劇「ガンズ・オブ・エスカトン」は，シューターである前にソウルライク［gamescom］",
+      "url": "https://www.4gamer.net/games/022/G102216/20260829013/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-29T04:21:52",
+      "image": "https://www.4gamer.net/games/022/G102216/20260829013/SS/009.jpg"
+    },
+    {
+      "title": "セガハードとコラボした腕時計の予約を受付中。本体とパッドをイメージしたデザインに加えて外箱まで再現",
+      "url": "https://www.4gamer.net/games/999/G999905/20260829012/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-29T04:16:05",
+      "image": "https://www.4gamer.net/games/999/G999905/20260829012/SS/001.jpg"
+    },
+    {
+      "title": "明代の秘密警察を演じるアクションRPG「A Whisper of Fall 錦衣衛」は，やり直しの果てに“誰も死なない答え”へ行き着く［gamescom］",
+      "url": "https://www.4gamer.net/games/979/G097918/20260829008/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-29T03:37:06",
+      "image": "https://www.4gamer.net/games/979/G097918/20260829008/SS/001.jpg"
+    },
+    {
+      "title": "「トロピコ 7」は，病院を建てただけでは市民を救えない。5000人の暮らしと政治をつなぐ「透明性」をハンズオフで確認［gamescom］",
+      "url": "https://www.4gamer.net/games/939/G093900/20260829007/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-29T03:22:46",
+      "image": "https://www.4gamer.net/games/939/G093900/20260829007/SS/010.jpg"
+    },
+    {
+      "title": "どうぶつレースを“めちゃくちゃに操作する”対戦レースゲーム『Dirty Derby』正式発表。最大4人対戦対応、注射器やバットで介入しまくる“乱闘バトルレース”",
+      "url": "https://automaton-media.com/articles/newsjp/20260829-463952/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-29T01:48:04",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260829-463952-header.jpg"
+    },
+    {
+      "title": "1970年代の村風異界探索ホラー『越え』発表。インフルエンサー失踪の謎を追い、不思議空間を探索するマルチエンド恐怖体験",
+      "url": "https://automaton-media.com/articles/newsjp/20260828-463891/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-28T08:43:14",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260828-463891-header.jpg"
+    },
+    {
+      "title": "当初“バグだらけで大失敗”だった犬ぞり北極サバイバル『Arctico』開発者、「12年アプデし続け売上42万本まで伸びた」と喜ぶ。迷走ゲームを育て続けて、大化け",
+      "url": "https://automaton-media.com/articles/newsjp/20260828-463881/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-28T08:19:19",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260828-463881-header.jpg"
+    },
+    {
+      "title": "最大4人協力・西部劇PvEシューター『Far Far West』、新要素てんこ盛りアプデで同接8000人超えの盛況。近接武器追加や“氷属性”実装などでプレイ感も一変",
+      "url": "https://automaton-media.com/articles/newsjp/20260829-463967/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-29T04:04:35",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260829-463967-header.jpg"
+    },
+    {
+      "title": "“好評率96%”音声認識対戦アクション『Smack Talk』正式リリースで人気博す。最大8人対戦対応・必殺技は“声”で出す『スマブラ』風パーティーゲーム",
+      "url": "https://automaton-media.com/articles/newsjp/smack-talk-20260829-463959/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-29T03:10:47",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/08/smack-talk-20260829-463959-header.jpg"
+    },
+    {
+      "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/8/29】",
+      "url": "https://gamemakers.jp/article/2026_08_29_143892/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-29T01:58:25",
       "image": null
-    },
-    {
-      "title": "Marvelous Designer、4年ぶりの国内ユーザーイベント「Marvelous Designer Tokyo User Summit 2026」を10/27（火）に開催 - ニュース",
-      "url": "https://cgworld.jp/flashnews/03ｰ2608-MDTUS2026.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-08-28T05:59:31",
-      "image": null
-    },
-    {
-      "title": "Maya、Blender、UEなど3Dツール間の座標軸変換を理解できるWebツール「3D座標系 変換ビジュアライザ」公開 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202608-3DTR.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-08-27T22:56:45",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/3DTR-01-thumb-1920x1080-88165.jpg"
-    },
-    {
-      "title": "BACKBONEがeST3のcustomユニットを使ったプロップリグ作成チュートリアルを公開 - ニュース",
-      "url": "https://cgworld.jp/flashnews/03-2608-backboneest3.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-08-27T09:25:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/est3proprig1_eyechatch4%20%281%29-thumb-850x500-88061.png"
-    },
-    {
-      "title": "第6回：ユニットを使用した簡単なリグを作成しよう - 連載",
-      "url": "https://cgworld.jp/regular/202608-est3-06.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-08-27T00:43:00",
-      "image": "https://cgworld.jp/regular/assets_c/2026/08/est3_vol6-thumb-1000x563-87431.jpg"
-    },
-    {
-      "title": "アイソメトリックや肩越し視点を組み合わせたレトロサバイバルホラー「Holstin」，2027年に発売決定。gamescom 2026トレイラーも公開",
-      "url": "https://www.4gamer.net/games/735/G073548/20260828037/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-08-28T07:02:11",
-      "image": "https://www.4gamer.net/games/735/G073548/20260828037/SS/002.jpg"
-    },
-    {
-      "title": "正統続編「Wolcen 2」が発表。真の進化を目指すハクスラの変身要素“Shadow Form”や新たなエンドゲーム構造の全貌［gamescom］",
-      "url": "https://www.4gamer.net/games/037/G103718/20260828033/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-08-28T06:37:31",
-      "image": "https://www.4gamer.net/games/037/G103718/20260828033/SS/003.jpg"
-    },
-    {
-      "title": "［インタビュー］探偵オープンワールドRPG「白銀の城」が2度のクローズドβテストと欧州の試遊から得たもの［gamescom］",
-      "url": "https://www.4gamer.net/games/908/G090896/20260828024/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-08-28T05:20:44",
-      "image": "https://www.4gamer.net/games/908/G090896/20260828024/SS/001.jpg"
-    },
-    {
-      "title": "踏切を上げ下げするだけの暇な仕事の裏で起こる怪奇。11 bit studiosの新作サイコロジカルホラー「Trainwatch」が試遊展示［gamescom］",
-      "url": "https://www.4gamer.net/games/037/G103730/20260828038/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-08-28T07:40:37",
-      "image": "https://www.4gamer.net/games/037/G103730/20260828038/SS/001.jpg"
-    },
-    {
-      "title": "パンやお菓子を焼いて魔法に変える。「Rise of the Spellbaker」は，かわいいけれど“歯応え”もあるアクションADV［gamescom］",
-      "url": "https://www.4gamer.net/games/037/G103721/20260828035/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-08-28T07:06:36",
-      "image": "https://www.4gamer.net/games/037/G103721/20260828035/SS/001.jpg"
-    },
-    {
-      "title": "『ブルアカ』バニー姿の生徒が並ぶラッキーくじが2027年2月に発売決定。しれっと“ユウカ”も並んでいる",
-      "url": "https://news.denfaminicogamer.jp/news/2608282n",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-08-28T06:37:17",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/mv.CyVVlOJL.jpg"
-    },
-    {
-      "title": "『アイドルマスター SideM』姫野かのん役の新キャストが伊能幸輝さんに決定、9月1日にお披露目の生配信を予定。8月18日には村瀬歩さんの卒業が発表されていた",
-      "url": "https://news.denfaminicogamer.jp/news/2608282j",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-08-28T04:15:30",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/KH1-2.jpg"
-    },
-    {
-      "title": "『超かぐや姫！』夏コミ限定で頒布されたスタッフ本、今後は公式商品への収録を検討。一部の販売サイトにて高額出品されている状況を受けての対応、詳細は後日発表へ",
-      "url": "https://news.denfaminicogamer.jp/news/2608282g",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-08-28T03:31:31",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/HNlfK_dbEAAYDfT.jpg"
-    },
-    {
-      "title": "『クライムライト』コンポーザー 削除氏、キャラクターデザイン 夜汽車氏、プロット/ストーリー監修 久弥直樹氏、シナリオ 華南恋氏に見どころを聞く【『クライムライト』開発陣インタビュー】",
-      "url": "https://news.denfaminicogamer.jp/interview/260828a",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-08-28T03:15:46",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/image9-8.jpg"
-    },
-    {
-      "title": "フシギダネ・ヒトカゲ・ゼニガメ・ミュウが「ねむる」ぬいぐるみが登場！「ポケモンセンター」×「ポケモンスリープ」のコラボキャンペーンが開催",
-      "url": "https://news.denfaminicogamer.jp/news/2608282p",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-08-28T07:36:08",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/08/sub2-98.jpg"
-    },
-    {
-      "title": "サッカークラブ経営シム『Football Manager 27』正式発表、11月発売へ。前作で不評だった「UI」などにメス、シリーズ巻き返しの新作",
-      "url": "https://automaton-media.com/articles/newsjp/20260828-463826/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-08-28T03:58:32",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260828-463826-header2.jpg"
-    },
-    {
-      "title": "もふもふネコっ子ぬるぬるパルクール『Soft Ruin』発表。一人でも友達とでも、大ジャンプ、ワイヤー移動で巨大迷宮を飛び回る",
-      "url": "https://automaton-media.com/articles/newsjp/20260828-463788/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-08-28T02:11:21",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260828-463788-header.jpg"
-    },
-    {
-      "title": "新生『AVA』こと『AVA RE:BIRTH』には“PvPvE脱出シューター”のような新モード実装へ。持ち返った装備は、「ほかのモード」でも使える",
-      "url": "https://automaton-media.com/articles/newsjp/20260828-463869/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-08-28T07:25:33",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260828-463869-header.jpg"
-    },
-    {
-      "title": "“脱衣要素あり”ゴシック弾幕STG『カラドリウス2/ダークエレメント』12月10日発売へ。つい被弾したくなる「羞恥ブレイク」システムが進化して13年越しに帰ってくる",
-      "url": "https://automaton-media.com/articles/newsjp/20260828-463857/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-08-28T06:41:37",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260828-463857-header.jpg"
-    },
-    {
-      "title": "「マトリックスのデモ」で注目集めた、Unreal Engine 5の公式“超リアル街”サンプルが4年越しに大刷新。最新UE対応で街ごと自動生成、“LLM制御”もできる",
-      "url": "https://automaton-media.com/articles/newsjp/20260828-463849/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-08-28T06:11:15",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/08/20260828-463849-header.jpg"
     },
     {
       "title": "Razer、インディーゲーム開発支援プログラム「Razer Indie Lab」を発表。QA効率化AIツールやハプティクス技術などを無償で提供",
@@ -192,13 +156,22 @@
       "image": null
     },
     {
+      "title": "UE5用の公式サンプルプロジェクト「City Sample」がUE5.8に対応。MCPとPCGで構築された2つのレベルが新規収録",
+      "url": "https://gamemakers.jp/article/2026_08_28_143910/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-28T12:42:34",
+      "image": null
+    },
+    {
       "title": "『Sky』『風ノ旅ビト（Journey）』のthatgamecompany、パブリッシングレーベルを創設。“感情を揺さぶるゲーム”を作るスタジオを支援",
       "url": "https://gamemakers.jp/article/2026_08_28_143911/",
       "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "normal",
       "published": "2026-08-28T05:42:45",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/08/43261ee43efa422c8dbf5180bea10715.jpg"
+      "image": null
     },
     {
       "title": "MyDearest、PC・コンソール向けパブリッシングレーベル「BACHI BACHI GAMES」を設立。ゲーム企画を募集中",
@@ -210,22 +183,94 @@
       "image": null
     },
     {
-      "title": "ピクシブのお手軽3Dモデル制作ツールがゲームにも使えるって知ってる？開発チームに聞く「VRoid」の設計思想やゲーム導入事例【ゲームメーカーズ スクランブル2026】",
-      "url": "https://gamemakers.jp/article/2026_08_27_143702/",
-      "source": "ゲームメーカーズ",
+      "title": "「“難しいゲーム”から脱却したい」『新約・怒首領蜂大復活』で挑む“弾幕STGの次”―「新作は絶対に作りたい」、ケイブのチャレンジ精神とは【インタビュー】",
+      "url": "https://www.gamebusiness.jp/article/2026/08/28/27811.html",
+      "source": "GameBusiness.jp",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-08-27T05:57:02",
-      "image": null
+      "importance": "high",
+      "published": "2026-08-27T22:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/193701.jpg"
     },
     {
-      "title": "ツクールシリーズ最新作『RPGツクールU2U』Steamストアページが公開。製品詳細や新情報に関するプロデューサーレターも公開",
-      "url": "https://gamemakers.jp/article/2026_08_27_143818/",
-      "source": "ゲームメーカーズ",
+      "title": "『GTA6』開発は『GTA5』発売後の約13年前に始まった？食事や運動で体型変化、主人公2人の切り替えなどの情報も海外メディアインタビューで明らかに",
+      "url": "https://www.gamebusiness.jp/article/2026/08/28/27805.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-08-27T21:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/193758.jpg"
+    },
+    {
+      "title": "成人向けシーンがiPhoneで解禁―R18向け“X版”も提供のDMM独自iOSストア「GAMES STORE」8月31日リリース。黒塗りシルエットからの解放へ『ティンクルスターナイツ』ユーザー沸く",
+      "url": "https://www.gamebusiness.jp/article/2026/08/29/27820.html",
+      "source": "GameBusiness.jp",
       "category": "other",
       "importance": "normal",
-      "published": "2026-08-27T01:26:39",
-      "image": null
+      "published": "2026-08-28T23:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/193775.png"
+    },
+    {
+      "title": "トランプ政権による追加関税、その対象はゲーム機も？半導体やハードウェアなど広範囲な“トランプ関税”が検討中と報道",
+      "url": "https://www.gamebusiness.jp/article/2026/08/29/27819.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-28T22:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/193789.jpg"
+    },
+    {
+      "title": "『GTA6』YouTubeと公式サイトでもNetflix先行公開映像が解禁！広大なオープンワールドや進化したカーチェイスなどを見よ―犬も撫でられる",
+      "url": "https://www.gamebusiness.jp/article/2026/08/29/27818.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-28T22:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/193801.png"
+    },
+    {
+      "title": "Blenderユーザー向けイベント「Blender Fes 2026 AW」9/26(土)・27(日)開催、前売りチケット好評発売中！ - 特集",
+      "url": "https://cgworld.jp/article/blenderblender-fes-2026-aw.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-28T10:23:15",
+      "image": "https://cgworld.jp/article/assets_c/2026/08/allsession%20%282%29-thumb-1920x1080-88219.jpg"
+    },
+    {
+      "title": "クリ博、ゲームフリークによるモーション制作セミナーを10月15日（木）オンラインにて開催 - ニュース",
+      "url": "https://cgworld.jp/flashnews/03-2608-kurihakuGF.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-28T09:07:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/03-2608-kurihakuGF-thumb-1000x668-88183.jpg"
+    },
+    {
+      "title": "【サイコム】GPUだけではない。自動車や建築など、ノンゲーム領域でのUnreal Engine運用を支えるPCパーツの役割｜Boost with Sycom #06 - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/202608-sycom-arcnel-06.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-28T08:01:33",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/08/top_sycom_boost_06-thumb-1920x1080-88190.jpg"
+    },
+    {
+      "title": "Marvelous Designer、4年ぶりの国内ユーザーイベント「Marvelous Designer Tokyo User Summit 2026」を10/27（火）に開催 - ニュース",
+      "url": "https://cgworld.jp/flashnews/03ｰ2608-MDTUS2026.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-28T05:59:31",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/03-2608-MDUST-thumb-1280x670-88182.jpg"
+    },
+    {
+      "title": "Maya、Blender、UEなど3Dツール間の座標軸変換を理解できるWebツール「3D座標系 変換ビジュアライザ」公開 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202608-3DTR.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-08-27T22:56:45",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/08/3DTR-01-thumb-1920x1080-88165.jpg"
     },
     {
       "title": "「あらゆる面で間違いなく前進となっています」――GTA6独占インタビュー",
@@ -264,58 +309,13 @@
       "image": "https://sm.ign.com/ign_jp/review/r/resonance-/resonance-a-plague-tale-legacy-review_d1rg.jpg"
     },
     {
-      "title": "GTA 6 Reveal: 15 New Screenshots, Including 1 Exclusive on IGN",
-      "url": "https://jp.ign.com/grand-theft-auto-vi/84164/gta-6-reveal-15-new-screenshots-including-1-exclusive-on-ign",
+      "title": "SteelSeriesのワイヤレスゲーミングヘッドセット「Arctis Nova 3P Wireless」がAmazonにて13％オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/84159/steelseriesarctis-nova-3p-wirelessamazon13",
       "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-08-28T03:47:43",
-      "image": "https://sm.ign.com/ign_jp/gallery/g/gta-6-reve/gta-6-reveal-15-new-screenshots-including-1-exclusive-on-ign_7mhs.jpg"
-    },
-    {
-      "title": "「“難しいゲーム”から脱却したい」『新約・怒首領蜂大復活』で挑む“弾幕STGの次”―「新作は絶対に作りたい」、ケイブのチャレンジ精神とは【インタビュー】",
-      "url": "https://www.gamebusiness.jp/article/2026/08/28/27811.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-08-27T22:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/193701.jpg"
-    },
-    {
-      "title": "『GTA6』開発は『GTA5』発売後の約13年前に始まった？食事や運動で体型変化、主人公2人の切り替えなどの情報も海外メディアインタビューで明らかに",
-      "url": "https://www.gamebusiness.jp/article/2026/08/28/27805.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-08-27T21:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/193758.jpg"
-    },
-    {
-      "title": "『ロックマン』完全新作から『昭和米国物語』や『FF7 リベレーション』まで続々登場！「gamescom ONL 2026」発表内容ひとまとめ",
-      "url": "https://www.gamebusiness.jp/article/2026/08/27/27801.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-08-26T22:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/193607.jpg"
-    },
-    {
-      "title": "AIキャラが話を理解し、ときには命令を拒否！？ゲーム映像をさらに美しくする新技術や、薄さ14mmで1440p/100fpsのPC基盤も―NVIDIA gamescom新発表まとめ",
-      "url": "https://www.gamebusiness.jp/article/2026/08/27/27797.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-08-26T21:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/193687.jpg"
-    },
-    {
-      "title": "次世代XBOXは性能以外に“購入しやすさと効率性”も考慮とCEO―「物理メディアを好む人がいる一方、デジタルにも多くの利点」としつつドライブ搭載について明言避ける",
-      "url": "https://www.gamebusiness.jp/article/2026/08/28/27810.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-08-27T22:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/193715.jpg"
+      "published": "2026-08-28T09:45:03",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_3djv.png"
     }
   ]
 }
