@@ -1,15 +1,24 @@
 {
-  "generated_at": "2026-09-06T01:47:44.656712",
+  "generated_at": "2026-09-07T01:44:54.044616",
   "poem": "",
   "articles": [
     {
-      "title": "基本プレイ無料オープンワールド『七つの大罪：Origin』、バン実装で“七つの大罪”が揃ってかっこいい。半年で遊びやすさの改修も進み、原作再現とゲームならではの面白さが噛み合ってきた",
-      "url": "https://automaton-media.com/articles/special-column/the-seven-deadly-sins-origin-20260905-465276/",
+      "title": "大都市オープンワールド『NTE』で“透明人間になってから空を飛ぶ”、能力悪用コンボが過激に。万引き、強盗、逃走……残虹とリンコで悪いことしまくってみた",
+      "url": "https://automaton-media.com/articles/special-column/20260906-465371/",
       "source": "Automaton",
       "category": "other",
       "importance": "high",
-      "published": "2026-09-05T02:44:48",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/image-2.png"
+      "published": "2026-09-06T03:00:01",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260906-465371-header.jpg"
+    },
+    {
+      "title": "大ヒット異形ネコ交配ローグライト『Mewgenics』待望の日本語対応アプデ。『アイザックの伝説』開発者による話題作が遊びやすく",
+      "url": "https://automaton-media.com/articles/newsjp/20260907-465476/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-07T01:33:51",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260907-465476-header.jpg"
     },
     {
       "title": "『シドマイヤーズ シヴィライゼーション VII』初拡張DLC「地球の出」発表。文明は宇宙に進出、「太陽系でのミッション」がさらなる発展を導く",
@@ -21,76 +30,139 @@
       "image": "https://automaton-media.com/wp-content/uploads/2026/09/civilization-20260906-465405-header.jpg"
     },
     {
-      "title": "山積み荷物お届けドライブゲーム『Pinetrail』発表。美しい景色の島を三輪トラックで快走、道なき道も車で飛んだり泳いだり",
-      "url": "https://automaton-media.com/articles/newsjp/pinetrail-20260905-465294/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-05T01:04:41",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/pinetrail-20260905-465294-header.jpg"
-    },
-    {
-      "title": "第二次世界大戦・海岸防衛FPS『Beach Invasion 1944』が無料配布中、Epic Gamesストアにて。「非常に好評」の名作、今ならタダ",
-      "url": "https://automaton-media.com/articles/newsjp/20260905-465268/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-04T15:20:10",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260905-465268-header.jpg"
-    },
-    {
-      "title": "注目の100人対戦FPS『WARDOGS』、クローズドベータが突如“オープンベータ”化。誰でも参加できる",
-      "url": "https://automaton-media.com/articles/newsjp/20260906-465390/",
+      "title": "『アークナイツ：エンドフィールド』新アプデで、ひっそりロッシが“真顔スキップ”卒業。たのしそう",
+      "url": "https://automaton-media.com/articles/newsjp/20260907-465467/",
       "source": "Automaton",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-05T22:40:22",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260906-465390-header.jpg"
+      "published": "2026-09-07T00:39:59",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260907-465467-header.jpg"
     },
     {
-      "title": "大ヒット映画『バックルームズ』の空間体験型イベントが開催決定。9月11日から20日まで池袋・サンシャインシティで実施",
-      "url": "https://news.denfaminicogamer.jp/news/260905q",
+      "title": "『ほの暮しの庭』が本当によかった（ネタバレなし）。『ファイナルファンタジー レゾナンス』体験版は『オクトラ』とは結構違う、けど馴染む。今週のゲーミング",
+      "url": "https://automaton-media.com/articles/now-gaming/20260906-465443/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-06T08:56:20",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260906-465443-005.jpg"
+    },
+    {
+      "title": "雲の上にそびえ立つ“魔法使いの塔”で暮らすゲーム『Bonespire』が発表。ポーションの調合や巻物の解読を進めつつ、来客には窓越しに対応",
+      "url": "https://news.denfaminicogamer.jp/news/260907j",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-09-05T12:39:07",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/sub1-36.jpg"
+      "published": "2026-09-07T01:14:25",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/ss_c5e925b4403870135012600e54713d4092df8d72.1920x1080.jpg"
     },
     {
-      "title": "くら寿司、『ちいかわ』コラボキャンペーンの中止を発表。従業員による不正行為が判明したため",
-      "url": "https://news.denfaminicogamer.jp/news/260905o",
+      "title": "“非常に好評”な高難度2Dアクションゲーム『Rain World』拡張DLC2種を同梱した『Anthology Edition』が発売決定。PS5、Switch、Switch 2向けに展開",
+      "url": "https://news.denfaminicogamer.jp/news/260907b",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-09-05T10:26:07",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/chiikawa202608_04_02.webp"
+      "published": "2026-09-06T23:30:42",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/ss_5c8c0413e98f3521e3df370d4ad7018b771ce353.1920x1080.jpg"
     },
     {
-      "title": "『名探偵プリキュア！』9月13日放送の第33話の予告解禁。『キミプリ』からプリルン、『わんぷり』から犬飼こむぎが登場へ、まもなく公開される映画との連動回か",
-      "url": "https://news.denfaminicogamer.jp/news/260906a",
+      "title": "【最大8人マルチ】レトロなグラフィックで疾走感を味わえるレースバトルゲーム『Airframe Ultra』が11月5日に発売へ。走りながらバットで敵を殴れるし、銃もぶっ放せる",
+      "url": "https://news.denfaminicogamer.jp/news/260907e",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-06T00:07:03",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/maxresdefault-4.jpg"
+      "published": "2026-09-07T01:09:40",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/AFU_Announce_1080p_H264_V2.mp4_snapshot_00.36.207.jpg"
     },
     {
-      "title": "『映画名探偵プリキュア！』キュアミスティック、キュアエクレール、キュアアルカナの「フューチャーフォーム」解禁。テーマに沿って引き算のすっきりとしたデザインに、はなまる可愛い",
-      "url": "https://news.denfaminicogamer.jp/news/260906f",
+      "title": "ゴッホやモネの“名画の世界”を探索するゲーム『カタルシス～最後のアトリエ～』Steamストアページ公開。オオカミとフクロウをひきつれ旅する",
+      "url": "https://news.denfaminicogamer.jp/news/260907k",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-06T00:00:18",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/996ba86129334d96c41c95344e0aaa6d.jpg"
+      "published": "2026-09-07T01:00:11",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/001.png"
     },
     {
-      "title": "マンガ『D.Gray-man』Kindle版の50％ポイント還元セールが開催中。神の十字架を左手に持つエクソシスト・アレンは、悪性兵器“AKUMA”を生み出す「千年伯爵」との戦いに身を投じる",
-      "url": "https://news.denfaminicogamer.jp/news/260905r",
+      "title": "名画「ひまわり」の異形頭キャラ「サニー」が“最高に推せる”と話題に。新作アドベンチャーゲーム『Lost Museum -カイガミ追想譚-』に登場",
+      "url": "https://news.denfaminicogamer.jp/news/260906m",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-05T15:14:23",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/714OWky-dlL._SL1200_.avif"
+      "published": "2026-09-06T14:10:41",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/HRhLq0xaIAAA80E.png"
+    },
+    {
+      "title": "アニメ『ワールド イズ ダンシング』室町時代の「能」を描く\"舞\"の表現を支える3DCG 〜No.1／モーションキャプチャ＆作画ガイド篇 - 特集",
+      "url": "https://cgworld.jp/article/cgw337-worldisdan01.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-07T01:03:32",
+      "image": "https://cgworld.jp/article/assets_c/2026/08/main-thumb-1000x563-87959.jpg"
+    },
+    {
+      "title": "NVIDIA鈴木剛夫氏ら、OpenUSD向けリファレンスレンダラ「Typhoon」をGitHubで公開 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202609-Typhoon.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-06T23:53:46",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/Typhoon-01-thumb-1920x1080-88550.jpg"
+    },
+    {
+      "title": "もああん氏、Webブラウザで動く無料の原画・絵コンテツール「MoArt」をテスト公開　タイムシート作業に特化、クリスタのデータインポートにも対応 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202609-MoArt.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-05T23:19:51",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/MoArt-01-thumb-1920x1066-88511.jpg"
+    },
+    {
+      "title": "「シドマイヤーズ シヴィライゼーション VII」，第4の時代を追加する無料アップデート「Arc of Tomorrow」を2027年に配信。初の有償拡張パック「Earthrise」も発表",
+      "url": "https://www.4gamer.net/games/807/G080705/20260906002/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-06T04:04:37",
+      "image": "https://www.4gamer.net/games/807/G080705/20260906002/SS/002.jpg"
+    },
+    {
+      "title": "東京ゲームショウ2026，アニプレックスブースの詳細が明らかに。「Fate/EXTRA Record」を世界初試遊。みに隊士・竈門炭治郎やコスプレイヤーの撮影会も",
+      "url": "https://www.4gamer.net/games/019/G101928/20260905005/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-05T03:00:00",
+      "image": "https://www.4gamer.net/games/019/G101928/20260905005/SS/003.jpg"
+    },
+    {
+      "title": "名画のなかを歩き，「記憶」を集めるイマーシブアートADV「カタルシス〜最後のアトリエ〜」，Steamストアページを公開",
+      "url": "https://www.4gamer.net/games/773/G077376/20260904056/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-07T01:00:00",
+      "image": "https://www.4gamer.net/games/773/G077376/20260904056/SS/001.jpg"
+    },
+    {
+      "title": "取った寿司の代金は自腹！ 駒取りに“懐事情”が絡む変則将棋「寿司将棋」，Steamページ公開。体験版も公開中",
+      "url": "https://www.4gamer.net/games/039/G103973/20260907002/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-06T23:30:34",
+      "image": "https://www.4gamer.net/games/039/G103973/20260907002/SS/002.jpg"
+    },
+    {
+      "title": "【今週のモチベ】100人規模のタクティカルFPS「WARDOGS」の早期アクセスが始まる 2026年9月7日〜9月13日",
+      "url": "https://www.4gamer.net/games/954/G095479/20260906001/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-06T23:00:00",
+      "image": "https://www.4gamer.net/games/954/G095479/20260906001/SS/007.jpg"
     },
     {
       "title": "「夢は“本物の鉄道車両を保存”すること」―鉄道系YouTuberでありゲーム開発者な「しにせ」に話を聞いたら、とてつもない野望と鉄道愛が見えてきた！『トレインプラス西日本』インタビュー",
@@ -111,6 +183,24 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/195103.jpg"
     },
     {
+      "title": "アップルがゲームコントローラーを開発中か。macOS 26.7 RC版から2機種のコード発見",
+      "url": "https://www.gamebusiness.jp/article/2026/09/07/27924.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-07T00:52:36",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/195118.jpg"
+    },
+    {
+      "title": "ゲーム開発で、外部の企業と円滑にプロジェクトを進めるためのNotion活用方法。バンダイナムコエンターテインメントの事例から解説【CEDEC2026】",
+      "url": "https://www.gamebusiness.jp/article/2026/09/06/27923.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-06T03:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/191291.png"
+    },
+    {
       "title": "テトリス社、米ホワイトハウス『テトリス』風ゲームには関与していないと声明。「分断ではなく繋がりの力を信じている」",
       "url": "https://www.gamebusiness.jp/article/2026/09/06/27921.html",
       "source": "GameBusiness.jp",
@@ -120,139 +210,22 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/195059.jpg"
     },
     {
-      "title": "新SNS「Twitter.now」が「Tweet.app」に改名。商標権めぐる暫定判決でXに有利な判定",
-      "url": "https://www.gamebusiness.jp/article/2026/09/06/27920.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-05T21:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/195090.jpg"
-    },
-    {
-      "title": "Autodeskが提供するクラウドベースのAI型3Dツールセット「Flow Studio」はどこがおもしろいのか？ そのアピールポイントと活用方法【CEDEC2026】",
-      "url": "https://www.gamebusiness.jp/article/2026/09/05/27918.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-05T12:00:05",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/191039.jpg"
-    },
-    {
-      "title": "もああん氏、Webブラウザで動く無料の原画・絵コンテツール「MoArt」をテスト公開　タイムシート作業に特化、クリスタのデータインポートにも対応 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202609-MoArt.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-05T23:19:51",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/MoArt-01-thumb-1920x1066-88511.jpg"
-    },
-    {
-      "title": "SideFX、4DGSワークフロー解説動画公開　HoudiniからUnreal Engineへの技術パイプライン、Karim Rehimi氏による解説 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202609-Houdini-4DGS.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-04T23:18:29",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/Houdini_4DGS-01-thumb-1920x1080-88483.jpg"
-    },
-    {
-      "title": "【9/15より3週連続オンライン開催】ワールドクラスのNukeコンポジターに学ぶ、\"抜く\"\"散らす\"\"貼る\"の実践テクニック！ - ニュース",
-      "url": "https://cgworld.jp/flashnews/9153nuke.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-04T11:06:26",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/316_seminar_josh_all%20%281%29-thumb-1920x1080-88457.jpg"
-    },
-    {
-      "title": "アニメ『二十世紀電氣目録-ユーレカ・エヴリカ-』京都アニメーションが描く印象派絵画のような画づくりとは〜No.2／3DCG＆撮影（本編）篇 - 特集",
-      "url": "https://cgworld.jp/article/2608animecg-denkimokuroku02.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-04T10:00:00",
-      "image": "https://cgworld.jp/article/assets_c/2026/08/3b481286739e908703ed3ba8787bb9a84a98ea21-thumb-1000x563-87508.jpg"
-    },
-    {
-      "title": "東京ゲームショウ2026，アニプレックスブースの詳細が明らかに。「Fate/EXTRA Record」を世界初試遊。みに隊士・竈門炭治郎やコスプレイヤーの撮影会も",
-      "url": "https://www.4gamer.net/games/019/G101928/20260905005/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-05T03:00:00",
-      "image": "https://www.4gamer.net/games/019/G101928/20260905005/SS/003.jpg"
-    },
-    {
-      "title": "「Warframe」の次期大型アップデート「Narinの氷剣」は9月24日に無料配信。「Soulframe」の「プレリュード 16：針と狼」は9月中旬に登場",
-      "url": "https://www.4gamer.net/games/172/G017216/20260904051/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-04T13:00:00",
-      "image": "https://www.4gamer.net/games/172/G017216/20260904051/SS/001.jpg"
-    },
-    {
-      "title": "ホラーADV「ワンダーランドに帰らないで」，約2時間の体験版をSteamでリリース。森やドールハウスの探索，謎解きやギミックなどを楽しめる",
-      "url": "https://www.4gamer.net/games/039/G103958/20260904022/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-05T10:00:00",
-      "image": "https://www.4gamer.net/games/039/G103958/20260904022/SS/003.jpg"
-    },
-    {
-      "title": "「アズレン」，新規UR艦船「安土」「タイガー」が参戦。9月8日にスタートするイベント「妖異奇譚」の詳細も公開に",
-      "url": "https://www.4gamer.net/games/390/G039084/20260905008/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-05T09:38:15",
-      "image": "https://www.4gamer.net/games/390/G039084/20260905008/SS/001.jpg"
-    },
-    {
-      "title": "週刊Steam広場 第169号：「鬼武者 Way of the Sword」や「Breathedge 2」が発売に",
-      "url": "https://www.4gamer.net/games/038/G003821/20260905006/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-05T09:00:00",
-      "image": "https://www.4gamer.net/games/038/G003821/20260905006/TN/013.jpg"
-    },
-    {
-      "title": "札幌の次世代クリエイター育成を目指すイベント「Sapporo Game Camp 2026」、続報発表。ポートフォリオレビュー会や、企業・専門学校ブース出展も",
-      "url": "https://gamemakers.jp/article/2026_09_04_144317/",
-      "source": "ゲームメーカーズ",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-04T08:10:19",
-      "image": null
-    },
-    {
       "title": "ゲーム開発関連ツールのリリース・アップデートまとめ【2026/9/5】",
       "url": "https://gamemakers.jp/article/2026_09_05_144241/",
       "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "high",
       "published": "2026-09-05T01:58:51",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/09/a03628e231151a3166d8cade5960db3c.jpg"
-    },
-    {
-      "title": "世界のゲームデバイス市場が2032年に約8,070億円規模へ。QY Research、自社製レポートの報告内容を日本語で紹介",
-      "url": "https://gamemakers.jp/article/2026_09_04_144274/",
-      "source": "ゲームメーカーズ",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-04T11:07:44",
       "image": null
     },
     {
-      "title": "『スターサンド・アイランド』レビュー コツコツと理想の島を築くカワイイ見た目で硬派なスローライフの魅力",
-      "url": "https://jp.ign.com/starsand-island/84221/",
-      "source": "IGN Japan",
+      "title": "Steam、2027年上半期のイベント開催スケジュールを公開中。2月・6月の「Steam Nextフェス」など15のイベントが開催予定",
+      "url": "https://gamemakers.jp/article/2026_09_06_144217/",
+      "source": "ゲームメーカーズ",
       "category": "other",
-      "importance": "high",
-      "published": "2026-09-04T06:18:22",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/_sbhk.png"
+      "importance": "normal",
+      "published": "2026-09-06T01:58:17",
+      "image": null
     }
   ]
 }
