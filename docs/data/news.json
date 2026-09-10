@@ -1,141 +1,222 @@
 {
-  "generated_at": "2026-09-09T02:03:22.703078",
+  "generated_at": "2026-09-10T02:00:16.337625",
   "poem": "",
   "articles": [
     {
-      "title": "「CODE VEIN II」，DLC「Mask of Idris」と無料アップデートVer.2.0を配信開始。新キャラ「情念の仮面」や2体のボス，新術式が登場",
-      "url": "https://www.4gamer.net/games/917/G091725/20260907045/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-09T01:00:00",
-      "image": "https://www.4gamer.net/games/917/G091725/20260907045/SS/002.jpg"
-    },
-    {
-      "title": "リメイク版「ゼルダの伝説 時のオカリナ」2026年11月5日に発売決定！　初公開の実機プレイでは，こどもリンクの姿を見られた",
-      "url": "https://www.4gamer.net/games/999/G999903/20260908060/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-08T14:27:59",
-      "image": "https://www.4gamer.net/games/999/G999903/20260908060/SS/001.jpg"
-    },
-    {
-      "title": "「SILENT HILL f」×「都市伝説解体センター」，コラボを開始。深水雛子と福来あざみが共演するスペシャルミニゲームも公開",
-      "url": "https://www.4gamer.net/games/664/G066418/20260909003/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-09T01:49:12",
-      "image": "https://www.4gamer.net/games/664/G066418/20260909003/SS/001.jpg"
-    },
-    {
-      "title": "「勝利の女神：NIKKE」，京都コラボ第2弾の特別アニメーションPVとテーマソングを公開。JR東海「推し旅」コラボ第2弾は9月11日に開始",
-      "url": "https://www.4gamer.net/games/456/G045622/20260908055/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-09T00:00:00",
-      "image": "https://www.4gamer.net/games/456/G045622/20260908055/SS/001.jpg"
-    },
-    {
-      "title": "なぜ会心の一撃は気持ちいいのか。期待・時間・コントラストの3視点から，プレイヤーの快感を設計する演出の考え方を学ぶ［ゲームメーカーズスクランブル］",
-      "url": "https://www.4gamer.net/games/991/G999104/20260904023/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-08T23:00:00",
-      "image": "https://www.4gamer.net/games/991/G999104/20260904023/SS/001.jpg"
-    },
-    {
-      "title": "桜井政博氏が創設した「ゲームデザイナーズ大賞」が終了へ、16年の歴史に幕。審査員11名と授賞式日程などが発表",
-      "url": "https://www.gamebusiness.jp/article/2026/09/09/27960.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-08T22:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/195553.jpg"
-    },
-    {
-      "title": "「ホロライブ」10周年に向けて体制リニューアル！ロゴ一新、プロダクション統合、タレントのビジュアルアップデートなど取り組み続々",
-      "url": "https://www.gamebusiness.jp/article/2026/09/09/27957.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-08T21:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/195616.jpg"
-    },
-    {
-      "title": "電気通信大学「CEREC」オープニングセレモニーが9月29日開催―久夛良木健氏×村松学長がゲーム業界と大学のこれからを議論",
-      "url": "https://www.gamebusiness.jp/article/2026/09/09/27968.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-09T01:44:39",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/195671.jpg"
-    },
-    {
-      "title": "ロジからAIコントローラ『MX Keypad』発売。CodexやClaude Codeを液晶キーで操作、GitHubとネイティブ統合",
-      "url": "https://www.gamebusiness.jp/article/2026/09/09/27967.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-09T00:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/195663.jpg"
-    },
-    {
-      "title": "Gunosy、メディア企業のAI化を共創する「Media AI Partnership」提供開始",
-      "url": "https://www.gamebusiness.jp/article/2026/09/09/27966.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-08T23:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/195485.jpg"
-    },
-    {
-      "title": "モンスターを料理して酒場で提供する経営アクションRPG『Monster Cuisine：狩って、捌いて、いただきます。』発表。モンスターは自分で狩る",
-      "url": "https://news.denfaminicogamer.jp/news/260909k",
+      "title": "“猫侍”になってサイバーパンク都市を駆け巡るゲーム『Sa[meow]rai:銀翼の猫侍』2027年春に発売決定。TGS2026では「試遊10分チャレンジ」を実施",
+      "url": "https://news.denfaminicogamer.jp/news/2609103f",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-09-09T01:26:04",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/MonsterCuisine-Screenshot-3.png"
+      "published": "2026-09-10T01:00:55",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/screenshot_07-1.png"
     },
     {
-      "title": "『ゼルダの伝説 時のオカリナ』リメイク対応「エレクトリック 時のオカリナ」が発売決定！ゲームと連動して遊べる",
-      "url": "https://news.denfaminicogamer.jp/news/260909b",
+      "title": "『メタルスラッグ』開発メンバーらの“幻のRPG”『妖怪バスター ナビ之介』2027年に発売決定。ベテランたちがこだわりのドット絵で描きだす和風ファンタジー",
+      "url": "https://news.denfaminicogamer.jp/news/2609103d",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-09-08T15:13:33",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/HRs5eTQacAAwEpr.jpg"
+      "published": "2026-09-10T01:00:30",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/screenshot_01.png"
     },
     {
-      "title": "一枚のピザになっちゃったふたりが人間世界を生き抜く協力アクションゲーム『Doughn’t Panic』が面白そう、2027年に発売予定。広々としたキッチンや道路の上などの場所を進んでいく",
-      "url": "https://news.denfaminicogamer.jp/news/260909h",
+      "title": "『キャッ党忍伝てやんでえ』新作ゲームの試遊版が「TGS2026」で世界初公開決定！“35年ぶり”の対決を予感させるティザー動画も解禁",
+      "url": "https://news.denfaminicogamer.jp/news/2609010v",
       "source": "電ファミニコゲーマー",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-09-09T01:36:28",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/1-3.png"
+      "importance": "high",
+      "published": "2026-09-09T21:00:22",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/Key-Visual-Design-B-JP-Horizontal.png"
     },
     {
-      "title": "【最大10人】ヴァイキングになって神話世界でサバイバルする人気ゲーム『Valheim』が9月9日正式リリース。2021年の早期アクセス開始から約5年半、最後のバイオーム「極北」も追加",
-      "url": "https://news.denfaminicogamer.jp/news/260909i",
+      "title": "『マリオカート ワールド』無料アップデートで初代『スーパーマリオカート』のコースが登場！ニンダイ終了後に配信開始。新たなコースとして「チョコレーとう 1」「おばけぬま 1」などの計10コースが追加",
+      "url": "https://news.denfaminicogamer.jp/news/2609094i",
       "source": "電ファミニコゲーマー",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-09-09T01:36:05",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/01f31c19e55dea1912a1019f70fd0bafdeb3f1ac.png"
+      "importance": "high",
+      "published": "2026-09-09T15:16:59",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/2c94d351d5afbff4e214b0685fd5bcfe.jpg"
     },
     {
-      "title": "マーク・サーニー氏とジェフ・キーリー氏が“若手ゲームクリエイターを支援する財団”を共同設立へ。毎年20名に「10万ドル」の助成金を支給",
-      "url": "https://news.denfaminicogamer.jp/news/260909f",
+      "title": "『ロマンシング サガ3』フルリメイク『ロマサガ3 デスティニーユナイテッド』が2027年2月16日に発売決定！ TGS2026で初の試遊出展、河津秋敏氏・伊藤賢治氏・田付信一氏のコメントも公開",
+      "url": "https://news.denfaminicogamer.jp/news/2609095v",
       "source": "電ファミニコゲーマー",
       "category": "other",
+      "importance": "high",
+      "published": "2026-09-09T15:01:28",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/WS001838.jpg"
+    },
+    {
+      "title": "業界と次世代クリエイターをつなぐ「Tokyo Anim Unite 2026」の全プログラム・参加企業・タイムテーブルを発表。9月26日・27日にベルサール新宿グランドで開催",
+      "url": "https://www.gamebusiness.jp/article/2026/09/10/27982.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-09T22:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/195768.jpg"
+    },
+    {
+      "title": "Meta、パーソナルAIエージェント「Muse」発表。ユーザーの日常タスクを自律的に支援、セキュリティやプライバシーも考慮した設計うたう",
+      "url": "https://www.gamebusiness.jp/article/2026/09/10/27980.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-09T21:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/195780.jpg"
+    },
+    {
+      "title": "『GTA6』予約開始から約2ヶ月半で予約本数528万本、予約売上約800億円を記録―Sensor Tower調べ",
+      "url": "https://www.gamebusiness.jp/article/2026/09/10/27979.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-09T21:15:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/195788.jpg"
+    },
+    {
+      "title": "VRChat Inc.がピクシブからの出資受け入れを発表 ―BOOTHの3Dモデル流通総額100億円超でエコシステム連携へ",
+      "url": "https://www.gamebusiness.jp/article/2026/09/09/27973.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-09T06:00:45",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/195728.jpg"
+    },
+    {
+      "title": "ゲーム開発者向け展示会「GTMF 2026」、出展社第一弾15社を発表―大阪・東京会場の来場登録を開始",
+      "url": "https://www.gamebusiness.jp/article/2026/09/09/27971.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-09T03:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/195446.png"
+    },
+    {
+      "title": "「iPhone Duo」発表。初の“折りたたみiPhone”、36万4800円から",
+      "url": "https://automaton-media.com/articles/newsjp/20260910-466311/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-09T17:56:29",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260910-466311-002.jpg"
+    },
+    {
+      "title": "『Fit Boxing 刀剣乱舞 -出陣！えくささいず本丸-』発表、来年1月15日発売へ。ご褒美日常パートありでモチベ爆増なボクシングレッスン登場",
+      "url": "https://automaton-media.com/articles/newsjp/20260910-466232/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-09T15:18:53",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260910-466232-header.jpg"
+    },
+    {
+      "title": "対戦型カードゲーム『遊戯王 TAG FORCE GX』発表、来年2月16日発売へ。『遊☆戯☆王デュエルモンスターズGX タッグフォース3』のリメイク版、オンライン対戦対応",
+      "url": "https://automaton-media.com/articles/newsjp/20260910-466227/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-09T15:11:15",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260910-466227-header.jpeg"
+    },
+    {
+      "title": "Nintendo Switch 2「携帯モード特化」ゲーム『Onyx: The Dark Grip』発表、2027年発売へ。タッチ操作で世界に“干渉”、Bloober Teamが手がける新作",
+      "url": "https://automaton-media.com/articles/newsjp/20260910-466212/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-09T15:03:08",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260910-466212-header.jpg"
+    },
+    {
+      "title": "『続ポートピア連続殺人事件:忘却の埋葬』発表、2027年発売へ。原作者堀井雄二氏が総監督を務め、リメイクをしつつも新ストーリーを加えた完全新作",
+      "url": "https://automaton-media.com/articles/newsjp/20260909-466206/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-09T15:01:20",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260909-466206-header.jpg"
+    },
+    {
+      "title": "［インタビュー］「DEAD OR ALIVE 6 Last Round」完全新規キャラ・みなとが本日参戦。“普通の女子学生”に込めた狙いを開発陣に聞く",
+      "url": "https://www.4gamer.net/games/983/G098342/20260909002/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-09T15:00:00",
+      "image": "https://www.4gamer.net/games/983/G098342/20260909002/SS/002.jpg"
+    },
+    {
+      "title": "シリーズ最新作「星のカービィ ワールドビヨンド」が発表に。2027年春リリース予定",
+      "url": "https://www.4gamer.net/games/041/G104104/20260909087/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-09T14:59:07",
+      "image": "https://www.4gamer.net/games/041/G104104/20260909087/SS/001.jpg"
+    },
+    {
+      "title": "「ロマサガ3」のフルリメイク作品「ロマンシング サガ3 デスティニーユナイテッド」，2027年2月16日に発売決定",
+      "url": "https://www.4gamer.net/games/040/G104096/20260909079/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-09T14:53:26",
+      "image": "https://www.4gamer.net/games/040/G104096/20260909079/SS/009.jpg"
+    },
+    {
+      "title": "Switch2版「ゼルダ無双 災厄の黙示録 DX」が2027年2月25日に発売決定。フレームレートの改善や高難度カラミティモードの追加など",
+      "url": "https://www.4gamer.net/games/966/G096630/20260909084/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-09T14:52:55",
+      "image": "https://www.4gamer.net/games/966/G096630/20260909084/SS/001.jpg"
+    },
+    {
+      "title": "スマホゲームのセルラン分析（2026年8月27日〜9月2日）。今週の1位は「パズドラ」。4月〜6月の国内DL数ランキングも紹介",
+      "url": "https://www.4gamer.net/games/148/G014877/20260907012/",
+      "source": "4Gamer.net",
+      "category": "other",
       "importance": "normal",
-      "published": "2026-09-09T01:29:44",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/videoframe_63298.jpg"
+      "published": "2026-09-10T00:00:00",
+      "image": "https://www.4gamer.net/games/148/G014877/20260907012/SS/002.jpg"
+    },
+    {
+      "title": "SideFX、Houdiniユーザーグループの講演動画公開　SideFX Labsのアップデート情報、Copernicus、MLモデルの活用など - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202609-Houdini-HUG.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-09T23:49:03",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/Houdini_HUG-01-thumb-1920x1080-88760.jpg"
+    },
+    {
+      "title": "『きみの色』『上伊那ぼたん』の撮影監督が解説！「アニメーション撮影処理における表現と演出」オンライン講座が10/5に開催  - ニュース",
+      "url": "https://cgworld.jp/flashnews/1005-plusone-tomita.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-09T09:25:25",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/317_seminar_tomita_full-thumb-1920x1080-88755.jpg"
+    },
+    {
+      "title": "『フォトバッシングで創造するダークファンタジー世界 』コンセプトデザイナー・北澤勉氏によるオンライン講座、9月25日開催 - ニュース",
+      "url": "https://cgworld.jp/flashnews/2609-plusone-kitazawa.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-09T09:03:10",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/307_seminar_kitazawa_full%20%281%29-thumb-1920x1080-88741.jpg"
+    },
+    {
+      "title": "ビジュアルデザイナー・伊藤より子氏による『色と光のマジック・カラーでストーリーテリング』9月19日よりオンライン開催 - ニュース",
+      "url": "https://cgworld.jp/flashnews/2609-plusone-yoriko.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-09T03:15:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/312_seminar_ito_full-thumb-1920x1080-88691.jpg"
     },
     {
       "title": "可愛さだけでなく、リアルな人間味も宿した珠玉のキャラクターアニメーション｜野菜生活100 Smoothie  スペシャルムービー『ファイト・スタイル』篇 - 連載",
@@ -144,106 +225,7 @@
       "category": "other",
       "importance": "normal",
       "published": "2026-09-09T01:23:00",
-      "image": "https://cgworld.jp/regular/assets_c/2026/08/_smoojin_spmovie_4-thumb-1920x1080-87928.jpg"
-    },
-    {
-      "title": "ENGI、TVアニメ『メダリスト』のキャラクターリギング解説動画を公開　MayaとmGearを活用、あにつく2025講演より - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202609-ENGI-Medalist.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-08T23:49:58",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/ENGI_Medalist-01-thumb-1920x1080-88673.jpg"
-    },
-    {
-      "title": "アニメ『二十世紀電氣目録-ユーレカ・エヴリカ-』京都アニメーションが描く印象派絵画のような画づくりとは〜No.3／3DCG＆撮影（ED）篇 - 特集",
-      "url": "https://cgworld.jp/article/08animecg-denkimokuroku03.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-08T10:00:10",
-      "image": "https://cgworld.jp/article/assets_c/2026/08/150458b16b0dc4ac5a9ed5f595fdbd7ca3438b73-thumb-1000x563-87616.jpg"
-    },
-    {
-      "title": "9/17（木）東京にてDaVinci Resolveによるアニメ制作ワークフローセミナーを開催。『ルックバック』『ねこに転生したおじさん』の事例を紹介 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2609-davinci.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-08T08:20:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/daVinci_main-thumb-1000x563-88632.jpg"
-    },
-    {
-      "title": "【10/16（金）エントリー〆切】中高生向け3DCGコンテスト「CG部ネクストスターズ 2026」開催！ テーマは「あい」 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2609-cgbu.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-08T05:00:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/73594-274-6a2887a12d5f112de0b28c42ae7682fa-1920x1080-thumb-1000x563-88624.jpg"
-    },
-    {
-      "title": "キャラガチャなし基本プレイ無料『デュエットナイトアビス』新大型アプデは「なんか急に怖い」。廃墟と不穏な物語、ダウナー暗殺者少女（CV今井麻美さん）。怖いけど、新規に優しい",
-      "url": "https://automaton-media.com/articles/newsjp/20260908-465747/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-08T07:04:38",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260908-465747-header.jpg"
-    },
-    {
-      "title": "細かすぎ物理演算ロケット開発『In Control: Rocketry』発表。設計・組み立て・配線から操縦まで自分でやる “手作業”宇宙飛行",
-      "url": "https://automaton-media.com/articles/newsjp/20260909-465884/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-09T01:11:54",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260909-465884-header.jpg"
-    },
-    {
-      "title": "「ゼルダの伝説」実写映画、その名も「ゼルダの伝説」正式発表。来年4月30日公開へ",
-      "url": "https://automaton-media.com/articles/newsjp/20260908-465854/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-08T14:09:17",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260908-465854-header.jpg"
-    },
-    {
-      "title": "大人気放置RPG『タスクバーヒーロー』が初の大型アプデ実施。レア装備が出やすい新エリア「疾病地帯」実装、新スキンは期間限定で無料配布中",
-      "url": "https://automaton-media.com/articles/newsjp/tbh-20260908-465787/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-08T07:38:50",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/tbh-20260908-465787-header.jpg"
-    },
-    {
-      "title": "トランプ米政権、“国境の壁建設テトリス”をひっそり削除。テトリス社の“怒りの声明”から数日後に",
-      "url": "https://automaton-media.com/articles/newsjp/20260909-465879/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-09T00:53:45",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260909-465879-header.jpg"
-    },
-    {
-      "title": "高品質マイクの技術を一体化したオーディオテクニカのヘッドセット「ATH-M20xSTS」がAmazonにて9％オフでタイムセール中",
-      "url": "https://jp.ign.com/gaming-device/84230/ath-m20xstsamazon9",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-07T09:48:16",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_8hjz.png"
-    },
-    {
-      "title": "『SILENT HILL: Townfall』90分プレイ感想！街そのものに秘められた物語に引き込まれる",
-      "url": "https://jp.ign.com/silent-hill-townfall/84232/silent-hill-townfall90",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-07T03:36:33",
-      "image": "https://sm.ign.com/ign_jp/photo/default/silent-hill-townfall-pc-1785758370325_ssda.jpg"
+      "image": "https://cgworld.jp/regular/assets_c/2026/09/yasai_main-thumb-1000x563-88686.png"
     }
   ]
 }
