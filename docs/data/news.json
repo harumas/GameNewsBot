@@ -1,141 +1,141 @@
 {
-  "generated_at": "2026-09-15T02:21:34.771357",
+  "generated_at": "2026-09-16T02:15:08.429899",
   "poem": "",
   "articles": [
     {
-      "title": "「WWE」がNetflixで配信決定、10月1日から「Raw」「SmackDown」「NXT」が視聴可能。詳細は近日発表予定",
-      "url": "https://news.denfaminicogamer.jp/news/260915q",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-15T02:17:11",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/HSOFgbfa8AAv9qN.jpg"
-    },
-    {
-      "title": "夜勤のタクシー運転手になるホラーゲーム『Road to Jukai』がtinyBuildより発表。後部座席に乗せたのは人か、それとも……？",
-      "url": "https://news.denfaminicogamer.jp/news/260915i",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-15T01:43:10",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/Road-to-Jukai.png"
-    },
-    {
-      "title": "『ソニック』『クレイジータクシー』『ストレンジャー ザン ヘヴン』3作品の映像化が発表。Netflixとセガが新たな提携を結ぶ",
-      "url": "https://news.denfaminicogamer.jp/news/260915e",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-14T23:16:36",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/01jp.webp"
-    },
-    {
-      "title": "ほかのプレイヤーとの出会いで“覚醒”するガンホー新作の共闘シューティングゲーム『B.L.U.E. NOVA』が2027年にSteamで発売決定。AIの反乱が激化する世界で、最大30人の仲間を集めて“塔”にレイドをしかける",
-      "url": "https://news.denfaminicogamer.jp/news/2609143e",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-14T13:59:45",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/sub12-29.jpg"
-    },
-    {
-      "title": "「圧倒的に好評」なカードショップ経営ゲーム『TCG Card Shop Simulator』の正式版が配信開始。人気なブースターパックや商品を仕入れて並べて理想のカードショップを経営",
-      "url": "https://news.denfaminicogamer.jp/news/260915l",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-15T01:59:12",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/a30e8086b510413ca6ad8e1172ab5af182653766.jpg"
-    },
-    {
-      "title": "『スター・ウォーズ：ギャラクティック・レーサー』は『バーンアウト』開発者携わる、“攻めすぎれば脱落”レーシングアドベンチャー。マシンがぶつかり合う熾烈なレース、10月6日発売へ",
-      "url": "https://automaton-media.com/articles/special-column/star-wars-galactic-racer-20260914-466819/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-14T08:52:42",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/star-wars-galactic-racer-20260914-466819-header.jpg"
-    },
-    {
-      "title": "『アナザーエデン ビギンズ』開発者インタビュー。運営型ゲームの買い切り化はゲキムズだった。エンジンを変え、戦闘を変え、核は変えず、追求した家庭用ゲームらしさ",
-      "url": "https://automaton-media.com/articles/interviewsjp/ab-20260915-467494/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-15T02:08:16",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/ab-20260915-467494-header-1.jpg"
-    },
-    {
-      "title": "日本深夜タクシー運転ホラー『樹海への道』正式発表、2027年発売へ。カーナビなしで乗客探しふらふら迷走、時には“何か”が乗ってくる",
-      "url": "https://automaton-media.com/articles/newsjp/20260915-467515/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-15T01:36:47",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260915-467515-header.jpg"
-    },
-    {
-      "title": "Steam Frame開発者インタビュー。PC用の無線VRヘッドセットを作っていたはずが、気が付いたらヘッドセットだけでVRゲームが動くようになっていた",
-      "url": "https://automaton-media.com/articles/interviewsjp/steam-frame-20260914-467439/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-15T01:09:26",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/steam-frame-20260914-467439-header.jpg"
-    },
-    {
-      "title": "世紀末「巨大カニ上暮らし」ローグライト『The Crab is Walking』発表。省スペースで都市建築、軍隊育てて進軍せよ、高評価『The King is Watching』開発元の新作",
-      "url": "https://automaton-media.com/articles/newsjp/20260915-467485/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-15T00:29:35",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260915-467485-header.jpg"
-    },
-    {
-      "title": "23年ぶりの新DLC「Warcraft III Reforged: Forsaken Kingdom」が発表＆即日配信。約30時間のボリュームでフォーセイクンの起源を描く",
-      "url": "https://www.4gamer.net/games/439/G043977/20260915004/",
+      "title": "［インタビュー］6周年の「三國志 覇道」で，攻城戦の根底が変わる新シーズン「龍気連響」開幕。盾に強い新兵科“工兵”も現る",
+      "url": "https://www.4gamer.net/games/489/G048903/20260904038/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "high",
-      "published": "2026-09-14T23:00:00",
-      "image": "https://www.4gamer.net/games/439/G043977/20260915004/SS/001.webp"
+      "published": "2026-09-15T15:00:00",
+      "image": "https://www.4gamer.net/games/489/G048903/20260904038/SS/002.jpg"
     },
     {
-      "title": "認知異常と本格推理を組み合わせたサスペンスアドベンチャー「病能探偵」，11月5日にSteamとSTOVEでリリース。TGS 2026にも出展決定",
-      "url": "https://www.4gamer.net/games/910/G091052/20260914027/",
+      "title": "「英雄伝説III 白き魔女」，PC＆家庭用ゲーム機向けの開発と，グローバル市場でのリリースに向けてNEOWIZと商品化ライセンス契約を締結",
+      "url": "https://www.4gamer.net/games/043/G104314/20260916003/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-15T02:00:00",
-      "image": "https://www.4gamer.net/games/910/G091052/20260914027/SS/001.jpg"
+      "published": "2026-09-16T02:06:26",
+      "image": "https://www.4gamer.net/games/043/G104314/20260916003/SS/001.jpg"
     },
     {
-      "title": "「勝利の女神：NIKKE」，新SSR「ギルティ：マイティバニー」を9月17日に実装。新イベント「COIN RUSH SHOWDOWN」を開催",
-      "url": "https://www.4gamer.net/games/456/G045622/20260914039/",
+      "title": "TGS 2026の4Gamerステージで中山淳雄氏による特別講義が開催へ。インディー市場と日本のエンタメ・IP戦略を語る2セッション",
+      "url": "https://www.4gamer.net/games/991/G999110/20260916002/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-15T01:00:00",
-      "image": "https://www.4gamer.net/games/456/G045622/20260914039/SS/001.jpg"
+      "published": "2026-09-16T02:01:13",
+      "image": "https://www.4gamer.net/games/991/G999110/20260916002/SS/001.jpg"
     },
     {
-      "title": "MCP対応前からUnreal Engineを自力で操れていたLLMエージェントは，UE5.8のMCPで何ができるようになったのか［ゲームメーカーズスクランブル］",
-      "url": "https://www.4gamer.net/games/210/G021013/20260907003/",
+      "title": "ローグライトアクション「Cinderia」の新たな2人協力モードを実機プレイで紹介。TGS 2026の4Gamerブースで試遊＆ステージイベントを開催",
+      "url": "https://www.4gamer.net/games/988/G098872/20260915034/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-14T23:00:00",
-      "image": "https://www.4gamer.net/games/210/G021013/20260907003/TN/035.jpg"
+      "published": "2026-09-16T02:00:00",
+      "image": "https://www.4gamer.net/games/988/G098872/20260915034/SS/005.jpg"
     },
     {
-      "title": "RDNA 4世代のエントリーGPU「Radeon RX 9050」の実力は？ GeForceのエントリー級「GeForce RTX 5050」と比較してみた",
-      "url": "https://www.4gamer.net/games/869/G086962/20260913010/",
+      "title": "［プレイレポ］「Wo Long 2: Wings of Ember」α体験版インプレッション。広大な戦場を駆けるオープンワールド的探索と，武将配置の戦略性が融合した新たなダーク三國死にゲーだ",
+      "url": "https://www.4gamer.net/games/014/G101429/20260915035/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-14T23:00:00",
-      "image": "https://www.4gamer.net/games/869/G086962/20260913010/SS/002.jpg"
+      "published": "2026-09-16T01:00:00",
+      "image": "https://www.4gamer.net/games/014/G101429/20260915035/SS/001.jpg"
+    },
+    {
+      "title": "“初見クリアは絶望的”呪殺人形ホラー『ノロイあやし』発表。「ミスミソウ」「サユリ」の押切蓮介氏と喜多山浪漫氏のタッグが贈る、死のループ",
+      "url": "https://automaton-media.com/articles/newsjp/20260916-467846/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-16T02:00:17",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260916-467846-header.jpg"
+    },
+    {
+      "title": "ダーク三國志死にゲー『Wo Long 2: Wings of Ember』来年3月4日発売へ。ぬるっと発表、期間限定体験版もいきなり配信開始",
+      "url": "https://automaton-media.com/articles/newsjp/20260916-467836/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-16T01:22:06",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260916-467836-header.jpg"
+    },
+    {
+      "title": "人気根強い剣戟アクション『フォーオナー』が無料配布中、Ubisoft Storeにて。定価4180円が今ならタダ",
+      "url": "https://automaton-media.com/articles/newsjp/20260916-467812/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-15T22:57:28",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260916-467812-header.jpg"
+    },
+    {
+      "title": "本阿弥あずささん主演の新作ゲーム『あじゅ～るメモリア』発表。『おかゆにゅ～～む！』などに続き、「あじゅ姉」がゲームに",
+      "url": "https://automaton-media.com/articles/newsjp/20260915-467727/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-15T09:48:12",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260915-467727-header.jpg"
+    },
+    {
+      "title": "ファルコムの『英雄伝説Ⅲ 白き魔女』、待望の復活へ。『軌跡』の原点「ガガーブトリロジー」第1作が、PC/コンソール向けに新展開",
+      "url": "https://automaton-media.com/articles/newsjp/20260916-467830/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-16T01:06:27",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260916-467830-header.jpg"
+    },
+    {
+      "title": "『ソニックレーシング クロスワールド』に「ベヨネッタ」が参戦決定！シーズン2の“無料アップデート第1弾”にて追加",
+      "url": "https://news.denfaminicogamer.jp/news/260916f",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-16T01:20:33",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/videoframe_65230.png"
+    },
+    {
+      "title": "「エースパイロット体験」を世界に届けたい──『GUNDAM ROGUE ORBIT』（ガンダム ローグオービット）開発者インタビュー",
+      "url": "https://news.denfaminicogamer.jp/interview/260916g",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-16T01:00:51",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/image_014-11.jpg"
+    },
+    {
+      "title": "『Apex Legends』と『ストリートファイター6』のコラボが発表！アレンジされた「オリンパス」で波動拳や昇龍拳を放てる",
+      "url": "https://news.denfaminicogamer.jp/news/260916b",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-15T15:49:04",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/maxresdefault-16-1.jpg"
+    },
+    {
+      "title": "『パワーウォッシュ シミュレーター2』がまさかの『バービー』とコラボ。“ドリームハウス”をピカピカに洗い上げる新DLCが発表",
+      "url": "https://news.denfaminicogamer.jp/news/2609153l",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-15T14:00:46",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/Screenshot-3.jpg"
+    },
+    {
+      "title": "『メガドライブ』『セガサターン』『ドリームキャスト』の新規アパレルが発表。それぞれのロゴをデザインしたTシャツやパーカーがコスパから登場",
+      "url": "https://news.denfaminicogamer.jp/news/2609153n",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-15T11:59:07",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/main-81.jpg"
     },
     {
       "title": "Nuke Artists Q&A ｜ 学生からプロまで特徴的な作品づくりを手がけるアーティストたちにインタビュー - スペシャルコンテンツ",
@@ -145,6 +145,24 @@
       "importance": "high",
       "published": "2026-09-14T09:06:43",
       "image": "https://cgworld.jp/special-feature/assets_c/2026/09/90d08b6c-002a-4f91-89af-1f7869b1c794-thumb-1920x1080-88855.jpeg"
+    },
+    {
+      "title": "Maxon、Shane Olson氏によるZBrushライブ動画を公開　スタイライズド3Dキャラのブロックアウトから3Dプリントまで - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202609-ZBrush-Stylized.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-15T23:34:17",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/ZBrush_Stylized-01-thumb-1920x1080-88925.jpg"
+    },
+    {
+      "title": "ヨルシカ MV作品から紐解く、MORIE Inc.が貫いてきた「現場主義」とは？ - 特集",
+      "url": "https://cgworld.jp/article/-mvmorie-inc.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-15T11:17:13",
+      "image": "https://cgworld.jp/article/assets_c/2026/09/morie_main-thumb-1000x563-88882.jpg"
     },
     {
       "title": "【Illustrator 2026】デザイン的な要素も重要視した「テキストの生成・書き直し・調整・校正・翻訳」 - 連載",
@@ -165,67 +183,67 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/09/C4D_Liquid-01-thumb-1920x1080-88892.jpg"
     },
     {
-      "title": "【新講座】Nukeキーイングの引き出しを増やす。9/15(火)開催オンライン講座『\"抜く\"技術 〜Nukeキーイング実践〜 』 - ニュース",
-      "url": "https://cgworld.jp/flashnews/nuke915-nuke.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-14T08:10:56",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/3f34e7f2757869fb4ebbc7ede5e973a796646405-thumb-1920x1080-88883.jpg"
-    },
-    {
-      "title": "【参加企業決定！】10/9（金）東京で開催。アニメ・CG・ゲーム専門合同企業説明会「つくジョブ！」 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2609-tsukujob.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-14T06:58:55",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/6fbcb86be5317034436fdc67e81b67cceae6e554-thumb-1000x563-74167-thumb-1000x563-84060-thumb-1000x563-88812.jpg"
-    },
-    {
-      "title": "『ディアブロ IV』30周年の節目に「デッカード・ケイン」が帰還！スイッチ2版や新クラス「アマゾン」の片鱗も語られた日本向けインタビュー",
-      "url": "https://www.gamebusiness.jp/article/2026/09/15/28048.html",
+      "title": "セガのカルチャーを届ける新オウンドメディア「SEGAWAY」開設！ローンチ記事2本公開、『バーチャ』発売当時を元社長＆開発者が振り返る特別インタビュー映像も",
+      "url": "https://www.gamebusiness.jp/article/2026/09/16/28062.html",
       "source": "GameBusiness.jp",
       "category": "other",
       "importance": "high",
-      "published": "2026-09-14T22:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/196476.jpg"
+      "published": "2026-09-15T22:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/196627.jpg"
     },
     {
-      "title": "開発者の妻のボイスなのに…ユーザーが誤解しAI認定「ゲームが台無し」─オープンワールド風RPG『Luminary』Steamレビュー巡り「AI魔女狩り」について議論勃発",
-      "url": "https://www.gamebusiness.jp/article/2026/09/15/28046.html",
+      "title": "Steam Deck向け汎用フレーム生成プラグイン「Decky LSFG-VK」アップデート！使いやすさ＆パフォーマンスが向上",
+      "url": "https://www.gamebusiness.jp/article/2026/09/15/28051.html",
       "source": "GameBusiness.jp",
       "category": "other",
       "importance": "high",
-      "published": "2026-09-14T22:15:02",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/196497.png"
+      "published": "2026-09-15T03:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/196571.jpg"
     },
     {
-      "title": "ANYCOLOR、1Q売上16.6億円　コマース上振れも営業益は8.8％減",
-      "url": "https://www.gamebusiness.jp/article/2026/09/14/28038.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-14T08:21:31",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/196462.png"
-    },
-    {
-      "title": "『ポケモン』のゲームフリーク完全新作『雨のちハレ女』発表！現実の天気がゲーム内に影響、魔法少女「ハレ女」とその相棒「クモリン」たちの物語を描く",
-      "url": "https://www.gamebusiness.jp/article/2026/09/14/28035.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-14T05:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/196435.jpg"
-    },
-    {
-      "title": "Link-U、クランチロールと資本業務提携―約9億円を調達、第4位株主に",
-      "url": "https://www.gamebusiness.jp/article/2026/09/15/28047.html",
+      "title": "メルカリが『ポケカ』30周年記念商品を出品禁止へ―違反者には削除対応や、アカウントの利用制限など厳格に対処",
+      "url": "https://www.gamebusiness.jp/article/2026/09/16/28066.html",
       "source": "GameBusiness.jp",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-14T22:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/196539.jpg"
+      "published": "2026-09-15T23:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/196700.jpg"
+    },
+    {
+      "title": "多数の有名作品が参戦するTCG『ヴァイスシュヴァルツ オンライン』Steamストアページ公開。ウィッシュリスト登録受付開始",
+      "url": "https://www.gamebusiness.jp/article/2026/09/16/28065.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-15T22:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/196645.jpg"
+    },
+    {
+      "title": "「日本ゲーム大賞2026」大賞は『ぽこ あ ポケモン』！優秀賞全12タイトル、話題の『めっちゃカメレオン』など受賞作品ひとまとめ",
+      "url": "https://www.gamebusiness.jp/article/2026/09/16/28064.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-15T22:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/196611.jpg"
+    },
+    {
+      "title": "『FF7リベレーション』開発者インタビューや『STRANGER THAN HEAVEN』感想トークなど！IGN JAPAN TGS2026生放送の詳細を公開！",
+      "url": "https://jp.ign.com/tgs-2026/84266/ff7stranger-than-heavenign-japan-tgs2026",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-15T09:00:34",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/tgs-day3-1_3ssy.png"
+    },
+    {
+      "title": "Steam Frameレビュー",
+      "url": "https://jp.ign.com/steam-frame/84264/steam-frame",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-15T05:47:13",
+      "image": "https://sm.ign.com/ign_jp/review/s/steam-fram/steam-frame-review_4qqk.jpg"
     },
     {
       "title": "『ディアブロ V』パネル「Forging the Next Era」発表内容まとめ",
@@ -246,22 +264,13 @@
       "image": "https://sm.ign.com/ign_jp/news/d/diablo-5-a/diablo-5-announced_wjj2.jpg"
     },
     {
-      "title": "The Magic of Disney Animation at Walt Disney World's Hollywood Studios",
-      "url": "https://jp.ign.com/gallery/84257/the-magic-of-disney-animation-at-walt-disney-worlds-hollywood-studios",
+      "title": "Steam Frame – Hands-On Photos",
+      "url": "https://jp.ign.com/steam-frame/84263/steam-frame-hands-on-photos",
       "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-14T05:27:54",
-      "image": "https://sm.ign.com/ign_jp/gallery/t/the-magic-/the-magic-of-disney-animation-at-walt-disney-worlds-hollywoo_43x9.jpg"
-    },
-    {
-      "title": "Dragon Quest Monsters: The Withered World Screenshots",
-      "url": "https://jp.ign.com/dragon-quest-monsters-the-withered-world/84254/dragon-quest-monsters-the-withered-world-screenshots",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-14T03:52:53",
-      "image": "https://sm.ign.com/ign_jp/gallery/d/dragon-que/dragon-quest-monsters-the-withered-world-screenshots_k6m8.jpg"
+      "published": "2026-09-15T04:42:46",
+      "image": "https://sm.ign.com/ign_jp/gallery/s/steam-fram/steam-frame-hands-on-photos_5g11.jpg"
     }
   ]
 }
