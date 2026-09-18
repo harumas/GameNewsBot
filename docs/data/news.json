@@ -1,186 +1,294 @@
 {
-  "generated_at": "2026-09-17T02:17:15.499718",
+  "generated_at": "2026-09-18T02:03:25.943032",
   "poem": "",
   "articles": [
     {
-      "title": "ワタシを殺して私を残す？　「UN:Me」試遊版先行プレイレポート。「カリギュラ」のタッグが描く，終わりのない不安と魂のトリアージ［TGS2026］",
-      "url": "https://www.4gamer.net/games/967/G096772/20260916015/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-17T01:00:00",
-      "image": "https://www.4gamer.net/games/967/G096772/20260916015/SS/026.jpg"
-    },
-    {
-      "title": "1937年のリオデジャネイロで同じ日を繰り返す。タイムループ型ミステリーADV「ブラス・クーバスの死後依頼」Switch版が発売",
-      "url": "https://www.4gamer.net/games/995/G099532/20260917004/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-17T02:11:45",
-      "image": "https://www.4gamer.net/games/995/G099532/20260917004/SS/005.png"
-    },
-    {
-      "title": "「Fate/EXTRA Record」TGS2026出展Ver.をいち早くプレイ。新たな戦略とド派手なサーヴァント戦が楽しめるコマンドバトルを紹介［TGS 2026］",
-      "url": "https://www.4gamer.net/games/520/G052062/20260916045/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-17T02:00:00",
-      "image": "https://www.4gamer.net/games/520/G052062/20260916045/SS/017.webp"
-    },
-    {
-      "title": "男色ディーノのゲイムヒヒョー ゼロ：第907回「次の新作が心配になるくらい好き」",
-      "url": "https://www.4gamer.net/games/040/G004083/20260916009/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-17T02:00:00",
-      "image": "https://www.4gamer.net/games/040/G004083/20260916009/SS/004.jpg"
-    },
-    {
-      "title": "iOS/Android版「デイヴ・ザ・ダイバー」，本日配信。モバイル向けにUIや操作を最適化，端末を傾けてお茶を注ぐ機能などを追加",
-      "url": "https://www.4gamer.net/games/439/G043999/20260917003/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-17T01:55:42",
-      "image": "https://www.4gamer.net/games/439/G043999/20260917003/SS/001.jpg"
-    },
-    {
-      "title": "『Fate/EXTRA Record』先行プレイレポート：「デッキ構築型」だけど、頭がバーサーカーでも楽しいコマンドカードバトル！コストを管理して、カードで英霊たちを従える。英霊がちゃんとプレイヤーの前方にいて解釈一致すぎる",
-      "url": "https://news.denfaminicogamer.jp/kikakuthetower/260917a",
+      "title": "【無料】閉鎖空間で「通販サイト」を使って30日間を生き延びるホラーゲーム『絶望ショッピング』発表。水や食料、「眼球」などが並ぶ通販サイトを駆使して生き延びる",
+      "url": "https://news.denfaminicogamer.jp/news/260918j",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-09-17T02:00:47",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/image33-1.png"
+      "published": "2026-09-18T01:55:02",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/ss_e47920e38f41df7f2afb25a52dd96c6c5607198c.1920x1080.jpg"
     },
     {
-      "title": "『MELTY BLOOD: TWI-LUMINA』先行プレイレポート：ネコアルク、ロア、マシュも参戦。レンかわいい、ネコを放つワザもかわいい、しゃがむとネコになるのも健在でかわいい……！",
-      "url": "https://news.denfaminicogamer.jp/kikakuthetower/260917d",
+      "title": "『クレイジータクシー：ワールドツアー』開発者インタビュー。ついに公開された日本マップには東京タワーに富士山、そして7色に輝くゲーミング「くら寿司」…？純日本製なのに、絶妙に“勘違い”なのは、「日本の解像度だけ上げすぎない」ため",
+      "url": "https://news.denfaminicogamer.jp/interview/2609182b",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-09-17T02:00:26",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/image7-14.png"
+      "published": "2026-09-17T15:00:28",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/image3-16.png"
     },
     {
-      "title": "「レベルファイブ」が『妖怪ウォッチ2 覇道』のAI使用レベルファイブ、『妖怪ウォッチ2 覇道』など生成AIの指摘があったPVやイラストについて公式声明。修正したバージョンを公開へ釈明。公開されたPVを修正すると発表",
-      "url": "https://news.denfaminicogamer.jp/news/260917q",
+      "title": "『ゴールデンカムイ』と『ウミガメのスープ』がコラボ。『ゴールデンカムイ ヒグマのスープ』12月25日に発売",
+      "url": "https://news.denfaminicogamer.jp/news/260918n",
       "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-17T01:18:09",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/HXeh4OLk_400x400.jpg"
-    },
-    {
-      "title": "【超高評価】映画『バイオハザード』海外レビュー集積サイトで“97%”スコアを獲得。「ゲーム原作映画の中でも最高の1本」「ゲームの体験を映画に落とし込む上で最高の仕事をしている」など好評相次ぐ",
-      "url": "https://news.denfaminicogamer.jp/news/260917n",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-17T01:15:50",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/BioHazard_INTL_OneSheet-_1_.png"
-    },
-    {
-      "title": "『水曜日のダウンタウン』藤井健太郎氏プロデュースの新作ゲーム『THE FIRST ZOMBIE』発表。TGS2026にも出展",
-      "url": "https://news.denfaminicogamer.jp/news/2609173d",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-17T01:00:26",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/380e8d7a9b8443141320edb96ebacfd6.jpg"
-    },
-    {
-      "title": "ホロライブ博衣こよりさん主演の新作ゲーム『コヨリニウム』正式発表。おかゆに続いてこよりもゲーム化",
-      "url": "https://automaton-media.com/articles/newsjp/20260917-468217/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-17T01:56:32",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260917-468217-header.jpg"
-    },
-    {
-      "title": "全人類ゾンビ化アクションゲーム『THE FIRST ZOMBIE』発表。「水曜日のダウンタウン」の藤井健太郎氏プロデュース、“ゾンビ仲間”を増やして世界を救う",
-      "url": "https://automaton-media.com/articles/newsjp/20260917-468170/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-17T01:00:08",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260917-468170-header.jpg"
-    },
-    {
-      "title": "宇宙リアルタイムストラテジー『Space Menace』がSteamにて無料配布中。定価905円のゲーム",
-      "url": "https://automaton-media.com/articles/newsjp/space-menace-20260917-468195/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-17T00:44:41",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/space-menace-20260917-468195-header.jpg"
-    },
-    {
-      "title": "『Fate/EXTRA Record』TGS先行プレイ感想。バトルは「3すくみのじゃんけん」から「デッキ構築」へ。読み合いは形を変える",
-      "url": "https://automaton-media.com/articles/reportjp/fate-extra-record-20260917-467923/",
-      "source": "Automaton",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-17T02:00:04",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/fate-extra-record-20260917-467923-header.jpg"
+      "published": "2026-09-18T01:56:49",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/main-45.png"
     },
     {
-      "title": "フリュー新作“懺悔で成長”ローグライクACT『クライムライト』の正式体験版配信。ビルドは“ポーカー式”の新作を「第1章まるごと」お届け、最後にはサプライズも",
-      "url": "https://automaton-media.com/articles/newsjp/20260917-467995/",
-      "source": "Automaton",
+      "title": "【公式】本のカバーにぴったりの「帯」を組み合わせる「岩波文庫のゲーム」が登場。超上級モードではなんと“100冊”に挑戦できる",
+      "url": "https://news.denfaminicogamer.jp/news/260918o",
+      "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-17T01:17:07",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260917-467995-header.jpg"
+      "published": "2026-09-18T01:56:01",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/42d2c116943de481e1ad015071046030.jpg"
     },
     {
-      "title": "今年もEpic代表Tim Sweeney氏が登壇！「Unreal Fest Tokyo 2026」約30の講演情報が発表",
-      "url": "https://gamemakers.jp/article/2026_09_15_145031/",
+      "title": "TVアニメ『ヤニねこ』公式Xアカウントが「シャドウバン」されているのではないかとSNSで話題に。「公式アカウントがシャドウバンは草」「さすがヤニねこ」「話題提供しすぎでしょ！」とコメント相次ぐ",
+      "url": "https://news.denfaminicogamer.jp/news/260918e",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-18T01:54:29",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/PhotoshopExtension_Image-2026-09-18T100500.204.png"
+    },
+    {
+      "title": "『UN:Me』試遊＆体験型展示「不安回廊」レポート。ひとりの少女に宿る4つの魂。誰を消すかはプレイヤー自身が選択する【TGS2026】",
+      "url": "https://gamemakers.jp/article/2026_09_18_145295/",
       "source": "ゲームメーカーズ",
       "category": "other",
-      "importance": "high",
-      "published": "2026-09-15T06:24:39",
+      "importance": "normal",
+      "published": "2026-09-18T01:36:23",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/09/ca78e16ad74c337999ccf5b052c989ce.jpg"
+    },
+    {
+      "title": "【来週末開催！】ポートフォリオ添削や『スト6』キャラデザ講演も！トップアーティストの知見を学べる「Tokyo Anim Unite 2026」、9/26（土）・27（日）に開催",
+      "url": "https://gamemakers.jp/article/2026_09_18_145352/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-18T00:58:41",
       "image": null
     },
     {
-      "title": "20周年を迎えたROG、XBOXと再びタッグ。ポータブルゲーミングPC「ROG XBOX Ally X20」、10/16（金）に発売！",
-      "url": "https://gamemakers.jp/article/2026_09_17_145142/",
+      "title": "海外パブリッシャーの心をつかむ秘訣は？ジェトロのインディーゲーム支援事例も紹介されたセッションをレポート【TGS2026】",
+      "url": "https://gamemakers.jp/article/2026_09_18_145320/",
       "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-17T01:00:36",
+      "published": "2026-09-17T23:58:49",
       "image": null
     },
     {
-      "title": "25年前のFPSがベースの『Arma: Cold War Assault Remastered』、ゲームとエンジンのソースコードが公開",
-      "url": "https://gamemakers.jp/article/2026_09_16_145133/",
+      "title": "「ゲーム制作の早期教育を」CESA辻本会長が語る、官民連携で挑む次世代クリエイター支援【東京ゲームショウ2026】",
+      "url": "https://gamemakers.jp/article/2026_09_17_145263/",
       "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-16T11:08:18",
+      "published": "2026-09-17T07:28:49",
       "image": null
     },
     {
-      "title": "キャラは1体あたり3万ポリゴン以内で運用、顔の法線は真正面に統一。コロプラ、スマホ/PC向けゲーム『異世界∞異世界』のモデル仕様をブログで解説",
-      "url": "https://gamemakers.jp/article/2026_09_16_145061/",
+      "title": "攻撃のたびにヒット音がランダムで変化。『Absolum』のWwiseによるサウンド実装事例、Audiokineticがブログで紹介",
+      "url": "https://gamemakers.jp/article/2026_09_17_144969/",
       "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-16T06:16:01",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/09/9847caf348f169ee1f7dd18784cb6075.jpg"
+      "published": "2026-09-17T02:58:45",
+      "image": null
     },
     {
-      "title": "「TOKYO INDIE GAMES SUMMIT 2027」、3/27（土）・28（日）に開催決定。出展費は無料、11/15（日）まで募集中",
-      "url": "https://gamemakers.jp/article/2026_09_15_145069/",
-      "source": "ゲームメーカーズ",
+      "title": "生みの親自身がクレタクの可能性を狭めていたと語る 『クレイジータクシー：ワールドツアー』ロングインタビュー",
+      "url": "https://jp.ign.com/crazy-taxi-world-tour/84273/",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-17T15:03:47",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/image10_ac6t.png"
+    },
+    {
+      "title": "「ブーストブレイサー」が武器の新たな強さを引き出す 『モンスターハンターワイルズ：アセンダンス』試遊レポート",
+      "url": "https://jp.ign.com/monster-hunter-wilds-ascendance/84275/",
+      "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-15T10:12:41",
-      "image": null
+      "published": "2026-09-18T01:17:57",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/image5_j9f1.jpg"
+    },
+    {
+      "title": "玄人向け？近接特化のブルースでロックマンの真髄に触れる『ロックマン: デュアル オーバーライド』試遊レポート",
+      "url": "https://jp.ign.com/mega-man-dual-override/84272/",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-17T05:20:47",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/rock_hzxq.png"
+    },
+    {
+      "title": "初音ミクを象徴するカラーを採用したASUSのゲーミングマウス「TUF GAMING Mini Wireless Mouse Hatsune Miku Edition」がAmazonにて15％オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/84261/asustuf-gaming-mini-wireless-mouse-hatsune-miku-editionamazon15",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-16T06:58:56",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_nquy.png"
+    },
+    {
+      "title": "『ドキドキ文芸部!』のアーティストが放つ新作『Faraday Blues』発表。“両親の人生が悲惨すぎるので勝手にリセット”する闇深めカードADV、ほぼバッドエンドなエンディング64種類",
+      "url": "https://automaton-media.com/articles/newsjp/20260917-468399/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-17T10:59:46",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260917-468399-header.jpg"
+    },
+    {
+      "title": "「歩く家」クラフト冒険ゲーム『Bloomwalker』正式発表。汚染された世界を浄化する旅、レベルファイブ『二ノ国』関連新作か",
+      "url": "https://automaton-media.com/articles/newsjp/20260917-468389/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-17T10:34:14",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260917-468389-header3.jpg"
+    },
+    {
+      "title": "「禁止事項を破ると死ぬ」脱出ゲーム『絶対遵守』発表。見るな、触れるな、立ち止まるな。”何があっても”規則を守ってビルから出る",
+      "url": "https://automaton-media.com/articles/newsjp/20260917-468362/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-17T08:06:50",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260917-468362-header.jpg"
+    },
+    {
+      "title": "スタジオは閉鎖、それでも完成した“JRPG”『エッジ オブ メモリーズ』11月5日発売へ。豪華国内クリエイターも参加する執念のオープンワールドARPG",
+      "url": "https://automaton-media.com/articles/newsjp/20260918-468530/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-18T01:16:26",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260918-468530-002.jpg"
+    },
+    {
+      "title": "小さな町で“やりたい放題”サンドボックス探索ゲーム『Odd Town』10月16日配信へ。NPCを脅して押し込み強盗、秘密結社もはびこる不穏町暮らし",
+      "url": "https://automaton-media.com/articles/newsjp/odd-town-20260918-468520/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-18T00:57:42",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/odd-town-20260918-468520-header.jpg"
+    },
+    {
+      "title": "Game Pass再編の噂にXbox広報担当から公式回答―「本日発表する変更点や、最終決定した計画はありません。」",
+      "url": "https://www.gamebusiness.jp/article/2026/09/18/28089.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-17T21:15:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/197078.jpg"
+    },
+    {
+      "title": "主人公と仲間たちがPCの側面に集結！GALLERIA×『ペルソナ4 リバイバル』コラボPCがTGS2026で発表",
+      "url": "https://www.gamebusiness.jp/article/2026/09/17/28087.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-17T11:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/196928.jpg"
+    },
+    {
+      "title": "「プレイヤー自身を脅かしに来る」失踪配信者を追うメタホラー『たろうくんはいってきました』開発者インタビュー―株式会社闇がゲームへ進出した理由とは",
+      "url": "https://www.gamebusiness.jp/article/2026/09/17/28083.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-16T23:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/196822.png"
+    },
+    {
+      "title": "「スワイプするだけでは居場所は生まれない」―Twitch CEOが語る、ショート全盛のいま長尺にこだわる理由",
+      "url": "https://www.gamebusiness.jp/article/2026/09/18/28096.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-17T23:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/197098.png"
+    },
+    {
+      "title": "「しぐれうい×メゾピアノ」コラボ中止へ―子ども服ブランドとの組み合わせに不適切の声、暴力行為を示唆する脅迫も",
+      "url": "https://www.gamebusiness.jp/article/2026/09/18/28095.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-17T22:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/197106.jpg"
+    },
+    {
+      "title": "「Wo Long 2: Wings of Ember」インタビュー。オープンフィールドの戦場と新アクションで，濃密なプレイ体験を目指す［TGS2026］",
+      "url": "https://www.4gamer.net/games/014/G101429/20260918005/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-17T15:41:14",
+      "image": "https://www.4gamer.net/games/014/G101429/20260918005/SS/003.jpg"
+    },
+    {
+      "title": "明解な結末は作らない。9月24日のリリースが迫る「CONTROL Resonant」インタビュー［TGS2026］",
+      "url": "https://www.4gamer.net/games/668/G066881/20260917087/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-17T15:08:28",
+      "image": "https://www.4gamer.net/games/668/G066881/20260917087/SS/005.jpg"
+    },
+    {
+      "title": "板垣伴信氏と親交のあったゲスト4名による追悼トークが披露された「黒川塾 百参（103）」をレポート",
+      "url": "https://www.4gamer.net/games/999/G999903/20260917073/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-17T23:00:00",
+      "image": "https://www.4gamer.net/games/999/G999903/20260917073/SS/016.jpg"
+    },
+    {
+      "title": "XBOXの名を冠するASUSの携帯型ゲームPCに第2世代モデル「ROG XBOX Ally X20」が登場。実機をTGS2026で触ってきた",
+      "url": "https://www.4gamer.net/games/047/G004755/20260918014/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-17T17:36:09",
+      "image": "https://www.4gamer.net/games/047/G004755/20260918014/SS/002.jpg"
+    },
+    {
+      "title": "誰でもToHeartのマルチになれる？ 「HMX-12“マルチ”センサーユニット」を購入してみた［TGS2026］",
+      "url": "https://www.4gamer.net/games/999/G999902/20260918010/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-17T17:10:15",
+      "image": "https://www.4gamer.net/games/999/G999902/20260918010/SS/007.jpg"
+    },
+    {
+      "title": "無料のMaya用アニメーションツールキット「Animo V10.0」公開　ミラーポーズやカメラ空間アークトラッカー追加 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202609-Animo.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-17T22:42:08",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/Animo-01-thumb-1920x1080-89049.jpg"
+    },
+    {
+      "title": "LiberNovo、「CREATORS EDGE 2026」に出展。クリエイター向けワークチェアの試座・体験を実施 - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2609-libernovo-ce2026.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-17T07:53:01",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/168276-42-f46f31ca7c83e3a2d1a4390fb1ab06e9-1920x1440-thumb-1000x563-88944.jpg"
+    },
+    {
+      "title": "『Pokémon LEGENDS Z-A』は「1つの街」をどう描いた？ ミアレシティを支える描画技術～CEDEC 2026（2） - 特集",
+      "url": "https://cgworld.jp/article/202609-cedec-pkmnza.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-17T02:42:00",
+      "image": "https://cgworld.jp/article/assets_c/2026/09/a30968443b2142da7f91321083cb40f4a11a5cb5-thumb-1000x564-88430.jpg"
     },
     {
       "title": "Epic Games、Unreal Engine 5におけるリアルタイムアニメーションワークフローの解説動画を公開　Unreal Fest Chicago 2026でのAgora Studioの講演 - ニュース",
@@ -199,114 +307,6 @@
       "importance": "normal",
       "published": "2026-09-16T02:23:00",
       "image": "https://cgworld.jp/article/assets_c/2026/09/7b296691b7b4f2be2b5458c0b56182938ebd1d13-thumb-1920x1080-88343.jpg"
-    },
-    {
-      "title": "「東京アニメピッチグランプリ」2027年2月12日開催決定！～自身の作品の魅力をアピールし、海外展開への第一歩を踏み出そう～ - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2609-mifa2027.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-16T01:58:18",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/32c3cd1cc52b23da0a1f8b55f65e0e1d631b6156-thumb-1000x563-88772.jpg"
-    },
-    {
-      "title": "Maxon、Shane Olson氏によるZBrushライブ動画を公開　スタイライズド3Dキャラのブロックアウトから3Dプリントまで - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202609-ZBrush-Stylized.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-15T23:34:17",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/ZBrush_Stylized-01-thumb-1920x1080-88925.jpg"
-    },
-    {
-      "title": "ヨルシカ MV作品から紐解く、MORIE Inc.が貫いてきた「現場主義」とは？ - 特集",
-      "url": "https://cgworld.jp/article/-mvmorie-inc.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-15T11:17:13",
-      "image": "https://cgworld.jp/article/assets_c/2026/09/morie_main-thumb-1000x563-88882.jpg"
-    },
-    {
-      "title": "「プレイヤー自身を脅かしに来る」失踪配信者を追うメタホラー『たろうくんはいってきました』開発者インタビュー―株式会社闇がゲームへ進出した理由とは",
-      "url": "https://www.gamebusiness.jp/article/2026/09/17/28083.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-16T23:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/196822.png"
-    },
-    {
-      "title": "世界中の誰もがガンダムゲームを知るきっかけになれればー新作ACT『GUNDAM ROGUE ORBIT』インタビュー",
-      "url": "https://www.gamebusiness.jp/article/2026/09/17/28077.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-16T21:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/196877.png"
-    },
-    {
-      "title": "InstagramなどにMeta AI機能追加する新サブスク「Meta One」発表。月額299円から、50以上の機能を提供",
-      "url": "https://www.gamebusiness.jp/article/2026/09/17/28076.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-16T21:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/196897.jpg"
-    },
-    {
-      "title": "「ハイスコアガール」押切蓮介×元日本一・新川宗平のループ系ホラーRPG『ノロイあやし』正式発表！呪殺人形と七不思議が潜む学校にて、“死”から学んで都市伝説の真相に迫る",
-      "url": "https://www.gamebusiness.jp/article/2026/09/16/28072.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-16T07:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/196710.png"
-    },
-    {
-      "title": "『Wo Long 2: Wings of Ember』開発陣インタビュー！オープンフィールドと「凰技」が切り拓く、新たなダーク三国死にゲーの地平",
-      "url": "https://www.gamebusiness.jp/article/2026/09/16/28071.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-16T06:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/196722.png"
-    },
-    {
-      "title": "『FF7リベレーション』開発者インタビューや『STRANGER THAN HEAVEN』感想トークなど！IGN JAPAN TGS2026生放送の詳細を公開！",
-      "url": "https://jp.ign.com/tgs-2026/84266/ff7stranger-than-heavenign-japan-tgs2026",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-15T09:00:34",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/tgs-day3-1_3ssy.png"
-    },
-    {
-      "title": "Steam Frameレビュー",
-      "url": "https://jp.ign.com/steam-frame/84264/steam-frame",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-15T05:47:13",
-      "image": "https://sm.ign.com/ign_jp/review/s/steam-fram/steam-frame-review_4qqk.jpg"
-    },
-    {
-      "title": "初音ミクを象徴するカラーを採用したASUSのゲーミングマウス「TUF GAMING Mini Wireless Mouse Hatsune Miku Edition」がAmazonにて15％オフでタイムセール中",
-      "url": "https://jp.ign.com/gaming-device/84261/asustuf-gaming-mini-wireless-mouse-hatsune-miku-editionamazon15",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-16T06:58:56",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_nquy.png"
-    },
-    {
-      "title": "Steam Frame – Hands-On Photos",
-      "url": "https://jp.ign.com/steam-frame/84263/steam-frame-hands-on-photos",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-15T04:42:46",
-      "image": "https://sm.ign.com/ign_jp/gallery/s/steam-fram/steam-frame-hands-on-photos_5g11.jpg"
     }
   ]
 }
