@@ -1,231 +1,114 @@
 {
-  "generated_at": "2026-09-25T02:22:33.060372",
+  "generated_at": "2026-09-26T02:26:41.423676",
   "poem": "",
   "articles": [
     {
-      "title": "ひたすら「カードパック開封」ゲーム『Rip It! Card Collector』発表。目指すは1809種類コンプリート、ダブりを売って高速自動化ガチ開封業",
-      "url": "https://automaton-media.com/articles/newsjp/20260925-469883/",
+      "title": "カフカの影響を受けたアート系パズル『贋作・掟の門（習作）』発表。イルカが開発する、『倉庫番』風不条理世界探索",
+      "url": "https://automaton-media.com/articles/newsjp/20260925-470040/",
       "source": "Automaton",
       "category": "other",
       "importance": "high",
-      "published": "2026-09-25T02:21:17",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260925-469883-header.jpg"
+      "published": "2026-09-25T10:15:39",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260925-470040-header.jpg"
     },
     {
-      "title": "体当たりハイスピードバトル戦車アクション『SLAM TANK』発表。AI機械たちに砲身大回転攻撃、「砲撃なし」の“肉弾戦車”がゆく",
-      "url": "https://automaton-media.com/articles/newsjp/slam-tank-20260924-469729/",
+      "title": "タクティカルSRPG『マーセナリーズグレイス 黒い羽根と黄金の右腕』発表、11月発売へ。シリーズ8作目は「一手交代型ターン制」採用で反撃の緊張感マシマシ",
+      "url": "https://automaton-media.com/articles/newsjp/20260925-470014/",
       "source": "Automaton",
       "category": "other",
       "importance": "high",
-      "published": "2026-09-24T08:34:10",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/slam-tank-20260924-469729-header.jpeg"
+      "published": "2026-09-25T08:57:57",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260925-470014-header.jpg"
     },
     {
-      "title": "『テーブルゲーム・ワールド CCFOLIA for Nintendo Switch 2』の、“遊びをユーザーに委ねる”という挑戦。将棋もオジサン構文ボドゲもTRPGもマダミスも、アイデア次第でやりたい放題",
-      "url": "https://automaton-media.com/articles/reportjp/ccfolia-20260925-469865/",
+      "title": "リズムゲームなのにインフレ『Dance Dance Incremental』発表。“数値はデカいほどいい”『DDR』風ゲーム、ちゃんとマット型コントローラー対応",
+      "url": "https://automaton-media.com/articles/newsjp/20260925-470005/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-25T08:24:58",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260925-470005-header.jpg"
+    },
+    {
+      "title": "“高難度ゲームの攻略法を推理する”ゲーム『Thank You 4 Playing』Steam版発表、来年1月8日配信へ。SNSから役立つ攻略情報を見極める、『オブラディン』風情報集め",
+      "url": "https://automaton-media.com/articles/newsjp/20260925-469972/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-25T06:06:33",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260925-469972-header.jpg"
+    },
+    {
+      "title": "「スペインゲーム祭」の内容をお届け。『Denshattack!』に続く期待のスペイン産ゲーム展示から、小高和剛氏のスピーチまで",
+      "url": "https://automaton-media.com/articles/reportjp/games-from-spain-20260926-470099/",
       "source": "Automaton",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-25T02:20:13",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/ccfolia-20260925-header.jpg"
+      "published": "2026-09-26T02:22:58",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/09/00_header-1.jpg"
     },
     {
-      "title": "『ARC Raiders』にて“PvEモード”をテスト実装へ、10月13日より1週間限定。対人戦を避けたいプレイヤーが増えたので",
-      "url": "https://automaton-media.com/articles/newsjp/arc-raiders-20260925-469864/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-25T02:04:17",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/arc-raiders-20260925-469864-header.jpg"
-    },
-    {
-      "title": "FPS『AVA』新作『AVA RE:BIRTH』クローズドβテスト実施決定、全世界で2000名限定。“脱出PvPvEモード”も実装される新作を、ひと足早く遊ぶチャンス",
-      "url": "https://automaton-media.com/articles/newsjp/20260925-469858/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-25T01:49:45",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260925-469858-header.jpg"
-    },
-    {
-      "title": "【無料】初代『悪魔城ドラキュラ』アプリ版が期間限定で無料配信！シリーズ40周年を記念した施策が続々発表",
-      "url": "https://news.denfaminicogamer.jp/news/260925p",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-25T01:16:26",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/HTBgPLLaIAA1Bev-1.jpg"
-    },
-    {
-      "title": "【無料】「ダイス」を振って戦う“非常に好評”デッキ構築型ローグライク『Astrea: Six Sided Oracles』がEpic Gamesストアにて無料配布中",
-      "url": "https://news.denfaminicogamer.jp/news/260925h",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-25T00:59:36",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/ss_4cb3fc26607438444260653f3363b4149c148d71.1920x1080.jpg"
-    },
-    {
-      "title": "『風都探偵』『宝石の国』Kindleにて50％還元ポイント還元となる週末限定セールが開催中！『銀と金』『中間管理録トネガワ』『ペルソナ4』『銀河英雄伝説』『ヘルシング』など青年マンガ特集",
-      "url": "https://news.denfaminicogamer.jp/news/260925n",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-25T02:05:50",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/575705e4c3c1ab5c3add31b517e3303a.jpg"
-    },
-    {
-      "title": "『キングダム ハーツ コレクション [I～III]』ワールド紹介映像が公開。『FF』キャラが登場するホロウバスティオンや『ピーター・パン』『白雪姫』の世界を舞台にしたワールドが登場",
-      "url": "https://news.denfaminicogamer.jp/news/2609252v",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-25T02:00:17",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/d8f10b4ec5588128b35d91122e08f543.jpg"
-    },
-    {
-      "title": "アニメ『ちいかわ』変貌したハチワレが“拒絶”される最新話の見逃し配信スタート。ハチワレ役の田中誠人さんが「言わないでしょ そんな事ッ」「言わないよねェッ」を“悲痛”が込み上げる演技で表現",
-      "url": "https://news.denfaminicogamer.jp/news/260925l",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-25T01:47:25",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/HS-Cjc5aQAAZZQA.jpg"
-    },
-    {
-      "title": "「ゼルダの伝説 40周年コンサート」，チケットのオフィシャル最速先行（抽選）の受付が開始に。出演者情報も解禁",
-      "url": "https://www.4gamer.net/games/015/G101542/20260924063/",
+      "title": "「バイオハザード2」になぜ“関西弁の豆腐”がいたのか。恐怖の歴史を振り返りながら，生き残れる豆腐を作る。俺のコラボカフェ：Menu 092",
+      "url": "https://www.4gamer.net/games/448/G044868/20260924037/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-25T01:00:00",
-      "image": "https://www.4gamer.net/games/015/G101542/20260924063/SS/001.jpg"
+      "published": "2026-09-26T02:15:00",
+      "image": "https://www.4gamer.net/games/448/G044868/20260924037/SS/013.jpg"
     },
     {
-      "title": "脳波と体の動きでゲームをプレイ。TGSの「オールアクセシビリティコーナー」をレポート［TGS2026］",
-      "url": "https://www.4gamer.net/games/999/G999902/20260924069/",
+      "title": "これはゲームの形をしたドゥームメタル・アルバム――漆黒のダークファンタジーTRPG「M&#214;RK BORG」，日本語版の販売をスタート",
+      "url": "https://www.4gamer.net/games/964/G096413/20260925060/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-25T01:00:00",
-      "image": "https://www.4gamer.net/games/999/G999902/20260924069/SS/017.jpg"
+      "published": "2026-09-25T15:00:00",
+      "image": "https://www.4gamer.net/games/964/G096413/20260925060/SS/001.jpg"
     },
     {
-      "title": "「ドラゴンクエストモンスターズ4」，新要素「フィールドスカウト」と，巨大モンスターとの共闘バトルを紹介",
-      "url": "https://www.4gamer.net/games/010/G101055/20260918040/",
+      "title": "［プレイレポ］「ACE COMBAT 8: WINGS OF THEVE」の製品版とオンラインモードを先行体験。伝説のエース，そして傭兵となり，2つの空を飛んできた",
+      "url": "https://www.4gamer.net/games/969/G096901/20260924052/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-24T22:00:00",
-      "image": "https://www.4gamer.net/games/010/G101055/20260918040/SS/006.jpg"
+      "published": "2026-09-25T14:00:00",
+      "image": "https://www.4gamer.net/games/969/G096901/20260924052/SS/033.jpg"
     },
     {
-      "title": "「Against the Storm」がボードゲーム化決定。7種族が力を合わせて嵐に立ち向かう協力型重量級ゲームに。クラファンは2027年5月開始",
-      "url": "https://www.4gamer.net/games/045/G104528/20260924070/",
+      "title": "Switch向けダウンロード版「クーロンズゲートSuzaku」は10月29日発売へ。「クーロンズ・ゲート」の世界を再構築したアドベンチャーゲーム",
+      "url": "https://www.4gamer.net/games/911/G091134/20260925059/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-24T15:00:00",
-      "image": "https://www.4gamer.net/games/045/G104528/20260924070/SS/001.jpg"
+      "published": "2026-09-25T13:48:57",
+      "image": "https://www.4gamer.net/games/911/G091134/20260925059/SS/002.jpg"
     },
     {
-      "title": "「ポケポケ」，ポケモンex確定の「ハイクラスパック MEGA」を9月30日から期間限定で追加。過去の“◆◆◆◆カード”を全種収録",
-      "url": "https://www.4gamer.net/games/779/G077901/20260924068/",
+      "title": "神隠しに遭った子供たちが“鬼”から逃げる非対称型ホラー「かくれ鬼: Hide-and-Seek Horror」，TGS出展版をベースにした最新体験版を公開",
+      "url": "https://www.4gamer.net/games/949/G094947/20260925058/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-24T13:55:06",
-      "image": "https://www.4gamer.net/games/779/G077901/20260924068/SS/001.jpg"
+      "published": "2026-09-25T13:12:04",
+      "image": "https://www.4gamer.net/games/949/G094947/20260925058/SS/001.jpg"
     },
     {
-      "title": "Unity Japan、「Unity 産業DXカンファレンス PLUS 2026」講演動画群を公開　デジタルツインやCADデータの活用による業務効率化と製品価値向上の事例 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202609-Unity-dx.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-24T23:00:14",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/Unity_dx-01-thumb-1920x1080-89163.jpg"
-    },
-    {
-      "title": "《レトロ》な3DCG作品を大募集！　「CGWORLD GALLERY」作品応募受付は10/25（日）まで - ニュース",
-      "url": "https://cgworld.jp/flashnews/cgwg-v035.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-24T14:00:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/8d4ef98e96bb394fdf12125396ebabe43b3344af-thumb-1000x563-89171.jpg"
-    },
-    {
-      "title": "【先着80席限定】Pixarのアニメーターを育てるレジェンドアニメーターによる『ANIMATION MASTER CLASS 2026』が11月26日(木)-29日(日)開催! - 特集",
-      "url": "https://cgworld.jp/article/80pixaranimation-master-class-20261126-29.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-24T05:23:33",
-      "image": "https://cgworld.jp/article/assets_c/2026/09/PC_hero%20%281%29-thumb-1920x1080-89105.jpg"
-    },
-    {
-      "title": "9/25（金）東京にて「Game Developers Meeting Vol.66」開催。UEモバイルゲーム開発の最前線 グラフィックス・アセット配信・新しいバージョン管理システム「Lore」 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2609-gdm66.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-24T04:31:24",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/gdm_%20banner_engineer-thumb-1000x563-89056.png"
-    },
-    {
-      "title": "『Clair Obscur: Expedition 33』開発ポストモーテム【前編】キャラクター制作＆テクニカルアートから紐解くUE5活用術 - 特集",
-      "url": "https://cgworld.jp/article/202609-coe33-01.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-24T01:49:00",
-      "image": "https://cgworld.jp/article/assets_c/2026/09/_DSC5937-thumb-1000x667-88718.jpg"
-    },
-    {
-      "title": "名作美少女地域制圧SLG『戦国ランス』Steam版が10月2日に発売決定。日本語対応予定",
-      "url": "https://www.gamebusiness.jp/article/2026/09/24/28129.html",
-      "source": "GameBusiness.jp",
+      "title": "Unity、Meta新型XRデバイス「Meta VR Glasses」の開発サポートを発表。Meta Quest用ゲームも軽微な調整で移行可能",
+      "url": "https://gamemakers.jp/article/2026_09_25_145790/",
+      "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "high",
-      "published": "2026-09-24T08:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/197888.jpg"
+      "published": "2026-09-25T05:58:45",
+      "image": null
     },
     {
-      "title": "『テイルズ オブ エターニア リマスター』先行プレイレポ＆インタビュー！現代向けに変わった『エターニア』と、変わらない魅力とは？リマスター版についてプロデューサーに訊く",
-      "url": "https://www.gamebusiness.jp/article/2026/09/24/28127.html",
-      "source": "GameBusiness.jp",
+      "title": "絵柄も凹凸もないピースを組み立てる。ルール推測型デジタルジグソーパズル『Adap+ation』試遊&インタビュー【TGS2026】",
+      "url": "https://gamemakers.jp/article/2026_09_25_145418/",
+      "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "high",
-      "published": "2026-09-24T03:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/197851.png"
-    },
-    {
-      "title": "Meta VRグラス発表。メガネ部100gで5K OLED画面とアイトラ対応、Questアプリ互換　IMAX認証で3D映画やスポーツコンテンツも大量投入",
-      "url": "https://www.gamebusiness.jp/article/2026/09/24/28126.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-24T02:23:12",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/197823.jpg"
-    },
-    {
-      "title": "ゲームフリークの“フリーク”な部分全開！『雨のちハレ女』ブースを訪れたら、オタクの大好きな「実在性」が溢れすぎていた件。美少女ゲーが大好きという大森氏＆杉中氏タッグへのミニインタビューも!!【TGS2026】",
-      "url": "https://www.gamebusiness.jp/article/2026/09/24/28125.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-24T01:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/197773.jpg"
-    },
-    {
-      "title": "Steamでまたマルウェア含む悪質Mod登場…人気の棒人間風キャラぐちゃぐちゃサンドボックス『People Playground』ワークショップ当面は閉鎖へ",
-      "url": "https://www.gamebusiness.jp/article/2026/09/25/28136.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-24T22:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/197897.jpg"
+      "published": "2026-09-25T03:15:27",
+      "image": null
     },
     {
       "title": "Meta、約100gの眼鏡型XRデバイス「Meta VR Glasses」を発表。2027年春に約1,300ドルで発売予定",
@@ -237,31 +120,175 @@
       "image": null
     },
     {
-      "title": "「東京ゲームショウ2027」、9/16（木）〜20（月・祝）の5日間で開催予定。TGS2026は4日間で25万7,642人が来場",
-      "url": "https://gamemakers.jp/article/2026_09_24_145702/",
+      "title": "携帯動画変換君やVRMのMIRO氏、「POPOPO」の一部技術をオープンソースで公開。今週のゲーム開発関連ツールまとめ",
+      "url": "https://gamemakers.jp/article/2026_09_26_145953/",
       "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-24T09:25:30",
+      "published": "2026-09-26T01:58:39",
       "image": null
     },
     {
-      "title": "Epic Gamesのマーケットプレイス「Fab」、10/6（火）までの期間限定で無料コンテンツを公開。水路のあるアジアの町をイメージした環境アセットなど3製品",
-      "url": "https://gamemakers.jp/article/2026_09_24_145687/",
+      "title": "『カリアのアトリエ』試遊レポート。“素材のつまみ食い”がオープンワールド探索を拡張する、シリーズ最新作のゲームデザインとは【TGS2026】",
+      "url": "https://gamemakers.jp/article/2026_09_25_145853/",
       "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-24T07:55:03",
+      "published": "2026-09-25T10:31:01",
       "image": null
     },
     {
-      "title": "ベルトコンベアや配管など工場のドット絵素材が130種以上。無料アセットパック『Tiny Factory』、Webサイト「Kenney」で公開",
-      "url": "https://gamemakers.jp/article/2026_09_23_145674/",
-      "source": "ゲームメーカーズ",
+      "title": "米・任天堂、スイッチ海賊版を巡る訴訟で勝訴し約7億1千万円の賠償命令―住所が確認され応答しなかった配布サイト運営者に",
+      "url": "https://www.gamebusiness.jp/article/2026/09/26/28144.html",
+      "source": "GameBusiness.jp",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-23T05:35:43",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/09/4bd47e1ed6c2306baea0ec4bf5fa7798.jpg"
+      "published": "2026-09-25T22:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198087.jpg"
+    },
+    {
+      "title": "アニメ「SEKIRO: NODEFEAT」27年1月より全8話でTV放送！新規エピソード&カット追加で再構成",
+      "url": "https://www.gamebusiness.jp/article/2026/09/26/28143.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-25T22:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198096.jpg"
+    },
+    {
+      "title": "『ワイルドアームズ』開発者がおくる新作RPG『アームドファンタジア』開発中止に？2026年3月には試作ROMをパブリッシャーへ提出も、決算資料で開発中止と言及",
+      "url": "https://www.gamebusiness.jp/article/2026/09/26/28142.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-25T21:45:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198101.jpg"
+    },
+    {
+      "title": "OpenAIのエージェントが豪州政府サイトに不正侵入。首相が抗議「法的措置とる」と述べる",
+      "url": "https://www.gamebusiness.jp/article/2026/09/26/28141.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-25T21:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198109.jpg"
+    },
+    {
+      "title": "『ウィッチャー3：ワイルドハント』リマスター版配信は9月29日19時！PC/コンソール版とも同時刻でのリリース",
+      "url": "https://www.gamebusiness.jp/article/2026/09/26/28140.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-25T21:15:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198118.jpg"
+    },
+    {
+      "title": "書籍『身近にある毒植物たち』のKindle版が「60％オフ」の日替わりセールに。“知らなかった”ではすまされない雑草、野菜、草花の毒性や仕組みについて徹底解説",
+      "url": "https://news.denfaminicogamer.jp/news/260926c",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-25T22:09:16",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/91KjYtgDqXL._SL1500_.jpg"
+    },
+    {
+      "title": "新作アニメ『コードギアス 星追いのアスパル』弓矢飛び交う戦場や、巨大ロボらしき存在が戦うティザー映像が公開。2027年に放送へ",
+      "url": "https://news.denfaminicogamer.jp/news/260926b",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-25T21:30:37",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/G7iYOg5bsAA78HY.jpg"
+    },
+    {
+      "title": "人気ゾンビサバイバルゲーム『7 Days to Die』に“バックパック”が実装、ついにプレイヤーがカバンを背負う。最大“96枠”まで持ち物枠を拡張でき、荷物運びが革新的に楽に",
+      "url": "https://news.denfaminicogamer.jp/news/260926a",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-25T15:58:21",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/20260926003516_1-1.jpg"
+    },
+    {
+      "title": "TVアニメ『ラブライブ！』のオーケストラコンサートが2027年1月10日・11日に開催決定！ゲスト歌唱としてμ’sから新田恵海さん、内田彩さん、Pileさん、飯田里穂さん、楠田亜衣奈さんが出演",
+      "url": "https://news.denfaminicogamer.jp/news/2609253k",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-25T15:41:05",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/PhotoshopExtension_Image-2026-09-26T002850.054.png"
+    },
+    {
+      "title": "【313円】とにかく美麗な世界の探索型アクションゲーム『Ori and the Will of the Wisps』がSteamで過去最安のセール中。精霊のオリが家族の子フクロウ・クゥを探しに旅立つメトロイドヴァニア",
+      "url": "https://news.denfaminicogamer.jp/news/2609253i",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-25T14:47:50",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/ss_57ea45c3711319429b19ac62c0a21997b10e1042.1920x1080.jpg"
+    },
+    {
+      "title": "第3回：事前準備で決まる、モーションキャプチャの成否 - 連載",
+      "url": "https://cgworld.jp/regular/motion-capture03.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-25T11:00:01",
+      "image": "https://cgworld.jp/regular/assets_c/2026/09/motioncapture_3-thumb-1000x563-88905.png"
+    },
+    {
+      "title": "Blenderユーザー向けイベント「Blender Fes 2026 AW」9/26(土)・27(日)開催、前売りチケット好評発売中！ - 特集",
+      "url": "https://cgworld.jp/article/blenderblender-fes-2026-aw.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-25T04:23:15",
+      "image": "https://cgworld.jp/article/assets_c/2026/09/allsession_B%20v-thumb-1920x1080-88622.jpg"
+    },
+    {
+      "title": "『Clair Obscur: Expedition 33』開発ポストモーテム【後編】シーケンサーとUE標準機能を使い倒す、Sandfall流のゲーム開発 - 特集",
+      "url": "https://cgworld.jp/article/202609-coe33-02.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-25T02:28:00",
+      "image": "https://cgworld.jp/article/assets_c/2026/09/_DSC5944-thumb-1000x667-88715.jpg"
+    },
+    {
+      "title": "CG制作現場で選ばれるPCの傾向を分析し、業界別・ツール別のオススメPCを解説。 CGプロダクション制作環境一斉調査2026 - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/2609-mouse-daiv-cg2026.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-25T02:20:00",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/09/0613e3fd0f7b2c70902ca092449d18a83dc9b5c3-thumb-1000x563-88800.jpg"
+    },
+    {
+      "title": "Unity Japan、「Unity 産業DXカンファレンス PLUS 2026」講演動画群を公開　デジタルツインやCADデータの活用による業務効率化と製品価値向上の事例 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202609-Unity-dx.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-24T23:00:14",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/Unity_dx-01-thumb-1920x1080-89163.jpg"
+    },
+    {
+      "title": "『Control Resonant』レビュー",
+      "url": "https://jp.ign.com/control-resonant/84309/control-resonant",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-25T04:36:37",
+      "image": "https://sm.ign.com/ign_jp/review/c/control-re/control-resonant-review_nvhz.jpg"
+    },
+    {
+      "title": "『空の軌跡 the 2nd』は海外からも大絶賛！IGN USレビュー",
+      "url": "https://jp.ign.com/sora-no-kiseki-the-2nd/84304/the-2ndign-us",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-09-25T04:36:28",
+      "image": "https://sm.ign.com/ign_jp/review/t/trails-in-/trails-in-the-sky-2nd-chapter-review_gcqs.jpg"
     },
     {
       "title": "『SILENT HILL: Townfall』はシリーズの原点回帰でありながら、新境地を切り拓くことに成功している！IGN USレビュー",
@@ -273,6 +300,15 @@
       "image": "https://sm.ign.com/ign_jp/screenshot/default/silent-hill-townfall-might-be-exactly-what-the-series-needs_278922_1s5m.jpg"
     },
     {
+      "title": "ヤスミンを含む「スト6」のキャラデザインに関する特別講演も予定 Tokyo Anim Unite 2026が9月26日・27日に開催",
+      "url": "https://jp.ign.com/entertainment/84313/6-tokyo-anim-unite-202692627",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-09-25T06:25:36",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/tau_7ge2.jpg"
+    },
+    {
       "title": "映画『バイオハザード』",
       "url": "https://jp.ign.com/resident-evil-2026/84291/",
       "source": "IGN Japan",
@@ -280,33 +316,6 @@
       "importance": "normal",
       "published": "2026-09-24T06:20:42",
       "image": "https://sm.ign.com/ign_jp/gallery/r/resident-e/resident-evil-2026-images_pdxv.jpg"
-    },
-    {
-      "title": "Silent Hill: Townfall Review Screens",
-      "url": "https://jp.ign.com/silent-hill-townfall/84287/silent-hill-townfall-review-screens",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-24T04:24:00",
-      "image": "https://sm.ign.com/ign_jp/gallery/s/silent-hil/silent-hill-townfall-review-screens_fq2k.jpg"
-    },
-    {
-      "title": "Fire Emblem: Fortune's Weave Gameplay Screenshots",
-      "url": "https://jp.ign.com/fire-emblem-fortunes-weave/84295/fire-emblem-fortunes-weave-gameplay-screenshots",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-24T03:53:11",
-      "image": "https://sm.ign.com/ign_jp/gallery/f/fire-emble/fire-emblem-fortunes-weave-gameplay-screenshots_zg84.jpg"
-    },
-    {
-      "title": "Meta VR Glasses are coming. Build with Unity from day one.",
-      "url": "https://unity.com/blog/build-for-meta-vr-glasses-with-unity",
-      "source": "Unity Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-24T00:00:00",
-      "image": null
     }
   ]
 }
