@@ -1,186 +1,213 @@
 {
-  "generated_at": "2026-10-01T02:58:51.125310",
+  "generated_at": "2026-10-02T03:01:20.487784",
   "poem": "",
   "articles": [
     {
-      "title": "［インタビュー］「真・三國無双２ with 猛将伝 Remastered」本日発売。“原作”のプレイ感覚を再現するために施された工夫とは",
-      "url": "https://www.4gamer.net/games/978/G097828/20260925024/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-30T23:00:00",
-      "image": "https://www.4gamer.net/games/978/G097828/20260925024/SS/001.jpg"
-    },
-    {
-      "title": "［インタビュー］「面白いインディーゲームを作っていれば，我々が必ず見つけ出す」。NeoWiz出身の3人が設立した，韓国初のインディーゲーム専門パブリッシャ「Red Brick House」の思想",
-      "url": "https://www.4gamer.net/games/000/G100047/20260926004/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-30T22:30:00",
-      "image": "https://www.4gamer.net/games/000/G100047/20260926004/SS/003.jpg"
-    },
-    {
-      "title": "「ダイイング・ライト」シリーズを牽引したタイモン・スメクタワ氏がBloober Team傘下の新レーベルBroken Mirror Gamesへ移籍",
-      "url": "https://www.4gamer.net/games/217/G021741/20261001008/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-01T02:49:40",
-      "image": "https://www.4gamer.net/games/217/G021741/20261001008/SS/001.jpg"
-    },
-    {
-      "title": "「紅の砂漠」大型DLC「未知なる旅路」，発売日を10月30日に延期。完成度向上と安定したプレイ体験のため",
-      "url": "https://www.4gamer.net/games/484/G048495/20261001005/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-01T02:11:13",
-      "image": "https://www.4gamer.net/games/484/G048495/20261001005/SS/001.jpg"
-    },
-    {
-      "title": "男色ディーノのゲイムヒヒョー ゼロ：第909回「言い訳にせず，かといって無視もせず」",
-      "url": "https://www.4gamer.net/games/040/G004083/20260929022/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-01T02:00:00",
-      "image": "https://www.4gamer.net/games/040/G004083/20260929022/SS/008.jpg"
-    },
-    {
-      "title": "Googleの“変態キーボード”今年も発表、その名も「Gboard くるくるバージョン」。“キーが来る”発想の転換、ハイスピードモードも搭載",
-      "url": "https://automaton-media.com/articles/newsjp/20261001-471080/",
+      "title": "次世代モンスター収集RPG『Roco Kingdom』日本版発表会に行ってきた。追加声優陣がどどんと公開、KENNさん＆相羽あいなさんの生試遊も",
+      "url": "https://automaton-media.com/articles/reportjp/rocokingdam-20261002-471255/",
       "source": "Automaton",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-01T02:41:03",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261001-471080-header.jpg"
+      "published": "2026-10-02T03:00:10",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/rocokingdam-20261002-471255-header.jpg"
     },
     {
-      "title": "『ソニック』映画化・アニメ化はゲーマーにとって得なのか？どうやら得になるらしい。飯塚Pが語る、売上とリソースの“循環の変化”",
-      "url": "https://automaton-media.com/articles/interviewsjp/sonic-20261001-471037/",
+      "title": "最大4人協力『零』風カメラで撃退ホラー『Soul Hunter』発表。気付けない異常を仲間に助けてもらいつつ、「化け猫」や「座敷童子」など日本怪異を撃退",
+      "url": "https://automaton-media.com/articles/newsjp/20261002-471317/",
       "source": "Automaton",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-01T02:08:57",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/image.jpeg"
+      "published": "2026-10-02T00:21:09",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261002-471317-header.jpg"
     },
     {
-      "title": "こだわり村作りゲーム『CottageCore』発表、来年4月15日リリースへ。12年間3Dエンジンを作ってきた開発者、手がけたエンジンを使い“ゲームを作る側”に",
-      "url": "https://automaton-media.com/articles/newsjp/cottagecore-20261001-471062/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-01T01:32:20",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/cottagecore-20261001-471062-header.jpg"
-    },
-    {
-      "title": "“ひきこもりリスク”とゲーム内での“交流の好み”の関係を調査した「ゲーム研究者」にインタビュー。「一人になりたい」と想う背景は？キャラとの“思い出”にはどんな意味がある？色々訊いてみた",
-      "url": "https://automaton-media.com/articles/interviewsjp/20260929-470452/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-30T11:11:52",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/09/20260929-470452-header.jpg"
-    },
-    {
-      "title": "リアル戦術サッカーシム『Football Manager 27』、11月11日発売へ。UI大改修に“試合を見る楽しさ”もぐっと進化、シリーズ挽回を図る新作",
-      "url": "https://automaton-media.com/articles/newsjp/20261001-471069/",
+      "title": "「SCP財団」の映画化、新たに別のスタジオでも始動。ただし“CC BY-SAライセンス遵守”の方針、覚悟の上での映画化",
+      "url": "https://automaton-media.com/articles/newsjp/20261002-471366/",
       "source": "Automaton",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-01T01:51:02",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261001-471069-header.jpg"
+      "published": "2026-10-02T02:47:48",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261002-471366-header.jpg"
     },
     {
-      "title": "『ぽこ あ ポケモン』本編と有料追加コンテンツをまとめたパッケージが10月29日に発売決定！購入特典は「きのみ家具セット」",
-      "url": "https://news.denfaminicogamer.jp/news/2609303r",
-      "source": "電ファミニコゲーマー",
+      "title": "新たな中毒系ローグライク『スプラット・パチンコ』11月12日配信へ。「目玉」が跳ねて増えて大爆発、“銀河級コンボ”で敵に大ダメージ",
+      "url": "https://automaton-media.com/articles/newsjp/splatchinko-20261002-471353/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-02T02:24:27",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/splatchinko-20261002-471353-header.jpg"
+    },
+    {
+      "title": "『ポピープレイタイム』の協力探索ホラー『Escape from Playtime』オープンベータテスト開幕。恐怖の“失敗作”ひしめく工場で、よわよわ人形のガラクタ集め",
+      "url": "https://automaton-media.com/articles/newsjp/20261002-471346/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-02T02:01:27",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261002-471346-header.jpg"
+    },
+    {
+      "title": "ゴッドゲーム「Masters of Albion」，大規模アップデート「New Beginnings」を配信開始。レンダリング刷新でフレームレート最大2倍，システムも大幅改修",
+      "url": "https://www.4gamer.net/games/830/G083033/20261002007/",
+      "source": "4Gamer.net",
       "category": "other",
       "importance": "high",
-      "published": "2026-09-30T13:47:34",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/HTd3haeWkAEDTOs.jpeg"
+      "published": "2026-10-02T02:47:55",
+      "image": "https://www.4gamer.net/games/830/G083033/20261002007/SS/002.jpg"
     },
     {
-      "title": "須田剛一氏が率いる「グラスホッパー・マニファクチュア」、NetEase Games傘下からの独立を発表。『ロミオ・イズ・ア・デッドマン』や『ノーモア★ヒーローズ』『シルバー事件』『killer7』などで知られる開発会社",
-      "url": "https://news.denfaminicogamer.jp/news/2609303p",
-      "source": "電ファミニコゲーマー",
+      "title": "FPSとRPGを融合させた名作のリマスター版「System Shock 2: 25th Anniversary Remaster」と，生放送中に起きた崩壊事故とその後の殺人事件を描く「ベリード・スターズ」がEpic Games Storeで無料配布中",
+      "url": "https://www.4gamer.net/games/605/G060523/20261002003/",
+      "source": "4Gamer.net",
       "category": "other",
       "importance": "high",
-      "published": "2026-09-30T13:03:41",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/img8-3.jpg"
+      "published": "2026-10-02T01:42:49",
+      "image": "https://www.4gamer.net/games/605/G060523/20261002003/SS/002.jpg"
     },
     {
-      "title": "『ほの暮しの庭』「TGS2026」先行販売グッズが通販を開始。「トバリ」と「リン」のように村民がペアになったアクリルジオラマが欲しすぎる",
-      "url": "https://news.denfaminicogamer.jp/news/261001m",
+      "title": "［インタビュー］「世界のどこにもまだ存在しないゲームを作っている」――NC副社長James Bae氏に聞く「シンダーシティ」プレアルファテストの手応えと，12月に迫るアルファテスト",
+      "url": "https://www.4gamer.net/games/668/G066861/20260925003/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-01T22:45:00",
+      "image": "https://www.4gamer.net/games/668/G066861/20260925003/SS/013.png"
+    },
+    {
+      "title": "こたえのない問いから，ほかの人の考えに思いを巡らせる。「ドーナツの穴」宮村あつき氏インタビュー",
+      "url": "https://www.4gamer.net/games/916/G091604/20260921038/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-01T22:15:00",
+      "image": "https://www.4gamer.net/games/916/G091604/20260921038/SS/003.jpg"
+    },
+    {
+      "title": "「DEAD OR ALIVE 6 Last Round」，無料アップデート「ハッピーハロウィン」を配信。10月のDLCロードマップも公開",
+      "url": "https://www.4gamer.net/games/983/G098342/20261001053/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-01T11:50:27",
+      "image": "https://www.4gamer.net/games/983/G098342/20261001053/SS/002.jpg"
+    },
+    {
+      "title": "通常PS5向けAI超解像「QSSR」発表！海外技術メディアも驚異的な可能性と高く評価―『Marvel's Wolverine』『Ghost of Yōtei』が本日10月2日パッチ対応",
+      "url": "https://www.gamebusiness.jp/article/2026/10/02/28200.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-02T02:22:31",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198645.png"
+    },
+    {
+      "title": "須田剛一氏率いるグラスホッパー・マニファクチュアがNetEase傘下からの独立を発表―両者の関係は今後も良好、機会があれば相互協力も",
+      "url": "https://www.gamebusiness.jp/article/2026/10/02/28196.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-01T21:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198619.jpg"
+    },
+    {
+      "title": "Google、新フロンティアモデルGemini 4 Argon発表　出力100万トークンで長期の自律推論に強み、法務や業務自動化でOpus 5.5やAstraに大差",
+      "url": "https://www.gamebusiness.jp/article/2026/10/01/28193.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-01T05:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198604.jpg"
+    },
+    {
+      "title": "ゲーム業界向けビジネスイベント「GAME FUTURE SUMMIT 2027」開催決定―4回目は「ゲームビジネスの未来をつくるノウハウと情熱が集まる1日」",
+      "url": "https://www.gamebusiness.jp/article/2026/10/02/28199.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-02T01:01:14",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198624.jpg"
+    },
+    {
+      "title": "カカクコムTOB、Kamgras１が買付価格を3,681円に再引き上げ―対抗提案者との攻防続く",
+      "url": "https://www.gamebusiness.jp/article/2026/10/02/28198.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-01T21:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198608.png"
+    },
+    {
+      "title": "『ファイナルファンタジー』シリーズ40周年を記念したオーケストラコンサートが開催決定！東京・大阪をはじめ世界ツアーにて開催",
+      "url": "https://news.denfaminicogamer.jp/news/261002o",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-01T02:30:03",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HTgeZkcbEAAcGd8.png"
+      "published": "2026-10-02T02:03:18",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/DW_Eternal_OGP.jpg"
     },
     {
-      "title": "『干物妹！うまるちゃん』8年ぶりの新作読切が公開。相変わらずぐーたらライフを送り続けるうまるちゃんの姿がまた見られる",
-      "url": "https://news.denfaminicogamer.jp/news/261001l",
+      "title": "【399円】『モンスターハンターライズ』がSteamで90%オフで購入できるセールが開催中！超大型DLC『サンブレイク』も85%とお得に",
+      "url": "https://news.denfaminicogamer.jp/news/261002i",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-01T02:24:55",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/keyvisual_umaru100.png"
+      "published": "2026-10-02T01:44:27",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_f8249da14987e3c2d10fd4024736f28774c713da.1920x1080.jpg"
     },
     {
-      "title": "『真・三國無双2 with 猛将伝 Remastered』本日10月1日に発売！原作の良さはそのままに、遊びやすくパワーアップしたリマスター作品",
-      "url": "https://news.denfaminicogamer.jp/news/261001k",
+      "title": "【無料】『仮面ライダーエグゼイド』全45話がYouTubeで配信決定！2026年10月2日は放送10周年、嘘だ…僕を騙そうとしている……",
+      "url": "https://news.denfaminicogamer.jp/news/261002h",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-01T01:56:20",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_c39432fc134ec6dfdb25a4880d01ce582fde8e4b.1920x1080.jpg"
+      "published": "2026-10-02T01:28:03",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HTlJiuobsAE49Og.jpg"
     },
     {
-      "title": "ゲームエンジン「Godot」がバージョン4.8の開発でフィーチャーフリーズに突入―シンボルリネームなどを追加した「dev 7」公開",
-      "url": "https://www.gamebusiness.jp/article/2026/10/01/28190.html",
-      "source": "GameBusiness.jp",
+      "title": "【450円】『デトロイト ビカム ヒューマン』がSteamにて90％オフとなるセールが開催中！4500円→「450円」で購入できる。アンドロイド技術が発達した近未来、何が人たらしめるかを問う名作ゲーム",
+      "url": "https://news.denfaminicogamer.jp/news/261002k",
+      "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-01T02:10:42",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198574.jpg"
+      "published": "2026-10-02T01:05:30",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_4ba58d269bce7db923575cc033c888cb83cc1cba.1920x1080.jpg"
     },
     {
-      "title": "OpenAIのAIエージェント「dots」提供開始―専用クラウドPCで4000超アプリと連携、GPT-6 Astraで24時間動作",
-      "url": "https://www.gamebusiness.jp/article/2026/10/01/28188.html",
-      "source": "GameBusiness.jp",
+      "title": "『GTA6』北米レーティングは“17歳以上を対象”とした年齢区分「M」に。複数地域のレーティング情報が公式サイトにて判明",
+      "url": "https://news.denfaminicogamer.jp/news/261002f",
+      "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-30T22:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198456.png"
+      "published": "2026-10-02T00:02:43",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/poster_full.0az_iud2g3y4j-1.webp"
     },
     {
-      "title": "美少女ネコRPG『ネコぱら セカイコネクト』Steam版は10月初旬以降に延期―プラットフォーム審査が完了せず",
-      "url": "https://www.gamebusiness.jp/article/2026/10/01/28186.html",
-      "source": "GameBusiness.jp",
+      "title": "学生が即席チームで8時間のものづくりに挑戦「静岡ハッカソン2026」を10/24（土）に開催 - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2610-shizuoka-hackathon.html",
+      "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-30T22:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198486.png"
+      "published": "2026-10-02T00:16:42",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/10/hero-logo%20%281%29-thumb-1000x563-89438.png"
     },
     {
-      "title": "XBOX、ディスク所有でデジタル版ライセンス入手機能の対象が全ユーザーに拡大！しかし一部ソフトは機能に対応してないという声も",
-      "url": "https://www.gamebusiness.jp/article/2026/10/01/28184.html",
-      "source": "GameBusiness.jp",
+      "title": "Sebastian Aaltonen氏、オープンソースの低レベルVulkanラッパー「NoGraphicsAPI」公開　GPUポインタで描画のボトルネック解消 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202610-NoGraphicsAPI.html",
+      "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-30T21:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198523.jpg"
+      "published": "2026-10-01T23:53:27",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/10/NoGraphicsAPI-01-thumb-1920x1080-89439.jpg"
     },
     {
-      "title": "新種の“判断だけAI”が無料で使える「Laya」がオープンソースで登場。Jevの約7.8倍高速（生成AIクローズアップ）",
-      "url": "https://www.gamebusiness.jp/article/2026/10/01/28183.html",
-      "source": "GameBusiness.jp",
+      "title": "LiberNovo、対象製品が最大38％OFFとなる「秋の先行セール」を開始 - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2609-libernovo38off.html",
+      "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-30T21:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198531.jpg"
+      "published": "2026-10-01T06:35:54",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/168276-45-99dfdc1c1de384a7c9d709e70bc3716c-2000x1500-thumb-1000x563-89383.jpg"
     },
     {
       "title": "Maxon、ZBrushでの解剖学に基づく人体スカルプト動画を公開　非対称のベース造形からZSphereの活用まで - ニュース",
@@ -192,76 +219,49 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/10/ZBrush_Anatomy-01-thumb-1920x1080-89426.jpg"
     },
     {
-      "title": "【サイコム】「変える理由がありません」。100台規模のマシンを管理するSEたちが語る、サイコムを選び続ける理由｜Boost with Sycom #07 グリオグルーヴ - スペシャルコンテンツ",
-      "url": "https://cgworld.jp/special-feature/202609-sycom-griotgroove-07.html",
+      "title": "生成AI時代に、人間ならではの創造性を問い直す。\"Creative Sobriety\"という考え方～CEDEC 2026（5） - 特集",
+      "url": "https://cgworld.jp/article/202610-cedec-ai.html",
       "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-30T11:06:57",
-      "image": "https://cgworld.jp/special-feature/assets_c/2026/09/top_sycom_boost_07-thumb-1920x1080-89422.jpg"
+      "published": "2026-09-30T22:24:03",
+      "image": "https://cgworld.jp/article/assets_c/2026/09/b946c746b235da1f7b3915712d99ffff5dafd9ee-thumb-1000x564-88660.jpg"
     },
     {
-      "title": "Create With Style！CGWORLD Entry vol.31 Maxon特別協力号、9/30（水）より順次配布開始：CGを学ぶ、仕事にしたい人のためのフリーペーパー - ニュース",
-      "url": "https://cgworld.jp/flashnews/2609-entry31.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-30T10:57:02",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/cgw_entry_vol31-thumb-1920x1080-89418.png"
-    },
-    {
-      "title": "【新講座】「なぜ不自然に見えるのか」を関節と筋肉から解き明かすオンライン講座『動かすための美術解剖学』が10/30(金)に開催決定 - ニュース",
-      "url": "https://cgworld.jp/flashnews/1030.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-30T07:54:34",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/330_seminar_kato_full%20%281%29-thumb-1920x1080-89413.jpg"
-    },
-    {
-      "title": "『モンスターハンターワイルズ』グローバル展開で膨大なカットシーンの英語リップシンクを実現。自動音声アニメーションシステム「SGX」活用と効率化 - スペシャルコンテンツ",
-      "url": "https://cgworld.jp/special-feature/2609-sgx.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-09-30T07:33:00",
-      "image": "https://cgworld.jp/special-feature/assets_c/2026/09/07d63e90ee0068022f80312a60a2b948de1ab22f-thumb-1000x563-89289.jpg"
-    },
-    {
-      "title": "「いいアニメが作りたい」に貫かれた出会いと学びの場 Tokyo Anim Unite 2026イベントレポート",
-      "url": "https://jp.ign.com/entertainment/84321/tokyo-anim-unite-2026",
-      "source": "IGN Japan",
+      "title": "ゲーミングギアブランド「WALLHACK」にインタビュー！初挑戦のキーボード&マウスに込めた思い、日本市場への注目度を聞いた【TGS2026】",
+      "url": "https://gamemakers.jp/article/2026_10_02_146221/",
+      "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "high",
-      "published": "2026-09-30T04:40:16",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/image1_89en.jpg"
+      "published": "2026-10-01T23:58:40",
+      "image": null
     },
     {
-      "title": "『Minecraft Dungeons II』レビュー",
-      "url": "https://jp.ign.com/minecraft-dungeons-ii/84322/minecraft-dungeons-ii",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-09-29T04:06:25",
-      "image": "https://sm.ign.com/ign_jp/review/m/minecraft-/minecraft-dungeons-2-review_y631.jpg"
-    },
-    {
-      "title": "これほど面白いアクションは「SEKIRO」以来かも？ 『鬼武者 Way of the Sword』プレイ感想：今週遊んだゲーム 09/30/2026",
-      "url": "https://jp.ign.com/shaberisugi-gamer/84329/sekiro-way-of-the-sword-09302026",
-      "source": "IGN Japan",
+      "title": "映像資料をビューワーで一括再生＆分析できる。アニメーション・エフェクト動画などの管理ツール「MoveSpirit」正式リリース",
+      "url": "https://gamemakers.jp/article/2026_10_01_146332/",
+      "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-30T11:03:34",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/podcast-logo-2025_3dxk.jpg"
+      "published": "2026-10-01T09:00:05",
+      "image": null
     },
     {
-      "title": "RPGにレベルって必要？「FF7リベレーション」の救済措置について語り合った：#503 しゃべりすぎGAMER",
-      "url": "https://jp.ign.com/shaberisugi-gamer/84325/rpgff7503-gamer",
-      "source": "IGN Japan",
+      "title": "『デススト』オープンワールド設計思想や、『パラノマサイト』『ダンガンロンパ』プロデュース論など。「CEDEC+KYUSHU 2026」の講演情報が一部公開",
+      "url": "https://gamemakers.jp/article/2026_10_01_146349/",
+      "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-29T11:30:33",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/podcast-logo-2025_3dxk.jpg"
+      "published": "2026-10-01T06:35:14",
+      "image": null
+    },
+    {
+      "title": "『ほの暮しの庭』や『夜廻』シリーズの制作者も登壇。ゲーム業界カンファレンス「どっかんナゴヤ 2026」、今週末に開催",
+      "url": "https://gamemakers.jp/article/2026_10_01_146305/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-01T03:15:57",
+      "image": null
     },
     {
       "title": "Steam、「割引＆イベント」セクションの仕様を刷新へ。手動設定をやめ、ユーザーの興味関心に合ったおすすめ表示へ移行",
@@ -273,31 +273,49 @@
       "image": null
     },
     {
-      "title": "10/31（土）開催のインディーゲーム展示会「東京ゲームダンジョン14」、入場チケット発売。340団体の出展情報も公開",
-      "url": "https://gamemakers.jp/article/2026_09_30_146240/",
-      "source": "ゲームメーカーズ",
+      "title": "『GTA6』新スクリーンショットから判明したすべてのこと",
+      "url": "https://jp.ign.com/grand-theft-auto-vi/84336/gta6",
+      "source": "IGN Japan",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-09-30T03:38:25",
-      "image": null
+      "importance": "high",
+      "published": "2026-10-01T04:08:03",
+      "image": "https://sm.ign.com/ign_jp/feature/g/gta-6-ever/gta-6-everything-the-new-screenshots-tell-us_jzh7.jpg"
     },
     {
-      "title": "ブラウザでエフェクト用メッシュを作れる無料ツール「MeshCreate」リリース。Unity向けに出力も可能",
-      "url": "https://gamemakers.jp/article/2026_09_29_146163/",
-      "source": "ゲームメーカーズ",
+      "title": "「いいアニメが作りたい」に貫かれた出会いと学びの場 Tokyo Anim Unite 2026イベントレポート",
+      "url": "https://jp.ign.com/entertainment/84321/tokyo-anim-unite-2026",
+      "source": "IGN Japan",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-09-29T07:12:11",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/09/0ed011d406c5e80bca9f45483da04e8a.jpg"
+      "importance": "high",
+      "published": "2026-09-30T04:40:16",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/image1_89en.jpg"
     },
     {
-      "title": "Khronos Group、OpenCLとVulkanの連携も含めたSDK改修プロジェクトを始動。参加者を10/7（太平洋標準時）まで募集",
-      "url": "https://gamemakers.jp/article/2026_09_29_146159/",
-      "source": "ゲームメーカーズ",
+      "title": "GTA 6 Side Activities",
+      "url": "https://jp.ign.com/grand-theft-auto-vi/84338/gta-6-side-activities",
+      "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-09-29T05:54:20",
-      "image": null
+      "published": "2026-10-01T04:08:03",
+      "image": "https://sm.ign.com/ign_jp/gallery/g/gta-6-side/gta-6-side-activities_yqz2.jpg"
+    },
+    {
+      "title": "Even More GTA 6 Screenshots from Rockstar Games",
+      "url": "https://jp.ign.com/grand-theft-auto-vi/84337/even-more-gta-6-screenshots-from-rockstar-games",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-01T04:08:03",
+      "image": "https://sm.ign.com/ign_jp/gallery/e/even-more-/even-more-gta-6-screenshots-from-rockstar-games_ssrd.jpg"
+    },
+    {
+      "title": "「バイオハザード」のリメイクが現行作に追いついたらどうなる？ カプコンはすでに今後を計画中か",
+      "url": "https://jp.ign.com/resident-evil-9/84334/",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-01T03:03:52",
+      "image": "https://sm.ign.com/ign_jp/photo/default/re-legacy-ooo-1772842884321_99y4.jpg"
     }
   ]
 }
