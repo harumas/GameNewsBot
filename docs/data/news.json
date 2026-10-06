@@ -1,141 +1,267 @@
 {
-  "generated_at": "2026-10-05T02:56:40.395616",
+  "generated_at": "2026-10-06T03:44:05.703707",
   "poem": "",
   "articles": [
     {
-      "title": "PS Plus 2026年10月のフリープレイ，「F1 25」「Hello Neighbor」「デジボク地球防衛軍2」の3タイトルが登場",
-      "url": "https://www.4gamer.net/games/129/G012999/20261005009/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-05T02:42:16",
-      "image": "https://www.4gamer.net/games/129/G012999/20261005009/SS/001.jpg"
-    },
-    {
-      "title": "「Tidy Till Dawn」，発売日を10月中に変更。店内で流れるオリジナルのラジオ番組が追加に",
-      "url": "https://www.4gamer.net/games/046/G104616/20261005008/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-05T02:36:54",
-      "image": "https://www.4gamer.net/games/046/G104616/20261005008/SS/002.jpg"
-    },
-    {
-      "title": "ホルスタイン600kg，マッハ0.82。“力学的に正しく”牛を飛ばすフリーゲーム「時速1000kmの牛」［OIGS 2026］",
-      "url": "https://www.4gamer.net/games/047/G104760/20261004009/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-05T02:30:00",
-      "image": "https://www.4gamer.net/games/047/G104760/20261004009/SS/001.jpg"
-    },
-    {
-      "title": "彩京のシューティング12作品を収録。「彩京Memories」，Switch2/PS5向けに2027年2月18日発売",
-      "url": "https://www.4gamer.net/games/047/G104744/20261002041/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-05T01:00:00",
-      "image": "https://www.4gamer.net/games/047/G104744/20261002041/SS/001.jpg"
-    },
-    {
-      "title": "連続空中ダッシュで駆け抜ける爽快感。2Dアクション「Near The Sun」イベント用デモ版の試遊レポートを掲載［OIGS2026］",
-      "url": "https://www.4gamer.net/games/810/G081026/20261005002/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-05T00:30:00",
-      "image": "https://www.4gamer.net/games/810/G081026/20261005002/SS/004.jpg"
-    },
-    {
-      "title": "「彩京」STGを12作収録した『彩京 Memories』正式発表、来年2月18日発売へ。『ストライカーズ1945』『ガンバード』などのアーケード名作、資料付きで現代ハードに",
-      "url": "https://automaton-media.com/articles/newsjp/20261005-471728/",
+      "title": "『クライムライト』開発者インタビュー。美少女ローグライトアクションとして「ストーリーを深く描く」、ストーリーを軸に他作品と差別化へ",
+      "url": "https://automaton-media.com/articles/interviewsjp/crymelight-20261006-471934/",
       "source": "Automaton",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-05T01:00:01",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261005-471728-header.jpg"
+      "published": "2026-10-06T03:17:35",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/00_header-1.jpg"
     },
     {
-      "title": "協力マルチ対応・巨大戦車建築ローグライク『Tower Tanks』発表。パーツと装備を積み上げ構築、「頭でっかち」戦車の中を走り回って敵を撃破",
-      "url": "https://automaton-media.com/articles/newsjp/20261004-471629/",
+      "title": "大ヒットシューター『ARC Raiders』と『THE FINALS』が映画・ドラマ化へ。「バックルームズ」などに携わった製作会社と協力、“だいぶ大変な未来”がダブル映像化",
+      "url": "https://automaton-media.com/articles/newsjp/arc-raiders-the-finals-20261006-471960/",
       "source": "Automaton",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-04T00:00:49",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261004-471629-header.jpeg"
+      "published": "2026-10-06T02:01:30",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/arc-finals-header.jpg"
     },
     {
-      "title": "最大4人協力ホラー『The Outlast Trials』、Steam同接「約10万人」で過去最高ぶっちぎり更新。発売後3年以上経って大ブームに",
-      "url": "https://automaton-media.com/articles/newsjp/20261005-471765/",
+      "title": "『Nintendo Switch 2（日本語・国内専用） 選べるソフト セット』発表。Switch 2本体と人気タイトルが“最大5000円”ぐらいお得に買える",
+      "url": "https://automaton-media.com/articles/newsjp/20261006-471955/",
       "source": "Automaton",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-10-05T02:34:23",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261005-471765-header.jpg"
+      "importance": "high",
+      "published": "2026-10-06T01:43:42",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261006-471955-header.jpg"
     },
     {
-      "title": "“戦わない“サバイバルクラフト『アンダー・キャノピーズ』10月23日に早期アクセス配信へ。「自然とともに生きる」ことだけに没頭できる、削りの美学",
-      "url": "https://automaton-media.com/articles/newsjp/20261005-471757/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-05T02:23:39",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261005-471757-header.jpg"
-    },
-    {
-      "title": "インディーゲーム集結「OSAKA INDIE GAMES SUMMIT 2026」、今年は「来場者1.6倍」に増えたらしい。インディーゲームイベント少なめの大阪で存在感放つ",
-      "url": "https://automaton-media.com/articles/newsjp/oigs2026-20261005-471751/",
+      "title": "突如延期となった注目マルチ対応ラーメン屋シム『Japanese Ramen Simulator』10月9日早期アクセス配信へ。“Steam審査完了”でついに開店",
+      "url": "https://automaton-media.com/articles/newsjp/20261006-471988/",
       "source": "Automaton",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-05T01:48:46",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/main.png"
+      "published": "2026-10-06T03:35:58",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261006-471988-header.jpg"
     },
     {
-      "title": "『勝利の女神：NIKKE』4周年記念生放送が10月24日に配信決定。最新情報の発表や4周年ならではのスペシャルステージなどが実施",
-      "url": "https://news.denfaminicogamer.jp/news/261005k",
+      "title": "「レベルなし」2.5D壮大RPG『火の言伝』無料体験版配信開始。2人の主人公と2つのパーティ、それぞれ歩む“世界の中心”を目指す旅",
+      "url": "https://automaton-media.com/articles/newsjp/kotodute-20261006-471973/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-06T02:42:03",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/kotodute-20261006-471973-header.jpg"
+    },
+    {
+      "title": "［インタビュー］なぜ続編を開発しないのか。Jonathan Blow氏に聞く，10年に1本というゲームの作り方",
+      "url": "https://www.4gamer.net/games/968/G096803/20260930047/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-06T02:45:00",
+      "image": "https://www.4gamer.net/games/968/G096803/20260930047/SS/001.jpg"
+    },
+    {
+      "title": "「Vampire Crawlers」，iOS/Android版を10月12日17：00に配信。アップデート「Death Parade」の新カードとアルカナも紹介",
+      "url": "https://www.4gamer.net/games/963/G096305/20261006003/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-06T02:20:27",
+      "image": "https://www.4gamer.net/games/963/G096305/20261006003/SS/001.jpg"
+    },
+    {
+      "title": "［インタビュー］「ぼくと釣り日記」は，“釣れなくても楽しい”を目指して作られた。面白さのカギは現実の釣りさながらの“予測”と“推理”",
+      "url": "https://www.4gamer.net/games/022/G102242/20260928022/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-06T01:00:00",
+      "image": "https://www.4gamer.net/games/022/G102242/20260928022/SS/001.jpg"
+    },
+    {
+      "title": "「マクロス7」「WHITE ALBUM2」などで知られるアニメーター・桂憲一郎氏が2026年9月30日に逝去。アクアプラスも追悼コメントを発表",
+      "url": "https://www.4gamer.net/games/999/G999905/20261005038/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-05T10:10:56",
+      "image": "https://www.4gamer.net/games/999/G999905/20261005038/SS/002.jpg"
+    },
+    {
+      "title": "お題どおりにボクセルで立体作品を描いていくお絵かきパーティーゲーム「スーパー画伯」，体験版をSteamで配信開始",
+      "url": "https://www.4gamer.net/games/047/G104778/20261006002/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-06T03:27:34",
+      "image": "https://www.4gamer.net/games/047/G104778/20261006002/SS/005.jpg"
+    },
+    {
+      "title": "話題のラーメン店経営ゲーム『Japanese Ramen Simulator』早期アクセス版が10月9日に発売決定！",
+      "url": "https://news.denfaminicogamer.jp/news/261006y",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-05T02:00:53",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/01cover.jpg"
+      "published": "2026-10-06T03:17:54",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/MainKeyArt.png"
     },
     {
-      "title": "世界的人気を誇る老舗MMORPG『ルーンスケープ』シリーズ第4作『RS4』発表。リリースは「数年後」を予定",
-      "url": "https://news.denfaminicogamer.jp/news/261005f",
+      "title": "『ストレンジャー ザン ヘヴン』城田優さん×ディーン・フジオカさん特別インタビュー。ともに海外での生活経験を持つおふたりに、これまでの歩みや役柄との重なり、本作に掛ける想いを聞いた",
+      "url": "https://news.denfaminicogamer.jp/interview/261006s",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-05T01:39:42",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/videoframe_41893.png"
+      "published": "2026-10-06T03:00:47",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2027/09/a06a526ef376051ce72e7a60b27ae4ce.jpg"
     },
     {
-      "title": "人気イラストレーターLAM氏によるオリジナルアニメ企画が発表。原作・脚本・監督・キャラクター原案・総作画監督を兼任",
-      "url": "https://news.denfaminicogamer.jp/news/261005m",
+      "title": "『ARC Raiders』が映画・ドラマ化へ。ネクソンがチェルニン・エンターテインメントと提携を発表。『THE FINALS』も同社とのパートナーシップで映像化へ",
+      "url": "https://news.denfaminicogamer.jp/news/261006k",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-05T01:18:32",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/Screenshot-2026-10-05-10-06-33.png"
+      "published": "2026-10-06T01:33:05",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ArcRaiders-Keyart_FrozenTrail_3840x2160.png"
     },
     {
-      "title": "魔法で物を持ち上げてお掃除するゲーム『Tidyspell』が発表。気分はまるで「ウィンガーディアム レヴィオーサ！」",
-      "url": "https://news.denfaminicogamer.jp/news/261005g",
+      "title": "【本日限定】書籍『戦国 忍びの作法』Kindle版が約70%オフの「499円」で購入可能なセールが開催中。「忍者」について、日常や忍術・忍具、仕事の作法を、ひとつひとつイラストを用いて解説",
+      "url": "https://news.denfaminicogamer.jp/news/261006w",
       "source": "電ファミニコゲーマー",
       "category": "other",
-      "importance": "high",
-      "published": "2026-10-05T01:10:08",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_7b5811ba00ff5faaf9188687035efbcbede6406c.1920x1080.jpg"
+      "importance": "normal",
+      "published": "2026-10-06T03:24:47",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/81gGAksrDnL._SL1500_.jpg"
     },
     {
-      "title": "【最大4人マルチ】おじさんがキャンピングカーで渓谷を脱出するゲーム『RV There Yet?』を40%オフの552円で買えるセールがSteamで開催中。9月のアップデートでは美しいビーチが広がる新マップが追加",
-      "url": "https://news.denfaminicogamer.jp/news/261004j",
+      "title": "【最大8人マルチ】3D立体作品を作って当てるお絵描きパーティーゲーム『スーパー画伯』体験版が配信開始。体験版では協力プレイと個人戦の両方を楽しめるモード「作って当てよう」をプレイ可能",
+      "url": "https://news.denfaminicogamer.jp/news/261006p",
       "source": "電ファミニコゲーマー",
       "category": "other",
+      "importance": "normal",
+      "published": "2026-10-06T03:17:11",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/cd2d1ca603467b2ad187805d8c68e55a.png"
+    },
+    {
+      "title": "Meta、AIエージェントMuseをM5Stackやラズパイで使うMuse Gadgets公開―スマート家電連携ハブを無料配布、SDKはオープンソース",
+      "url": "https://www.gamebusiness.jp/article/2026/10/06/28226.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
       "importance": "high",
-      "published": "2026-10-04T13:40:23",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_aa6d58ff1f0eb5c5b3e6d7cc10c1576b62a745b0.1920x1080.jpg"
+      "published": "2026-10-05T22:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198846.png"
+    },
+    {
+      "title": "10月28日開幕のTIFFCOM 2026、日本IPの海外展開やカンヌ「カントリー・オブ・オナー」の成果を振り返るカンファレンスを発表",
+      "url": "https://www.gamebusiness.jp/article/2026/10/06/28222.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-05T21:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198895.png"
+    },
+    {
+      "title": "ゲームAI開発者・三宅陽一郎と哲学者ユク・ホイが対談！「AIと哲学」テーマのクロストークが11月5日に開催",
+      "url": "https://www.gamebusiness.jp/article/2026/10/06/28229.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-06T03:19:27",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198937.jpg"
+    },
+    {
+      "title": "小島監督新作『OD』は「だんまりで謎のまま出したい」。本格スタートした撮影は年末から来年までかかる見通しと「コジ10」にて発言",
+      "url": "https://www.gamebusiness.jp/article/2026/10/06/28228.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-06T02:30:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198923.png"
+    },
+    {
+      "title": "“デバンキング”で発売延期の百合ゲー『私たちフェイクマリッジ？』別口座で問題解決、制作再開へ―開発者が対処の経緯を報告",
+      "url": "https://www.gamebusiness.jp/article/2026/10/06/28227.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-05T22:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198836.jpg"
+    },
+    {
+      "title": "先週のXを占拠した「適当に組まれた」ごった煮MOD――AIと逆コンパイルがもたらす混沌",
+      "url": "https://jp.ign.com/elden-ring/84357/xmodai",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-05T02:54:28",
+      "image": "https://sm.ign.com/ign_jp/feature/v/vibe-coded/vibe-coded-mashup-mods-have-taken-over-x-this-week_egku.jpg"
+    },
+    {
+      "title": "ソリッド・スネーク役の大塚明夫が『メタルギア』新作に意欲を示す",
+      "url": "https://jp.ign.com/metal-gear-solid-delta-snake-eater/84362/",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-06T03:06:34",
+      "image": "https://sm.ign.com/ign_jp/news/l/legendary-/legendary-japanese-solid-snake-actor-wants-new-metal-gear-ga_rwvw.jpg"
+    },
+    {
+      "title": "Metal Gear Solid: Master Collection Vol. 2 February 2026 State of Play Trailer - Screenshots",
+      "url": "https://jp.ign.com/metal-gear-solid-master-collection-vol-2/84363/metal-gear-solid-master-collection-vol-2-february-2026-state-of-play-trailer-screenshots",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-06T03:06:34",
+      "image": "https://sm.ign.com/ign_jp/gallery/m/metal-gear/metal-gear-solid-master-collection-vol-2-february-2026-state_hcw1.jpg"
+    },
+    {
+      "title": "どんなパーツ構成でも物理制御できるシステムを開発。ガラクタから未知の生物を作るシミュレーションゲーム『Legacy Code』試遊&インタビュー【TGS2026】",
+      "url": "https://gamemakers.jp/article/2026_10_06_145733/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-06T01:38:33",
+      "image": null
+    },
+    {
+      "title": "インディーゲームイベント「OSAKA INDIE GAMES SUMMIT 2027」の開催が決定。OIGS2026は、昨年比1.6倍となる約7,300人が来場",
+      "url": "https://gamemakers.jp/article/2026_10_05_146647/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-05T07:00:14",
+      "image": null
+    },
+    {
+      "title": "ゼロから3Dオープンワールドゲームづくりを学べる！Unity 6.3 LTS対応のゲーム制作入門書、10/15（木）に翔泳社が発売",
+      "url": "https://gamemakers.jp/article/2026_10_05_146417/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-05T05:49:13",
+      "image": null
+    },
+    {
+      "title": "【デジタルスケープ登録者限定】CG制作進行・PM職向け対談セミナーを11/14（土）に東京で開催。十十、カーキ、KASSENの3社が登壇。 - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2610-cgpm.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-06T00:55:48",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/10/pmbanner_full-%281%29-thumb-1000x563-89472.jpg"
+    },
+    {
+      "title": "【全3回・第2回】『攻殻機動隊 THE GHOST IN THE SHELL』「3Dすげえ！」と思える画へ。モコちゃん監督が探る3DCGの可能性 - 特集",
+      "url": "https://cgworld.jp/article/202610-koukaku-2.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-06T00:00:00",
+      "image": "https://cgworld.jp/interview/images/202610-koukaku/202610-koukaku_a2.jpg"
+    },
+    {
+      "title": "Unity、Claude CodeとOpenAI Codex向け公式プラグインをリリース　多数のネイティブスキル搭載、高度なエディター制御を実現 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202610-Unity-Claude.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-05T23:58:21",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/10/Unity_Claude-01-thumb-1920x1080-89556.jpg"
     },
     {
       "title": "スタジオサザンカ、インディーゲームのパブリッシング事業を開始。第一弾にブラジル発『[AFANTASIA]』 - ニュース",
@@ -154,51 +280,6 @@
       "importance": "normal",
       "published": "2026-10-04T23:54:47",
       "image": "https://cgworld.jp/flashnews/assets_c/2026/10/SuperSplat30-01-thumb-1920x1080-89546.jpg"
-    },
-    {
-      "title": "オートデスク、アニメーションにフォーカスした講演動画を公開　「Motion Maker」の最新動向からプリプロを統合する次世代AIツール「Story Arc」まで - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202610-Autodesk-Animation.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-04T00:07:33",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/10/Autodesk_Animation-01-thumb-1920x1080-89534.jpg"
-    },
-    {
-      "title": "【先着80席限定】Pixarのアニメーターを育てるレジェンドアニメーターによる『ANIMATION MASTER CLASS 2026』が11月26日(木)-29日(日)開催! - 特集",
-      "url": "https://cgworld.jp/article/80pixaranimation-master-class-20261126-29.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-03T04:23:33",
-      "image": "https://cgworld.jp/article/assets_c/2026/09/PC_hero%20%281%29-thumb-1920x1080-89105.jpg"
-    },
-    {
-      "title": "開発費最大50％を助成、ドイツ企業17社が日本へ―『トロピコ』『EVERSPACE』企業も参加した日独ゲーム産業交流",
-      "url": "https://www.gamebusiness.jp/article/2026/10/04/28215.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-04T00:00:04",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198745.jpg"
-    },
-    {
-      "title": "アップル、macOSの「フルディスクアクセス」制御を強化へ。AIエージェントのリスク増大を警告",
-      "url": "https://www.gamebusiness.jp/article/2026/10/04/28214.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-03T21:15:02",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198731.jpg"
-    },
-    {
-      "title": "AIで使用エンジンの特定からアセット作成まで―Mod作成ツール「Universal Modder」登場",
-      "url": "https://www.gamebusiness.jp/article/2026/10/04/28213.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-03T21:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/198740.png"
     }
   ]
 }
