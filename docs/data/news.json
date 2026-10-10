@@ -1,266 +1,158 @@
 {
-  "generated_at": "2026-10-09T03:32:54.182243",
+  "generated_at": "2026-10-10T03:13:10.220742",
   "poem": "",
   "articles": [
     {
-      "title": "How Soft Crunch Games built Foxy Dumplings for every platform",
-      "url": "https://unity.com/blog/scaling-scritchy-scratchy-across-platforms",
-      "source": "Unity Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-16T00:00:00",
-      "image": null
-    },
-    {
-      "title": "Echo Weaver: Building a time-loop metroidbrainia in Unity 6",
-      "url": "https://unity.com/blog/echo-weaver-time-loop-unity",
-      "source": "Unity Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-08T00:00:00",
-      "image": null
-    },
-    {
-      "title": "『クレバテスII-魔獣の王と偽りの勇者伝承-』スケジューリングとパターン出しによる効率化に注目！ ～No.3／キメラクイーン篇 - 特集",
-      "url": "https://cgworld.jp/article/2609-338animecg-clevat03.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-09T04:00:08",
-      "image": "https://cgworld.jp/article/assets_c/2026/09/clevatess2-thumb-1000x563-88962.jpg"
-    },
-    {
-      "title": "ラセングル求人企画【第1回／全6回】「最強のセルルック」を共に創る。アニメーターの表現を支える、モデルとリグ - スペシャルコンテンツ",
-      "url": "https://cgworld.jp/special-feature/202610-lasengle.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-09T02:47:00",
-      "image": "https://cgworld.jp/interview/images/202610-lasengle/202610-lasengle_a2.jpg"
-    },
-    {
-      "title": "コロプラ、『異世界∞異世界』キャラモデル仕様を公開　モバイルゲームとして品質と量産性のバランスを確保するためのモデル作成ルールを詳説 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202610-Colopl-Isekai.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-09T00:36:31",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/10/Colopl_Isekai-01-thumb-1920x1005-89659.jpg"
-    },
-    {
-      "title": "Houdini Ignite ワークショップが10月17日・18日に開催！Houdini 22のAPEXを学ぶ2つのワークショップを実施 - ニュース",
-      "url": "https://cgworld.jp/flashnews/2610-houdini-ignite-workshop.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-08T09:07:09",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/10/Houdini%20Ignite%20workshop_news-thumb-1920x1080-89637.jpg"
-    },
-    {
-      "title": "RizomUV 2027登場。ワークスペースの刷新やScene Outliner、Pythonによる自動化など新機能を搭載 - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2609-rizomuv.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-08T02:35:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/09/a8d334d982b78a991c5b3ae915542fb34cb360c5-thumb-1000x563-89329.jpg"
-    },
-    {
-      "title": "XBOXが新部門XPの設立を発表―ゲームを映画、グッズ、イベントなどの分野に広げていく",
-      "url": "https://www.gamebusiness.jp/article/2026/10/09/28269.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-09T03:30:57",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199343.jpg"
-    },
-    {
-      "title": "“PSの父”久夛良木健氏が見据える「次の世界」―AIを育てる技術が問われる、ゲーム開発のこれから【インタビュー】",
-      "url": "https://www.gamebusiness.jp/article/2026/10/08/28259.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-08T09:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199217.jpg"
-    },
-    {
-      "title": "開発中の『OD - KNOCK』世界初公式グッズが登場―コジプロ×PARCO GAMES、名古屋PARCOで販売",
-      "url": "https://www.gamebusiness.jp/article/2026/10/08/28258.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-08T05:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199216.jpg"
-    },
-    {
-      "title": "AIでゲームを生成・公開、さらに本格的な3D制作も―GoogleとUnityが「Playground」「Unity Spark」を発表",
-      "url": "https://www.gamebusiness.jp/article/2026/10/08/28257.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-08T04:00:27",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199206.jpg"
-    },
-    {
-      "title": "陸上自衛隊が各国と「ゲーム」で競い合う―英国国防省の主催する“軍関係者向けeスポーツ大会”開催、サイバー技能向上と交流目的に",
-      "url": "https://www.gamebusiness.jp/article/2026/10/09/28268.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-08T22:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199227.jpg"
-    },
-    {
-      "title": "大ヒット海賊サバイバル『ウィンドローズ』初の大型アプデ発表。「船」システム大幅進化、“もうひとつの拠点”にして、住んだりデコったり自由自在に",
-      "url": "https://automaton-media.com/articles/newsjp/20261009-472609/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-08T17:12:35",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261009-472609-header.jpg"
-    },
-    {
-      "title": "「VOCALOID7」発表、11月11日発売へ。新たな「Megpoid」とともにお披露目、4年ぶり新ボカロ",
-      "url": "https://automaton-media.com/articles/newsjp/20261009-472735/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-09T03:30:09",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261009-472735-header.jpg"
-    },
-    {
-      "title": "“ゲームに抵抗する”メタサスペンスゲーム『Pony Island』がSteamにて無料配布中。『Inscryption』開発者のSteamデビュー作が今ならタダ",
-      "url": "https://automaton-media.com/articles/newsjp/pony-island-20261009-472712/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-09T02:32:51",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/pony-island-20261009-472712-header.jpg"
-    },
-    {
-      "title": "『エースコンバット8』もう“売上100万本”達成、発売から約1週間で。シリーズ最速",
-      "url": "https://automaton-media.com/articles/newsjp/20261009-472693/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-09T01:44:02",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261009-472693-header.jpg"
-    },
-    {
-      "title": "PS5/PC“20世紀で時が止まった”田舎町サイコホラー『叫魂JIAOHUN』発表。マッチ・ポケベル・4:3カメラ、ノスタルジー装備で怪異うごめく町の謎を解き明かす",
-      "url": "https://automaton-media.com/articles/newsjp/20261009-472675/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-09T00:46:47",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261009-472675-header.jpg"
-    },
-    {
-      "title": "視力を取り戻したばかりの少女が，危険に満ちた屋敷からの脱出を目指すホラーADV「Out of Sight」と，浮遊島を舞台に中世風の王国を築きあげる街づくりパズル「TerraScape」がEpic Games Storeで無料配布中",
-      "url": "https://www.4gamer.net/games/908/G090883/20261009009/",
+      "title": "「Brasil Game Show 2026」開幕。オープニングイベントでセガが「クレイジータクシー：ワールドツアー」新マップ「ブラジル」を発表［BGS2026］",
+      "url": "https://www.4gamer.net/games/991/G999110/20261010006/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-09T03:09:43",
-      "image": "https://www.4gamer.net/games/908/G090883/20261009009/SS/002.jpg"
+      "published": "2026-10-10T03:02:19",
+      "image": "https://www.4gamer.net/games/991/G999110/20261010006/SS/002.jpg"
     },
     {
-      "title": "「三国志BOND」，大型アップデートを10月13日にリリース。「張遼」「孫策」をはじめとする新武将29体と，新軍師「司馬懿」が実装",
-      "url": "https://www.4gamer.net/games/008/G100845/20261008053/",
+      "title": "剣術経験者のこだわりが宿る「QUEEN'S GUARD」プレイレポート。護衛として王女を守り抜くアクションアドベンチャー［OIGS2026］",
+      "url": "https://www.4gamer.net/games/049/G104928/20261009060/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-09T03:00:00",
-      "image": "https://www.4gamer.net/games/008/G100845/20261008053/SS/002.jpg"
+      "published": "2026-10-10T01:30:00",
+      "image": "https://www.4gamer.net/games/049/G104928/20261009060/SS/001.jpg"
     },
     {
-      "title": "「Phantom Blade Zero」はハイスピードアクションをRPGの土台に載せた“ピラミッド構造”［インタビュー］",
-      "url": "https://www.4gamer.net/games/709/G070944/20261006038/",
+      "title": "マウス操作で閃光のように駆け抜け敵を両断！ HAL大阪の学生チームが制作する超高速アクション「▽△Slash」プレイレポート［OIGS2026］",
+      "url": "https://www.4gamer.net/games/048/G104870/20261008026/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-09T00:00:30",
-      "image": "https://www.4gamer.net/games/709/G070944/20261006038/SS/006.jpg"
+      "published": "2026-10-10T00:30:00",
+      "image": "https://www.4gamer.net/games/048/G104870/20261008026/SS/001.jpg"
     },
     {
-      "title": "妄想がコンテンツに変わる時代がすぐそこに。PlayStationの生みの親，久夛良木 健氏が語るAI時代のエンタテインメント［インタビュー］",
-      "url": "https://www.4gamer.net/games/991/G999104/20261006020/",
+      "title": "ラグナロク後の世界で新たなパンテオンを築き上げろ！ 神々の子が戦う見下ろし型アクションRPG「Aftergods」が発表",
+      "url": "https://www.4gamer.net/games/049/G104924/20261009059/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-08T22:00:00",
-      "image": "https://www.4gamer.net/games/991/G999104/20261006020/SS/001.jpg"
+      "published": "2026-10-09T14:29:50",
+      "image": "https://www.4gamer.net/games/049/G104924/20261009059/SS/003.jpg"
     },
     {
-      "title": "カウンセリングを通じて，怪異や妻の失踪の真実へと近づいていく群像劇型ADV「Resequence: The Orchard」，体験版をSteamで公開",
-      "url": "https://www.4gamer.net/games/964/G096496/20261009003/",
+      "title": "たった3つのダイスが数千万のパワーに化ける。「DiceVaders」は，ボドゲ的なエンジンビルドをデジタルで極めた“ダイスローグライク”［プレイレポ］",
+      "url": "https://www.4gamer.net/games/985/G098513/20261009024/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-09T03:18:17",
-      "image": "https://www.4gamer.net/games/964/G096496/20261009003/SS/003.jpg"
+      "published": "2026-10-10T03:00:00",
+      "image": "https://www.4gamer.net/games/985/G098513/20261009024/TN/003.jpg"
     },
     {
-      "title": "『ガルパン』新作ゲーム『ガールズ＆パンツァー オールスター・タンク・カーニバル』発表。Nintendo Switch 2にて2027年発売予定",
-      "url": "https://news.denfaminicogamer.jp/news/261009q",
+      "title": "『GTA6』開発の調査旅行、フロリダで警察官やギャングとも行動をともにしていた。海外誌「LOVE」に開発陣インタビューが掲載",
+      "url": "https://news.denfaminicogamer.jp/news/261010d",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-09T01:26:20",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/SnapCrab_NoName_2026-10-9_10-0-7_No-00.png"
+      "published": "2026-10-10T00:22:07",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/Jason_and_Lucia_03.jpg"
     },
     {
-      "title": "『ガールズ＆パンツァー』新作スマホゲーム『ボコすかラッシュ』が制作決定。みほと愛里寿が『ガルすか』の世界へ連れていくキービジュアルが公開",
-      "url": "https://news.denfaminicogamer.jp/news/2610092d",
+      "title": "『クレイジータクシー：ワールドツアー』新マップ「ブラジル」が発表。世界三大瀑布の滝群やどこまでも続くビーチを爆走、「DAISO」などブラジルに実在する店舗も目的地として登場",
+      "url": "https://news.denfaminicogamer.jp/news/2610102t",
       "source": "電ファミニコゲーマー",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-10-09T03:18:09",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/PhotoshopExtension_Image-2026-10-09T120655.851.png"
+      "importance": "high",
+      "published": "2026-10-10T00:00:48",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/bf0997fc5f86873a73ba566221fbd6d7.jpg"
     },
     {
-      "title": "文明が崩壊した砂漠世界を気ままに旅するゲーム『Nomad Drive』を遊んだら“文化的な生活”の面白さに目覚めてしまった",
-      "url": "https://news.denfaminicogamer.jp/kikakuthetower/261009d",
+      "title": "『FF7』リメイクシリーズと『ソニックレーシング クロスワールド』がコラボ決定。バスターソードと黒い羽根、そしてリングが登場する新規映像が公開。詳細は後日発表予定",
+      "url": "https://news.denfaminicogamer.jp/news/261010c",
       "source": "電ファミニコゲーマー",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-10-09T03:15:04",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/image7-9.png"
+      "importance": "high",
+      "published": "2026-10-09T21:29:41",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/Snapshot_36.jpg"
     },
     {
-      "title": "【日本語対応】マインスイーパー風“時間泥棒”なRTSゲーム『Keepsweeper』日本語に対応！マス目がそのまま土地となり開墾、ドラゴン退治に土地の奪還など遊び方も豊富",
-      "url": "https://news.denfaminicogamer.jp/news/2610092c",
+      "title": "中毒性がヤバそうな工場×タワーディフェンス×ローグライクゲーム『BELTFED』の日本語対応が決定、Hooded Horseがパブリッシャーを担当。発表から2週間足らずでウィッシュリスト20万件を突破",
+      "url": "https://news.denfaminicogamer.jp/news/261010b",
       "source": "電ファミニコゲーマー",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-10-09T03:07:13",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/02-japanese-dragon-battle.jpg"
+      "importance": "high",
+      "published": "2026-10-09T15:38:03",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_b6a76c9b52d856efc98a3332a8ae56bbae8a587f.1920x1080.jpg"
     },
     {
-      "title": "“ドラキュラ伯爵”となり夜の軍団を指揮して城を守るローグライトゲーム『ReVamp』が3月26日にリリース。城の構造を自由に組み替え、時には伯爵自らも出陣し、人間たちを撃退",
-      "url": "https://news.denfaminicogamer.jp/news/2610092b",
+      "title": "『まのさば』Acaciaの新作『魔法少女ノ因習村』、「猫溝ノラ」のCVは内田彩さんが担当と発表。お面をつけ「にゃあ」と話す、道化のように明るいが本音を見せない少女",
+      "url": "https://news.denfaminicogamer.jp/news/2610093r",
       "source": "電ファミニコゲーマー",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-10-09T03:03:38",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_77ecc3cc4649e36ce9803aef45ad16c33345add9.1920x1080.jpg"
+      "importance": "high",
+      "published": "2026-10-09T13:52:04",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HUL-_eoaoAAPtaj.jpg"
     },
     {
-      "title": "UnityとGoogleが提携、ノーコードでゲームを作れる「Unity Spark」を発表。まずは米国で提供へ",
-      "url": "https://gamemakers.jp/article/2026_10_08_146974/",
+      "title": "脱獄サンドボックス新作『The Escapists 3』発表。9年ぶりのシリーズ最新作は3Dに、“5つの刑務所”から自由に脱獄",
+      "url": "https://automaton-media.com/articles/newsjp/the-escapists-3-20261010-472890/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-10T01:41:55",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/the-escapists-3-20261010-472890-header.jpg"
+    },
+    {
+      "title": "Steamで約8850万円売り上げたゲーム開発者、“売上の13％”しか手元に残らなかったと赤裸々事情公開。しかし数字に見え隠れする「カラクリ」巡り議論白熱",
+      "url": "https://automaton-media.com/articles/newsjp/20261009-472691/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-09T04:51:49",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261009-472691-header.jpg"
+    },
+    {
+      "title": "PvPvE脱出アクションRPG『Vaultbreakers』無料デモ版が配信開始。最大3人協力プレイ対応・モンスターはびこる広大地域探索が、一足お先に遊べる",
+      "url": "https://automaton-media.com/articles/newsjp/vaultbreakers-20261010-472900/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-10T02:36:51",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/vaultbreakers-20261010-472900-header.jpg"
+    },
+    {
+      "title": "“高さ付き”変則ルール将棋『三次元将棋』が「まるで宇宙艦隊」と話題に。合計372枚の駒たちが、“層”を超えて躍動",
+      "url": "https://automaton-media.com/articles/newsjp/20261010-472884/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-10T00:03:44",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261010-472884-header.jpg"
+    },
+    {
+      "title": "『餓狼伝説 City of the Wolves』に『鉄拳8』より「麗奈」が参戦、12月追加へ。シーズン3を締めくくるのは、“電光石火”のアグレッシブ少女",
+      "url": "https://automaton-media.com/articles/newsjp/20261010-472877/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-09T18:02:53",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261010-472877-header.jpg"
+    },
+    {
+      "title": "GodotのiPhone/iPad版アプリ「Xogot」で、メッシュ生成・レベルデザイン機能が実装。今週のゲーム開発関連ツールまとめ",
+      "url": "https://gamemakers.jp/article/2026_10_10_146876/",
       "source": "ゲームメーカーズ",
       "category": "other",
-      "importance": "high",
-      "published": "2026-10-08T02:25:20",
+      "importance": "normal",
+      "published": "2026-10-10T01:58:53",
       "image": null
     },
     {
-      "title": "Web技術の対戦ゲーム、スマホ版『in:dark』リメイク、Godot採用のGBA解像度RPG。札幌のインディーゲーム3作品の開発者にインタビュー【SAPPORO GAME ODYSSEY】",
-      "url": "https://gamemakers.jp/article/2026_10_07_144533/",
+      "title": "Unity CLIとPipelineパッケージを連携し、エディタをコマンドラインで操作。Unity公式が使用方法を解説",
+      "url": "https://gamemakers.jp/article/2026_10_09_146809/",
       "source": "ゲームメーカーズ",
       "category": "other",
-      "importance": "high",
-      "published": "2026-10-07T10:59:54",
+      "importance": "normal",
+      "published": "2026-10-09T06:46:55",
       "image": null
     },
     {
@@ -291,6 +183,96 @@
       "image": null
     },
     {
+      "title": "1日16万円超のAI費用、ついには銀行融資まで…『妹に運転を教える』開発元を直撃。無料デモ版爆発的人気、その裏側とは【インタビュー】",
+      "url": "https://www.gamebusiness.jp/article/2026/10/10/28286.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-09T23:45:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199441.jpg"
+    },
+    {
+      "title": "復讐に燃える篤に、なぜ“恋愛”を描いたのか？『Ghost of Yōtei Complete Edition』開発者インタビュー―境井仁の復活やローグライク導入の裏側にも迫る",
+      "url": "https://www.gamebusiness.jp/article/2026/10/10/28285.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-09T23:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199452.jpg"
+    },
+    {
+      "title": "アニメ「Ghost of Tsushima 冥人奇譚」2028年に配信予定！ 追加スタッフ＆キャスト情報も発表",
+      "url": "https://www.gamebusiness.jp/article/2026/10/10/28282.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-09T22:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199482.jpg"
+    },
+    {
+      "title": "「誰もがカンフーマスターになれる」『Phantom Blade Zero』開発者インタビュー。ドニー・イェンから学んだアクションのDNA、独自のRPG設計を訊く",
+      "url": "https://www.gamebusiness.jp/article/2026/10/10/28277.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-09T21:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199534.jpg"
+    },
+    {
+      "title": "なぜ『ICO』は言葉を減らし、『アウターワールド』はUIを消したのか？ エリック・シャイ×上田文人が語る、ゲームの“機能”を超えた感動の追求",
+      "url": "https://www.gamebusiness.jp/article/2026/10/10/28287.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-10T00:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199418.png"
+    },
+    {
+      "title": "世界へ羽ばたくクリエイターを支援！「現代版トキワ荘」起業家育成プログラム第1期生プロトタイプ発表会 - 特集",
+      "url": "https://cgworld.jp/article/202610-abc-gtokiwa.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-09T09:00:00",
+      "image": "https://cgworld.jp/article/assets_c/2026/10/b93fa56d49df087ffa6a261ab973c7be86531f05-thumb-1920x1080-89592.jpg"
+    },
+    {
+      "title": "Maya用スカルプトツールセット「CGE Sculpting Tool for Maya」リリース　GPUベース、外部アプリ不要 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202610-CGESculptMaya.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-09T23:14:02",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/10/CGESculptMaya-01-thumb-1920x1080-89696.jpg"
+    },
+    {
+      "title": "【インディー開発者必見】インディーゲームの\"グラフィック\"に特化したオンラインイベント「GAME GRAPHICS JAM」が11/7開催決定！ - ニュース",
+      "url": "https://cgworld.jp/flashnews/1107-plusone-ggj.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-09T10:37:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/10/c4e84f421be2c9cbefc7f0d1602b6ac5c8646d4d-thumb-1920x1080-89674.png"
+    },
+    {
+      "title": "【新講座】光の科学から映画ショットの構築まで。ドリームワークスの現役スーパーバイザーによるオンライン講座『3DCGライティングの思考法』が11/21(土)に開催。 - ニュース",
+      "url": "https://cgworld.jp/flashnews/3dcg1121.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-09T07:21:02",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/10/takehiro-thumb-1920x1080-89678.jpg"
+    },
+    {
+      "title": "『クレバテスII-魔獣の王と偽りの勇者伝承-』スケジューリングとパターン出しによる効率化に注目！ ～No.3／キメラクイーン篇 - 特集",
+      "url": "https://cgworld.jp/article/2609-338animecg-clevat03.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-09T04:00:08",
+      "image": "https://cgworld.jp/article/assets_c/2026/09/clevatess2-thumb-1000x563-88962.jpg"
+    },
+    {
       "title": "『ドラゴンズドグマ 2：ダークアリズン』レビュー",
       "url": "https://jp.ign.com/dragons-dogma-2-dark-arisen/84380/2",
       "source": "IGN Japan",
@@ -309,22 +291,40 @@
       "image": "https://sm.ign.com/ign_jp/interview/g/gta-6-the-/gta-6-the-big-interview_a8hz.jpg"
     },
     {
-      "title": "『Phantom Blade Zero』を6時間プレイした感想！RPG色が思っていた以上に強いが、「アクション」としてもしっかりした作り",
-      "url": "https://jp.ign.com/phantom-blade-zero/84358/phantom-blade-zero6rpg",
+      "title": "AOCのワイヤレスゲーミングイヤホン「ACT3512」がAmazonにて36％オフでタイムセール中",
+      "url": "https://jp.ign.com/gaming-device/84375/aocact3512amazon36",
       "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-09T00:00:34",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/pbzthumb_jra4.png"
+      "published": "2026-10-09T08:42:00",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_ta23.png"
     },
     {
-      "title": "『鬼武者 Way of the Sword』クリア後感想：今週遊んだゲーム 10/07/2026",
-      "url": "https://jp.ign.com/shaberisugi-gamer/84373/way-of-the-sword-10072026",
+      "title": "GTA 6 Screenshots (October 8, 2026)",
+      "url": "https://jp.ign.com/grand-theft-auto-vi/84393/gta-6-screenshots-october-8-2026",
       "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-07T11:00:41",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/2_7qdv.jpg"
+      "published": "2026-10-09T04:20:27",
+      "image": "https://sm.ign.com/ign_jp/gallery/g/gta-6-scre/gta-6-screenshots-october-8-2026_rv3r.jpg"
+    },
+    {
+      "title": "『GTA6』ラジオ局、DJ、収録楽曲の一部が発売に先駆けて公開！",
+      "url": "https://jp.ign.com/grand-theft-auto-vi/84391/gta6dj",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-09T04:20:27",
+      "image": "https://sm.ign.com/ign_jp/news/g/gta-6-reve/gta-6-reveals-a-handful-of-radio-stations-djs-and-songs-ahea_4npc.jpg"
+    },
+    {
+      "title": "Spooky games made with Unity: Your 2026 Halloween playlist",
+      "url": "https://unity.com/blog/horror-games-made-with-unity-halloween-2026",
+      "source": "Unity Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-09T00:00:00",
+      "image": null
     }
   ]
 }
