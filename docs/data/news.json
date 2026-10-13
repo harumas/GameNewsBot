@@ -1,96 +1,42 @@
 {
-  "generated_at": "2026-10-12T03:09:15.425568",
+  "generated_at": "2026-10-13T04:25:04.233749",
   "poem": "",
   "articles": [
     {
-      "title": "【30人マルチ対応】最大“100万の部屋”で構成される迷路からゴールを見つけだすゲーム『ミリオンキューブ』Steamストアページが公開。10月末ごろのリリースを予定",
-      "url": "https://news.denfaminicogamer.jp/news/261011i",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-11T08:18:06",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/sub1-17.png"
-    },
-    {
-      "title": "『NARUTO』の新作描きおろしマンガ『NARUTO-ナルト- SHADOW RISING』が発表。ジャンプフェスタ2027『NARUTO-ナルト-』ジャンプスーパーステージにて詳細が発表予定",
-      "url": "https://news.denfaminicogamer.jp/news/261011d",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-10T22:00:22",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/4_kv.2n80lkvpwv7pq.webp"
-    },
-    {
-      "title": "『NARUTO』の新作モバイルゲームが発表。ナルトたちの物語を追体験しながら、アニメさながらの忍術や奥義演出、スピード感あふれるバトルを楽しめる、対戦アクションゲーム",
-      "url": "https://news.denfaminicogamer.jp/news/261011c",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-10T21:48:25",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/3_kv.15wz9sdr2ciq4.webp"
-    },
-    {
-      "title": "Steamの同時接続者数が過去最高となる「約4350万人」を記録。『AION2』や『WARDOGS』といった直近のタイトルも多くのユーザーを集める",
-      "url": "https://news.denfaminicogamer.jp/news/261012e",
-      "source": "電ファミニコゲーマー",
+      "title": "11/6（日）東京にてリアル開催！「本当に自動化できるの？ Claude/ChatGPTで実現するDaVinci Resolve 21.1 最新AI編集フロー」 - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2610-davinci-resolve.html",
+      "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-12T02:17:25",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/G98nMgFagAAx6th.jpg"
+      "published": "2026-10-13T06:10:26",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/10/329_dsseminar_davinci_main_1001-thumb-1000x563-89473.jpg"
     },
     {
-      "title": "映画『バイオハザード』全世界興行収入が「3億2020万ドル」を突破。“シリーズ史上最高”のヒット作に",
-      "url": "https://news.denfaminicogamer.jp/news/261012c",
-      "source": "電ファミニコゲーマー",
+      "title": "『ケンエレファントのデジタル造形術』作家との二人三脚でつくる面白くて精巧なカプセルトイ ～No.1／企画篇 - 特集",
+      "url": "https://cgworld.jp/article/202609-kenele01.html",
+      "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-12T01:37:43",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HN6lRiFaMAEejDh.webp"
+      "published": "2026-10-13T01:00:08",
+      "image": "https://cgworld.jp/article/assets_c/2026/09/ff45f8865ed0e233eb61a45433dd2343f48a9f6a-thumb-1000x563-89112.jpg"
     },
     {
-      "title": "基本プレイ無料『NTE』新エリア「遊園地」の“汚い遊び方”が流行る。子どもの遊びで暴走する大人の悪知恵、“おみやげ”までズルい",
-      "url": "https://automaton-media.com/articles/special-column/20261009-472781/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-11T03:00:05",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261009-472781-header.jpg"
-    },
-    {
-      "title": "色を操るパズルゲーム集『Coloratis』発表。「色付きダイス転がし」「絵の具混ぜ混ぜ一筆書き」など、“ほどよく頭を使う”パズルがたくさん",
-      "url": "https://automaton-media.com/articles/newsjp/coloratis-20261010-472961/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-10T08:03:47",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/coloratis-20261010-472961-header.jpg"
-    },
-    {
-      "title": "“PCゲーム起動時のどデカ音量”を調整できるアプリ「GGKeeper」登場。ゲームを起動するだけで、勝手に“いい感じ”に揃えてくれる",
-      "url": "https://automaton-media.com/articles/newsjp/20261012-473047/",
-      "source": "Automaton",
+      "title": "セガ、「SEGA TECH BLOG」をリニューアル　ゲームエンジン、モーション制作、開発自動化などの技術情報を発信 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202610-SegaTechBlog.html",
+      "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-12T02:05:39",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261012-473047-header.jpg"
+      "published": "2026-10-13T00:26:23",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/10/SegaTechBlog-01-thumb-1920x1081-89772.jpg"
     },
     {
-      "title": "Steam無料エンドレスフライトゲーム『飛んで行け！100km！山だ！』、11月16日に有料化へ。今ならタダ",
-      "url": "https://automaton-media.com/articles/newsjp/20261012-473039/",
-      "source": "Automaton",
+      "title": "スケートパークづくりに役立つ3Dモデルが40種以上。無料アセットパック『Mini Skate』更新版、Webサイト「Kenney」で公開",
+      "url": "https://gamemakers.jp/article/2026_10_13_147332/",
+      "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-12T00:30:58",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261012-473039-header.jpg"
-    },
-    {
-      "title": "マーベル対戦格闘ゲーム『MARVEL Tōkon: Fighting Souls』に「ソー（ジェーン・フォスター）」や「ヴェノム」参戦決定。Year1追加キャラ一斉お披露目",
-      "url": "https://automaton-media.com/articles/newsjp/tokon-20261012-473035/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-11T23:48:08",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/tokon-20261012-473035-header.jpg"
+      "published": "2026-10-13T04:18:26",
+      "image": null
     },
     {
       "title": "ゲームエンジン「UNIGINE 2.22」がリリース。新たなシーケンサーが実装、ナビメッシュを自動でベイク可能に",
@@ -102,103 +48,175 @@
       "image": null
     },
     {
-      "title": "オープンソース・無料の3Dペイントツール「YoluPainter」リリース。AOのベイクやデカール生成、Unityとの同期にも対応",
-      "url": "https://gamemakers.jp/article/2026_10_11_147191/",
-      "source": "ゲームメーカーズ",
+      "title": "「白い恋人」が発売50周年を機にパッケージデザインの変更を発表。雪の結晶やハート、利尻山といった要素を受け継ぎ、新しい形へリニューアル",
+      "url": "https://news.denfaminicogamer.jp/news/2610132f",
+      "source": "電ファミニコゲーマー",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-10-11T01:58:46",
-      "image": null
+      "importance": "high",
+      "published": "2026-10-13T03:43:25",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/sub2-31.jpg"
     },
     {
-      "title": "【今週のモチベ】動物園シム「Planet Zoo 2」や，シリーズ最新作「Castlevania: Belmont’s Curse」が発売される 2026年10月12日〜10月18日",
-      "url": "https://www.4gamer.net/games/954/G095479/20261011003/",
+      "title": "『ゼノギアス』より究極のギア「ゼノギアス」の彩色済みアクションフィギュアが2月27日に発売決定。オリジナルデザインをもとに、神秘的かつ荘厳なシルエットを立体化",
+      "url": "https://news.denfaminicogamer.jp/news/2610132b",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-13T03:32:03",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/01-2.jpg"
+    },
+    {
+      "title": "『マイクラ』風サンドボックスRPG『Hytale』大型アップデート「第1章」が配信開始。大型ボスが潜むダンジョンや、ゴブリンが手がけたユニークな新アイテムも登場",
+      "url": "https://news.denfaminicogamer.jp/news/261013n",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-13T01:40:36",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/Gobliterator_1.png"
+    },
+    {
+      "title": "【黒】PS5 デジタル・エディション（日本語専用版）の「ミッドナイト ブラック」カラーが発表！",
+      "url": "https://news.denfaminicogamer.jp/news/261013u",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-13T01:21:00",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HUeM93UbsAAJE8C.jpg"
+    },
+    {
+      "title": "VTuber黎明期の“2018年”でタイムリープを繰り返せる育成シミュレーション『過去でバズってVTuber -2018からならバズれるんじゃ！？』体験版が登場。実際に配信で使っている自身のモデルを表示するような遊び方も",
+      "url": "https://news.denfaminicogamer.jp/news/261013y",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-13T04:14:32",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/WhiteCanvas-4.jpg"
+    },
+    {
+      "title": "Switch2版「オラ夏」「炭シロ」，2027年3月4日発売決定。2作品入りパッケージも登場。60fpsや高解像度，マウス操作に対応",
+      "url": "https://www.4gamer.net/games/049/G104941/20261013006/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-13T04:13:11",
+      "image": "https://www.4gamer.net/games/049/G104941/20261013006/SS/001.jpg"
+    },
+    {
+      "title": "わけありの死刑囚たちが参加するバラエティ番組を舞台にしたADV「BUZZ or DIE」，10月28日に発売決定",
+      "url": "https://www.4gamer.net/games/037/G103760/20261009045/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-13T03:00:00",
+      "image": "https://www.4gamer.net/games/037/G103760/20261009045/SS/002.jpg"
+    },
+    {
+      "title": "サガと佐賀，12年目の冒険は職人技を閃く旅へ！　「ロマンシング佐賀2026」開幕セレモニーをレポート。新企画やコラボグッズも紹介",
+      "url": "https://www.4gamer.net/games/434/G043482/20261012002/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-11T23:00:00",
-      "image": "https://www.4gamer.net/games/954/G095479/20261011003/SS/007.jpg"
+      "published": "2026-10-13T03:29:36",
+      "image": "https://www.4gamer.net/games/434/G043482/20261012002/TN/016.jpg"
     },
     {
-      "title": "4Gamerの1週間を振り返る「Weekly 4Gamer」，2026年10月5日〜10月11日",
-      "url": "https://www.4gamer.net/games/040/G004099/20261011008/",
+      "title": "「NARUTO-ナルト-」を題材とした対戦アクションゲーム「火影忍者 MOBILE」，全世界でのリリースが決定。ティザーPVも公開中",
+      "url": "https://www.4gamer.net/games/049/G104937/20261013005/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-11T22:00:00",
-      "image": "https://www.4gamer.net/games/040/G004099/20261011008/SS/031.jpg"
+      "published": "2026-10-13T03:23:08",
+      "image": "https://www.4gamer.net/games/049/G104937/20261013005/SS/003.jpg"
     },
     {
-      "title": "「マーベル闘魂」，DLC第2弾は「ソー（ジェーン・フォスター）」に決定！ 「ヴェノム」は2027年春，「ジュビリー」は2027年夏に登場！",
-      "url": "https://www.4gamer.net/games/916/G091618/20261011013/",
+      "title": "「BLAZBLUE CENTRALFICTION」，PS5版の制作が決定。ロールバックネットコードを実装し，Steam版とのクロスプレイにも対応",
+      "url": "https://www.4gamer.net/games/049/G104939/20261013004/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-11T12:27:11",
-      "image": "https://www.4gamer.net/games/916/G091618/20261011013/SS/001.jpg"
+      "published": "2026-10-13T03:17:26",
+      "image": "https://www.4gamer.net/games/049/G104939/20261013004/SS/001.jpg"
     },
     {
-      "title": "仕事を干された俳優が，5か月の外出禁止で壊れていく。ブラジル発の心理ホラー「LOCKDOWN」［BGS2026］",
-      "url": "https://www.4gamer.net/games/049/G104933/20261011007/",
-      "source": "4Gamer.net",
+      "title": "少女と一緒に探索ホラー『穢れ憑きの少女　鳴海龍也の回奇録』発表。呪物の謎を解き明かすライト1本真夜中調査",
+      "url": "https://automaton-media.com/articles/newsjp/20261013-473130/",
+      "source": "Automaton",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-10-11T08:10:49",
-      "image": "https://www.4gamer.net/games/049/G104933/20261011007/SS/001.jpg"
+      "importance": "high",
+      "published": "2026-10-13T01:25:10",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261013-473130-header-2.jpg"
     },
     {
-      "title": "猫と犬とウサギを育ててアイドルに。お手本は「ウマ娘」という育成ノベルゲー「IdolPet Caretaker」［BGS2026］",
-      "url": "https://www.4gamer.net/games/049/G104931/20261011005/",
-      "source": "4Gamer.net",
+      "title": "人気コロニー運営シム『RimWorld』ゲームエンジン刷新大型アプデ発表、パフォーマンス2～4倍に劇的改善へ。ぬるっと新作も匂わせ",
+      "url": "https://automaton-media.com/articles/newsjp/20261013-473115/",
+      "source": "Automaton",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-10-11T07:28:19",
-      "image": "https://www.4gamer.net/games/049/G104931/20261011005/SS/001.jpg"
+      "importance": "high",
+      "published": "2026-10-13T00:29:52",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261013-473115-header.jpg"
     },
     {
-      "title": "「NARUTO」IP、次なる大型展開へ―岸本斉史氏の新作漫画、新作アニメ、TCG・スマホゲームの世界展開を一挙発表",
-      "url": "https://www.gamebusiness.jp/article/2026/10/11/28293.html",
+      "title": "最大8人マルチ対応お絵描きタワーディフェンス『まるかいてドカン！』発表。丸は砲台、線は壁、“布団”を描けば敵が寝る",
+      "url": "https://automaton-media.com/articles/newsjp/20261012-473076/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-12T08:23:39",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261012-473076-header.jpeg"
+    },
+    {
+      "title": "『ARC Raiders』Steam同接18万人を記録、“7か月ぶり”の大盛況で再興の兆し。新マップ追加も来た「本作最大級」のアップデートを経て",
+      "url": "https://automaton-media.com/articles/newsjp/arc-raiders-20261012-473070/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-12T07:39:10",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/arc-raiders-20261012-473070-header.jpg"
+    },
+    {
+      "title": "カラカラ大地に海を取り戻すゲーム『Fill the Sea』発表。人々を働かせて作業自動化、「バケツ一杯」の手作業から、やがて川、そして海へ",
+      "url": "https://automaton-media.com/articles/newsjp/fill-the-sea-20261012-473055/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-12T05:08:31",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/fill-the-sea-20261012-473055-hedaer.jpg"
+    },
+    {
+      "title": "「今でも遊ばれていることに驚いている」――『GTA5』はいかにして世界を征服したのか",
+      "url": "https://jp.ign.com/grand-theft-auto-v-1/84396/gta5",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-13T03:19:39",
+      "image": "https://sm.ign.com/ign_jp/feature/i/im-shocked/im-shocked-that-people-are-still-playing-how-gta-5-took-over_sdgr.jpg"
+    },
+    {
+      "title": "「ゲーム基板はひとつの楽器」慶野由利子氏と、「MIDIコンをゲームにする」市川幹人氏――異色の二人が作る『Dropping Drops』インタビュー",
+      "url": "https://www.gamebusiness.jp/article/2026/10/13/28295.html",
       "source": "GameBusiness.jp",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-11T03:24:45",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199579.jpg"
+      "published": "2026-10-13T01:00:04",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199606.jpg"
     },
     {
-      "title": "プログラミング不要、Godot 4で2DRPGからWiz風3Dダンジョンまで―「RPGウィザードG」登場",
-      "url": "https://www.gamebusiness.jp/article/2026/10/11/28292.html",
+      "title": "NVIDIA、米科学研究に10億ドル投資へ―米国家プロジェクトにも参画、量子コンピューティングなどで協力",
+      "url": "https://www.gamebusiness.jp/article/2026/10/13/28296.html",
       "source": "GameBusiness.jp",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-11T02:29:33",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199578.jpg"
+      "published": "2026-10-13T02:17:27",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199624.jpg"
     },
     {
-      "title": "バンダイナムコエクスペリエンスが会員情報漏洩を報告。アーケードレースゲーム『湾岸ミッドナイト マキシマムチューン 6RR PLUS』ポータルサイトにて",
-      "url": "https://www.gamebusiness.jp/article/2026/10/11/28291.html",
+      "title": "『RimWorld 2』くるか！？開発元が新たな自社製エンジンで動く新作を予告―『RimWorld』本編は同エンジン移行で2～4倍高速化、Mod環境でも早いアプデ1.7告知",
+      "url": "https://www.gamebusiness.jp/article/2026/10/13/28294.html",
       "source": "GameBusiness.jp",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-10T21:15:02",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199562.jpg"
-    },
-    {
-      "title": "文化庁委託「アニメーション人材育成調査研究事業」オープン講座が開講。業界就業者向けの技術向上プログラムを無料提供",
-      "url": "https://www.gamebusiness.jp/article/2026/10/11/28290.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-10T21:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199568.jpg"
-    },
-    {
-      "title": "ゲーム制作でAIを利用―ユニティの元技術者が語る困難と効果【ゲームメーカーズスクランブル2026】",
-      "url": "https://www.gamebusiness.jp/article/2026/10/10/28289.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-10T09:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199361.jpg"
+      "published": "2026-10-13T00:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199584.jpg"
     }
   ]
 }
