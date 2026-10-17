@@ -1,51 +1,60 @@
 {
-  "generated_at": "2026-10-16T02:06:47.873765",
+  "generated_at": "2026-10-17T02:00:37.688592",
   "poem": "",
   "articles": [
     {
-      "title": "Steamの「実績セット」システム発表、“DLC買わないと100％にできない問題”が解消へ。コンプ記録を守り、期間限定実績取り逃しも救済",
-      "url": "https://automaton-media.com/articles/newsjp/steam-20261016-473831/",
+      "title": "最大4人協力・物理演算へっぽこ消防士シム『Flame and Blame』発表。暴れるホースで消火活動、最終手段は“ダム決壊”",
+      "url": "https://automaton-media.com/articles/newsjp/20261017-474053/",
       "source": "Automaton",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-16T00:46:02",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/steam-20261016-473831-header.jpg"
+      "published": "2026-10-17T01:13:42",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261017-474053-header.jpg"
     },
     {
-      "title": "『コントロール レゾナント』、“Remedy史上最速”で売上100万本達成。発売から3週間で大台到達、名実ともに『Alan Wake』と並ぶシリーズに",
-      "url": "https://automaton-media.com/articles/newsjp/20261016-473807/",
+      "title": "人気地理当てゲーム『GeoGuessr（ジオゲッサー）』、期間限定でまさかの「高難度ローグライトサバイバルホラー」化。モンスターから逃げ続け、“30日間”生き延びる",
+      "url": "https://automaton-media.com/articles/newsjp/geoguessr-20261017-474061/",
       "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-17T01:59:35",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/geoguessr-20261017-474061-header.jpg"
+    },
+    {
+      "title": "吸血鬼中世オープンワールド『The Blood of Dawnwalker』、来週配信アプデで日本語版の表現規制撤廃へ。ついにちゃんと血を見られそう",
+      "url": "https://automaton-media.com/articles/newsjp/the-blood-of-dawnwalker-20261017-474048/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-17T00:27:35",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/the-blood-of-dawnwalker-20261017-474048-header.jpg"
+    },
+    {
+      "title": "鉄道旅ミステリー『クワイエット急行909号室』体験版配信開始。“繰り返す7日間”の中で、待ち受ける惨劇と「存在しない部屋」の秘密を解き明かす",
+      "url": "https://automaton-media.com/articles/newsjp/20261017-474039/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-16T23:04:02",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261017-474039-header.jpg"
+    },
+    {
+      "title": "大注目の美少女悪魔・酒飲みロシアンルーレット『PUKEY GODDESS SHOT TRICK』、体験版の一般公開を断念。“参加者を絞って”試遊会実施へ",
+      "url": "https://automaton-media.com/articles/newsjp/20261016-474004/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-16T11:33:39",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261016-474004-header.jpg"
+    },
+    {
+      "title": "『デススト』プロト映像や、未公開のデザイン原画・開発資料も展示。コジプロ10周年記念の展覧会「BEYOND THE STRAND：創造と挑戦の航路」詳細が発表",
+      "url": "https://gamemakers.jp/article/2026_10_16_147747/",
+      "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-16T00:18:51",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261016-473807-header.jpg"
-    },
-    {
-      "title": "大人気マルチ対応サバイバル『ルーンスケープ：ドラゴンワイルズ』来年は「毎月無料アプデ」でどんどん拡張へ。“ラスボス”を倒したくらいでは終わらない大冒険",
-      "url": "https://automaton-media.com/articles/newsjp/20261016-473824/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-16T01:54:30",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261016-473824-header.jpg"
-    },
-    {
-      "title": "任天堂、Nintendo Switch 2とSwitch本体の修理価格を値上げへ。CPU基板の修理交換は「約1万円値上げ」に",
-      "url": "https://automaton-media.com/articles/newsjp/20261016-473850/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-16T01:31:10",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261016-473850-header.jpg"
-    },
-    {
-      "title": "『NTE』大阪リアルイベントに行ってきた。会場は新キャラ「クロバネ」を推しまくり。コスプレ撮影会や埋めつくされるメッセージボードなど、大盛り上がりの一日",
-      "url": "https://automaton-media.com/articles/reportjp/nte-osaka-20261016-473763/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-16T00:03:13",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/nte-osaka-00.jpg"
+      "published": "2026-10-16T11:13:36",
+      "image": null
     },
     {
       "title": "viviON Labは「独創性にあふれたニッチなゲームを積極的に扱いたい」。タッグを組んだ『The Void Between』の兄弟開発者にもインタビュー【TGS2026】",
@@ -54,6 +63,24 @@
       "category": "other",
       "importance": "high",
       "published": "2026-10-16T01:25:56",
+      "image": null
+    },
+    {
+      "title": "「ZBrush 2027」にUVエディターが実装。iPad版ZBrushでは3Dレイヤーが追加。今週のゲーム開発関連ツールまとめ",
+      "url": "https://gamemakers.jp/article/2026_10_17_147565/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-17T01:58:49",
+      "image": null
+    },
+    {
+      "title": "シンプル・軽量なボクセルエディタ「MOG3D」、ブラウザ上で使えるWeb版がリリース。ヒューマノイド形式のリグ設定や揺れもの表現にも対応",
+      "url": "https://gamemakers.jp/article/2026_10_16_147534/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-16T10:28:43",
       "image": null
     },
     {
@@ -66,76 +93,139 @@
       "image": null
     },
     {
-      "title": "有機ELでゲーム体験がアップした携帯型ゲーミングPC「ROG XBOX Ally X20」は、“遊び心地”を磨き上げたROG20周年記念モデルだった",
-      "url": "https://gamemakers.jp/article/2026_10_15_147411/",
-      "source": "ゲームメーカーズ",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-15T13:00:47",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/10/2354571e4444bea6ff1c0e7d9282083f.jpg"
-    },
-    {
-      "title": "「ゲームマーケット2026秋」2日目にゲームメーカーズが出展！3Dアクションゲーム制作体験やアナログゲームのデジタル化事例紹介を行います",
-      "url": "https://gamemakers.jp/article/2026_10_15_147465/",
-      "source": "ゲームメーカーズ",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-15T07:59:46",
-      "image": null
-    },
-    {
-      "title": "2027年5月開催の「BitSummit」、一般出展者の募集がスタート。申込は1/31（日）16時まで受付中",
-      "url": "https://gamemakers.jp/article/2026_10_15_147474/",
-      "source": "ゲームメーカーズ",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-15T01:59:56",
-      "image": null
-    },
-    {
-      "title": "「最大4人」の協力登山ゲーム『PEAK』PS5、Xbox Series X|S、Nintendo Switch 2版が10月22日にリリース決定。クロスプレイにも対応し、全アップデート内容を収録",
-      "url": "https://news.denfaminicogamer.jp/news/261016c",
+      "title": "ラノベ『青春ブタ野郎』シリーズ本編全巻のKindle版がお得に買えるセール中。全15弾をまとめて「3918円」でそろえられる",
+      "url": "https://news.denfaminicogamer.jp/news/261017a",
       "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-17T01:03:31",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/81V8JNGv8sL._SL1500_.jpg"
+    },
+    {
+      "title": "宇宙を旅する巨大クジラの背中に街をつくる『Beyond These Stars』が10月17日3時にSteamで発売。背中の生態系を育て、資源管理しつつ街を広げていく",
+      "url": "https://news.denfaminicogamer.jp/news/2610163a",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-16T15:24:39",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_e0398fa4f5e0e28f15028b829350cfb292b98c74.1920x1080.jpg"
+    },
+    {
+      "title": "『ストレンジャー ザン ヘヴン』第1部「小倉編」のストーリートレーラーが公開。日本に渡った大東真と真城優を待ち受ける厳しい現実や、人々との出会いが描かれる",
+      "url": "https://news.denfaminicogamer.jp/news/2610163b",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-16T14:41:25",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/2b246040cf61a9136d8a884ec7b38aec.png"
+    },
+    {
+      "title": "コピックのにじまないドローイングペン「コピック マルチライナー」が10月末で国内出荷を終了",
+      "url": "https://news.denfaminicogamer.jp/news/2610162y",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-16T13:33:26",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/multiliner.jpg"
+    },
+    {
+      "title": "クトゥルフ神話「狂気の山脈にて」を“ペンギン視点”で見届けるゲーム『ペンギン・コロニー』プレイレポ。狂っていく人間と平常運転のペンギンがかみ合わない「温度差」こそが、このゲームの正体だった",
+      "url": "https://news.denfaminicogamer.jp/kikakuthetower/261016p",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-16T13:00:19",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/x01_.png"
+    },
+    {
+      "title": "「よどんだ水槽」のような渋谷で，彼女はなぜ世界を終わらせたがるのか？ 「Rain98」最新デモ先行体験＆インタビュー",
+      "url": "https://www.4gamer.net/games/901/G090112/20261015001/",
+      "source": "4Gamer.net",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-15T22:11:50",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/maxresdefault-9.jpg"
+      "published": "2026-10-16T16:30:00",
+      "image": "https://www.4gamer.net/games/901/G090112/20261015001/SS/044.jpg"
     },
     {
-      "title": "『Warframe』が、ついに太陽系の外へ。”過去最大の一歩”を踏み出すため、プレイヤー全員で道を開く超大型イベントがいよいよ開幕。「あの瞬間、私はそこにいた」と振り返れる特別なものに【Lotus役声優、クリエイティブディレクター:レベッカ・フォード氏インタビュー】",
-      "url": "https://news.denfaminicogamer.jp/interview/261016w",
-      "source": "電ファミニコゲーマー",
+      "title": "「ウマ娘」公式生配信番組「ぱかライブTV' #8」が10月24日20：00に配信。新育成シナリオ「朋、史解き ―午式駿大祭―」の詳細や新ウマ娘を発表",
+      "url": "https://www.4gamer.net/games/414/G041434/20261016070/",
+      "source": "4Gamer.net",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-15T15:00:44",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/Snapshot_42.jpg"
+      "published": "2026-10-16T13:26:36",
+      "image": "https://www.4gamer.net/games/414/G041434/20261016070/SS/002.jpg"
     },
     {
-      "title": "Steamに新機能「実績セット」が登場し、実績ページが刷新。開発者が関連する実績を“グループ分け”し、より見やすくなるように",
-      "url": "https://news.denfaminicogamer.jp/news/261016j",
-      "source": "電ファミニコゲーマー",
+      "title": "レトロではなく“いま”のインディーに出会える隠れ家。日比谷のガード沿い「UKIYO GAME BAR ＆ CAFE」を訪れてみた",
+      "url": "https://www.4gamer.net/games/991/G999105/20261016035/",
+      "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-16T01:21:36",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/10d318260b61ca375da8e210197b7eae40665e30.png"
+      "published": "2026-10-17T01:00:00",
+      "image": "https://www.4gamer.net/games/991/G999105/20261016035/SS/002.jpg"
     },
     {
-      "title": "『名探偵プリキュア！』と『おジャ魔女どれみ』のコラボが決定！プリキュア4人が魔女見習いに“仮装”するハロウィン回を放送、どっきりどっきりDON DONすぎる",
-      "url": "https://news.denfaminicogamer.jp/news/2610162z",
-      "source": "電ファミニコゲーマー",
+      "title": "「Rez」制作現場で起きていた，90年代のゲームとテクノの邂逅。水口哲也氏が語った“プレイヤーが音楽を生み出すゲーム”への挑戦［The Tenth Mosaic］",
+      "url": "https://www.4gamer.net/games/390/G039027/20261016032/",
+      "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-16T01:00:58",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/1012_doremi_purecure_hz.jpg"
+      "published": "2026-10-17T00:00:00",
+      "image": "https://www.4gamer.net/games/390/G039027/20261016032/SS/025.jpg"
     },
     {
-      "title": "「一番くじ」に印象派の巨匠 ・モネの名作『散歩・日傘をさす女』をモチーフにしたフィギュアが登場。絵画の筆跡と色使いと立体で再現",
-      "url": "https://news.denfaminicogamer.jp/news/261016i",
-      "source": "電ファミニコゲーマー",
+      "title": "リズムを刻んで街の裏に潜む事件の情報を聞き出すナラティブADV「The Midnight Barber」。深夜の理髪店にやってくる客は妖精や人狼たちだ",
+      "url": "https://www.4gamer.net/games/039/G103907/20261016071/",
+      "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-16T00:49:31",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HUqWMGwbUAApXk3.jpg"
+      "published": "2026-10-17T00:00:00",
+      "image": "https://www.4gamer.net/games/039/G103907/20261016071/SS/002.jpg"
+    },
+    {
+      "title": "元カプコン吉川達哉氏の個展「Xv」レポート&インタビュー。作品に込めたこだわりから、絵を描き続ける“修行”の理由まで聞く",
+      "url": "https://www.gamebusiness.jp/article/2026/10/17/28357.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-17T00:15:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/200155.jpg"
+    },
+    {
+      "title": "買ったゲームを「所有」できるように―米下院議員が法案を発表、サーバー終了後も遊べるオフラインモードの提供も求める",
+      "url": "https://www.gamebusiness.jp/article/2026/10/17/28356.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-17T00:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/200187.jpg"
+    },
+    {
+      "title": "SNSでバズった「壁をパンチして脱出するゲーム」発表の翌日、そっくり作品がRobloxに登場─蔓延するAI使用クローンゲーム。「アイデア公開すべきではない」との声も",
+      "url": "https://www.gamebusiness.jp/article/2026/10/17/28355.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-16T23:45:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/200198.jpg"
+    },
+    {
+      "title": "尖ったゲームを世に生み出すCygamesEdgeは「既に複数タイトルが始動中」―設立第1弾タイトル『崩落の国』を体験&ブランドの展望をインタビュー",
+      "url": "https://www.gamebusiness.jp/article/2026/10/17/28354.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-16T23:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/200220.png"
+    },
+    {
+      "title": "俳優陣全員がハードコアなゲームファン！ 家族のような連帯感があった『ストリートファイター／ザ・ムービー』キタオ・サクライ監督にインタビュー",
+      "url": "https://www.gamebusiness.jp/article/2026/10/17/28348.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-16T22:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/200299.jpg"
     },
     {
       "title": "Maxon、Cinema 4D MCP Serverを発表　ClaudeやChatGPTなどAIツールから指示を出してモデリング〜レンダリングを自動化、ツール制作までを実現 - ニュース",
@@ -147,6 +237,33 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/10/C4D_MCP-01-thumb-1920x1080-90017.jpg"
     },
     {
+      "title": "トリノで1週間、トップクリエイターと過ごすCGイベント「VIEW Conference」　主催者マリア・エレナ・グティエレス氏インタビュー - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/1cgview-conference.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-16T01:12:16",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/10/fe305dea35cf0483e5d9623fbb5dea113f700715-thumb-1000x667-90018.jpg"
+    },
+    {
+      "title": "早期割引20％OFFチケット販売中！「ゲーム背景モデリング」をテーマにオンラインスキルアップイベントが11月14日～15日開催 - ニュース",
+      "url": "https://cgworld.jp/flashnews/1114-plusone-MCO23.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-16T06:39:38",
+      "image": null
+    },
+    {
+      "title": "CGWORLD vol.340（2026年12月号）「MAPPA CGI、その役割と現在地」特集号を先行告知！ - ニュース",
+      "url": "https://cgworld.jp/flashnews/cgw340-pr.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-16T03:30:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/10/web_340_infobanner_before-thumb-1000x563-90025.jpg"
+    },
+    {
       "title": "【After Effects 2026】コンポジションのサイズを変更してもガイドの位置を固定できるピンガイドほか、新しくなった「ガイドの作成・編集・管理」 - 連載",
       "url": "https://cgworld.jp/regular/202610-tipsnote.html",
       "source": "CGWORLD",
@@ -154,114 +271,6 @@
       "importance": "normal",
       "published": "2026-10-16T01:02:52",
       "image": "https://cgworld.jp/regular/assets_c/2026/10/Tipsnote-photo-2026204-thumb-800x445-89781.png"
-    },
-    {
-      "title": "『ケンエレファントのデジタル造形術』作家との二人三脚でつくる面白くて精巧なカプセルトイ ～No.3／ザリガニボーイズ篇 - 特集",
-      "url": "https://cgworld.jp/article/202609-kenele03.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-15T01:00:49",
-      "image": "https://cgworld.jp/article/assets_c/2026/09/Main_shimen_Img93394_hoseizumi_p1-thumb-1000x663-89146.jpg"
-    },
-    {
-      "title": "SideFX、Frame48によるHoudini事例の日本語記事を公開　小規模スタジオ環境でのAPEX・Solaris・USDワークフロー - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202610-Houdini-Frame48.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-15T00:42:47",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/10/Houdini_Frame48-01-thumb-1920x1081-89954.jpg"
-    },
-    {
-      "title": "「アッシュアームズ-灰燼戦線-」，7周年記念アップデート前半を開始。ヒストリエ新章に加え，新DOLLS「AMXCdC」「M103（T43）」が登場",
-      "url": "https://www.4gamer.net/games/450/G045094/20261015056/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-15T14:00:26",
-      "image": "https://www.4gamer.net/games/450/G045094/20261015056/SS/001.jpg"
-    },
-    {
-      "title": "「メイプルストーリーM」，7.5周年アップデートを実施",
-      "url": "https://www.4gamer.net/games/324/G032445/20261015051/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-15T12:15:17",
-      "image": "https://www.4gamer.net/games/324/G032445/20261015051/SS/001.jpg"
-    },
-    {
-      "title": "「ペンギン・コロニー」は人間たちの狂気と自滅をペンギン視点で傍観するコズミックホラーADV。しかし，そこには予想外の問いかけが待っていた［プレイレポ］",
-      "url": "https://www.4gamer.net/games/001/G100114/20261015011/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-16T01:00:00",
-      "image": "https://www.4gamer.net/games/001/G100114/20261015011/SS/016.jpg"
-    },
-    {
-      "title": "Switch2向け2人プレイ専用ホラーゲーム「Beyond the Dark:ナイトウォッチ」，10月22日に発売",
-      "url": "https://www.4gamer.net/games/050/G105042/20261015020/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-16T00:00:00",
-      "image": "https://www.4gamer.net/games/050/G105042/20261015020/SS/005.jpg"
-    },
-    {
-      "title": "これはローグライトなスター・ウォーズ版「バーンアウト」じゃ！（あかねのSteam Pick Up！）",
-      "url": "https://www.4gamer.net/games/968/G096885/20261015009/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-15T23:00:00",
-      "image": "https://www.4gamer.net/games/968/G096885/20261015009/SS/003.jpg"
-    },
-    {
-      "title": "『Ever17』『極限脱出』などの打越鋼太郎氏、来年発表予定だった新作が開発中止になったと報告。新スタジオ「CRASH KEYS」設立を明かし、新たな仕事や出資を募る",
-      "url": "https://www.gamebusiness.jp/article/2026/10/16/28332.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-15T21:15:02",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/200035.jpg"
-    },
-    {
-      "title": "『SCUM』開発のGamepiresがスタジオ規模縮小&レイオフ発表―開発メンバー削減も今後も開発は継続",
-      "url": "https://www.gamebusiness.jp/article/2026/10/16/28331.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-15T21:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/200045.jpg"
-    },
-    {
-      "title": "サイバーステップHD、クレーンゲームアプリ「トレバ」など主力事業が改善し売上高79.1％増も、全社費用や先行投資が響き営業赤字は拡大",
-      "url": "https://www.gamebusiness.jp/article/2026/10/15/28329.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-15T07:37:20",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199955.png"
-    },
-    {
-      "title": "自作RPGをSteam Deckでも。『RPG Developer Bakin』大型アプデで対応を公式発表―DirectX 12（β）も実装",
-      "url": "https://www.gamebusiness.jp/article/2026/10/15/28327.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-15T06:06:22",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199944.png"
-    },
-    {
-      "title": "アークシステムワークス、東京・新宿に新たな開発拠点を開設へ―「IP360」採択の新規IP対戦格闘ゲームの開発などに取り組む",
-      "url": "https://www.gamebusiness.jp/article/2026/10/16/28340.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-15T23:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/199964.jpg"
     },
     {
       "title": "『ゼルダの伝説 時のオカリナ』リメイク版をプレイして判明した29個の新要素――作り直されたパズルに進化した中ボス戦、深みを増した会話など",
@@ -273,40 +282,40 @@
       "image": "https://sm.ign.com/ign_jp/feature/2/29-new-cha/29-new-changes-in-the-zelda-ocarina-of-time-remake-redesigne_j959.jpg"
     },
     {
-      "title": "『Castlevania: Belmont’s Curse』レビュー アクション重視のハイペースなゲームプレイで、シリーズを現代へと導く待望の復活",
-      "url": "https://jp.ign.com/castlevania-belmonts-curse/84406/castlevania-belmonts-curse",
+      "title": "映画版『ストリートファイター／ザ・ムービー』レビュー",
+      "url": "https://jp.ign.com/street-fighter-2026/84421/",
       "source": "IGN Japan",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-14T09:31:04",
-      "image": "https://sm.ign.com/ign_jp/review/c/castlevani/castlevania-belmonts-curse-review_jw4q.jpg"
+      "published": "2026-10-16T02:40:51",
+      "image": "https://sm.ign.com/ign_jp/review/s/street-fig/street-fighter-review_c6vm.jpg"
     },
     {
-      "title": "ロジクールのワイヤレスマウス「MX MASTER 4」がAmazon プライム感謝祭先行セールにて15%オフで販売中",
-      "url": "https://jp.ign.com/gaming-device/84415/mx-master-4amazon-15",
+      "title": "ゼンハイザーのワイヤレスヘッドホン「MOMENTUM 4 Wireless」がAmazon プライム感謝祭先行セールにて最大49％オフで販売中",
+      "url": "https://jp.ign.com/gaming-device/84420/momentum-4-wirelessamazon-49",
       "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-15T02:31:24",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_29h3.png"
+      "published": "2026-10-16T06:33:28",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_dk9e.jpg"
     },
     {
-      "title": "苦手勢も肯定的？『SILENT HILL: Townfall』プレイ感想：今週遊んだゲーム 10/14/2026",
-      "url": "https://jp.ign.com/gamer-1/84402/silent-hill-townfall-10142026",
+      "title": "RTX 5060を搭載したASUSの16型ゲーミングノートPC「TUF Gaming F16 FX608JMI」がAmazon プライム感謝祭先行セールにて24%オフで販売中",
+      "url": "https://jp.ign.com/gaming-device/84419/rtx-5060asus16pctuf-gaming-f16-fx608jmiamazon-24",
       "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-14T11:00:34",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/sh1014_8h48.jpg"
+      "published": "2026-10-16T06:23:20",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_58s7.png"
     },
     {
-      "title": "『Castlevania: Belmont’s Curse』スクリーンショット",
-      "url": "https://jp.ign.com/castlevania-belmonts-curse/84407/castlevania-belmonts-curse",
+      "title": "Street Fighter Images",
+      "url": "https://jp.ign.com/street-fighter-2026/84422/street-fighter-images",
       "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-14T09:31:04",
-      "image": "https://sm.ign.com/ign_jp/gallery/c/castlevani/castlevania-belmonts-curse-gallery_av7t.jpg"
+      "published": "2026-10-16T02:40:51",
+      "image": "https://sm.ign.com/ign_jp/gallery/s/street-fig/street-fighter-images_kzx5.jpg"
     }
   ]
 }
