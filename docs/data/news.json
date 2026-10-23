@@ -1,141 +1,231 @@
 {
-  "generated_at": "2026-10-22T02:20:38.232046",
+  "generated_at": "2026-10-23T02:26:09.960097",
   "poem": "",
   "articles": [
     {
-      "title": "PHPの脆弱性でサービス終了を発表、本格旅行ゲーム『ワールドクエスト』が公式声明。充分な対策とれず、ユーザーの保護を優先",
-      "url": "https://news.denfaminicogamer.jp/news/261022m",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-22T01:43:15",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/original.jpg"
-    },
-    {
-      "title": "初音ミクのパズルゲーム『初音ミク つなげるパズル たまごとり デラックス』10月29日に発売決定。2022年に出た本編とふたつのDLCを収めたデラックス版",
-      "url": "https://news.denfaminicogamer.jp/news/261022c",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-22T01:00:53",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/image1-14.png"
-    },
-    {
-      "title": "【最大4人マルチ】キャンピングカーで山を乗り越えるゲーム『RV There Yet?』PS5版とNintendo Switch 2版が10月29日に発売へ。全プラットフォームでクロスプレイできるアップデートも",
-      "url": "https://news.denfaminicogamer.jp/news/261022f",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-22T00:53:36",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_e1d049defe6110250dd1e0e50cf1112ff6391381.1920x1080-1.jpg"
-    },
-    {
-      "title": "押し寄せる敵を片っ端から吹っ飛ばす爽快FPS『シリアスサム』シリーズ新作『The Third Encounter』発表！2002年に発売された『The Second Encounter』直後のストーリーが描かれる",
-      "url": "https://news.denfaminicogamer.jp/news/261022e",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-21T22:18:14",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/videoframe_15394.png"
-    },
-    {
-      "title": "EA傘下のスタジオ「BioWare」の閉鎖が発表、『Mass Effect』次期プロジェクトの開発も終了へ。『Dragon Age』『ANTHEM』など手掛ける",
-      "url": "https://news.denfaminicogamer.jp/news/261022b",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-21T18:57:39",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/xK2b8gY5A5oyYlc1pnUUVEm5.jpg"
-    },
-    {
-      "title": "「Warframe」は，大規模イベント“一大作戦：Tauへの道”で何を描き，どう変わっていくのか。開発者に見どころと少し先の未来について聞いた［インタビュー］",
-      "url": "https://www.4gamer.net/games/172/G017216/20261021057/",
+      "title": "「Windrose」，今冬配信予定の大型アップデート「Ashlands」新情報を公開。UIが刷新されて遊びやすくなり，舟歌も追加される",
+      "url": "https://www.4gamer.net/games/966/G096663/20261023002/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-22T00:00:00",
-      "image": "https://www.4gamer.net/games/172/G017216/20261021057/SS/006.jpg"
+      "published": "2026-10-22T15:52:50",
+      "image": "https://www.4gamer.net/games/966/G096663/20261023002/SS/003.jpg"
     },
     {
-      "title": "最弱ゾンビが下克上！　アートも作り手の姿勢もパンクな「ステューピッド・ネバー・ダイズ」に込めたアクションゲーム愛とは？［インタビュー］",
-      "url": "https://www.4gamer.net/games/968/G096854/20261014008/",
+      "title": "「ペルソナ4 リバイバル」，イゴール，マーガレット，マリーのプロフィールと，特別な空間「ベルベットルーム」の情報を公開。ペルソナ検定も実施",
+      "url": "https://www.4gamer.net/games/918/G091829/20261023003/",
       "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-23T02:11:47",
+      "image": "https://www.4gamer.net/games/918/G091829/20261023003/SS/012.jpg"
+    },
+    {
+      "title": "「Gears of War: E-Day」の戦場では，決して1人じゃない。ルーキーが目の当たりにした仲間たちの筋肉，絆，そしてアツさ［プレイレポ］",
+      "url": "https://www.4gamer.net/games/968/G096869/20261022013/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-22T23:00:00",
+      "image": "https://www.4gamer.net/games/968/G096869/20261022013/SS/015.jpg"
+    },
+    {
+      "title": "嵐の迫る無人の町で失踪したミュージシャンを追う横スクロールホラー「Silver Pines」（あかねのSteam Pick Up！）",
+      "url": "https://www.4gamer.net/games/987/G098799/20261022002/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-22T23:00:00",
+      "image": "https://www.4gamer.net/games/987/G098799/20261022002/SS/009.jpg"
+    },
+    {
+      "title": "壁世界にコロニーを築き上げろ！ シリーズ最新作「Wall World Strategy」，発売日を11月11日に決定。おなじみの多脚メカもしっかり登場",
+      "url": "https://www.4gamer.net/games/052/G105259/20261023001/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-22T15:18:44",
+      "image": "https://www.4gamer.net/games/052/G105259/20261023001/SS/001.jpg"
+    },
+    {
+      "title": "『ファイナルファンタジー レゾナンス』Steam版が最大同接2万人を記録。ユーザーレビュー94%高評価の「非常に好評」など人気を集める",
+      "url": "https://news.denfaminicogamer.jp/news/261023k",
+      "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-21T23:00:00",
-      "image": "https://www.4gamer.net/games/968/G096854/20261014008/SS/049.jpg"
+      "published": "2026-10-23T01:40:41",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_bdcd2e31efccfae8018e1679347ba1cfbac97516.1920x1080-2.jpg"
     },
     {
-      "title": "運と即断で戦況をひっくり返す合成RPG「キタキタ王様」，本日サービス開始。1プレイ約3分のタワーディフェンス",
-      "url": "https://www.4gamer.net/games/044/G104419/20261022003/",
-      "source": "4Gamer.net",
+      "title": "『めっちゃカメレオン』Switch 2のパッケージ版が12月17日に発売決定。購入特典として“擬態”と“鬼”のアクリルフィギュアが付属",
+      "url": "https://news.denfaminicogamer.jp/news/2610223f",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-22T13:48:58",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/HVO6IIub0AAc7T8.jpg"
+    },
+    {
+      "title": "『文字化化』のオンリーショップが11月20日よりアニメイト横浜ビブレにて開催決定。「Star Wandering」をテーマに、原作者新規描き下ろしイラストを使用したグッズが登場",
+      "url": "https://news.denfaminicogamer.jp/news/2610232f",
+      "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-22T02:02:36",
-      "image": "https://www.4gamer.net/games/044/G104419/20261022003/SS/001.jpg"
+      "published": "2026-10-23T02:00:02",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/48dc3d97d48dabe298d4cb984312624b.jpg"
     },
     {
-      "title": "男色ディーノのゲイムヒヒョー ゼロ：第912回「ほんの出来心」",
-      "url": "https://www.4gamer.net/games/945/G094545/20261020013/",
-      "source": "4Gamer.net",
+      "title": "【50％還元】『鋼の錬金術師』『薬屋のひとりごと』などKindleにて「スクウェア・エニックス特集 50%ポイント還元」セールが開催中！『とある魔術の禁書目録』『その着せ替え人形は恋をする』ほか人気マンガが多数対象",
+      "url": "https://news.denfaminicogamer.jp/news/261023i",
+      "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-22T02:00:00",
-      "image": "https://www.4gamer.net/games/945/G094545/20261020013/SS/005.jpg"
+      "published": "2026-10-23T01:39:14",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/sukueni1-1.jpg"
     },
     {
-      "title": "「ONE PIECE 海のごちそうレストラン」は，ファン必見のアニメ再現メニューやマニアックな小ネタが満載。「ONE PIECE」の世界を魅力的に表現した経営シムを体験［プレイレポ］",
-      "url": "https://www.4gamer.net/games/015/G101532/20260911042/",
-      "source": "4Gamer.net",
+      "title": "【無料】TVアニメ『魔法使いの嫁』第1期・第2期がYouTubeで無料公開中。孤独な少女と異形の魔法使いによる本格ファンタジー",
+      "url": "https://news.denfaminicogamer.jp/news/261023m",
+      "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-22T01:00:00",
-      "image": "https://www.4gamer.net/games/015/G101532/20260911042/SS/022.jpg"
+      "published": "2026-10-23T01:23:39",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/maxresdefault-12.jpg"
     },
     {
-      "title": "人気ドンパチFPS『シリアス・サム』最新作『Serious Sam: The Third Encounter』発表。24年越しに描かれる『The Second Encounter』のその後",
-      "url": "https://automaton-media.com/articles/newsjp/serious-sam-the-third-encounter-20261022-474876/",
+      "title": "「義妹生活」が作業用ゲーム化、『義妹生活 Days with My Lo-Fi Sister』発表。高級ASMRマイクで“寝落ち音声”収録、作業からの「添い寝モード」",
+      "url": "https://automaton-media.com/articles/newsjp/20261022-475040/",
       "source": "Automaton",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-22T00:35:15",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/serious-sam-the-third-encounter-20261022-474876-header.jpg"
+      "published": "2026-10-22T11:34:06",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261022-475040-001.jpg"
     },
     {
-      "title": "“全人類”を入場させるゲーム『Round and Round Inc.』発表、11月配信へ。目指せ82億人、まるで人間マシンガン",
-      "url": "https://automaton-media.com/articles/newsjp/20261021-474682/",
+      "title": "ゲームフリーク社員と東大教授が「水表現を美しいまま軽くする新技術」発表。計算負荷だけごっそり削減、水シミュレーション高速化",
+      "url": "https://automaton-media.com/articles/newsjp/20261022-475027/",
       "source": "Automaton",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-21T08:04:17",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261021-474682-header.jpeg"
+      "published": "2026-10-22T10:31:44",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261022-475027-header.jpg"
     },
     {
-      "title": "リアルサッカー監督シム『Football Manager 27』発売直前に“製品版ほぼそのまま”無料開放へ、10月30日から5日間。製品版にセーブデータ引き継ぎ可能、大改善された新作をたっぷり遊べる",
-      "url": "https://automaton-media.com/articles/newsjp/20261022-474882/",
+      "title": "『ファイナルファンタジー レゾナンス』レビュー。「昔のファイナルファンタジーという概念」を、令和式に提供するゲーム",
+      "url": "https://automaton-media.com/articles/impressionjp/final-fantasy-resonance-20261022-474969/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-22T08:03:24",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/final-fantasy-resonance-20261022-474969-001.jpg"
+    },
+    {
+      "title": "一人称ダークファンタジーARPG『フェイトキーパー』約4か月で売上“50万本”突破。ドでかスキルツリーで脳筋から属性特化まで、剣と魔法と錬金術の自由ビルド",
+      "url": "https://automaton-media.com/articles/newsjp/20261022-474917/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-22T05:26:08",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261022-474917-header.jpg"
+    },
+    {
+      "title": "数万円級プレミアソフト『ファンタズム』などが「ゲームボーイ Nintendo Classics」にて復刻。異色作“3本立て”で配信開始",
+      "url": "https://automaton-media.com/articles/newsjp/20261023-475071/",
       "source": "Automaton",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-22T01:34:54",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261022-474882-header.jpg"
+      "published": "2026-10-23T01:42:39",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261023-475071-header.jpg"
     },
     {
-      "title": "EAが「BioWareを閉鎖」し、『Mass Effect』最新作も開発中止。歴史あるRPGスタジオに、突然の幕切れ",
-      "url": "https://automaton-media.com/articles/newsjp/20261022-474839/",
-      "source": "Automaton",
+      "title": "「サイバーパンク: エッジランナーズ2」海外レビューで映像美やアクションに高評価―複数の人物を描く物語にはユーザー・メディアどちらからも賛否",
+      "url": "https://www.gamebusiness.jp/article/2026/10/23/28418.html",
+      "source": "GameBusiness.jp",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-10-21T17:53:36",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261022-474839-header-.jpg"
+      "importance": "high",
+      "published": "2026-10-22T21:45:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/200924.jpg"
     },
     {
-      "title": "『サイバーパンク2077』大型アプデでまさかの新エリア「ナイトシティ刑務所」実装へ。新クエストいろいろ",
-      "url": "https://automaton-media.com/articles/newsjp/20261022-474797/",
-      "source": "Automaton",
+      "title": "生成AIを全面活用した長編アニメ映画「星の唄が聞こえる」が完成 「技術力の共有として」YouTubeで無料公開",
+      "url": "https://www.gamebusiness.jp/article/2026/10/23/28423.html",
+      "source": "GameBusiness.jp",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-21T15:32:50",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261022-474797-header.jpg"
+      "published": "2026-10-22T23:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/200883.jpg"
+    },
+    {
+      "title": "『ドラゴンボール ゼノバース３』はなぜAGE 1000を描くのか？「原作世界に入って闘う部分はやり切った」開発陣が語る新たな挑戦。“自分だけの最強”を目指す育成思想や、鳥山明氏から受け取ったアイデアにも迫る",
+      "url": "https://www.gamebusiness.jp/article/2026/10/23/28422.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-22T22:45:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/200893.png"
+    },
+    {
+      "title": "ギターアプリと無限音楽機関をRISC-Vタブレットに組み込んで、いつでもデモできるようにした（CloseBox）",
+      "url": "https://www.gamebusiness.jp/article/2026/10/23/28421.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-22T22:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/200902.png"
+    },
+    {
+      "title": "カプコン、不正アクセスでメールアドレス約1,100万件流出―パスワード漏えいはないものの「不正な変更」を196件確認",
+      "url": "https://www.gamebusiness.jp/article/2026/10/23/28420.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-22T22:15:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/200913.jpg"
+    },
+    {
+      "title": "オープンソース&無料の.NET向け2Dゲームフレームワーク「VOID Engine」、ver2.2へアップデート。2Dレベルエディタ「LDtk」を統合したフレームワーク",
+      "url": "https://gamemakers.jp/article/2026_10_21_146787/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-21T09:58:40",
+      "image": null
+    },
+    {
+      "title": "メカニカルと磁気を切替可能なスイッチを搭載。65%サイズのUS配列キーボード「Lofree Hyzen」、国内で販売開始",
+      "url": "https://gamemakers.jp/article/2026_10_22_148201/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-22T12:05:56",
+      "image": null
+    },
+    {
+      "title": "CAD×3Dモデリングツール「Plasticity 2026.2」リリース。ジオメトリ同士のつながりを保ったまま変形できる「Constraint System」が実装",
+      "url": "https://gamemakers.jp/article/2026_10_22_148158/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-22T09:04:28",
+      "image": null
+    },
+    {
+      "title": "「GDC Festival of Gaming 2027」、会期を当初予定の5日間から4日間に短縮。3/1〜3/4にサンフランシスコで開催",
+      "url": "https://gamemakers.jp/article/2026_10_22_148135/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-22T06:33:51",
+      "image": null
+    },
+    {
+      "title": "オープンソース&無料のゲームエンジン「Defold 1.14.0」リリース。Xbox向けビルドをサポート、キューブマップへの描画も可能に",
+      "url": "https://gamemakers.jp/article/2026_10_22_147337/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-22T03:55:32",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/10/db69ff8e9157a0f272e8adc84b7d5905.jpg"
     },
     {
       "title": "家族連れからゲーマーまでお祭り気分で満喫するゲームイベント「第9回全国エンタメまつり」レポート",
@@ -147,15 +237,6 @@
       "image": "https://sm.ign.com/ign_jp/screenshot/default/_xdav.jpg"
     },
     {
-      "title": "高価だが満足度は抜群。私が「Steam Machine」を買い、すっかり魅了されるまで",
-      "url": "https://jp.ign.com/steam-machine/84441/steam-machine",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-20T04:47:46",
-      "image": "https://sm.ign.com/ign_jp/feature/i/i-bought-a/i-bought-a-steam-machine-heres-why-and-how-its-going_aas5.jpg"
-    },
-    {
       "title": "『ファイナルファンタジー レゾナンス』レビュー 昔ながらのRPGが、さまざまな面で今なお新たな高みを目指せることを証明する一作",
       "url": "https://jp.ign.com/final-fantasy-resonance/84451/rpg",
       "source": "IGN Japan",
@@ -165,31 +246,49 @@
       "image": "https://sm.ign.com/ign_jp/review/f/final-fant/final-fantasy-resonance-review_wabg.jpg"
     },
     {
-      "title": "NINTENDO 64版『ゼルダの伝説 時のオカリナ』の発売当時のレビュー",
-      "url": "https://jp.ign.com/the-legend-of-zelda-ocarina-of-time-1998/84432/nintendo-64",
+      "title": "Steam Nextフェス開幕 「AI利用の手抜きのゲームが多い」という理由からAI除外フィルターの導入を求める声も",
+      "url": "https://jp.ign.com/steam/84468/steam-next-aiai",
       "source": "IGN Japan",
       "category": "other",
-      "importance": "high",
-      "published": "2026-10-20T03:08:04",
-      "image": "https://sm.ign.com/ign_jp/review/t/the-legend/the-legend-of-zelda-ocarina-of-time-review_9tx7.jpg"
+      "importance": "normal",
+      "published": "2026-10-22T03:18:39",
+      "image": "https://sm.ign.com/ign_jp/news/s/steam-fans/steam-fans-are-begging-for-a-no-ai-filter-as-steam-next-fest_pbfe.jpg"
     },
     {
-      "title": "『サイバーパンク: エッジランナーズ 2』レビュー",
-      "url": "https://jp.ign.com/cyberpunk-edgerunners-2/84437/2",
+      "title": "英任天堂、『ゼルダの伝説 時のオカリナ』の新トレーラーで1998年の原作のCMにオマージュを捧げる",
+      "url": "https://jp.ign.com/the-legend-of-zelda-ocarina-of-time/84455/1998cm",
       "source": "IGN Japan",
       "category": "other",
-      "importance": "high",
-      "published": "2026-10-20T02:34:48",
-      "image": "https://sm.ign.com/ign_jp/photo/default/cyberpunk-edgerunners-2-n-s1-e1-00-07-34-15-1787249705954_qq9z.jpg"
+      "importance": "normal",
+      "published": "2026-10-21T09:43:59",
+      "image": "https://sm.ign.com/ign_jp/news/n/nintendo-p/nintendo-pays-homage-to-original-1998-commercial-for-the-leg_w4u1.jpg"
     },
     {
-      "title": "Rethinking the funnel: where mobile gaming really fits in the marketing mix",
-      "url": "https://unity.com/blog/mobile-gaming-advertising-full-funnel-strategy-for-marketers",
+      "title": "Nintendo Switch Sports Resort Screenshots",
+      "url": "https://jp.ign.com/nintendo-switch-sports-resort/84446/nintendo-switch-sports-resort-screenshots",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-21T04:00:34",
+      "image": "https://sm.ign.com/ign_jp/gallery/n/nintendo-s/nintendo-switch-sports-resort-screenshots_8hdf.png"
+    },
+    {
+      "title": "Meeting you where you work: Inside 200M+ Unity CLI events",
+      "url": "https://unity.com/blog/unity-cli-usage-data-ai-coding-agents",
       "source": "Unity Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-21T00:00:00",
-      "image": "https://cdn.sanity.io/images/fuvbjjlp/production/578d10a056d1eb816046a82a41ecfc7b7694d949-5472x3568.jpg"
+      "published": "2026-10-22T00:00:00",
+      "image": "https://cdn.sanity.io/images/fuvbjjlp/production/55efa13879e7b4b911b21e5f69db2cda6b3dd703-1920x1080.png"
+    },
+    {
+      "title": "Skipping domain reload: faster iteration using the MethodReload feature",
+      "url": "https://unity.com/blog/skipping-domain-reload-faster-iteration-using-the-methodreload-feature",
+      "source": "Unity Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-22T00:00:00",
+      "image": "htttps://unity.com/unity-logo-2024.png"
     }
   ]
 }
