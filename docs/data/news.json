@@ -1,231 +1,186 @@
 {
-  "generated_at": "2026-10-29T03:22:13.702065",
+  "generated_at": "2026-10-30T03:23:57.489958",
   "poem": "",
   "articles": [
     {
-      "title": "学園SF×ボールスポーツのボスラッシュアクション「BAKUDO」，Switch2版を発表。学園生活や強敵とのバトルを描く新トレイラーも公開",
-      "url": "https://www.4gamer.net/games/053/G105393/20261029008/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-29T02:05:39",
-      "image": "https://www.4gamer.net/games/053/G105393/20261029008/SS/001.jpg"
-    },
-    {
-      "title": "「スーパーダンガンラジオ リブート 〜希望のゲストと絶望のオガタ〜」，第0回を10月30日に配信",
-      "url": "https://www.4gamer.net/games/945/G094561/20261029013/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-29T03:20:22",
-      "image": "https://www.4gamer.net/games/945/G094561/20261029013/SS/001.jpg"
-    },
-    {
-      "title": "RGBストライプ構造と5層タンデムOLEDを採用した34インチウルトラワイドディスプレイ「MEG X」がMSIから登場",
-      "url": "https://www.4gamer.net/games/118/G011863/20261029014/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-29T03:20:18",
-      "image": "https://www.4gamer.net/games/118/G011863/20261029014/SS/002.jpg"
-    },
-    {
-      "title": "「勝利の女神：NIKKE」4周年記念バージョン「MARIA-n」を本日実装。SSR「マリアン：クイーン」登場，最大259回の無料募集も",
-      "url": "https://www.4gamer.net/games/456/G045622/20261029012/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-29T03:05:47",
-      "image": "https://www.4gamer.net/games/456/G045622/20261029012/SS/001.jpg"
-    },
-    {
-      "title": "「ドカポンキングダム コネクト2」が2027年夏に全世界同時発売。「大共闘戦」「キャラクターメイキング」を新要素として実装",
-      "url": "https://www.4gamer.net/games/053/G105326/20261027023/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-29T03:00:00",
-      "image": "https://www.4gamer.net/games/053/G105326/20261027023/SS/001.jpg"
-    },
-    {
-      "title": "『ドカポン』約23年ぶりの完全新作『ドカポンキングダム コネクト2』発表。共闘したのに報酬は“独り占め”できる新要素で、もっと友情壊れる金奪いバトル",
-      "url": "https://automaton-media.com/articles/newsjp/20261029-476273/",
+      "title": "『アーマード・コア6』の「パイルバンカーボールペン」発表。光るし書ける",
+      "url": "https://automaton-media.com/articles/newsjp/20261030-476652/",
       "source": "Automaton",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-29T03:00:01",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261029-476273-header.jpg"
+      "published": "2026-10-30T03:16:54",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261030-476652-header.jpg"
     },
     {
-      "title": "人気協力ホラー『R.E.P.O.』Nintendo Switch 2版発表。Steamでの大人気作がまたしてもSwitch 2に",
-      "url": "https://automaton-media.com/articles/newsjp/20261028-476201/",
+      "title": "巨大戦闘ロボット修理シム『Bay 12: Mech Repair』発表。一流整備士として影から支える、見てないのに傷から感じる“戦争の厳しさ”",
+      "url": "https://automaton-media.com/articles/newsjp/20261030-476611/",
       "source": "Automaton",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-28T14:24:54",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261028-476201-header.jpg"
+      "published": "2026-10-30T02:00:48",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261030-476611-header.jpg"
     },
     {
-      "title": "PS5/PS4向け「PS Plusフリープレイ」11月は“非対称5v1”ステルスホラー『Secret Neighbor』など配布へ。総額1万円超え",
-      "url": "https://automaton-media.com/articles/newsjp/20261029-476345/",
+      "title": "最大4人プレイ対応「牛丼屋」シム『牛丼店シミュレーター』発表、11月13日配信へ。“約10年牛丼屋で働いた”開発者が手がける、注文されたら5分以内で提供の容赦なき労働",
+      "url": "https://automaton-media.com/articles/newsjp/20261030-476558/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-29T23:13:28",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261030-476558-header.jpeg"
+    },
+    {
+      "title": "『STEINS;GATE』など科学ADVチームが放つ“非”科学サスペンス『覗怪』来年2月25日発売へ。現実のプレイヤーが「怪異に侵される」怪談の謎に迫る",
+      "url": "https://automaton-media.com/articles/newsjp/20261030-476632/",
       "source": "Automaton",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-29T03:20:08",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261029-476345-header.jpg"
+      "published": "2026-10-30T03:00:02",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261030-476632-header.jpg"
     },
     {
-      "title": "Steam運営元Valveが「AIでゲームをパクられる問題」について回答。模倣は昔からあったとして、“地道な対抗策”示す",
-      "url": "https://automaton-media.com/articles/newsjp/20261029-476334/",
+      "title": "『崩壊：スターレイル』の“未公開テストデータ”を不正入手した人物に「約2400万円」の賠償判決。導入方法まで広める悪質行為に鉄槌",
+      "url": "https://automaton-media.com/articles/newsjp/20261030-476605/",
       "source": "Automaton",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-29T03:11:04",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261029-476334-header.jpg"
+      "published": "2026-10-30T01:50:44",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261030-476605-header.jpg"
     },
     {
-      "title": "レジェンド・インディーゲーム開発者ジョナサン・ブロウは、何故レジェンドなのか？『Braid』『The Witness』含めた歴史から見えてくるその理由、「ビデオゲームの求道者」たる源泉",
-      "url": "https://automaton-media.com/articles/columnjp/jonathan-20261029-476298/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-29T03:10:03",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/jonathan-blow-001.jpg"
-    },
-    {
-      "title": "海外版『ダライアスII』や『スペースインベーダー』を収録した、タイトーのコレクションタイトル『タイトーマイルストーン5』発売決定",
-      "url": "https://news.denfaminicogamer.jp/news/261029t",
+      "title": "怪奇現象をオカルト雑誌の編集者として取材するゲーム『覗怪（しかい）』2027年2月25日に発売決定。杉田智和さん、葵あずささん、逢田梨香子さん、置鮎龍太郎さん、本多真梨子さんらが出演決定",
+      "url": "https://news.denfaminicogamer.jp/news/261030i",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-29T03:06:40",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/tm5_top.png"
+      "published": "2026-10-30T03:00:19",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/product.jpg"
     },
     {
-      "title": "『モンハンアウトランダーズ』は1週間遊んでも底知れぬ本物の『モンハン』新作だった。仲間のために武器を打ち、夜になったら踊り狂う日々が待っている。【先行プレイレビュー】",
-      "url": "https://news.denfaminicogamer.jp/kikakuthetower/261029m",
+      "title": "『Slay the Spire 2』大型アップデートが11月13日に配信へ！新たなゲームモードなどが登場",
+      "url": "https://news.denfaminicogamer.jp/news/261030u",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-29T02:00:38",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/Snapshot_117.jpg"
+      "published": "2026-10-30T01:47:13",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_f3af7cb9693b9c4b6a7555227db3fef943db3992.1920x1080-1.webp"
     },
     {
-      "title": "【公式】ハンバーガーの「ウェンディーズ」まさかの本格的な公式RPGを発表。『WendyQuest』Steamストアページが公開、戦闘もビジュアルも超クオリティ",
-      "url": "https://news.denfaminicogamer.jp/news/261029f",
+      "title": "Amazonプライムビデオが11月の新着作品を発表。劇場版『Fate/stay night［HF］』3部作や『空の境界』10作品、『SAO』『シュタゲ』がラインナップ",
+      "url": "https://news.denfaminicogamer.jp/news/2610302u",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-28T23:32:43",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/ss_1c0b37e579f995b32b9e4c84c298a4395a026434.1920x1080-1.jpg"
+      "published": "2026-10-30T01:00:51",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/kv02-1.jpg"
     },
     {
-      "title": "『アークナイツ：エンドフィールド』、ようやくプレイアブルになったスーちゃん……かわいいね。「フンっ」はツンデレのアンセム、令和の世にここまで真正面のツンデレキャラを供給してくれてありがとう【「丹青渡」プレイ日記】",
-      "url": "https://news.denfaminicogamer.jp/news/2609183e",
+      "title": "【最大8人】“クトゥルフ神話”のお絵描き当てゲーム『ミスカトニック⼤学美術部』が本日10月30日より発売。説明文が激ムズすぎて、画力どころじゃなさそう",
+      "url": "https://news.denfaminicogamer.jp/news/261030r",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-29T03:08:56",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/09/9324182783d77aed0731e0f2ffe4eb8d.jpg"
+      "published": "2026-10-30T03:16:24",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/4436c3d632eb6d53fa9c8d1bce673ccd.jpg"
     },
     {
-      "title": "映画『バイオハザード』はゲームの本質を捉えた、ゲーム映画史上に残る傑作である。手に入れると“ステージ”が変わるショットガンと弾数の苦悩。ホラーを入り口としつつジャンルが変化していく体験…めっちゃ『バイオ』のこと分かってるよ、この監督！",
-      "url": "https://news.denfaminicogamer.jp/kikakuthetower/2610292b",
+      "title": "「バニーガールが嫌いな人なんているのか？」──4周年を迎える『勝利の女神：NIKKE』開発陣、“バニーとはなにか”を本気で議論していた",
+      "url": "https://news.denfaminicogamer.jp/interview/261030z",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-29T03:00:40",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/image3-23.jpg"
+      "published": "2026-10-30T03:05:52",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/image_001-14.jpg"
     },
     {
-      "title": "成人向けヒット作『ループトレイン』制作サークル、Steamのデバンキングや口座開設拒否の問題を議員・金融庁関係者に解説―過去には約1年半にわたり海外売上を受け取れず",
-      "url": "https://www.gamebusiness.jp/article/2026/10/29/28485.html",
+      "title": "全米1位のパズルゲームを生んだ会社には“売上目標”がない！？ゲーミンキャットに聞く「世界のトップを取れる開発者」 に求められるモノとは",
+      "url": "https://www.gamebusiness.jp/article/2026/10/30/28501.html",
       "source": "GameBusiness.jp",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-28T21:45:02",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/201672.jpg"
+      "published": "2026-10-30T03:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/200995.png"
     },
     {
-      "title": "「サイバーパンク: エッジランナーズ2」はなぜ前作と違う作品になったのか？五十嵐海監督＆大塚雅彦氏が語る制作秘話、TRIGGER若手スタッフの挑戦【インタビュー】",
-      "url": "https://www.gamebusiness.jp/article/2026/10/28/28478.html",
+      "title": "GitHubがAIエージェント前提の新機能群発表、タスクごとにAIモデルを自動で振り分けて複数リポジトリの作業を並列実行",
+      "url": "https://www.gamebusiness.jp/article/2026/10/30/28500.html",
       "source": "GameBusiness.jp",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-28T00:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/201485.jpg"
+      "published": "2026-10-29T22:45:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/201703.png"
     },
     {
-      "title": "インディーゲームの販路開拓に新たな選択肢―Steamキー直販と配信者マッチングを組み合わせた「IndiePort」が登場",
-      "url": "https://www.gamebusiness.jp/article/2026/10/29/28491.html",
+      "title": "『ガンダム バトオペ2』と『バトオペ3』の同時運営は行わない…今後の方針が発表、獲得した機体やゲーム内資産も引き継ぎ不可",
+      "url": "https://www.gamebusiness.jp/article/2026/10/30/28493.html",
       "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-29T02:59:19",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/201695.png"
-    },
-    {
-      "title": "ブシロード、『バンドリ！アワーノーツ』で電話番号・住所など個人情報漏えい―委託先への不正アクセスでCBT応募者・サポート利用者ら約1万3000名に影響",
-      "url": "https://www.gamebusiness.jp/article/2026/10/29/28490.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-28T23:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/201633.jpg"
-    },
-    {
-      "title": "バンダイナムコ、会員約34万件のメールアドレスなどが漏えい…「THE GUNDAM BASE MEMBERS」登録者情報、委託先への不正アクセスのため",
-      "url": "https://www.gamebusiness.jp/article/2026/10/29/28489.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-28T22:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/201638.jpg"
-    },
-    {
-      "title": "売上2,000万本の『めっちゃカメレオン』を2か月で作った開発者へのインタビュー記事をEpic Gamesが公開。EOSを活用し、同接34万人超でも利用料はゼロ",
-      "url": "https://gamemakers.jp/article/2026_10_27_148552/",
-      "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-27T08:41:33",
-      "image": null
+      "published": "2026-10-29T21:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/201777.jpg"
     },
     {
-      "title": "2027年5月開催の「BitSummit」、テーマが「High / 高みへ」に決定。スポンサーと企業出展の募集も開始",
-      "url": "https://gamemakers.jp/article/2026_10_29_148711/",
-      "source": "ゲームメーカーズ",
+      "title": "Steam、AIクローンゲーム対抗策は「ユーザーとの信頼」と「継続的な改善」―Valve関係者が開発者に助言。模倣作は昔からあった、プレイヤーとの交流こそが最大の防御",
+      "url": "https://www.gamebusiness.jp/article/2026/10/30/28499.html",
+      "source": "GameBusiness.jp",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-29T02:24:00",
-      "image": null
+      "published": "2026-10-29T22:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/201707.jpg"
     },
     {
-      "title": "Discord、公開サーバーの一部チャットをWeb検索で閲覧できるように。12月中旬より適用開始",
-      "url": "https://gamemakers.jp/article/2026_10_28_148623/",
-      "source": "ゲームメーカーズ",
+      "title": "スマホで“ひと狩りいこうぜ”『モンスターハンターアウトランダーズ』サービス開始！武器種「チャージアックス」を初公開",
+      "url": "https://www.gamebusiness.jp/article/2026/10/30/28498.html",
+      "source": "GameBusiness.jp",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-28T09:35:13",
-      "image": null
+      "published": "2026-10-29T22:15:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/201733.png"
     },
     {
-      "title": "Steamの新作おすすめ機能「パーソナルカレンダー」、正式リリース。開発者がストアページで具体的なリリース予定日を明示すれば掲載されるように",
-      "url": "https://gamemakers.jp/article/2026_10_28_148533/",
-      "source": "ゲームメーカーズ",
+      "title": "「ディシディア デュエルムFF」名曲マッシュアップはこうして生まれる。ティーダ，ヤ・シュトラなどの楽曲秘話に迫る［インタビュー］",
+      "url": "https://www.4gamer.net/games/952/G095250/20261020010/",
+      "source": "4Gamer.net",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-10-28T08:21:08",
-      "image": null
+      "importance": "high",
+      "published": "2026-10-30T03:00:00",
+      "image": "https://www.4gamer.net/games/952/G095250/20261020010/SS/001.jpg"
     },
     {
-      "title": "ソニー「XYN」の空間キャプチャー技術が個人でも利用可能に。ガラスの透明感や反射も再現する3DCGアセット生成ソリューション",
-      "url": "https://gamemakers.jp/article/2026_10_28_148555/",
-      "source": "ゲームメーカーズ",
+      "title": "「THE WORLD OF BIOHAZARD 30周年展」発表会＆内覧会レポート。ドミトレスクの座像や等身大ウェスカーなど，迫力ある立体展示と趣向を凝らした演出が満載",
+      "url": "https://www.4gamer.net/games/013/G101397/20261030002/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-30T03:00:00",
+      "image": "https://www.4gamer.net/games/013/G101397/20261030002/SS/002.jpg"
+    },
+    {
+      "title": "天使と悪魔が同居する世界を舞台にしたサバイバルホラー「Sorry We're Closed」，Epic Games Storeで無料配布中",
+      "url": "https://www.4gamer.net/games/857/G085726/20261030006/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-30T02:12:55",
+      "image": "https://www.4gamer.net/games/857/G085726/20261030006/SS/007.jpg"
+    },
+    {
+      "title": "すべてはアニメという“聖典”があってこそ。「進撃の巨人３」では，エレンたちの先輩という視点から「進撃の巨人」の世界を深掘りする［インタビュー］",
+      "url": "https://www.4gamer.net/games/013/G101375/20261020051/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-30T01:00:00",
+      "image": "https://www.4gamer.net/games/013/G101375/20261020051/SS/010.jpg"
+    },
+    {
+      "title": "早期アクセス版本日リリース！　謎に満ちた空島を探索するサバイバルADV「ATMOSFAR」で，空飛ぶ船づくりを体験してみた［プレイレポ］",
+      "url": "https://www.4gamer.net/games/918/G091853/20261023023/",
+      "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-28T05:25:21",
-      "image": null
+      "published": "2026-10-30T03:00:00",
+      "image": "https://www.4gamer.net/games/918/G091853/20261023023/SS/002.jpg"
     },
     {
       "title": "Riot Gamesで活躍する気鋭のコンセプトアーティスト、アイリ・パン氏特別インタビュー！ アーティストとしてのオリジンは？ - 特集",
@@ -237,40 +192,112 @@
       "image": "https://cgworld.jp/article/assets_c/2026/10/airi_main-thumb-1920x1080-90189.jpg"
     },
     {
-      "title": "【白組】Netflixシリーズ『ガス人間』｜Houdiniのプロシージャルなしくみをベースに、細かな手作業を重ねることで、高難度のVFXを実現 - 連載",
-      "url": "https://cgworld.jp/regular/202610-Netflix-HumanVapor-Shirogumi.html",
+      "title": "Houdini Copernicusで浮世絵の世界を映像へ再構築｜江戸東京博物館『巨大プロジェクションマッピング』 - 特集",
+      "url": "https://cgworld.jp/article/337-edotokyo.html",
       "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-29T02:02:00",
+      "published": "2026-10-30T02:30:00",
+      "image": "https://cgworld.jp/article/assets_c/2026/10/CGW337_HS_edo_main_a-thumb-1000x527-89790.jpg"
+    },
+    {
+      "title": "変わるゲーム開発、変わらない\"手触り\"。プラチナゲームズの高速イテレーションを支えるアーティスト向けハイエンドPC「DAIV」 - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/2610-mouse-platinumgames.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-30T02:18:00",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/10/main_mouse-platinum2-thumb-691x461-90191.png"
+    },
+    {
+      "title": "AI映像制作会社が、VFX・CGアーティストの採用を始める理由。全編AIのCM案件の依頼が急増している今こそ「AIだけでつくれない完成度」にこだわる。 - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/2610-mannaka.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-30T01:30:09",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/10/1028_mannaka_top_img-thumb-669x377-90450.png"
+    },
+    {
+      "title": "SideFX、機械学習による煙・炎の高解像度化とUE5への実装を学ぶチュートリアル「MACHINE LEARNING FOR PYRO FX」公開 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202610-Houdini-ML-Pyro.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-29T23:52:58",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/10/Houdini_ML_Pyro-01-thumb-1920x1081-90504.jpg"
+    },
+    {
+      "title": "スケルタルメッシュやマテリアルをランタイムで自動生成するUE用プラグイン「Mutable」、UE5.8向けにアップデートされたサンプルプロジェクトの紹介記事が公開",
+      "url": "https://gamemakers.jp/article/2026_10_29_148741/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-29T07:54:20",
       "image": null
     },
     {
-      "title": "Cinema 4D用キャラクターアニメーションサポートツール「CC4D Tools 1.1.0」リリース　Character Creator・iCloneとの双方向連携に対応 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202610-CC4DTools.html",
-      "source": "CGWORLD",
+      "title": "Unityが圧縮ライブラリ「Brotli」脆弱性に対するセキュリティアドバイザリを発表。該当するアプリケーションは修正版エディタで再ビルドが必要",
+      "url": "https://gamemakers.jp/article/2026_10_29_148758/",
+      "source": "ゲームメーカーズ",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-10-28T23:19:21",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/10/CC4DTools-01-thumb-1920x1080-90461.jpg"
+      "importance": "high",
+      "published": "2026-10-29T05:49:38",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/10/97c559f3c640fbad3fa8e300ad418174.jpg"
     },
     {
-      "title": "ZBrushスカルプトタイムアタック「The マウント 2026」、11/19（木）に東京にて開催！－テーマは「羊」、来場者も参加できる飛び入りチャレンジ企画も - ニュース",
-      "url": "https://cgworld.jp/flashnews/02-2610-zbrush-mount-2026.html",
-      "source": "CGWORLD",
+      "title": "Unity公式のゲームジャム「Official 2026 Unity Game Jam」、11/6（金）〜14（土）に開催。提出準備の猶予期間「The Buffer」も用意",
+      "url": "https://gamemakers.jp/article/2026_10_30_148715/",
+      "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-28T07:00:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/10/341_seminar_mount_full_web-thumb-1920x1080-90398.jpg"
+      "published": "2026-10-30T02:11:33",
+      "image": null
     },
     {
-      "title": "FoundryがGriptapeの新しいモジュラー型Diffusionライブラリを紹介―HDR変換などのワークフローを解説 - ニュース",
-      "url": "https://cgworld.jp/flashnews/03-2610-griptape.html",
-      "source": "CGWORLD",
+      "title": "視野角70度、グラス本体95g以下のグラス型XRデバイス「XREAL AURA」が発売。日本では11/2（月）から注文受付",
+      "url": "https://gamemakers.jp/article/2026_10_29_148738/",
+      "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-28T02:00:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/10/03-2610-griptape-thumb-1280x720-90152.jpg"
+      "published": "2026-10-29T09:54:32",
+      "image": null
+    },
+    {
+      "title": "『ACE COMBAT 8』開発陣やプラチナゲームズも登壇。ゲーム制作者向けイベント「CGWORLD Game Week」、11/2（月）から8講演をYouTubeで無料配信",
+      "url": "https://gamemakers.jp/article/2026_10_29_148721/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-29T08:26:56",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/10/55612d701c13cc5852a6fadff3a7901c.jpg"
+    },
+    {
+      "title": "発売前時点で100万本突破か 『Phantom Blade Zero』に大ヒットの兆し",
+      "url": "https://jp.ign.com/phantom-blade-zero/84512/100-phantom-blade-zero",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-29T05:43:07",
+      "image": "https://sm.ign.com/ign_jp/news/p/phantom-bl/phantom-blade-zero-looks-like-a-hit-before-its-even-come-out_h5cy.jpg"
+    },
+    {
+      "title": "『Call of Duty: Modern Warfare 4』DMZモードレビュー",
+      "url": "https://jp.ign.com/call-of-duty-modern-warfare-4/84514/call-of-duty-modern-warfare-4dmz",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-10-29T05:29:41",
+      "image": "https://sm.ign.com/ign_jp/review/c/call-of-du/call-of-duty-modern-warfare-4-dmz-review_g8e5.jpg"
+    },
+    {
+      "title": "LGの34インチウルトラワイドモニター「34SR63QA-W」がAmazonにて24%オフでセール中",
+      "url": "https://jp.ign.com/gaming-device/84511/lg3434sr63qa-wamazon24",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-10-29T09:33:49",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_yynv.jpg"
     },
     {
       "title": "「VITURE Phantom Beast XRグラス」ギャラリー",
@@ -289,51 +316,6 @@
       "importance": "normal",
       "published": "2026-10-28T11:03:32",
       "image": "https://sm.ign.com/ign_jp/screenshot/default/supotsu_yyce.jpg"
-    },
-    {
-      "title": "We Build LEGO PlayStation",
-      "url": "https://jp.ign.com/gallery/84505/we-build-lego-playstation",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-28T07:56:19",
-      "image": "https://sm.ign.com/ign_jp/gallery/w/we-build-l/we-build-lego-playstation_hvfg.jpg"
-    },
-    {
-      "title": "バッファローのスティック型ポータブルSSD「SSD-PUT500U3-B/N」500GBモデルがAmazonにて10%オフでセール中",
-      "url": "https://jp.ign.com/gaming-device/84500/ssdssd-put500u3-bn500gbamazon10",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-28T02:50:11",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_e5ne.jpg"
-    },
-    {
-      "title": "映画版『ELDEN RING』、上映時間が3時間近くになる可能性が浮上",
-      "url": "https://jp.ign.com/elden-ring-1/84501/elden-ring3",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-28T02:10:55",
-      "image": "https://sm.ign.com/ign_jp/news/e/elden-ring/elden-ring-movie-runtime-could-reach-nearly-3-hours_c7ag.jpg"
-    },
-    {
-      "title": "Google Play Indie Games Fund in Africa 2026 - Games Made with Unity",
-      "url": "https://unity.com/blog/google-play-indie-games-fund-2026",
-      "source": "Unity Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-28T00:00:00",
-      "image": "htttps://unity.com/unity-logo-2024.png"
-    },
-    {
-      "title": "XREAL AURA Is Here: Meet Seven Made With Unity Titles",
-      "url": "https://unity.com/blog/xreal-aura-games-made-with-unity",
-      "source": "Unity Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-28T00:00:00",
-      "image": "https://cdn.sanity.io/images/fuvbjjlp/production/d1577c51a4f0c40341a055872154b04a569a2c5f-1920x1080.png"
     }
   ]
 }
