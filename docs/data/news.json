@@ -1,52 +1,7 @@
 {
-  "generated_at": "2026-11-01T03:03:37.484207",
+  "generated_at": "2026-11-02T03:14:21.117065",
   "poem": "",
   "articles": [
-    {
-      "title": "ブラウザで動作する無料&オープンソースの3D編集ツール「SuperSplat」、アップデートでフォロー機能が追加。今週のゲーム開発関連ツールまとめ",
-      "url": "https://gamemakers.jp/article/2026_10_31_149084/",
-      "source": "ゲームメーカーズ",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-31T01:58:35",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/10/dd421826556fd18492a3a057bded7f74.jpg"
-    },
-    {
-      "title": "折りたたみ式デバイスへの対応を自動化するSkillsも発表。Android開発関連のAIエージェントやツールなどが一挙公開",
-      "url": "https://gamemakers.jp/article/2026_10_30_148953/",
-      "source": "ゲームメーカーズ",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-30T09:24:12",
-      "image": null
-    },
-    {
-      "title": "明暗の塗り分けを保ったまま、トゥーン調の肌に血色のにじみを加える。サムザップが表面下散乱（SSS）の表現手法をブログで比較",
-      "url": "https://gamemakers.jp/article/2026_11_01_148525/",
-      "source": "ゲームメーカーズ",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-01T03:00:44",
-      "image": null
-    },
-    {
-      "title": "AIによるPBRマテリアル付きメッシュ生成を実用水準へ。パーツごとの材質も正しく割り当てる新パイプラインをシリコンスタジオが提唱【CEDEC2026】",
-      "url": "https://gamemakers.jp/article/2026_10_30_149010/",
-      "source": "ゲームメーカーズ",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-30T10:43:41",
-      "image": null
-    },
-    {
-      "title": "「ゲームマーケット2026秋」注目ゲーム紹介！ イブインク氏の新作『イカサマカルタ』や、ドロマイ15周年記念作など30選",
-      "url": "https://gamemakers.jp/article/2026_10_30_148847/",
-      "source": "ゲームメーカーズ",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-30T04:58:23",
-      "image": null
-    },
     {
       "title": "基本プレイ無料『NTE』新キャラ「明音凛」のギターを“やたら本気で弾く”猛者たち出現。真似して8時間みっちり練習したら、謎の変態奏法が身に着いた",
       "url": "https://automaton-media.com/articles/special-column/20261101-476958/",
@@ -55,15 +10,6 @@
       "importance": "high",
       "published": "2026-11-01T03:00:00",
       "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261101-476958-header.jpg"
-    },
-    {
-      "title": "基本プレイ無料“地形ぶっ壊し”STG『カオス★スマッシュ』リリース、「DL不要」ですぐ遊べる。今後もどんどん拡張予定、初コラボもお披露目",
-      "url": "https://automaton-media.com/articles/newsjp/20261031-476857/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-31T03:00:35",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261031-476857-header.jpg"
     },
     {
       "title": "Nintendo Switch 2・協力型パズルパーティーゲーム『みんなで探せ！マドリカ不動産の出口』発表。紙と“仲間”も準備して、息をあわせる間取り作成パズル",
@@ -75,112 +21,157 @@
       "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261101-476977-header.jpg"
     },
     {
-      "title": "対戦カードバトル『ゴッドフィールド』にて、“19年間誰も気づかなかった”誤字アイテムが見つかる。ステルス誤字",
-      "url": "https://automaton-media.com/articles/newsjp/20261101-476972/",
+      "title": "名越スタジオ解散。資金打ち切りなどが報じられてきたなかで",
+      "url": "https://automaton-media.com/articles/newsjp/20261102-477071/",
       "source": "Automaton",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-01T00:46:13",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261101-476972-header.jpg"
+      "published": "2026-11-02T03:10:57",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/03/c170a48bd8f55e0c1f2c19eed77ccdf3.jpg"
     },
     {
-      "title": "PS5/PC・話題の大作『Phantom Blade Zero』、「武器の“弾き音”フェチ」から謎の脚光浴びる。爆音カキィン愛好会",
-      "url": "https://automaton-media.com/articles/newsjp/20261031-476924/",
+      "title": "マルチ月面掃除シム『Moon Sweepers』マッハで60万本売れていた。はてしなく過酷で気持ちいい労働、Steamの新たなヒット作に",
+      "url": "https://automaton-media.com/articles/newsjp/20261102-477061/",
       "source": "Automaton",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-31T10:03:31",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/10/20261031-476924-header-1.jpg"
+      "published": "2026-11-02T02:48:03",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477061-header.jpg"
     },
     {
-      "title": "『FF14』吉田直樹氏インタビュー。「白銀のワンダラー」に登場する単語は北欧神話にインスパイア。新ジョブ「ゼファー」の名前のヒントも北欧神話に",
-      "url": "https://news.denfaminicogamer.jp/interview/261101f",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-01T00:00:09",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/f9fd259376f1bb114dea573e096635c6-1.jpg"
-    },
-    {
-      "title": "『FF14』「白銀のワンダラー」のアーリーアクセス開始日が2027年2月19日に決定！「FINAL FANTASY XIV FAN FESTIVAL 2026 in TOKYO」基調講演の発表まとめ",
-      "url": "https://news.denfaminicogamer.jp/news/261031e",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-31T01:58:34",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/Day-1-FINAL-FANTASY-XIV-FAN-FESTIVAL-2026-in-TOKYO-1-1-33-screenshot.jpg"
-    },
-    {
-      "title": "暴走族が巨大ロボでタイマンするゲーム『横浜機動暴走族 ROCK ‘N’ ROLL SUICIDE』プレイレポ。迫力の戦闘とコミカルな会話にニコニコしてたら、社会派で共感しまくりのシナリオとの温度差に“ととのって”しまった【東京ゲームダンジョン14】",
-      "url": "https://news.denfaminicogamer.jp/kikakuthetower/261101a",
-      "source": "電ファミニコゲーマー",
+      "title": "『テイルズ オブ デスティニー』、約30年越しに「リリスを正式に仲間にする方法」が新発見される。老舗攻略ファンサイトが急に報告、盛り上がる",
+      "url": "https://automaton-media.com/articles/newsjp/20261102-477052/",
+      "source": "Automaton",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-01T02:25:32",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2027/11/6dd97ded9f22357163273fd5d902833b.png"
+      "published": "2026-11-02T02:02:05",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477052-header.jpg"
     },
     {
-      "title": "上司に詰められながら新卒ギャル子ちゃんに残業を強いるゲーム『あとはよろしく、社畜さん！』が中間管理職の地獄すぎる。おれはいい上司になりたいだけなのに……【東京ゲームダンジョン14】",
-      "url": "https://news.denfaminicogamer.jp/kikakuthetower/261101v",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-01T01:00:43",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/10/image11-21.jpg"
-    },
-    {
-      "title": "ボタンに”1文字”足して物語を変えるゲーム『MARY – メアリ姫の奪還』は、道中のキャラが困惑しながら雑な無茶振りにリアクションしてくれて最高だ【東京ゲームダンジョン14】",
-      "url": "https://news.denfaminicogamer.jp/kikakuthetower/261101z",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-01T01:00:36",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/eye3.png"
-    },
-    {
-      "title": "「FFXIV：白銀のワンダラー」吉田直樹氏への合同インタビューを掲載。物語のテンポ感から新ジョブ「ゼファー」，レイド改革の狙いまでを聞いた",
-      "url": "https://www.4gamer.net/games/199/G019924/20261101002/",
+      "title": "「Phantom Blade Zero」，発売からわずか72時間で販売本数400万本を突破。メタスコアは88点，Steamでは約4万8000件のユーザーレビューで「非常に好評」の評価を得ている",
+      "url": "https://www.4gamer.net/games/709/G070944/20261102007/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "high",
-      "published": "2026-11-01T00:00:00",
-      "image": "https://www.4gamer.net/games/199/G019924/20261101002/SS/002.jpg"
+      "published": "2026-11-02T03:10:42",
+      "image": "https://www.4gamer.net/games/709/G070944/20261102007/SS/002.jpg"
     },
     {
-      "title": "「ファイナルファンタジーXIV：白銀のワンダラー」のアーリーアクセスは2027年2月19日にスタート。最新ジョブの遠隔物理DPS“ゼファー”も発表に",
-      "url": "https://www.4gamer.net/games/199/G019924/20261031010/",
+      "title": "イラストレーターにカズキヨネ氏を起用した完全新作乙女ゲーム「枷檻累々―うら黄泉照らす鬼灯夜―」，2027年に発売決定",
+      "url": "https://www.4gamer.net/games/054/G105426/20261029045/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "high",
-      "published": "2026-10-31T02:52:31",
-      "image": "https://www.4gamer.net/games/199/G019924/20261031010/SS/003.jpg"
+      "published": "2026-11-02T03:00:00",
+      "image": "https://www.4gamer.net/games/054/G105426/20261029045/SS/001.jpg"
     },
     {
-      "title": "“零式”の報酬からロットが廃止され，個人宝箱からの入手へ。「FFXIV：白銀のワンダラー」の最新情報が公開された“東京ファンフェス”基調講演レポート",
-      "url": "https://www.4gamer.net/games/199/G019924/20261101001/",
+      "title": "「続ポートピア連続殺人事件:忘却の埋葬」の第1弾キャストが発表。真野康彦（ヤス）役は前野智昭さんが担当",
+      "url": "https://www.4gamer.net/games/041/G104110/20261031006/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-02T03:00:00",
+      "image": "https://www.4gamer.net/games/041/G104110/20261031006/SS/002.jpg"
+    },
+    {
+      "title": "山田涼介さんが初心者目線で魅力を届ける「FFXIV」公式レポーターに就任！ 新CM制作の発表やゲーマーっぷりが語られたステージレポート",
+      "url": "https://www.4gamer.net/games/199/G019924/20261101006/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-01T05:07:38",
+      "image": "https://www.4gamer.net/games/199/G019924/20261101006/SS/006.jpg"
+    },
+    {
+      "title": "名越スタジオ，解散。2026年10月31日の株主総会の決議により",
+      "url": "https://www.4gamer.net/games/968/G096890/20261102005/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-31T23:00:00",
-      "image": "https://www.4gamer.net/games/199/G019924/20261101001/SS/003.jpg"
+      "published": "2026-11-02T03:08:24",
+      "image": "https://www.4gamer.net/games/968/G096890/20261102005/TN/002.jpg"
     },
     {
-      "title": "セーブデータを引き継げるSwitch 2版「ピクミン4」の体験版が11月2日に配信開始",
-      "url": "https://www.4gamer.net/games/040/G104087/20261031013/",
-      "source": "4Gamer.net",
+      "title": "『続ポートピア連続殺人事件:忘却の埋葬』第1弾キャスト情報が発表。真野康彦（ヤス）を前野智昭さんなど、『ポートピア連続殺人事件』のリメイクパート「捜査ファイル:真野康彦」のキャスト陣が一挙公開",
+      "url": "https://news.denfaminicogamer.jp/news/261102g",
+      "source": "電ファミニコゲーマー",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-10-31T14:39:38",
-      "image": "https://www.4gamer.net/games/040/G104087/20261031013/SS/004.jpg"
+      "importance": "high",
+      "published": "2026-11-02T03:00:09",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/main-2.png"
     },
     {
-      "title": "「地獄降輪」，AGF2026出展情報をまとめて紹介。特典お渡し会で野上 翔さん，沢城千春さん，益山武明さんに会える",
-      "url": "https://www.4gamer.net/games/010/G101096/20261030034/",
-      "source": "4Gamer.net",
+      "title": "マンガ『封神演義』の新作ゲーム『封神演義 逆命承天』新主人公・桃辰役のキャストが12月19日に発表へ。太公望役の小野賢章さんをゲストに迎え、「ジャンプフェスタ2027」にてスペシャルステージを開催",
+      "url": "https://news.denfaminicogamer.jp/news/261102l",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-02T02:51:45",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/main-3.png"
+    },
+    {
+      "title": "戦闘機を操縦して巨大怪獣を撃退するフライトシミュレーター『Kaiju Ace』発表、2027年4月5日に発売へ。速度や高度などを管理しながら攻撃をかわし、怪獣の弱点や部位を攻撃してミッションクリアを目指す",
+      "url": "https://news.denfaminicogamer.jp/news/261102h",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-02T02:27:14",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/ss_4c8628f2ab84066ce955b0d73eff440593c9196e.1920x1080.jpg"
+    },
+    {
+      "title": "『崩壊：スターレイル』と『週刊少年ジャンプ』などマンガ誌との企画が発表。星神★アッハと『週刊タヌキ』がお届け",
+      "url": "https://news.denfaminicogamer.jp/news/261101n",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-01T11:16:14",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HV-pXqOXwAAo6Yr.png"
+    },
+    {
+      "title": "たった1人を自身の選択で選び救い出す激重感情RPG『勇者パーティはぜんめつしました。』製品版価格が1980円に決定。リリース記念10％オフセールも開催へ",
+      "url": "https://news.denfaminicogamer.jp/news/261102j",
+      "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-31T12:00:00",
-      "image": "https://www.4gamer.net/games/010/G101096/20261030034/SS/001.jpg"
+      "published": "2026-11-02T03:00:18",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/KV.png"
+    },
+    {
+      "title": "【インタビュー】モバイルグラフィックス最新事情2026──24時間ライティングからHLSL単体テストまで、サイバーエージェントに聞く“画作りの限界”の越え方",
+      "url": "https://gamemakers.jp/article/2026_11_02_148754/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-02T02:59:04",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/10/4fc9360f9f00445b12c26728010e6fd1.jpg"
+    },
+    {
+      "title": "明暗の塗り分けを保ったまま、トゥーン調の肌に血色のにじみを加える。サムザップが表面下散乱（SSS）の表現手法をブログで比較",
+      "url": "https://gamemakers.jp/article/2026_11_01_148525/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-01T03:00:44",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/10/9d01e426800a5d091fecbd1a2764ad22.jpg"
+    },
+    {
+      "title": "CGWORLD、3DCG講師求人の無料掲載ページを開設！【三次募集11/18（水）まで】 - ニュース",
+      "url": "https://cgworld.jp/flashnews/03-2611-3dcginstructor.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-02T00:56:24",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/11/c2b3cc1efb831164a1b1c490127786364eaed02essss-thumb-800x450-90583.jpg"
+    },
+    {
+      "title": "Formlabs、業務用光造形3Dプリンタ「Form Studio 1」発売　35μmの高精細造形、最大130mm/hの高速造形に対応 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202611-FormStudio1.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-01T23:13:26",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/11/FormStudio1-01-thumb-1920x1080-90584.jpg"
     },
     {
       "title": "THINK AND SENSEが制作を手がけた「山寺ギャラリア」オープン　Unity製VFXシステムや実写とAIを融合した映像表現を採用 - ニュース",
@@ -192,49 +183,22 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/11/Yamadera-01-thumb-1920x1080-90566.jpg"
     },
     {
-      "title": "《宝石》の3DCG作品を大募集！　「CGWORLD GALLERY」応募受付は11/23（月）まで - ニュース",
-      "url": "https://cgworld.jp/flashnews/cgwg-v036.html",
-      "source": "CGWORLD",
+      "title": "「ゼルダの伝説」オールタイムベスト10",
+      "url": "https://jp.ign.com/nintendo-switch-2/84439/10",
+      "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-30T13:00:00",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/10/vol.036_gallery_banner_36_A_web-thumb-1000x563-90564.jpg"
+      "published": "2026-11-01T23:00:36",
+      "image": "https://sm.ign.com/ign_jp/lists/t/the-10-bes/the-10-best-legend-of-zelda-games-of-all-time_qfx5.jpg"
     },
     {
-      "title": "【新講座】日本視覚学会の会長が教える\"体感時間\"の科学。オンライン講座『時間を創る ～映像・アニメーション表現のための時間知覚の科学～』が11/30(月)に開催 - ニュース",
-      "url": "https://cgworld.jp/flashnews/-1130.html",
-      "source": "CGWORLD",
+      "title": "オープンワールドARPG『白銀の城』、12月14日にリリース決定 ファンタジーの入った「シャーロック・ホームズ」のような街も魅力",
+      "url": "https://jp.ign.com/silver-palace/84528/arpg1214",
+      "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-10-30T05:13:18",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/10/339_seminar_time_full%20%281%29%20%281%29-thumb-1920x1080-90535.jpg"
-    },
-    {
-      "title": "【サイコム】目指すは1,000人規模！　SEN PICTURESが発足時の作業マシンにサイコムを選んだ理由｜Boost with Sycom #08 - スペシャルコンテンツ",
-      "url": "https://cgworld.jp/special-feature/202610-sycom-senpictures-08.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-30T05:10:51",
-      "image": "https://cgworld.jp/special-feature/assets_c/2026/10/top_sycom_boost_08-thumb-1920x1080-90525.jpg"
-    },
-    {
-      "title": "アティック、岡山市進出1年で13名体制に－首都圏10社が参加した岡山市視察ツアーレポート - スペシャルコンテンツ",
-      "url": "https://cgworld.jp/special-feature/2610-okayama.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-30T03:34:10",
-      "image": "https://cgworld.jp/special-feature/assets_c/2026/10/okayama%20%282%29%20%281%29-thumb-1920x1080-90521.jpg"
-    },
-    {
-      "title": "『The Duskbloods』、フロム・ソフトウェアが2027年への発売延期を発表―ネットワークテストを受け、ルールとバランスの最終調整期間を確保",
-      "url": "https://www.gamebusiness.jp/article/2026/10/30/28511.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-30T10:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/201860.jpg"
+      "published": "2026-10-31T04:00:40",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/01_7vux.jpg"
     },
     {
       "title": "OpenAI アルトマンCEO「PCに大量のRAMを搭載するのは問題」と発言。ローカルAIより「クラウドで24時間活用すべき」との考え語る",
@@ -252,7 +216,7 @@
       "category": "other",
       "importance": "normal",
       "published": "2026-10-31T21:15:02",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/201990.jpg"
+      "image": null
     },
     {
       "title": "「GPUもメモリも注文できない」GeForce RTX 5090、NVIDIAは生産終了を否定も供給難続く",
@@ -271,42 +235,6 @@
       "importance": "normal",
       "published": "2026-10-31T09:25:16",
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/201969.jpg"
-    },
-    {
-      "title": "Bethesdaの「The Elder Scrolls VI」、サブタイトルは「Sentinel」と報道 「Skyrim」15周年に合わせて来月発表の可能性も",
-      "url": "https://jp.ign.com/the-elder-scrolls-vi-1/84520/bethesdathe-elder-scrolls-visentinel-skyrim15",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-10-30T03:38:59",
-      "image": "https://sm.ign.com/ign_jp/news/t/the-elder-/the-elder-scrolls-6-is-reportedly-subtitled-sentinel-new-sto_yb13.jpg"
-    },
-    {
-      "title": "オープンワールドARPG『白銀の城』、12月14日にリリース決定 ファンタジーの入った「シャーロック・ホームズ」のような街も魅力",
-      "url": "https://jp.ign.com/silver-palace/84528/arpg1214",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-31T04:00:40",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/01_7vux.jpg"
-    },
-    {
-      "title": "ロジクールGの安価なエントリー向け有線ゲーミングマウス「G203」がAmazonにて15%オフでセール中",
-      "url": "https://jp.ign.com/gaming-device/84516/gg203amazon15",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-30T09:32:36",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/1_62yn.png"
-    },
-    {
-      "title": "『グランド・セフト・オート』の象徴的ビジュアルはいかにして確立されたか――元ロックスターのアーティスト、スティーブン・ブリスが語る",
-      "url": "https://jp.ign.com/grand-theft-auto-vi/84526/",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-10-30T05:57:30",
-      "image": "https://sm.ign.com/ign_jp/interview/g/grand-thef/grand-theft-auto-artist-stephen-bliss-explains-how-he-define_zgbd.jpg"
     }
   ]
 }
