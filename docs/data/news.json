@@ -1,222 +1,69 @@
 {
-  "generated_at": "2026-11-03T04:29:15.042823",
+  "generated_at": "2026-11-04T03:48:17.547665",
   "poem": "",
   "articles": [
     {
-      "title": "“AIサムネ詐欺ワールド問題”に揺れる『VRChat』、AI除外フィルターは設けない方針発表。しかしSteamはすぐさま「低評価レビュー爆撃」状態に",
-      "url": "https://automaton-media.com/articles/newsjp/20261102-477090/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-02T04:05:33",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477090-header.jpg"
-    },
-    {
-      "title": "“光”が大事なドット絵ホラー『Asleep: Act 1』がSteamで無料配布中。「非常に好評」な作品",
-      "url": "https://automaton-media.com/articles/newsjp/20261102-477084/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-02T03:58:31",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261102-477084-header.jpg"
-    },
-    {
-      "title": "日本語の「原っぱ」とは無関係なゲーム『Harappa』、日本人からの謎の注目に開発者困惑。不意打ち空耳マーケティング",
-      "url": "https://automaton-media.com/articles/newsjp/20261103-477143/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-03T03:53:42",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261103-477143-header.jpg"
-    },
-    {
-      "title": "『Bloodborne』、今年に入ってからなんと“約25万本”も売れていたとの推計。リリース10年以上経っても冷めやらぬ人気、まだまだ売れる",
-      "url": "https://automaton-media.com/articles/newsjp/20261103-477187/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-03T02:49:19",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261103-477187-header.jpg"
-    },
-    {
-      "title": "最大4人協力・デッキ構築ローグライク『HARMA 亡国のエデン』11月17日早期アクセス配信へ。カードの効果は“調律”次第、「運の任せどころ」もまた戦略",
-      "url": "https://automaton-media.com/articles/newsjp/20261103-477178/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-03T01:00:03",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261103-477178-header.jpg"
-    },
-    {
-      "title": "【最大8人】映画館を経営するゲーム『Cinema Manager Simulator』が11月7日にリリース。映画の上映スケジュールを組み、チケットを販売し、軽食を提供",
-      "url": "https://news.denfaminicogamer.jp/news/261103l",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-03T03:02:15",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/ss_0efbabd834a2c6636faf1a9d0689fdbe8e76380d.1920x1080.jpg"
-    },
-    {
-      "title": "『パワーウォッシュ シミュレーター2』と『バービー』がコラボした新DLC「Barbie Pack」が12月4日に配信決定。ピンクでカラフルな高圧洗浄機でドリームハウスやドリームキャンパーをお掃除",
-      "url": "https://news.denfaminicogamer.jp/news/261103h",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-03T01:18:54",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/Dreamhouse.png"
-    },
-    {
-      "title": "『アベンジャーズ／ドゥームズデイ』森川智之さんがドクター・ドゥームの日本版吹替に決定！ロバート・ダウニー・Jr.からの激励メッセージが公開",
-      "url": "https://news.denfaminicogamer.jp/news/261103j",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-03T01:08:22",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HWJ9wsQbIAAyHwK.jpg"
-    },
-    {
-      "title": "公安バディが怪奇事件を捜査するゲーム『天使機構 執行部魂救済課』は“没入感”たっぷりの演出に好きがとまらない。「会話パート」「推理パート」「救済パート」別々の気持ちよさで三度おいしい",
-      "url": "https://news.denfaminicogamer.jp/kikakuthetower/261103i",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-03T01:00:19",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/booth1.png"
-    },
-    {
-      "title": "【499円】書籍『女の子の表情の描き方　しぐさ・ポーズ・感情表現編』Kindle版が日替わりセールで79%オフ。ファッション誌のような、アンニュイな女の子の描き方を解説",
-      "url": "https://news.denfaminicogamer.jp/news/261103f",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-03T00:38:39",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/818rBd3rwHL._SL1500_.jpg"
-    },
-    {
-      "title": "主人公だけでなく敵までもプレイヤーが操る。人形劇の舞台で戦うターン制パズル「The Lamb Chop Show」",
-      "url": "https://www.4gamer.net/games/055/G105509/20261102051/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-03T03:00:00",
-      "image": "https://www.4gamer.net/games/055/G105509/20261102051/SS/008.jpg"
-    },
-    {
-      "title": "「Shadowverse: Worlds Beyond」と「ゴジラ」のミニコラボが決定。11月6日のメンテナンス後に開幕",
-      "url": "https://www.4gamer.net/games/760/G076035/20261102031/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-03T03:00:00",
-      "image": "https://www.4gamer.net/games/760/G076035/20261102031/SS/001.jpg"
-    },
-    {
-      "title": "「鳴潮」のVer3.8予告特別通信は11月6日に配信。忘れずに見たい「今週の公式配信番組」ピックアップ",
-      "url": "https://www.4gamer.net/games/421/G042182/20261102037/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-02T23:00:00",
-      "image": "https://www.4gamer.net/games/421/G042182/20261102037/SS/003.jpg"
-    },
-    {
-      "title": "「農家は Replace() されました」の大型DLC「鉱夫はReplaceされました()_」が配信開始。スマホ版も同時に登場",
-      "url": "https://www.4gamer.net/games/952/G095288/20261102049/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-02T15:00:00",
-      "image": "https://www.4gamer.net/games/952/G095288/20261102049/SS/001.jpg"
-    },
-    {
-      "title": "かしわぎつきこ氏原案の完全新作「フユウク」が2027年に発売へ。2097年のホッカイドーを少女とアンドロイドが旅する“ロードムービーADV”",
-      "url": "https://www.4gamer.net/games/055/G105512/20261102058/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-02T13:05:56",
-      "image": "https://www.4gamer.net/games/055/G105512/20261102058/SS/001.jpg"
-    },
-    {
-      "title": "【インタビュー】モバイルグラフィックス最新事情2026──24時間ライティングからHLSL単体テストまで、サイバーエージェントに聞く“画作りの限界”の越え方",
-      "url": "https://gamemakers.jp/article/2026_11_02_148754/",
+      "title": "UE6は最初からBP廃止へ方針転換、UE5.9は来週プレビュー版リリース。Epic Games CEOが登壇した基調講演をレポート【Unreal Fest Tokyo 2026】",
+      "url": "https://gamemakers.jp/article/2026_11_03_149187/",
       "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "high",
-      "published": "2026-11-02T02:59:04",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/10/4fc9360f9f00445b12c26728010e6fd1.jpg"
+      "published": "2026-11-03T09:00:10",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/11/580917ce585320905e56dd3558b2159f.jpg"
     },
     {
-      "title": "188種のホラー効果音が入ったパック「Wrong Room」、無料で公開。商用ゲームにもクレジット表記なしで使える",
-      "url": "https://gamemakers.jp/article/2026_11_03_149108/",
+      "title": "タカラトミー、インディーゲームのパブリッシングブランド「ENJOYN GAMES」を設立。第1弾タイトルを11月から順次発売",
+      "url": "https://gamemakers.jp/article/2026_11_04_149260/",
       "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-03T01:58:17",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/11/455d3ce43f9e2c94c0673b2e54380de1.jpg"
-    },
-    {
-      "title": "RE ENGINEを実際に触って『モンハン』のカットシーンや『バイオハザード』のレベルを制作。「CAPCOMオープンカンファレンス RE:2026」展示ブースフォトレポート",
-      "url": "https://gamemakers.jp/article/2026_11_02_147177/",
-      "source": "ゲームメーカーズ",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-02T07:17:09",
+      "published": "2026-11-04T03:36:31",
       "image": null
     },
     {
-      "title": "『gogh』や『文字遊戯』の講演も実施。11/28（土）開催のインディーゲーム開発者向けカンファレンス「Indie Developers Conference 2026」、受講パス販売中",
-      "url": "https://gamemakers.jp/article/2026_11_02_149090/",
+      "title": "無料のアセットパック『Mini Shop』リメイク版、Webサイト「Kenney」で公開。スーパーマーケットの商品棚やレジなど、30種の3Dモデルが収録",
+      "url": "https://gamemakers.jp/article/2026_11_04_149229/",
       "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-02T06:00:24",
-      "image": null
+      "published": "2026-11-03T22:00:36",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/11/6b2703de728cacf4f002970db2520f69.jpg"
     },
     {
-      "title": "ピクセルスタイルのフリーフォント「でんきチップ」、JIS第1水準漢字2,965字を収録。商用利用も無料",
-      "url": "https://gamemakers.jp/article/2026_11_02_149101/",
+      "title": "Epic Gamesのマーケットプレイス「Fab」、11/17（火）までの期間限定で無料コンテンツを公開。トンネルでつながる地下空間の環境アセット、ホーミングアタックなどを実装できるシステムなど3製品",
+      "url": "https://gamemakers.jp/article/2026_11_04_149234/",
       "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-02T04:30:58",
+      "published": "2026-11-03T15:55:25",
       "image": null
     },
     {
-      "title": "Maya用オープンソースリギングフレームワーク「mGear 5.4.0」リリース　Facial Rigger 3.0やAnim Picker 2.0を搭載、リグ構築速度が約2倍に - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202611-mGear54.html",
-      "source": "CGWORLD",
+      "title": "UEやMetaHumanをAI学習データとして使用可能に。UEのエンドユーザーライセンス契約が改定",
+      "url": "https://gamemakers.jp/article/2026_11_03_149096/",
+      "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-02T23:05:46",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/11/mGear54-01-thumb-1920x1080-90618.jpg"
+      "published": "2026-11-03T05:58:15",
+      "image": null
     },
     {
-      "title": "#15【V-Ray】建築Viz向けV-Ray中級テクニック！　\"品質と作業スピード\"向上への道 - 連載",
-      "url": "https://cgworld.jp/regular/202611-cgw337-tr15.html",
-      "source": "CGWORLD",
+      "title": "インディーゲーム開発者向けカンファレンス「Indie Developers Conference 2026」11月28日開催―チケット予約開始、『文字遊戯』日本語化の舞台裏など第1弾講演発表",
+      "url": "https://www.gamebusiness.jp/article/2026/11/04/28541.html",
+      "source": "GameBusiness.jp",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-11-02T14:00:00",
-      "image": "https://cgworld.jp/regular/assets_c/2026/10/techroom_15_v2_web-thumb-1000x563-90061.jpg"
+      "importance": "high",
+      "published": "2026-11-04T03:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/201965.png"
     },
     {
-      "title": "CGWORLD、3DCG講師求人の無料掲載ページを開設！【三次募集11/18（水）まで】 - ニュース",
-      "url": "https://cgworld.jp/flashnews/03-2611-3dcginstructor.html",
-      "source": "CGWORLD",
+      "title": "アップル、メモリー価格上昇は今後も続くとの見通し―次期四半期の粗利益率は45～46%、事前調達によるコスト吸収は効果縮小へ",
+      "url": "https://www.gamebusiness.jp/article/2026/11/04/28540.html",
+      "source": "GameBusiness.jp",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-02T00:56:24",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/11/c2b3cc1efb831164a1b1c490127786364eaed02essss-thumb-800x450-90583.jpg"
-    },
-    {
-      "title": "Formlabs、業務用光造形3Dプリンタ「Form Studio 1」発売　35μmの高精細造形、最大130mm/hの高速造形に対応 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202611-FormStudio1.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-01T23:13:26",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/11/FormStudio1-01-thumb-1920x1080-90584.jpg"
+      "published": "2026-11-04T02:53:12",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/202180.jpg"
     },
     {
       "title": "『信長の野望・飛翔』発売日および対応機種を見直しへ―11月4日予定の公式生放送も延期に",
@@ -246,22 +93,184 @@
       "image": "https://www.gamebusiness.jp/imgs/ogp_f/202109.jpg"
     },
     {
-      "title": "シリーズ最新作『レイトン教授と蒸気の新世界』は、“家族みんなで解けるようなもの”にーレベルファイブ日野社長が語るこだわりと目指すもの",
-      "url": "https://www.gamebusiness.jp/article/2026/11/03/28534.html",
-      "source": "GameBusiness.jp",
+      "title": "スマホ版「Arcaea」，「アークナイツ」とのコラボパックを11月17日に配信。楽曲や新パートナー「アーミヤ」，新規ストーリーを収録",
+      "url": "https://www.4gamer.net/games/393/G039338/20261104004/",
+      "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-02T21:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/202127.jpg"
+      "published": "2026-11-04T03:26:25",
+      "image": "https://www.4gamer.net/games/393/G039338/20261104004/SS/001.jpg"
     },
     {
-      "title": "Netflix、アニメプロデューサー育成プログラム「クリエイターズ道場」を開催。トリガー大塚雅彦氏らが登壇予定、11月21日に都内にて",
-      "url": "https://www.gamebusiness.jp/article/2026/11/03/28533.html",
-      "source": "GameBusiness.jp",
+      "title": "「ドラゴンズドグマ 2：ダークアリズン」，「ダンジョン飯」とコラボ。ライオスとマルシルをイメージした公式ポーンや衣装を配信",
+      "url": "https://www.4gamer.net/games/015/G101558/20261104009/",
+      "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-02T21:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/202139.png"
+      "published": "2026-11-04T03:22:04",
+      "image": "https://www.4gamer.net/games/015/G101558/20261104009/SS/007.jpg"
+    },
+    {
+      "title": "Twitchがライブ配信のハイライトをまとめる新機能「配信Recap」を公開",
+      "url": "https://www.4gamer.net/games/999/G999905/20261104008/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-04T03:01:55",
+      "image": "https://www.4gamer.net/games/999/G999905/20261104008/SS/001.jpg"
+    },
+    {
+      "title": "タカラトミー，インディーゲームの新ブランド「ENJOYN GAMES」を始動。第1弾は「人狼バーガー」など3作品",
+      "url": "https://www.4gamer.net/games/941/G094178/20261104005/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-04T03:00:00",
+      "image": "https://www.4gamer.net/games/941/G094178/20261104005/SS/017.jpg"
+    },
+    {
+      "title": "犯人となって関係者を「論破」する倒叙型ミステリー。サイコミステリー・シリーズ第10弾「銀幕の天蓋」，11月5日に配信",
+      "url": "https://www.4gamer.net/games/055/G105503/20261102042/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-04T03:00:00",
+      "image": "https://www.4gamer.net/games/055/G105503/20261102042/SS/001.jpg"
+    },
+    {
+      "title": "『アナザーエデン』『ハーヴェステラ』プロデューサーが手がける新作『エバーブリンク』発表。毎ターン崩れる浮島で生き延び、敵拠点を落とす4Xローグライクデッキビルダー",
+      "url": "https://news.denfaminicogamer.jp/news/261104i",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-04T01:00:05",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/Everbrink_JP_04.png"
+    },
+    {
+      "title": "人気マンガ『マッシュル』実写映画化が発表！2027年3月19日公開へ",
+      "url": "https://news.denfaminicogamer.jp/news/261104l",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-04T00:16:21",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HWPDS1EaAAATBry.jpg"
+    },
+    {
+      "title": "『FF7』リメイク第1作、第2作が“986円”セール、ニンテンドーストアにて11月20日まで開催中。『FF7 リメイク』は5478円から82%オフ『FF7 リバース』は6478円から85%オフの価格に",
+      "url": "https://news.denfaminicogamer.jp/news/261104p",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-04T03:05:20",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/8e35ead634c04d2bc8370277bb70c2a37184fda3c64ab10929bb9fc6c922c272.webp"
+    },
+    {
+      "title": "『堀井雄二のドラゴンクエストのつくりかた』書評──何かを作りたい人ならドラクエファンじゃなくても読んだほうがいいと思う理由",
+      "url": "https://news.denfaminicogamer.jp/kikakuthetower/261104a",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-04T03:00:57",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/1793594957-xQzkHJ5P1URBn9o6XgvlesNI.jpg"
+    },
+    {
+      "title": "ゴッホやモネの“名画の世界”を探索するゲーム『カタルシス～最後のアトリエ～』12月1日にSteamで発売へ。自由な角度から撮影できる「フォトモード」も実装決定",
+      "url": "https://news.denfaminicogamer.jp/news/2611042b",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-04T03:00:55",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/658adf180f2923f7a7693033e937f9d2.png"
+    },
+    {
+      "title": "IDENCE、中小規模の映像制作向け「Color Grading & AI VFX Service」を提供　東京・浅草の専用グレーディングルームで立ち会いセッションにも対応 - ニュース",
+      "url": "https://cgworld.jp/flashnews/idencecolor-grading-ai-vfx-service.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-04T02:55:44",
+      "image": null
+    },
+    {
+      "title": "Unreal Engine用リアルタイム流体VFXシステム「FluidNinja LIVE-2」リリース　Niagaraベースの新アーキテクチャ採用、地形追従やChaosとの連携を強化 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202611-FluidNinjaLIVE2.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-04T00:12:03",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/11/FluidNinjaLIVE2-01-thumb-1920x1080-90654.jpg"
+    },
+    {
+      "title": "Sapporo Game Camp 2026 基調講演 レポート：アプリボット・松川大地氏が語る、AI時代に求められる「作り方を考える力」 - 特集",
+      "url": "https://cgworld.jp/article/202611-sgctalk.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-04T00:00:00",
+      "image": "https://cgworld.jp/interview/images/202611-rakuen/subsc_banner.jpg"
+    },
+    {
+      "title": "Maya用オープンソースリギングフレームワーク「mGear 5.4.0」リリース　Facial Rigger 3.0やAnim Picker 2.0を搭載、リグ構築速度が約2倍に - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202611-mGear54.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-02T23:05:46",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/11/mGear54-01-thumb-1920x1080-90618.jpg"
+    },
+    {
+      "title": "#15【V-Ray】建築Viz向けV-Ray中級テクニック！　\"品質と作業スピード\"向上への道 - 連載",
+      "url": "https://cgworld.jp/regular/202611-cgw337-tr15.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-02T14:00:00",
+      "image": "https://cgworld.jp/regular/assets_c/2026/10/techroom_15_v2_web-thumb-1000x563-90061.jpg"
+    },
+    {
+      "title": "元スクエニ『ハーヴェステラ』開発者が放つ新作『エバーブリンク』発表。崩れ続ける空島で“前進あるのみ”ローグライクストラテジー",
+      "url": "https://automaton-media.com/articles/newsjp/20261104-477277/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-04T01:00:01",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477277-header.jpg"
+    },
+    {
+      "title": "『The Elder Scrolls VI: Sentinel』正式発表。『スカイリム』の5年後の世界",
+      "url": "https://automaton-media.com/articles/newsjp/2026tes-477262/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-03T15:52:49",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/tesy6.jpg"
+    },
+    {
+      "title": "いたずらペンギンのお騒がせ探索ゲーム『ちょっと失礼。』発表。仲間とともに人間“で”遊びつつ、動物園脱出を目論む",
+      "url": "https://automaton-media.com/articles/newsjp/20261103-477252/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-03T10:13:19",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261103-477252-header.jpg"
+    },
+    {
+      "title": "PS5/PS4向けに「ブラックフライデーセール」開幕。『FF7リバース』が「85％オフ」、『エースコンバット8』が早くも初セール",
+      "url": "https://automaton-media.com/articles/newsjp/20261104-477326/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-04T02:39:55",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477326-header.jpg"
+    },
+    {
+      "title": "『Stardew Valley』次の大型アプデ1.7は「本作史上最大規模」になりそう。新結婚候補は“氷山の一角”、来年リリース予定",
+      "url": "https://automaton-media.com/articles/newsjp/20261104-477309/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-04T01:50:34",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261104-477309-header.jpg"
     },
     {
       "title": "『ファイアーエムブレム 万紫千紅』レビュー、これは「ファイアーエムブレム」の満漢全席！",
@@ -271,6 +280,15 @@
       "importance": "high",
       "published": "2026-11-02T04:15:09",
       "image": "https://sm.ign.com/ign_jp/photo/default/screenshot-19824-1789531647050_vyu7.jpg"
+    },
+    {
+      "title": "もはや別ゲー？「バイオ4」や「ブレワイ」がシリーズ過去作と違うように感じたのはなぜ？：#507  しゃべりすぎGAMER",
+      "url": "https://jp.ign.com/shaberisugi-gamer/84524/4507-gamer",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-03T11:00:35",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/podcast-logo-2025_3dxk.jpg"
     },
     {
       "title": "『女神異聞録ペルソナ』のリメイク映像がネット上に流出か",
@@ -289,24 +307,6 @@
       "importance": "normal",
       "published": "2026-11-02T05:08:02",
       "image": "https://sm.ign.com/ign_jp/gallery/p/persona-4-/persona-4-revival-release-date-trailer-xbox-games-showcase-2_w9j3.jpg"
-    },
-    {
-      "title": "「ゼルダの伝説」オールタイムベスト10",
-      "url": "https://jp.ign.com/nintendo-switch-2/84439/10",
-      "source": "IGN Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-01T23:00:36",
-      "image": "https://sm.ign.com/ign_jp/lists/t/the-10-bes/the-10-best-legend-of-zelda-games-of-all-time_qfx5.jpg"
-    },
-    {
-      "title": "Games made with Unity: October 2026 in review",
-      "url": "https://unity.com/blog/games-made-with-unity-october-2026-releases",
-      "source": "Unity Japan",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-02T00:00:00",
-      "image": "https://cdn.sanity.io/images/fuvbjjlp/production/6a30859365aa57136dde29a2ead6b4fa7505ce6d-1920x1080.png"
     }
   ]
 }
