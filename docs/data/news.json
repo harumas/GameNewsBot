@@ -1,159 +1,141 @@
 {
-  "generated_at": "2026-11-09T03:33:18.585180",
+  "generated_at": "2026-11-10T05:06:03.491546",
   "poem": "",
   "articles": [
     {
-      "title": "『ドラクエ』シリーズ新作『ドラゴンクエストRPG　魔界樹と導かれし島』いきなり発表！！ 11月10日20時からアナウンストレーラーを公開へ",
-      "url": "https://news.denfaminicogamer.jp/news/261109w",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-09T03:19:32",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/maxresdefault-7.jpg"
-    },
-    {
-      "title": "『原神』のHoYoverseが、なぜモフモフ可愛いスローライフゲーム『プチプラネット』を作ったのか──答えは「これまでやったことがないからこそ、挑戦したかった」【開発陣インタビュー】",
-      "url": "https://news.denfaminicogamer.jp/interview/261109i",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-09T01:00:55",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/image_017-6.jpg"
-    },
-    {
-      "title": "自分の“異常度”がわかる「異常度診断」が公開中。「奥から誰かの声がする穴」など不穏すぎる質問に二択（？）で回答、“異常な回答”をすると、何かがわかるかもしれない。あなたは何％異常者？",
-      "url": "https://news.denfaminicogamer.jp/news/261109s",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-09T03:18:08",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/nte-3.png"
-    },
-    {
-      "title": "『続ポートピア』新作シナリオのキャストに夏吉ゆうこさん、月城亜美さん、氷上恭子さんを起用。殺人の容疑をかけられ失踪した父の潔白を晴らすため、娘の平田由貴子が親友とともに事件現場の屋敷へ",
-      "url": "https://news.denfaminicogamer.jp/news/261109j",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-09T03:00:50",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/main-16.png"
-    },
-    {
-      "title": "『バキ外伝 烈海王は異世界転生しても一向にかまわんッッ』舞台版のチケットオフィシャル先行が受付開始ッッ！キービジュアル・キャスト情報も一挙解禁",
-      "url": "https://news.denfaminicogamer.jp/news/261109z",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-09T03:00:44",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/retsu_KV.jpg"
-    },
-    {
-      "title": "基本プレイ無料『NTE』新バージョンに「戦車」が来る。乗り物の“治安悪すぎる遊び方”を試しまくった",
-      "url": "https://automaton-media.com/articles/special-column/20261108-478084/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-08T03:03:38",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261108-478084-header.jpg"
-    },
-    {
-      "title": "『ドラゴンクエストRPG　魔界樹と導かれし島』突然発表、スマホ向け新作。まだ謎だらけ、明日20時に詳細公開へ",
-      "url": "https://automaton-media.com/articles/newsjp/20261109-478205/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-09T03:09:35",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/header-2.jpg"
-    },
-    {
-      "title": "『The Elder Scrolls VI: Sentinel』正式発表。美少女「クマのプーさん」のサイコホラーゲームに熱視線。UIまで“謎文字”の高難度言語解読ゲームがたちまち人気。今週の見逃せないゲーム記事7選",
-      "url": "https://automaton-media.com/articles/newsjp/20261108-478129/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-08T06:58:08",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261108-478129-header.jpg"
-    },
-    {
-      "title": "『ゼルダの伝説 時のオカリナ』リメイクで「無限ジャンプ」バグが発見、“闇の神殿不法侵入”など応用研究進む。フライングしすぎ“不完全”大人リンク",
-      "url": "https://automaton-media.com/articles/newsjp/20261109-478196/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-09T02:36:52",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478196-header.jpg"
-    },
-    {
-      "title": "「売れ行き次第でレイオフ回避」と報じられた『STAR WARS ゼロ・カンパニー』開発元、一部スタッフは結局レイオフか。ちゃんと売れてるのに",
-      "url": "https://automaton-media.com/articles/newsjp/20261109-478186/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-09T01:56:05",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261109-478186-header.jpg"
-    },
-    {
-      "title": "「プチプラネット」は交流が苦手でも，好きでも楽しめるスローライフゲーム。NPCとの関係性やストーリーにも注目［インタビュー］",
-      "url": "https://www.4gamer.net/games/948/G094822/20261104039/",
+      "title": "「メダロット クラシックス プラス」，Steam版が12月に発売決定。シリーズ初のSteam展開で，過去作8タイトルをまとめて楽しめる",
+      "url": "https://www.4gamer.net/games/056/G105685/20261110005/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "high",
-      "published": "2026-11-09T01:00:00",
-      "image": "https://www.4gamer.net/games/948/G094822/20261104039/SS/007.jpg"
+      "published": "2026-11-10T03:12:34",
+      "image": "https://www.4gamer.net/games/056/G105685/20261110005/SS/001.jpg"
     },
     {
-      "title": "「ヒロアカUR」のスマホ版「僕のヒーローアカデミア ULTRA RUMBLE モバイル」が発表。人気キャラのコスチュームが手に入る事前登録キャンペーンがスタート",
-      "url": "https://www.4gamer.net/games/055/G105589/20261105059/",
+      "title": "シリーズ最新作「Beholder 4」が発表。国家に忠実な若手職員を装い，地下組織を支援する“二重スパイ”アドベンチャーゲーム",
+      "url": "https://www.4gamer.net/games/056/G105682/20261110002/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "high",
-      "published": "2026-11-08T15:00:00",
-      "image": "https://www.4gamer.net/games/055/G105589/20261105059/SS/001.jpg"
+      "published": "2026-11-09T22:00:00",
+      "image": "https://www.4gamer.net/games/056/G105682/20261110002/SS/004.jpg"
     },
     {
-      "title": "復讐の果てに待つ運命のADV「LunaReverse（ルナリバース）」発表。「終遠のヴィルシュ」の中山智美氏らがシナリオを担当",
-      "url": "https://www.4gamer.net/games/056/G105632/20261106044/",
+      "title": "「ゲーム開発×AI、今どこまで来たか」ミートアップイベントを12月3日に高輪ゲートウェイで開催。実務への導入と課題に迫る",
+      "url": "https://www.4gamer.net/games/991/G999101/20261109048/",
       "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-10T05:00:00",
+      "image": "https://www.4gamer.net/games/991/G999101/20261109048/SS/001.jpg"
+    },
+    {
+      "title": "GPUとAI半導体の巨人NVIDIAに激震。ジェンスン・フアンCEOを標的とする中国のスパイ工作疑惑で独立調査を開始。不倫関係を認め謝罪",
+      "url": "https://www.4gamer.net/games/999/G999905/20261110009/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-10T04:14:29",
+      "image": "https://www.4gamer.net/games/999/G999905/20261110009/SS/001.jpg"
+    },
+    {
+      "title": "レーザーで剛毛を焼き払う「脱毛サロンシミュレーター」，Steamで本日発売。客に毛を植える「デザイン植毛」など，体験版にはなかった要素も",
+      "url": "https://www.4gamer.net/games/978/G097898/20261110006/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-10T03:39:35",
+      "image": "https://www.4gamer.net/games/978/G097898/20261110006/SS/001.jpg"
+    },
+    {
+      "title": "『メダロット』過去作8タイトルを1本にまとめた『メダロット クラシックス プラス』Steam版が12月に発売決定。ナンバリング1～5にくわえ、「ナビ」「G」「弐CORE」をプレイ可能",
+      "url": "https://news.denfaminicogamer.jp/news/261110p",
+      "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-11-07T09:35:00",
-      "image": "https://www.4gamer.net/games/056/G105632/20261106044/SS/001.png"
+      "published": "2026-11-10T03:00:40",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/d77773fc4c436d33539020774eedf7c0.png"
     },
     {
-      "title": "「続ポートピア連続殺人事件:忘却の埋葬」で楽しめる「捜査ファイル：平田由貴子」の詳細が公開に",
-      "url": "https://www.4gamer.net/games/041/G104110/20261106018/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-09T03:00:00",
-      "image": "https://www.4gamer.net/games/041/G104110/20261106018/SS/001.jpg"
-    },
-    {
-      "title": "本体ストレージを追加した携帯型ゲーム機「PlayStation Portal プレーヤー」の日本語専用モデルが12月10日発売",
-      "url": "https://www.4gamer.net/games/990/G999027/20261109003/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-09T02:56:34",
-      "image": "https://www.4gamer.net/games/990/G999027/20261109003/SS/003.jpg"
-    },
-    {
-      "title": "NVIDIA発のレイトレーシング最適化技術、DirectX 12の新機能としてプレビュー公開",
-      "url": "https://gamemakers.jp/article/2026_11_08_149743/",
-      "source": "ゲームメーカーズ",
+      "title": "「『GTA6』の予約数は予想をはるかに上回った」ロックスター親会社CEOが米誌インタビューにて『GTA6』の好調を明かす",
+      "url": "https://news.denfaminicogamer.jp/news/261110k",
+      "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-11-07T23:55:37",
-      "image": null
+      "published": "2026-11-10T01:19:34",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/poster_full.0az_iud2g3y4j.webp"
     },
     {
-      "title": "Epic Games Japan 湊 和久氏による「UE5.8のMCPをフル活用！LLMでUnreal Engineのゲーム開発を加速しよう」の講演動画・スライドを公開！【ゲームメーカーズ スクランブル2026】",
-      "url": "https://gamemakers.jp/article/2026_11_09_149785/",
-      "source": "ゲームメーカーズ",
+      "title": "Discord「メッセージの予約送信」ができるように。テキストボックスの「+」から「メッセージを予約」でメッセージを好きな時間に送れる",
+      "url": "https://news.denfaminicogamer.jp/news/261110r",
+      "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-09T02:55:52",
-      "image": null
+      "published": "2026-11-10T04:58:35",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HVrfixhaMAAEzAw.webp"
+    },
+    {
+      "title": "『エンダーリリーズ』Tシャツやトートバッグなど、新グッズがインフォレンズから登場！TGS2026で販売されたものも再入荷",
+      "url": "https://news.denfaminicogamer.jp/news/261110q",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-10T04:00:20",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/main-16.jpg"
+    },
+    {
+      "title": "TVアニメ『俺の死亡フラグが留まるところを知らない』が2027年に放送決定。第3回「なろうコン大賞」グランプリ受賞、シリーズ累計175万部突破の人気作",
+      "url": "https://news.denfaminicogamer.jp/news/261110s",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-10T03:50:34",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/main-15.jpg"
+    },
+    {
+      "title": "『メダロット』初期8作品入り『メダロット クラシックス プラス』Steam向けに発表。オンライン対戦・交換にも対応、人気シリーズがSteam初進出",
+      "url": "https://automaton-media.com/articles/newsjp/20261110-478360/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-10T03:00:06",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478360-header.jpg"
+    },
+    {
+      "title": "AMDのRadeonグラボドライバーに「SSD無限酷使」不具合発生中。一日に数百ギガバイト書き込み、SSDの寿命を削りとる",
+      "url": "https://automaton-media.com/articles/newsjp/20261110-478385/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-10T04:41:03",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478385-header.jpg"
+    },
+    {
+      "title": "Steamストアで「ゲームの平均フレームレート」を確認できるように、まずはSteam Deck向けに。だいたい何fps出るか、買う前にわかる",
+      "url": "https://automaton-media.com/articles/newsjp/20261110-478374/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-10T04:05:59",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/04/steam-next-fes-20260424-439515-header.webp"
+    },
+    {
+      "title": "ゲームフリーク・Cygames・コナミなど“応募1回だけで一斉選考”、転職イベント「経験者版 ゲームクリエイターズドラフト2026（3DCGデザイナー）」始動。ゲーム業界未経験でもOK",
+      "url": "https://automaton-media.com/articles/newsjp/imagica-20261110-477499/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-10T03:00:39",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/imagica-20261110-477499-header.jpg"
+    },
+    {
+      "title": "「手札が動き回る」デッキ構築ローグライク『鳥斗突破！バード・アリーナ』公開プレイテストを開始。勝手に“共食い”したり強くなったり、手札がすでに予測不能",
+      "url": "https://automaton-media.com/articles/newsjp/20261110-478358/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-10T03:00:11",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478358-header.jpg"
     },
     {
       "title": "家具や衣装の合計は1000以上!? 「どう森」からの影響についても言及！『プチプラネット』開発者インタビュー",
@@ -165,6 +147,33 @@
       "image": "https://sm.ign.com/ign_jp/screenshot/default/907_uznv.png"
     },
     {
+      "title": "Exterminauts - Beta Screenshots",
+      "url": "https://jp.ign.com/exterminauts/84569/exterminauts-beta-screenshots",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-10T04:21:21",
+      "image": "https://sm.ign.com/ign_jp/gallery/e/exterminau/exterminauts-beta-screenshots_5ytn.png"
+    },
+    {
+      "title": "The Legend of Zelda: Ocarina of Time Remake Launch Photos",
+      "url": "https://jp.ign.com/the-legend-of-zelda-ocarina-of-time-1/84563/the-legend-of-zelda-ocarina-of-time-remake-launch-photos",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-09T06:19:17",
+      "image": "https://sm.ign.com/ign_jp/gallery/t/the-legend/the-legend-of-zelda-ocarina-of-time-remake-launch-photos_g63z.jpg"
+    },
+    {
+      "title": "任天堂幹部ビル・トリネンが語る――なぜ『時のオカリナ』リメイクは「最初のゼルダ」として最高の一本なのか",
+      "url": "https://jp.ign.com/the-legend-of-zelda-ocarina-of-time-1/84562/",
+      "source": "IGN Japan",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-09T06:19:17",
+      "image": "https://sm.ign.com/ign_jp/interview/n/nintendo-e/nintendo-exec-bill-trinen-explains-why-the-ocarina-of-time-r_qhjp.jpg"
+    },
+    {
       "title": "『プチプラネット』で冬のスローライフを満喫！雪景色の作り込みから温泉イベントまで、さらに広がる星での暮らし",
       "url": "https://jp.ign.com/petit-planet/84555/",
       "source": "IGN Japan",
@@ -172,6 +181,42 @@
       "importance": "normal",
       "published": "2026-11-09T01:00:38",
       "image": "https://sm.ign.com/ign_jp/screenshot/default/blob_7acj.png"
+    },
+    {
+      "title": "実在展示室を3DGS化 夜の博物館を駆ける恐竜たち－福井県立恐竜博物館 3面ダイノシアター「夜の展示室編」 - 特集",
+      "url": "https://cgworld.jp/article/2610-dinosaur.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-10T04:12:00",
+      "image": "https://cgworld.jp/article/assets_c/2026/10/5acc400b2958f61bea702186ca55539caa702193-thumb-1000x563-90306.jpg"
+    },
+    {
+      "title": "Kristian Howald氏、Mayaのフェイシャルリギングチュートリアル動画「Part 1 - Rigging the Face - Overview and Brows」公開 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202611-Maya-RiggingFace.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-09T22:39:31",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/11/Maya_RiggingFace-01-thumb-1920x1080-90959.jpg"
+    },
+    {
+      "title": "キヤノン、製造業向けXRコラボレーションソフト「MREAL Collaborator」の体験機会を11/11（水）からの「産業交流展2026」で提供 - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2611-mrealcollaborator.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-09T10:09:20",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/11/13980-1208-2acb188829b86358cb210330ca5e9304-1920x1280-thumb-1000x563-90748.jpg"
+    },
+    {
+      "title": "Riot Gamesデザイナー、アイリ・パン氏から学ぶ『映画・ゲームのためのキャラクターコンセプトアート』11月21日-23日開催 - ニュース",
+      "url": "https://cgworld.jp/flashnews/2611-plusone-airi.html",
+      "source": "CGWORLD",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-09T06:24:34",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/11/324_seminar_RiotGames_full%20%281%29-thumb-1920x1080-90952.jpg"
     },
     {
       "title": "「映像をつくりたい」が研究の原動力。ACM SIGGRAPH Academyに選出された安生健一氏が語る、表現を支える技術と仲間 - 特集",
@@ -183,58 +228,94 @@
       "image": "https://cgworld.jp/interview/images/202611-rakuen/subsc_banner.jpg"
     },
     {
-      "title": "オートデスク、2027年度版「デザインと創造の業界動向調査」公開　M&Eを含む各業界のAI活用、制作コスト、技術人材の動向を分析 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202611-Autodesk-Report.html",
-      "source": "CGWORLD",
+      "title": "頑張り屋さんな「UE5.3」で開発中のアクションADV『横浜機動暴走族』、研ぎ澄まされたナイフの「Love2d」で作ったSTG『Geometry Extend』。各開発者にインタビュー【東京ゲームダンジョン14】",
+      "url": "https://gamemakers.jp/article/2026_11_10_150122/",
+      "source": "ゲームメーカーズ",
       "category": "other",
-      "importance": "normal",
-      "published": "2026-11-08T23:04:49",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/11/Autodesk_Report-01-thumb-1920x1080-90910.jpg"
+      "importance": "high",
+      "published": "2026-11-09T23:17:52",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/11/d153678e25f63c2607add76764df6342.jpg"
     },
     {
-      "title": "NVIDIA、2,000点以上のシミュレーション対応3Dアセットをオープンソース化　ロボット開発やAI工場のデジタルツイン構築を支援 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202611-NVIDIA-FreeAssets.html",
-      "source": "CGWORLD",
+      "title": "Cygamesによる「『Shadowverse: Worlds Beyond』UIとアニメーションで実現する最高のユーザー体験を叶えるプロトタイピング」の講演動画を公開！【ゲームメーカーズ スクランブル2026】",
+      "url": "https://gamemakers.jp/article/2026_11_10_150102/",
+      "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-07T22:58:15",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/11/NVIDIA_FreeAssets-01-thumb-1920x1080-90857.jpg"
+      "published": "2026-11-10T03:29:35",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/11/08f672e740b9ff211db444d91be8b995.jpg"
     },
     {
-      "title": "『Escape from Tarkov』、PvEプレイヤーが「60%」に急増。開発元は「これからもPvP中心」と強調",
-      "url": "https://www.gamebusiness.jp/article/2026/11/08/28594.html",
+      "title": "3DCGデザイナー経験者を募集！約30社のゲーム会社から面接オファーが届く就職・転職イベント「ゲームクリエイターズドラフト」、参加申込を12/18（金）まで受付",
+      "url": "https://gamemakers.jp/article/2026_11_10_148331/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-10T03:00:02",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/10/ae3d9e4dadefda808994afef459051cd.jpg"
+    },
+    {
+      "title": "LINEの中と外での出来事が火星と少女を救う体験になる、ARG『#リリア謎』の開発・運用事例。プレイヤーの行動を想定した設計と各種機能を活用した実装を解説【CEDEC2026】",
+      "url": "https://gamemakers.jp/article/2026_11_10_148940/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-10T00:59:17",
+      "image": null
+    },
+    {
+      "title": "『NINJA GAIDEN 4』攻撃技の仕様はどこまでプランナーが決めた？プラチナゲームズ、「CEDEC2026」講演のフォローアップ記事を公開",
+      "url": "https://gamemakers.jp/article/2026_11_09_149446/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-09T11:52:07",
+      "image": null
+    },
+    {
+      "title": "ドラクエの新作スマホアプリ『ドラゴンクエストRPG 魔界樹と導かれし島』発表！ゲームジャンルは“コマンドRPG”",
+      "url": "https://www.gamebusiness.jp/article/2026/11/10/28605.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-09T22:15:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/203110.jpg"
+    },
+    {
+      "title": "『どうぶつの森』の影響は「否定できない」。それでも『プチプラネット』が目指す独自のスローライフとは？開発者に聞いた【インタビュー】",
+      "url": "https://www.gamebusiness.jp/article/2026/11/10/28602.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-09T21:30:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/203151.png"
+    },
+    {
+      "title": "11月に出る注目作は『GTA6』だけじゃない！「むしろチャンス」「怖いけど出すしかない」―11月発売の46作品の開発者・パブリッシャーたちに本音を聞いてみた【後編】",
+      "url": "https://www.gamebusiness.jp/article/2026/11/10/28609.html",
       "source": "GameBusiness.jp",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-08T10:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/202805.jpg"
+      "published": "2026-11-09T23:15:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/203062.jpg"
     },
     {
-      "title": "Steam、ゲーム審査の申請増加で「Steam経由5分以上のプレイ」を提出要件に追加―審査は最大12営業日に遅延、スクリーンショット規定は緩和",
-      "url": "https://www.gamebusiness.jp/article/2026/11/08/28592.html",
+      "title": "“推し活”月の予算は「5万円以上」も10％超!? グッズはアクスタが人気！ ぬいと旅行、日用品として愛用も♪ 実録！推し活調査【グッズ・イベント編】＜26年版＞",
+      "url": "https://www.gamebusiness.jp/article/2026/11/10/28606.html",
       "source": "GameBusiness.jp",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-08T09:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/202244.png"
+      "published": "2026-11-09T22:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/203103.jpg"
     },
     {
-      "title": "ALL.Net不正アクセスで止まっていたバンナム系アーケード、約1週間ぶりに試験稼働再開へ。セガ製品は再開の目処立たず",
-      "url": "https://www.gamebusiness.jp/article/2026/11/08/28591.html",
+      "title": "経産省「クールジャパン機構」の投資実績を検証―ゲーム・アニメ等は回収率120％と収益確保も、実写分野は46％と低迷",
+      "url": "https://www.gamebusiness.jp/article/2026/11/10/28604.html",
       "source": "GameBusiness.jp",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-08T08:48:44",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/202839.jpg"
-    },
-    {
-      "title": "老舗アップローダー「uploader.jp」「ux.getuploader.com」閉鎖まで約3週間、制作者の他サービス移行・引退宣言…影響広がる",
-      "url": "https://www.gamebusiness.jp/article/2026/11/08/28590.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-07T21:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/202814.jpg"
+      "published": "2026-11-09T22:00:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/203115.jpg"
     }
   ]
 }
