@@ -1,186 +1,258 @@
 {
-  "generated_at": "2026-11-11T03:39:57.663485",
+  "generated_at": "2026-11-12T04:48:09.821981",
   "poem": "",
   "articles": [
     {
-      "title": "KRAFTON，2026年第3四半期の業績を発表。「PUBG」10周年記念アップデートの計画や新作「PUBG: DED.NET」の開発状況を公開",
-      "url": "https://www.4gamer.net/games/348/G034868/20261110046/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-10T12:24:25",
-      "image": "https://www.4gamer.net/games/348/G034868/20261110046/SS/001.jpg"
-    },
-    {
-      "title": "IOデータの比較的安価なシリーズ「GCFX」から300Hz表示対応の24.5インチ液晶ディスプレイが発表に",
-      "url": "https://www.4gamer.net/games/278/G027801/20261111011/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-11T03:15:01",
-      "image": "https://www.4gamer.net/games/278/G027801/20261111011/SS/002.jpg"
-    },
-    {
-      "title": "弾幕サバイバル「Warhammer Survivors」リリース。2つの世界から40人以上のチャンピオンが参戦。75種類以上の武器で敵の大群を蹴散らせ",
-      "url": "https://www.4gamer.net/games/997/G099766/20261111012/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-11T03:37:54",
-      "image": "https://www.4gamer.net/games/997/G099766/20261111012/SS/002.jpg"
-    },
-    {
-      "title": "1960年の廃工事現場に隠された真実とは。3Dサバイバルホラー「Unfinished」，体験版を11月13日22：00にSteamで公開",
-      "url": "https://www.4gamer.net/games/057/G105725/20261111004/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-11T03:37:54",
-      "image": "https://www.4gamer.net/games/057/G105725/20261111004/SS/002.jpg"
-    },
-    {
-      "title": "「グランド・セフト・オートVI」の発売に先駆けて事前ダウンロードを開始。新たなトレイラーも公開に",
-      "url": "https://www.4gamer.net/games/758/G075801/20261111010/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-11T03:17:27",
-      "image": "https://www.4gamer.net/games/758/G075801/20261111010/SS/001.jpg"
-    },
-    {
-      "title": "40周年を迎えた『ファミ通』編集長に、”遠い親戚”のような関係の電ファミが聞いた。週刊誌が「速報」より「大型特集」に舵を切った理由とは？【お祝いインタビュー】",
-      "url": "https://news.denfaminicogamer.jp/interview/261111a",
+      "title": "「セフィロス」が“見返り美人”に！？『FF40周年記念展』が重要文化財とコラボ発表",
+      "url": "https://news.denfaminicogamer.jp/news/2611122i",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-11-11T03:05:34",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/image5-14.jpg"
+      "published": "2026-11-12T03:40:48",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/c128b3a2172489c3994972e1351bad18.jpg"
     },
     {
-      "title": "『Milk inside a bag of milk inside a bag of milk』作者の新作『MEGALITH』発表。地球最後の人間とともに果てしない冬を旅する一人称探索ゲーム、2027年発売予定",
-      "url": "https://news.denfaminicogamer.jp/news/261111t",
+      "title": "ぼっち主人公の“青春デビュー”を描く恋愛ゲーム『恋愛、はじめまして』Nintendo Switch、PS版が2027年3月25日に発売決定。ド底辺の開幕から友情や恋愛を通じて青春の楽しさを知る追体験コメディ作品",
+      "url": "https://news.denfaminicogamer.jp/news/2611122b",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "high",
-      "published": "2026-11-11T02:15:37",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/ss_4a24560af628595160cf003bf73622bb8af803e1.1920x1080.jpg"
+      "published": "2026-11-12T03:12:31",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/gallery_001.webp"
     },
     {
-      "title": "【歴史】米任天堂がゲームの歴史情報を保存する“デジタルアーキビスト”を募集中。ベテラン社員へのインタビューで社内の知見を記録することも業務に",
-      "url": "https://news.denfaminicogamer.jp/news/261111j",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-11T01:53:58",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/0e9fb148b4f53059c459b0839ee286f7.png"
-    },
-    {
-      "title": "音ゲーと花札を組み合わせた対戦ゲーム『音札』を試遊。役が揃えば爽快、揃わなければ悔しい。どちらでもまた遊びたくなる、忙しすぎて楽しい一作【デジゲー博2026】",
-      "url": "https://news.denfaminicogamer.jp/kikakuthetower/2611112c",
+      "title": "『仮面ライダー剣』アンデッドを封印したカードでトランプ遊びができるように。「CSMラウズカードセット」11月12日16時より予約スタート、ギャレンとレンゲルのギルドラウズカードは初商品化",
+      "url": "https://news.denfaminicogamer.jp/news/2611122j",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-11T03:30:12",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/o_01-1.png"
+      "published": "2026-11-12T04:43:56",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/01_point1_garren_leangle.png"
     },
     {
-      "title": "田舎で“タヌキの郵便屋さん”になるオープンワールドRPG『タヌキ：ポンの夏』のテーマソングがフル版に進化。「ターヌーキー！」と熱唱する部分はそのままに、AメロとBメロが加わり激熱の青春曲に",
-      "url": "https://news.denfaminicogamer.jp/news/261111s",
+      "title": "『メタファー：リファンタジオ』のNintendo Switch 2版が発売開始、国王選挙に巻き込まれた少年の旅を描くファンタジーRPG。価格改定も本日11月12日より開始",
+      "url": "https://news.denfaminicogamer.jp/news/2611122e",
       "source": "電ファミニコゲーマー",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-11T03:07:32",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/4d169e8f16e85f0b4abf6e62450fa105.jpg"
+      "published": "2026-11-12T04:38:01",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/adb6c4603740468d9845a1937973ab2436e5f54e475dd504a15984a964f2f4ab.jpg"
     },
     {
-      "title": "汚部屋お掃除ゲーム『リーナのお掃除物語』Steamで「好評率93％」の熱烈人気。ゴミを捨てるほど見える人間ドラマ、汚い部屋に人生あり",
-      "url": "https://automaton-media.com/articles/newsjp/20261111-478545/",
+      "title": "『崩壊：スターレイル』“オンパロス”に動きが……！？Ver.5.5の予告を公開。「また明日」ならぬ「また来年」に期待高まる",
+      "url": "https://news.denfaminicogamer.jp/news/2611122n",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-12T04:00:44",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HW5AuG1W4AAdXeR.jpg"
+    },
+    {
+      "title": "「英雄コナン」のローグライクアクション『Conan: The Black Pyramid』発表。「ソロモン・ケイン」などハワード作品揃い踏み、時代を跨ぐクロスオーバー作品",
+      "url": "https://automaton-media.com/articles/newsjp/20261112-478802/",
       "source": "Automaton",
       "category": "other",
       "importance": "high",
-      "published": "2026-11-11T03:10:30",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261111-478545-header.jpg"
+      "published": "2026-11-12T01:20:04",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478802-header.jpg"
     },
     {
-      "title": "Devolver Digital初の“AAAタイトル”が満を持して発表、その名も『All Army Attack』。結局ダジャレ",
-      "url": "https://automaton-media.com/articles/newsjp/20261111-478536/",
+      "title": "「聖徳太子」と恋愛できる話題の乙女ゲーム『なら☆こい　〜古代人なれど恋したひ〜』12月17日に配信決定。主人公は、ごく普通の“女子”高生・小野妹子",
+      "url": "https://automaton-media.com/articles/newsjp/20261112-478838/",
       "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-12T04:25:03",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478838-header.jpg"
+    },
+    {
+      "title": "XBOX大規模レイオフの影響を受けた「元id Softwareスタッフ」が新スタジオ設立。『DOOM』など“総開発経験250年”の大ベテラン集団がつくる、あの頃のFPS",
+      "url": "https://automaton-media.com/articles/newsjp/20261112-478831/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-12T03:09:23",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478831-header.jpg"
+    },
+    {
+      "title": "『ブルーアーカイブ（ブルアカ）』パブリッシャー変更にともなうアカウント引き継ぎ申請がスタート。1月中旬までに申請しないと、現在のアカウントで遊べなくなるため要注意",
+      "url": "https://automaton-media.com/articles/newsjp/20261112-478826/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-12T02:55:32",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478826-header.jpg"
+    },
+    {
+      "title": "マーベルの新作ゲーム『Marvel 1943: Rise of Hydra』が“開発中止された”とのデマを、スタジオ幹部が否定。中止されてない",
+      "url": "https://automaton-media.com/articles/newsjp/20261112-478815/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-12T02:06:21",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261112-478815-header.jpg"
+    },
+    {
+      "title": "独特の慣性が働くボールを転がして全12ステージを攻略。「EGGコンソール ミスターバンプ PC-8801mkIISR」，本日配信。1986年発売のローリングACT",
+      "url": "https://www.4gamer.net/games/057/G105779/20261112012/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-12T04:24:43",
+      "image": "https://www.4gamer.net/games/057/G105779/20261112012/SS/001.jpg"
+    },
+    {
+      "title": "メカアクションシューティング「DARK MACHINE THE GAME」，テクニカルβテストを12月18日から開催。機体を乗り換えながら最大7対7で戦う",
+      "url": "https://www.4gamer.net/games/840/G084058/20261112010/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-12T04:11:01",
+      "image": "https://www.4gamer.net/games/840/G084058/20261112010/SS/001.jpg"
+    },
+    {
+      "title": "「崩壊：スターレイル」，公式Xで「オンパロス」の新たな情報を公開。Ver.5.5「物語の外側で待っているのは誰」でその後が描かれるか",
+      "url": "https://www.4gamer.net/games/599/G059954/20261112011/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-12T03:56:48",
+      "image": "https://www.4gamer.net/games/599/G059954/20261112011/SS/001.jpg"
+    },
+    {
+      "title": "身長5cmになり，かつての飼い猫に世話をしてもらう。「ネコルポス 〜巨大猫の観察日記〜」，Steamで体験版を公開。自由入力で猫又と会話できる",
+      "url": "https://www.4gamer.net/games/057/G105778/20261112009/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-12T03:31:05",
+      "image": "https://www.4gamer.net/games/057/G105778/20261112009/SS/007.jpg"
+    },
+    {
+      "title": "超現実ローグライクレース「Reality Drift」，Steamで本日発売。「塊魂」の高橋慶太氏が，人間の体内を走るコースをデザイン",
+      "url": "https://www.4gamer.net/games/057/G105777/20261112007/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-12T03:15:54",
+      "image": "https://www.4gamer.net/games/057/G105777/20261112007/SS/012.jpg"
+    },
+    {
+      "title": "Googleの最上位AIモデル「Gemini 4 Carbon」が一般提供。マルチエージェント機能もAntigravityでプレビュー開始",
+      "url": "https://gamemakers.jp/article/2026_11_11_150279/",
+      "source": "ゲームメーカーズ",
       "category": "other",
       "importance": "high",
-      "published": "2026-11-11T02:28:54",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261111-478536-header.jpg"
+      "published": "2026-11-11T11:46:03",
+      "image": null
     },
     {
-      "title": "『ドラゴンクエストRPG　魔界樹と導かれし島』正式発表。堀井雄二氏が“あえてRPGと付けた”、ドラクエらしい基本プレイ無料ゲーム",
-      "url": "https://automaton-media.com/articles/newsjp/20261110-478473/",
-      "source": "Automaton",
+      "title": "NHN PlayArt 藤田 大介氏による「アートディレクター視点で解き明かす、新規プロジェクトの立ち上げ方」の講演動画・スライドを公開！【ゲームメーカーズ スクランブル2026】",
+      "url": "https://gamemakers.jp/article/2026_11_12_149793/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-12T02:55:14",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/11/c97bcddc16e3183a1c26f8b2d5b73a14.png"
+    },
+    {
+      "title": "「Unreal Engine 5.9」のAI以外の新機能まとめ。半透明描画や大量キャラクター制御、Lumenの新キャッシュ方式など",
+      "url": "https://gamemakers.jp/article/2026_11_11_150411/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-11T10:45:20",
+      "image": null
+    },
+    {
+      "title": "「C# 15」「.NET 11」が正式リリース。MCPサーバーのひな形をコマンド1つで生成可能に",
+      "url": "https://gamemakers.jp/article/2026_11_11_150284/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-11T10:06:15",
+      "image": null
+    },
+    {
+      "title": "「東京ゲームダンジョン15」、出展者の募集を11/21（土）20時から開始。ゲムダン14で出展していない団体は、優先的に11/20（金）20時から受付",
+      "url": "https://gamemakers.jp/article/2026_11_11_150386/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-11T08:54:40",
+      "image": null
+    },
+    {
+      "title": "大ヒット協力ADV『Big Walk』開発終盤でのAI利用を告白―バグ解消目的で利用箇所は全体の「0.1%」未満も社内ポリシー未策定での使用を「失敗」と表明",
+      "url": "https://www.gamebusiness.jp/article/2026/11/12/28644.html",
+      "source": "GameBusiness.jp",
       "category": "other",
       "importance": "high",
-      "published": "2026-11-10T11:15:32",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478473-header.jpeg"
+      "published": "2026-11-11T23:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/203549.jpg"
     },
     {
-      "title": "終末東京ホラー『NIGHTMARE OPERATOR』正式発表。沢城みゆきさん主演、「銃」で撃ちまくるハイテクコンボ妖怪退治",
-      "url": "https://automaton-media.com/articles/newsjp/20261110-478443/",
-      "source": "Automaton",
+      "title": "『勝利の女神:NIKKE』11月12日にPC版ランチャーのアップデート実施とアナウンス。不正プログラム拡散騒動を受けさらなるセキュリティ強化を予定",
+      "url": "https://www.gamebusiness.jp/article/2026/11/12/28638.html",
+      "source": "GameBusiness.jp",
       "category": "other",
       "importance": "high",
-      "published": "2026-11-10T09:00:01",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261110-478443-header.jpg"
+      "published": "2026-11-11T22:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/203687.jpg"
     },
     {
-      "title": "“限界社畜”百合恋愛ゲーム『真夏のシトラス』、来年1月5日発売へ。体験版の批判を受け「シナリオ一から書き直し」の大刷新、ひと瓶の香水から始まるラブストーリー",
-      "url": "https://automaton-media.com/articles/newsjp/20261111-478575/",
-      "source": "Automaton",
+      "title": "セプテーニHD、マンガアプリ「GANMA!」運営のコミスマ株式を全株譲渡―約8.9億円の売却益計上へ",
+      "url": "https://www.gamebusiness.jp/article/2026/11/12/28648.html",
+      "source": "GameBusiness.jp",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-11T03:23:26",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261111-478575-header.jpg"
+      "published": "2026-11-12T00:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/203607.png"
     },
     {
-      "title": "GTA6ローンチスクリーンショット",
-      "url": "https://jp.ign.com/grand-theft-auto-vi/84580/gta6",
-      "source": "IGN Japan",
+      "title": "学生がAIだけでゲームを制作し提出。12年続いた海外のゲーム開発コンテスト、審査困難により終了へ―教育的なテーマなのにプログラムが本来の目的から離れた",
+      "url": "https://www.gamebusiness.jp/article/2026/11/12/28647.html",
+      "source": "GameBusiness.jp",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-11T03:11:56",
-      "image": "https://sm.ign.com/ign_jp/gallery/g/gta-6-laun/gta-6-launch-screenshots_n49r.jpg"
+      "published": "2026-11-12T00:15:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/203664.png"
     },
     {
-      "title": "そもそもゲームにリメイクはいる？ 完全新作の方がいい？：#508   しゃべりすぎGAMER",
-      "url": "https://jp.ign.com/shaberisugi-gamer/84573/508-gamer",
-      "source": "IGN Japan",
+      "title": "サイバーエージェント、「呪術廻戦」「チェンソーマン」のMAPPAと業務提携契約を締結 幅広い領域で連携へ",
+      "url": "https://www.gamebusiness.jp/article/2026/11/12/28646.html",
+      "source": "GameBusiness.jp",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-10T12:51:09",
-      "image": "https://sm.ign.com/ign_jp/screenshot/default/podcast-logo-2025_3dxk.jpg"
+      "published": "2026-11-12T00:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/203653.jpg"
     },
     {
-      "title": "Exterminauts - Beta Screenshots",
-      "url": "https://jp.ign.com/exterminauts/84569/exterminauts-beta-screenshots",
-      "source": "IGN Japan",
+      "title": "大容量のエフェクトデータを圧縮し、リアルタイムに描画。Zibra AIに聞く「ZibraVDB」＆「ZibraGDS」の開発と活用 - 特集",
+      "url": "https://cgworld.jp/article/202611-zibraai.html",
+      "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-10T04:21:21",
-      "image": "https://sm.ign.com/ign_jp/gallery/e/exterminau/exterminauts-beta-screenshots_5ytn.png"
+      "published": "2026-11-12T00:30:00",
+      "image": "https://cgworld.jp/interview/images/202611-rakuen/subsc_banner.jpg"
     },
     {
-      "title": "The Legend of Zelda: Ocarina of Time Remake Launch Photos",
-      "url": "https://jp.ign.com/the-legend-of-zelda-ocarina-of-time-1/84563/the-legend-of-zelda-ocarina-of-time-remake-launch-photos",
-      "source": "IGN Japan",
+      "title": "d9speed氏、note記事「Substance Painter使いこなし術～基礎編～」公開　プロシージャルな質感制作からlilToon向けテクスチャ設定、VRAM節約術まで解説 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202611-d9speed-SP.html",
+      "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-09T06:19:17",
-      "image": "https://sm.ign.com/ign_jp/gallery/t/the-legend/the-legend-of-zelda-ocarina-of-time-remake-launch-photos_g63z.jpg"
+      "published": "2026-11-11T23:36:55",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/11/d9speed_SP-01-thumb-1920x1005-91093.jpg"
     },
     {
-      "title": "任天堂幹部ビル・トリネンが語る――なぜ『時のオカリナ』リメイクは「最初のゼルダ」として最高の一本なのか",
-      "url": "https://jp.ign.com/the-legend-of-zelda-ocarina-of-time-1/84562/",
-      "source": "IGN Japan",
+      "title": "ソニー、6インチの小型空間再現ディスプレイ「ELF-MN1」を発売。裸眼で立体映像を楽しめる - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2611-xyn--elf-mn1.html",
+      "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-09T06:19:17",
-      "image": "https://sm.ign.com/ign_jp/interview/n/nintendo-e/nintendo-exec-bill-trinen-explains-why-the-ocarina-of-time-r_qhjp.jpg"
+      "published": "2026-11-11T10:00:24",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/11/img_001%20%281%29-thumb-866x486-90703.jpg"
     },
     {
       "title": "ラセングル求人企画【第2回／全6回】「最強のセルルック」を共に創る。表現の追求から制作の自動化まで、モデラーとTAの挑戦 - スペシャルコンテンツ",
@@ -201,121 +273,49 @@
       "image": "https://cgworld.jp/regular/assets_c/2026/11/UE5_EditorUtility_banner_vol24-thumb-1000x563-90658.jpg"
     },
     {
-      "title": "Hideki Suzuki氏、Unreal EngineをHydraレンダラーとして利用する「hdUE」をオープンソース化　Houdini Solaris、Lumen、パストレーサに対応 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202611-hdUE.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-11T00:26:08",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/11/hdUE-01-thumb-1920x960-91010.jpg"
-    },
-    {
-      "title": "#24：伝わる絵には、理由がある。『世界観が伝わる 画作りの基礎 コンセプトアートの教科書 INEI ART ACADEMY』 - 連載",
-      "url": "https://cgworld.jp/regular/202611-cgw340-book.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-10T22:46:00",
-      "image": "https://cgworld.jp/regular/assets_c/2026/11/book_of_the_month_202611_1000%2B-thumb-1000x563-90958.jpg"
-    },
-    {
-      "title": "【新講座】ゴシック建築と中世の城を\"構造と工程\"から読み解くオンライン講座『背景アーティストのための中世建築学』が12/16(水)に開催 - ニュース",
-      "url": "https://cgworld.jp/flashnews/1216.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-10T10:52:52",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/11/347_seminar_architecture-thumb-1920x1080-90995.jpg"
-    },
-    {
-      "title": "頑張り屋さんな「UE5.3」で開発中のアクションADV『横浜機動暴走族』、研ぎ澄まされたナイフの「Love2d」で作ったSTG『Geometry Extend』。各開発者にインタビュー【東京ゲームダンジョン14】",
-      "url": "https://gamemakers.jp/article/2026_11_10_150122/",
-      "source": "ゲームメーカーズ",
+      "title": "『崩壊：スターレイル』開発者インタビュー！アッハをプレイアブル化した理由から「ゼンゼロ」コラボの人選まで",
+      "url": "https://jp.ign.com/houkai-star-rail/84577/",
+      "source": "IGN Japan",
       "category": "other",
       "importance": "high",
-      "published": "2026-11-09T23:17:52",
-      "image": null
+      "published": "2026-11-11T04:35:47",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/sub4_qu2t.png"
     },
     {
-      "title": "サムザップとLive2Dによる「サムザップに聞く、大型IPでのLive2Dを使用したキャラクターアニメーション表現」の講演動画・スライドを公開！【ゲームメーカーズ スクランブル2026】",
-      "url": "https://gamemakers.jp/article/2026_11_11_149791/",
-      "source": "ゲームメーカーズ",
+      "title": "任天堂アメリカのネイト・ビルドルフに訊く――『ゼルダの伝説 時のオカリナ』で最も見つけにくい「隠し要素」はどう翻訳されたのか",
+      "url": "https://jp.ign.com/the-legend-of-zelda-ocarina-of-time-1/84585/",
+      "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-11T02:54:21",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/11/32b10ec46bf5bf9f5fe127312478f412.jpg"
+      "published": "2026-11-11T23:37:12",
+      "image": "https://sm.ign.com/ign_jp/interview/w/we-asked-n/we-asked-nintendo-of-americas-nate-bihldorff-about-localizin_mz82.jpg"
     },
     {
-      "title": "シーン管理と画面遷移を1本のツリーに統合。サムザップ、内製のUnity向け画面遷移フレームワーク「Spica.Navigation」の設計をブログで解説",
-      "url": "https://gamemakers.jp/article/2026_11_11_150171/",
-      "source": "ゲームメーカーズ",
+      "title": "『ゼルダの伝説 時のオカリナ』を語り尽くそう：今週遊んだゲーム 11/11/2026",
+      "url": "https://jp.ign.com/shaberisugi-gamer/84582/11112026",
+      "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-10T23:58:37",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/11/b7e5d38d83e608bfd6ca1d8e60996601.jpg"
+      "published": "2026-11-11T11:19:11",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/ocarinathumb_p452.jpg"
     },
     {
-      "title": "経産省、「クールジャパン機構」の検証から「7つの教訓（仮説）」を提示。ゲームなどへの支援は創り手と成長市場も重視し、審査はデータと専門家中心にする案も",
-      "url": "https://gamemakers.jp/article/2026_11_10_150182/",
-      "source": "ゲームメーカーズ",
+      "title": "GTA6ローンチスクリーンショット",
+      "url": "https://jp.ign.com/grand-theft-auto-vi/84580/gta6",
+      "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-10T11:29:49",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/11/be7526a7f5227f42bdc91db284ffd0c4.jpg"
+      "published": "2026-11-11T03:11:56",
+      "image": "https://sm.ign.com/ign_jp/gallery/g/gta-6-laun/gta-6-launch-screenshots_n49r.jpg"
     },
     {
-      "title": "無料・オープンソースのモーショングラフィックス制作ツール「Friction 1.0.0」正式リリース。商用利用も可能",
-      "url": "https://gamemakers.jp/article/2026_11_10_150167/",
-      "source": "ゲームメーカーズ",
+      "title": "そもそもゲームにリメイクはいる？ 完全新作の方がいい？：#508   しゃべりすぎGAMER",
+      "url": "https://jp.ign.com/shaberisugi-gamer/84573/508-gamer",
+      "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-10T10:06:59",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/11/0fc90e75d088dfcf5b78e344ea3d6092.jpg"
-    },
-    {
-      "title": "ネクソン、『ARC Raiders』躍進に『メイプルストーリー』過去最高売上―第3四半期累計で増収増益",
-      "url": "https://www.gamebusiness.jp/article/2026/11/10/28614.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-10T10:40:22",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/203492.jpg"
-    },
-    {
-      "title": "次の『GTA』はもっと早く遊べるかも？『GTA』シリーズなどの展開ペースは「今後10年で大きく変わる」とテイクツー会長が言及。開発体制を整えたロックスター",
-      "url": "https://www.gamebusiness.jp/article/2026/11/11/28622.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-10T22:45:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/203416.jpg"
-    },
-    {
-      "title": "新潟国際アニメーション映画祭、「第5回 新潟アニメーションキャンプ」の参加者を11月13日から募集。アジアの若手を旅費・宿泊付きで招く育成プログラム、前回は9カ国から29人が参加",
-      "url": "https://www.gamebusiness.jp/article/2026/11/11/28621.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-10T22:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/203423.jpg"
-    },
-    {
-      "title": "ニンテンドーアカウントの「かんたんログイン」、Google/Apple連携が2027年1月26日で終了―パスワードを忘れた人は今のうちに再設定を。代替手段は「パスキー」",
-      "url": "https://www.gamebusiness.jp/article/2026/11/11/28620.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-10T22:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/203426.png"
-    },
-    {
-      "title": "NAFCA、アニメータースキル検定（アニ検）に4級新設、教科書第2弾を発売。タップ割り・軌道の技術継承を強化",
-      "url": "https://www.gamebusiness.jp/article/2026/11/11/28619.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-10T22:00:02",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/203442.jpg"
+      "published": "2026-11-10T12:51:09",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/podcast-logo-2025_3dxk.jpg"
     }
   ]
 }
