@@ -1,141 +1,222 @@
 {
-  "generated_at": "2026-11-23T04:37:31.442246",
+  "generated_at": "2026-11-24T07:30:15.249273",
   "poem": "",
   "articles": [
     {
-      "title": "『ドルフロ』新作協力PvEシューター『ガールズフロントライン：ブルーコブナント』正式発表。「交流しなくてもいい」MMO『クロスランド せいれいたちとつむぐせかい』が大人気。今週の見逃せないゲーム記事7選",
-      "url": "https://automaton-media.com/articles/newsjp/20261121-480328/",
+      "title": "1990年代を彩ったカルト的人気シリーズが1つのタイトルになって復活。「負けるな！魔剣道1＆2」，2027年3月18日に発売決定",
+      "url": "https://www.4gamer.net/games/060/G106069/20261124020/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-24T05:55:33",
+      "image": "https://www.4gamer.net/games/060/G106069/20261124020/SS/001.jpg"
+    },
+    {
+      "title": "「ディフェンスゲームの暴君になった：LAST STAGE」は，とにかく原作の世界観を大事にする。開発チームにインタビュー［G-STAR 2026］",
+      "url": "https://www.4gamer.net/games/032/G103244/20261122013/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-24T05:40:59",
+      "image": "https://www.4gamer.net/games/032/G103244/20261122013/SS/006.jpg"
+    },
+    {
+      "title": "「NGS ヘッドライン WAVE」，本日21：00より配信。「着せ恋」コラボの続報が明らかに",
+      "url": "https://www.4gamer.net/games/521/G052100/20261124018/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-24T07:24:43",
+      "image": "https://www.4gamer.net/games/521/G052100/20261124018/SS/001.jpg"
+    },
+    {
+      "title": "行方不明になった男のカメラを調べて，その足取りを推理する短編ホラーゲーム「欠番343」，Steamで配信開始",
+      "url": "https://www.4gamer.net/games/060/G106066/20261124024/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-24T07:10:20",
+      "image": "https://www.4gamer.net/games/060/G106066/20261124024/SS/012.jpg"
+    },
+    {
+      "title": "Ubisoftが生成AI技術の開発を専門とする新子会社「Motherbrain」を設立。記憶を持つNPCやAIゲームマスターの構想を具現化へ",
+      "url": "https://www.4gamer.net/games/991/G999101/20261124022/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-24T06:24:11",
+      "image": "https://www.4gamer.net/games/991/G999101/20261124022/SS/001.jpg"
+    },
+    {
+      "title": "インディーゲーム紹介番組「INDIE Live Expo 2026.12.1」、番組内容が発表。『魔法少女ノ因習村』など100タイトル以上を紹介",
+      "url": "https://gamemakers.jp/article/2026_11_24_151503/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-24T03:01:39",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/11/c1dd2efc6a62232f5dedaf67fbf94716.jpg"
+    },
+    {
+      "title": "『バイオハザード レクイエム』『モンスターハンターストーリーズ3』の開発技術も解説。「CAPCOM オープンカンファレンス RE:2026」、講演動画とスライド資料を追加公開",
+      "url": "https://gamemakers.jp/article/2026_11_24_151624/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-24T07:11:42",
+      "image": null
+    },
+    {
+      "title": "エンジニア 安原 祐二氏による「AIは技術者の生活をどう変えたのか」の講演動画・スライドを公開！【ゲームメーカーズ スクランブル2026】",
+      "url": "https://gamemakers.jp/article/2026_11_24_149803/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-24T02:55:19",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/11/6a3e26534b319bff0cb457ec9e9c2c2a.jpg"
+    },
+    {
+      "title": "『GTA6』発売4日間で3,900万人が遊び、PS5の総プレイ時間は6億8,300万時間！PS史上最大のローンチとSIE発表",
+      "url": "https://www.gamebusiness.jp/article/2026/11/24/28821.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-24T01:22:30",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/205761.jpg"
+    },
+    {
+      "title": "Japan Expoの活用方法を共同創設者が解説。VIPOが12月16日に無料セミナー、B2B機能の拡充も説明",
+      "url": "https://www.gamebusiness.jp/article/2026/11/24/28824.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-24T07:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/205747.jpg"
+    },
+    {
+      "title": "米2州がGrokを提訴、「性的画像を売りにして、安全だと偽った」",
+      "url": "https://www.gamebusiness.jp/article/2026/11/24/28823.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-24T05:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/205775.png"
+    },
+    {
+      "title": "『GTA6』開発中の映像90本も流出させたハッカーに懲役7年の判決―条件付きで仮釈放。「二度とするな」と5年間オンライン活動制限",
+      "url": "https://www.gamebusiness.jp/article/2026/11/24/28822.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-24T04:59:55",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/205783.jpg"
+    },
+    {
+      "title": "英首相官邸、『GTA6』を「英国のサクセスストーリー」と称賛。ただしバーナム首相は「プレイしない」",
+      "url": "https://www.gamebusiness.jp/article/2026/11/23/28820.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-23T08:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/205698.jpg"
+    },
+    {
+      "title": "劇場アニメ『魔法使いの夜』の続編制作が発表！！公開中の映画は4日間で観客動員30万人、興行収入5億円を突破",
+      "url": "https://news.denfaminicogamer.jp/news/2611242p",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-24T06:39:26",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HX3maegboAApdPe-1.jpeg"
+    },
+    {
+      "title": "水中サバイバル『サブノーティカ２』初の大型アップデート「Tar Trek」が12月1日に配信。潜水艇に腕と脚をつけて壁も登れるカエル型パーツや、新たな巨大生物「コレクター・リヴァイアサン」が登場",
+      "url": "https://news.denfaminicogamer.jp/news/2611242c",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-24T05:00:29",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/Subnautica-2-Voyage-to-Early-Access-2-From-Creatures-to-Chassis1.mp4_snapshot_02.35.394.jpg"
+    },
+    {
+      "title": "『仁王3』DLC第2弾「天草大乱」が12月17日に配信開始へ。シリーズ初のXbox展開となる「Complete Edition」も発売決定",
+      "url": "https://news.denfaminicogamer.jp/news/2611242f",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-24T04:05:39",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/58b0762c4b1039e7d267db45e61d4e51.jpg"
+    },
+    {
+      "title": "90年代の“痛快美少女アクション”が現代に復活！『負けるな！魔剣道1&2』2027年3月18日に発売決定",
+      "url": "https://news.denfaminicogamer.jp/news/2611242d",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-24T03:19:19",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HX2gh-NbUAEjDiX-1.jpg"
+    },
+    {
+      "title": "最大8人で「同じブラウザ」を同時操作するゲーム『インターネット4』12月4日より早期アクセス開始。ウェブ上の情報を使ったミニゲームや釣りが楽しめる",
+      "url": "https://news.denfaminicogamer.jp/news/2611242n",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-24T06:57:04",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/ss_39d937a56e744f3ae043eeeca7c7e511936b5b0d.1920x1080.jpg"
+    },
+    {
+      "title": "最大4人マルチ「採掘場の水全部抜く」シム『Drain The Pit』発表。無謀手作業からガンガン効率化、お魚さんもしっかり保全",
+      "url": "https://automaton-media.com/articles/newsjp/20261124-480607/",
       "source": "Automaton",
       "category": "other",
       "importance": "high",
-      "published": "2026-11-22T07:47:56",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261121-480328-header.jpg"
+      "published": "2026-11-24T04:16:02",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261124-480607-header.jpeg"
     },
     {
-      "title": "オープンワールド『紅の砂漠』初の大型DLC「未知なる旅路」プレイ感想。とにかく詰め込みまくり、本格海戦に“マンボウライド”、魔女や一般人と結婚すればどこでも抱き合える",
-      "url": "https://automaton-media.com/articles/reportjp/20261123-480447/",
+      "title": "Discord、「ゲーム中に大騒ぎした名場面を自動録画」する新機能発表、まずはNitro向けにテスト実装。“録っておけばよかった”がなくなりそう",
+      "url": "https://automaton-media.com/articles/newsjp/20261124-480555/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-24T01:32:21",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261124-480555-header.jpg"
+    },
+    {
+      "title": "新宿お掃除ゲーム『SO-JI -Why Why Japanese- SHINJUKU』発表。「GiGO」や「すしざんまい」まで、再現度も汚れもすごい新宿をハイスピード清掃",
+      "url": "https://automaton-media.com/articles/newsjp/20261124-480540/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-24T01:00:00",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261124-480540-header.jpg"
+    },
+    {
+      "title": "『GTA6』にて「鳥類図鑑を爆速コンプ」する野鳥専門家あらわる。生息地は“経験”で探る、プロの本気バードウォッチング",
+      "url": "https://automaton-media.com/articles/newsjp/20261124-480679/",
       "source": "Automaton",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-23T04:34:39",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480447-001.jpg"
+      "published": "2026-11-24T06:56:56",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/header-5.jpg"
     },
     {
-      "title": "『The Binding of Isaac』新実装の隠しモード、“BGMがAI生成”と発覚して批判殺到。生みの親Edmund McMillen氏も困惑、現行チームに削除要請する事態に",
-      "url": "https://automaton-media.com/articles/newsjp/20261123-480440/",
+      "title": "高評価Steam終末村ホラー『Leviathan: Rhino』に“日本語改善アプデ”到来。巨大なリヴァイアサンが迫る村に残り、最期を待つ老人の6日間",
+      "url": "https://automaton-media.com/articles/newsjp/20261124-480622/",
       "source": "Automaton",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-23T03:55:27",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480440-header.jpg"
+      "published": "2026-11-24T05:50:02",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261124-480622-header.jpg"
     },
     {
-      "title": "なぜゲームでは「左から右」のルールが多く採用されているのか？ゲームデザイナーが考察する、ロジックがあるようでないようである、不思議な伝統",
-      "url": "https://automaton-media.com/articles/columnjp/nununu-20261123-480415/",
-      "source": "Automaton",
+      "title": "PlayStation史上最大のローンチ 『グランド・セフト・オートVI』がさまざまな新記録を樹立",
+      "url": "https://jp.ign.com/grand-theft-auto-vi/84649/playstation-vi",
+      "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-23T02:41:37",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/sexdag.jpg"
-    },
-    {
-      "title": "「猫撫でシミュレーター」無料公開され話題沸騰中。まるで液体、PC/スマホでモフモフし放題",
-      "url": "https://automaton-media.com/articles/newsjp/20261123-480411/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-23T02:20:04",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261123-480411-header.jpg"
-    },
-    {
-      "title": "青い絵の具は電気を通し，黄色い絵の具で高く跳ぶ。画家の夢の中を塗って進む一人称パズル「ドリームペインターズ」［WePlay2026］",
-      "url": "https://www.4gamer.net/games/880/G088017/20261123006/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-23T04:33:22",
-      "image": "https://www.4gamer.net/games/880/G088017/20261123006/SS/003.jpg"
-    },
-    {
-      "title": "プレイヤーが肉になって美味しく焼かれる「Steak Simulator: Medium Rare」，その醍醐味はマルチプレイにあり!?［WePlay2026］",
-      "url": "https://www.4gamer.net/games/048/G104827/20261123005/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-23T04:18:32",
-      "image": "https://www.4gamer.net/games/048/G104827/20261123005/SS/005.jpg"
-    },
-    {
-      "title": "「インディーとは何か」700本以上の応募作品が集まるも，最高賞は該当なし。indiePlay China Indie Game Awards 2026 授賞式レポート［WePlay2026］",
-      "url": "https://www.4gamer.net/games/991/G999110/20261123004/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-23T03:26:53",
-      "image": "https://www.4gamer.net/games/991/G999110/20261123004/SS/004.jpg"
-    },
-    {
-      "title": "打ち出されるのは球ではなく勇者。250種類以上のアイテムでビルドを組むピンボールローグライク「Dungeon Baller」［WePlay2026］",
-      "url": "https://www.4gamer.net/games/060/G106046/20261123003/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-23T03:14:32",
-      "image": "https://www.4gamer.net/games/060/G106046/20261123003/SS/001.jpg"
-    },
-    {
-      "title": "その構え，完全にベーシスト。キーキャップを抜いてボールペンを“弦”にした謎コントローラが目を引いた「白鍵上のコンチェルト ベースヒーロー」［WePlay 2026］",
-      "url": "https://www.4gamer.net/games/060/G106044/20261123002/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-23T01:30:00",
-      "image": "https://www.4gamer.net/games/060/G106044/20261123002/SS/004.jpg"
-    },
-    {
-      "title": "『デジモン』と『たまごっち』がそれぞれ入れ替わった記念セットが予約開始。「アグモンっち」や「マメチモン」などのたまごっちやデジモンの育成が楽しめる",
-      "url": "https://news.denfaminicogamer.jp/news/261123d",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-23T03:28:36",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/img_651250_1.jpg"
-    },
-    {
-      "title": "【99円】『東島丹三郎は仮面ライダーになりたい』Kindleにて99円セール開催中！既刊18巻を「1782円」で揃えられる。本気で仮面ライダーになりたいオトナを描くヨクサルマンガ最新作",
-      "url": "https://news.denfaminicogamer.jp/news/261123f",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-23T02:40:33",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/81Egkr7e9pL._SL1500_.avif"
-    },
-    {
-      "title": "『GTA6』ミニゲームのクオリティを突き詰めた結果、ダーツなど過去作に登場した一部ミニゲームは「チームにリソースが足りず」未実装に。Rockstarが海外メディアを通じてコメント",
-      "url": "https://news.denfaminicogamer.jp/news/261123a",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-23T01:58:45",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/Cal_Hampton_02.jpg"
-    },
-    {
-      "title": "『ジョジョ』「石仮面」の“壁掛け時計”が11月下旬よりプライズで登場。電源を入れると目が光るギミックを搭載、骨針ではなく3本の針が時刻を教えてくれる",
-      "url": "https://news.denfaminicogamer.jp/news/261122h",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-22T14:34:15",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/d065567f-eda8-47f8-9a1e-219676359ce4_p_01_ja.jpg"
-    },
-    {
-      "title": "『緋弾のアリア』新作ショートアニメ『緋弾のアリア Corto』が2027年4月より配信決定！本作で初登場となるリサ（CV：岩井映美里 ）、メヌエット（CV：根本京里）、ネモ（CV：春野杏 ）が描かれたキービジュアルも公開",
-      "url": "https://news.denfaminicogamer.jp/news/261122g",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-22T13:14:54",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/60d8f016cdcb5375c6928c17797b94e2.jpg"
+      "published": "2026-11-24T03:20:31",
+      "image": "https://sm.ign.com/ign_jp/news/g/gta-6-was-/gta-6-was-biggest-launch-in-playstation-history_ve1j.jpg"
     },
     {
       "title": "Maya用揺れものシミュレーションツール「AgehaPBD」正式リリース　リアルタイムプレビューやコリジョン制御、セットアップの再利用に対応 - ニュース",
@@ -147,49 +228,22 @@
       "image": "https://cgworld.jp/flashnews/assets_c/2026/11/Coyote_Ageha-01-thumb-1920x1080-91423.jpg"
     },
     {
-      "title": "『モンハン アウトランダーズ』PC版が中国プラットフォーム向けに発表！",
-      "url": "https://www.gamebusiness.jp/article/2026/11/22/28818.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-21T21:30:02",
-      "image": "https://www.gamebusiness.jp/base/images/img_ogp.png"
-    },
-    {
-      "title": "次世代メインメモリ規格「DDR6」初期プレビュー公開―製品化まではまだ道のり長く",
-      "url": "https://www.gamebusiness.jp/article/2026/11/22/28816.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-21T21:00:02",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/205689.jpg"
-    },
-    {
-      "title": "『GTA6』映画含むエンタメの王者に―発売初日で売上37億9,000万ドルを達成！発売前販売本数も3,250万本を記録",
-      "url": "https://www.gamebusiness.jp/article/2026/11/21/28812.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-21T09:15:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/205604.jpg"
-    },
-    {
-      "title": "ニューヨーク市警がVRトレーニングを導入―過去にはVRゲームで若者向けプログラムも実施",
-      "url": "https://www.gamebusiness.jp/article/2026/11/22/28817.html",
-      "source": "GameBusiness.jp",
+      "title": "にゃんねこ氏、「Substance 3D Painterでパスを描きやすくする方法｜UVメッシュを平らな作業面に」note記事公開 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202611-SP-UVmesh.html",
+      "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-21T21:15:03",
-      "image": "https://www.gamebusiness.jp/base/images/img_ogp.png"
+      "published": "2026-11-24T00:01:39",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/11/SP_UVmesh-01-thumb-1920x1005-91427.jpg"
     },
     {
-      "title": "ゲーセン不正アクセス問題、『CHUNITHM』『maimai でらっくす』がついに試験稼働へ！停止から約3週間…『英傑大戦』も対人戦以外で再開",
-      "url": "https://www.gamebusiness.jp/article/2026/11/21/28815.html",
-      "source": "GameBusiness.jp",
+      "title": "Tearing through reality: The tech behind Hyper Visor on XREAL AURA",
+      "url": "https://unity.com/blog/hyper-visor-xreal-aura-physics-scenes",
+      "source": "Unity Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-21T10:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/205677.png"
+      "published": "2026-11-23T00:00:00",
+      "image": "https://cdn.sanity.io/images/fuvbjjlp/production/e2140e0ea12c50f5e3143edc1de881c9d1e526f5-1024x500.png"
     }
   ]
 }
