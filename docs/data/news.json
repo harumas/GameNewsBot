@@ -1,51 +1,186 @@
 {
-  "generated_at": "2026-11-24T07:30:15.249273",
+  "generated_at": "2026-11-25T05:59:00.656573",
   "poem": "",
   "articles": [
     {
-      "title": "1990年代を彩ったカルト的人気シリーズが1つのタイトルになって復活。「負けるな！魔剣道1＆2」，2027年3月18日に発売決定",
-      "url": "https://www.4gamer.net/games/060/G106069/20261124020/",
+      "title": "『マリオカート ワールド』8つのアレンジコースが新登場、「マリオブラザーズサーキット2」や「DKスノーマウンテン2」など。無料アップデートが本日配信",
+      "url": "https://news.denfaminicogamer.jp/news/261125o",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-25T01:46:25",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/33d2d3db1f3f4fd29669708fa4ce3c60.webp"
+    },
+    {
+      "title": "『VALORANT』元プロ・Lazさんの『オーバーウォッチ』驚異の20時間配信が“危険な状態”すぎるとSNSで話題に。「こんなに危険なLazさん見たことない」などの声相次ぐ",
+      "url": "https://news.denfaminicogamer.jp/news/261125z",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-25T05:43:21",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/PhotoshopExtension_Image-2026-11-25T143814.155.png"
+    },
+    {
+      "title": "『モンスト』開発の「でらゲー」が新ゲームレーベル「GarageNova」を始動。第1弾となる2タイトルの体験版が配信開始",
+      "url": "https://news.denfaminicogamer.jp/news/261125y",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-25T05:13:58",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/main-68.jpg"
+    },
+    {
+      "title": "【最大111人協力】お題にそって「Tier表」を作るゲーム『みんなでダンダンティアー！』Steam版が12月10日に発売。1人が買えば参加は“無料”",
+      "url": "https://news.denfaminicogamer.jp/news/261125u",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-25T04:16:52",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/sub6-16.png"
+    },
+    {
+      "title": "『ドラクエ』「スライムまん」の表情が“個性的すぎる”と話題に。「あまりにもかわいい」「メダパニかかってた」などXに投稿相次ぎ「スライムまん変顔選手権」というハッシュタグも誕生",
+      "url": "https://news.denfaminicogamer.jp/news/261125t",
+      "source": "電ファミニコゲーマー",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-25T03:59:47",
+      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HXkz0g7asAAxylf.png"
+    },
+    {
+      "title": "売上額は約6,350億円！？『GTA6』各プラットフォームで3人に1人は遊んでいるとの市場調査販売推計発表―『COD』等他タイトルのプレイヤー数にも大きな影響",
+      "url": "https://www.gamebusiness.jp/article/2026/11/25/28839.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-25T02:48:55",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/206032.jpg"
+    },
+    {
+      "title": "ゲームよりも映画やドラマがライバル？『STRANGER THAN HEAVEN』開発陣が語る、ゲームづくりへの意外な視点【インタビュー】",
+      "url": "https://www.gamebusiness.jp/article/2026/11/25/28836.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-24T23:00:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/205912.jpg"
+    },
+    {
+      "title": "『まのさば』Acacia新作『魔法少女ノ因習村』『配信少女ノ裏垢迷宮』2作とも発売延期へ―近々新たな発売日を発表へ",
+      "url": "https://www.gamebusiness.jp/article/2026/11/25/28830.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-24T21:30:03",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/205962.jpg"
+    },
+    {
+      "title": "「『FF6』の先に続く作品を作りたかった」―好評博す『FFレゾナンス』開発陣が語る発売後の反響と、往年の『FF』らしさを蘇らせるための挑戦【インタビュー】",
+      "url": "https://www.gamebusiness.jp/article/2026/11/25/28829.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-24T21:15:02",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/205979.jpg"
+    },
+    {
+      "title": "『Lies of P』のNEOWIZ、『Stellaris』開発者らと提携―ファンタジー4Xで立ち上げる新規IP",
+      "url": "https://www.gamebusiness.jp/article/2026/11/25/28841.html",
+      "source": "GameBusiness.jp",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-25T05:37:25",
+      "image": "https://www.gamebusiness.jp/imgs/ogp_f/206097.png"
+    },
+    {
+      "title": "日本でも人気なSRPG続編『Symphony of War II: Dominion』正式発表。海戦追加にクラスは100種以上に倍増、より奥深くなった壮大戦記",
+      "url": "https://automaton-media.com/articles/newsjp/20261125-480769/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-25T00:42:54",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261125-480769-header.png"
+    },
+    {
+      "title": "“圧倒的に好評”底なし探索RPG『Queen’s Domain』、3週間で売上30万本突破。『キングスフィールド』愛たっぷり、優しくない硬派作品が売れまくり",
+      "url": "https://automaton-media.com/articles/newsjp/20261124-480689/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-24T07:52:39",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261124-480689-header.jpg"
+    },
+    {
+      "title": "“圧倒的に好評”1万メートル登るローグライト『White Knuckle』大型アプデで過去最高の盛り上がり。待望の新エリアは機械まみれの超厳戒態勢",
+      "url": "https://automaton-media.com/articles/newsjp/20261125-480833/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-25T05:31:47",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261125-480833-header.jpeg"
+    },
+    {
+      "title": "『GTA6』、死ぬまで続く「最大手配度6」を解除する方法が編み出される。逃げる先は“過去”",
+      "url": "https://automaton-media.com/articles/newsjp/20261125-480816/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-25T03:47:18",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261125-480816-header.jpg"
+    },
+    {
+      "title": "基本プレイ無料『閃乱カグラ』新作スマホRPG『シノビNEXUS』は、シノビを“愛でる”手段がぎっしり。ジオラマでパシャリ、サウナでびっしょり。めくるめくシノビ日和",
+      "url": "https://automaton-media.com/articles/reportjp/shinovi-nexus-20261125-480798/",
+      "source": "Automaton",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-25T03:04:29",
+      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261125-480798-header.jpg"
+    },
+    {
+      "title": "「SO-JI -Why Why Japanese- SHINJUKU」の開発が正式発表。東京・新宿を舞台にした「近未来お掃除アクション」",
+      "url": "https://www.4gamer.net/games/061/G106116/20261125016/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "high",
-      "published": "2026-11-24T05:55:33",
-      "image": "https://www.4gamer.net/games/060/G106069/20261124020/SS/001.jpg"
+      "published": "2026-11-25T05:02:33",
+      "image": "https://www.4gamer.net/games/061/G106116/20261125016/SS/001.jpg"
     },
     {
-      "title": "「ディフェンスゲームの暴君になった：LAST STAGE」は，とにかく原作の世界観を大事にする。開発チームにインタビュー［G-STAR 2026］",
-      "url": "https://www.4gamer.net/games/032/G103244/20261122013/",
+      "title": "「マリオカート ワールド」，無料アップデート「Ver.1.9.0」を配信開始。いつものコースにアレンジを加えた8つのコースが追加",
+      "url": "https://www.4gamer.net/games/897/G089761/20261125003/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "high",
-      "published": "2026-11-24T05:40:59",
-      "image": "https://www.4gamer.net/games/032/G103244/20261122013/SS/006.jpg"
+      "published": "2026-11-25T03:08:40",
+      "image": "https://www.4gamer.net/games/897/G089761/20261125003/SS/011.jpg"
     },
     {
-      "title": "「NGS ヘッドライン WAVE」，本日21：00より配信。「着せ恋」コラボの続報が明らかに",
-      "url": "https://www.4gamer.net/games/521/G052100/20261124018/",
+      "title": "「大戦略SSB2」×「R-TYPE TACTICS」開発者インタビュー。現用兵器とSF兵器が激突する異色のコラボの真相を，両社のキーマンに聞いてみた",
+      "url": "https://www.4gamer.net/games/946/G094686/20261124004/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-25T03:00:00",
+      "image": "https://www.4gamer.net/games/946/G094686/20261124004/SS/001.webp"
+    },
+    {
+      "title": "「タヌキ：ポンの夏」を手がけるDenkiworksに聞く，発売までの試行錯誤とBMX配達のこだわり。言葉を超えた交流に込めた想いとは［インタビュー］",
+      "url": "https://www.4gamer.net/games/841/G084126/20261124007/",
+      "source": "4Gamer.net",
+      "category": "other",
+      "importance": "high",
+      "published": "2026-11-24T22:00:00",
+      "image": "https://www.4gamer.net/games/841/G084126/20261124007/SS/004.jpg"
+    },
+    {
+      "title": "気に入ったスキルをずっと使える。世代継承型ローグライトアクション「Nothing Lost」をプレイ［WePlay2026］",
+      "url": "https://www.4gamer.net/games/061/G106112/20261125014/",
       "source": "4Gamer.net",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-24T07:24:43",
-      "image": "https://www.4gamer.net/games/521/G052100/20261124018/SS/001.jpg"
-    },
-    {
-      "title": "行方不明になった男のカメラを調べて，その足取りを推理する短編ホラーゲーム「欠番343」，Steamで配信開始",
-      "url": "https://www.4gamer.net/games/060/G106066/20261124024/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-24T07:10:20",
-      "image": "https://www.4gamer.net/games/060/G106066/20261124024/SS/012.jpg"
-    },
-    {
-      "title": "Ubisoftが生成AI技術の開発を専門とする新子会社「Motherbrain」を設立。記憶を持つNPCやAIゲームマスターの構想を具現化へ",
-      "url": "https://www.4gamer.net/games/991/G999101/20261124022/",
-      "source": "4Gamer.net",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-24T06:24:11",
-      "image": "https://www.4gamer.net/games/991/G999101/20261124022/SS/001.jpg"
+      "published": "2026-11-25T05:21:01",
+      "image": "https://www.4gamer.net/games/061/G106112/20261125014/SS/002.jpg"
     },
     {
       "title": "インディーゲーム紹介番組「INDIE Live Expo 2026.12.1」、番組内容が発表。『魔法少女ノ因習村』など100タイトル以上を紹介",
@@ -57,6 +192,33 @@
       "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/11/c1dd2efc6a62232f5dedaf67fbf94716.jpg"
     },
     {
+      "title": "バンダイナムコエンターテインメント 玉置 絢氏による「AIでゲーム作りはどう変わる？　ホント・ウソを見抜け！」の講演動画を公開！【ゲームメーカーズ スクランブル2026】",
+      "url": "https://gamemakers.jp/article/2026_11_25_150104/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-25T02:55:53",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/11/733e983af298c134c8c5ffc18954cef9.png"
+    },
+    {
+      "title": "Backroomsな環境づくりにも役立つ、PS1風の建物内装テクスチャを100種以上収録。無料アセットパック『Retro Textures Liminal』、Webサイト「Kenney」で公開",
+      "url": "https://gamemakers.jp/article/2026_11_24_151614/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-24T10:31:13",
+      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/11/48e1e38f291813366967dce66bf23e8a.jpg"
+    },
+    {
+      "title": "2027年5月開催の「BitSummit High」、チケット販売開始。「無双∞」やデビッド・ワイズ氏、下村 陽子氏がステージでライブ演奏",
+      "url": "https://gamemakers.jp/article/2026_11_24_151663/",
+      "source": "ゲームメーカーズ",
+      "category": "other",
+      "importance": "normal",
+      "published": "2026-11-24T08:05:11",
+      "image": null
+    },
+    {
       "title": "『バイオハザード レクイエム』『モンスターハンターストーリーズ3』の開発技術も解説。「CAPCOM オープンカンファレンス RE:2026」、講演動画とスライド資料を追加公開",
       "url": "https://gamemakers.jp/article/2026_11_24_151624/",
       "source": "ゲームメーカーズ",
@@ -66,148 +228,67 @@
       "image": null
     },
     {
-      "title": "エンジニア 安原 祐二氏による「AIは技術者の生活をどう変えたのか」の講演動画・スライドを公開！【ゲームメーカーズ スクランブル2026】",
-      "url": "https://gamemakers.jp/article/2026_11_24_149803/",
-      "source": "ゲームメーカーズ",
+      "title": "低予算ならではの手触りを描きたい。インディー作家・亀山陽平が語る、小規模制作とDAIV - スペシャルコンテンツ",
+      "url": "https://cgworld.jp/special-feature/2611-mouse-kameyama.html",
+      "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-24T02:55:19",
-      "image": "https://gamemakers.jp/cms/wp-content/uploads/2026/11/6a3e26534b319bff0cb457ec9e9c2c2a.jpg"
+      "published": "2026-11-25T02:00:35",
+      "image": "https://cgworld.jp/special-feature/assets_c/2026/11/0c460d2d2c06179d4187b700e9d19e0192588096-thumb-1000x563-91029.jpg"
     },
     {
-      "title": "『GTA6』発売4日間で3,900万人が遊び、PS5の総プレイ時間は6億8,300万時間！PS史上最大のローンチとSIE発表",
-      "url": "https://www.gamebusiness.jp/article/2026/11/24/28821.html",
-      "source": "GameBusiness.jp",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-24T01:22:30",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/205761.jpg"
-    },
-    {
-      "title": "Japan Expoの活用方法を共同創設者が解説。VIPOが12月16日に無料セミナー、B2B機能の拡充も説明",
-      "url": "https://www.gamebusiness.jp/article/2026/11/24/28824.html",
-      "source": "GameBusiness.jp",
+      "title": "第15回 後編：生成AIで変わる学びと研究。豊橋技術科学大学・栗山 繁先生が語る技術者に求められる力 - 連載",
+      "url": "https://cgworld.jp/regular/202611-chiyama-t-15-2.html",
+      "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-24T07:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/205747.jpg"
+      "published": "2026-11-25T01:30:00",
+      "image": "https://cgworld.jp/regular/assets_c/2026/11/202611-chiyama-t-15-2_a1-thumb-1000x667-90846.jpg"
     },
     {
-      "title": "米2州がGrokを提訴、「性的画像を売りにして、安全だと偽った」",
-      "url": "https://www.gamebusiness.jp/article/2026/11/24/28823.html",
-      "source": "GameBusiness.jp",
+      "title": "RizomUV 2027が最大30％オフ！ 11月25日からブラックフライデーセール開催 - ニュース",
+      "url": "https://cgworld.jp/flashnews/02-2611-rizomuv.html",
+      "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-24T05:30:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/205775.png"
+      "published": "2026-11-25T01:14:15",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/11/194d618f1709b742e7e896e3e6bf5f9d7cedb192-thumb-1000x563-90973.jpg"
     },
     {
-      "title": "『GTA6』開発中の映像90本も流出させたハッカーに懲役7年の判決―条件付きで仮釈放。「二度とするな」と5年間オンライン活動制限",
-      "url": "https://www.gamebusiness.jp/article/2026/11/24/28822.html",
-      "source": "GameBusiness.jp",
+      "title": "サイバーコネクトツー、note記事「\"良いエフェクト\"を作る考え方― エフェクト研修課題を徹底解剖！」公開　テンポと説得力を高める制作術 - ニュース",
+      "url": "https://cgworld.jp/flashnews/01-202611-CC2-Effect.html",
+      "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-24T04:59:55",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/205783.jpg"
+      "published": "2026-11-25T00:16:14",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/11/CC2_Effect-01-thumb-1920x1080-91441.jpg"
     },
     {
-      "title": "英首相官邸、『GTA6』を「英国のサクセスストーリー」と称賛。ただしバーナム首相は「プレイしない」",
-      "url": "https://www.gamebusiness.jp/article/2026/11/23/28820.html",
-      "source": "GameBusiness.jp",
+      "title": "募集テーマは《音楽》。「CGWORLD GALLERY」3DCG作品募集中！　応募受付は12/27（日）まで - ニュース",
+      "url": "https://cgworld.jp/flashnews/cgwg-v037.html",
+      "source": "CGWORLD",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-23T08:00:03",
-      "image": "https://www.gamebusiness.jp/imgs/ogp_f/205698.jpg"
+      "published": "2026-11-24T12:00:00",
+      "image": "https://cgworld.jp/flashnews/assets_c/2026/11/vol.037_gallery_banner_37_A_web-thumb-1000x563-91438.jpg"
     },
     {
-      "title": "劇場アニメ『魔法使いの夜』の続編制作が発表！！公開中の映画は4日間で観客動員30万人、興行収入5億円を突破",
-      "url": "https://news.denfaminicogamer.jp/news/2611242p",
-      "source": "電ファミニコゲーマー",
+      "title": "灯台のゲームなんて忘れよう 『グランド・セフト・オートVI』最高のミニゲームはクリアに何時間もかかる本格ゾンビシューターだ",
+      "url": "https://jp.ign.com/grand-theft-auto-vi/84651/vi",
+      "source": "IGN Japan",
       "category": "other",
       "importance": "high",
-      "published": "2026-11-24T06:39:26",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HX3maegboAApdPe-1.jpeg"
+      "published": "2026-11-24T07:57:50",
+      "image": "https://sm.ign.com/ign_jp/feature/f/forget-the/forget-the-lighthouse-gta-6s-best-minigame-is-a-full-blown-z_y4an.jpg"
     },
     {
-      "title": "水中サバイバル『サブノーティカ２』初の大型アップデート「Tar Trek」が12月1日に配信。潜水艇に腕と脚をつけて壁も登れるカエル型パーツや、新たな巨大生物「コレクター・リヴァイアサン」が登場",
-      "url": "https://news.denfaminicogamer.jp/news/2611242c",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-24T05:00:29",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/Subnautica-2-Voyage-to-Early-Access-2-From-Creatures-to-Chassis1.mp4_snapshot_02.35.394.jpg"
-    },
-    {
-      "title": "『仁王3』DLC第2弾「天草大乱」が12月17日に配信開始へ。シリーズ初のXbox展開となる「Complete Edition」も発売決定",
-      "url": "https://news.denfaminicogamer.jp/news/2611242f",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-24T04:05:39",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/58b0762c4b1039e7d267db45e61d4e51.jpg"
-    },
-    {
-      "title": "90年代の“痛快美少女アクション”が現代に復活！『負けるな！魔剣道1&2』2027年3月18日に発売決定",
-      "url": "https://news.denfaminicogamer.jp/news/2611242d",
-      "source": "電ファミニコゲーマー",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-24T03:19:19",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/HX2gh-NbUAEjDiX-1.jpg"
-    },
-    {
-      "title": "最大8人で「同じブラウザ」を同時操作するゲーム『インターネット4』12月4日より早期アクセス開始。ウェブ上の情報を使ったミニゲームや釣りが楽しめる",
-      "url": "https://news.denfaminicogamer.jp/news/2611242n",
-      "source": "電ファミニコゲーマー",
+      "title": "『グラン・セフト・オートVI』序盤プレイ感想を語り尽くす！今週遊んだゲーム 11/24/2026",
+      "url": "https://jp.ign.com/shaberisugi-gamer/84652/vi-11242026",
+      "source": "IGN Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-24T06:57:04",
-      "image": "https://news.denfaminicogamer.jp/wp-content/uploads/2026/11/ss_39d937a56e744f3ae043eeeca7c7e511936b5b0d.1920x1080.jpg"
-    },
-    {
-      "title": "最大4人マルチ「採掘場の水全部抜く」シム『Drain The Pit』発表。無謀手作業からガンガン効率化、お魚さんもしっかり保全",
-      "url": "https://automaton-media.com/articles/newsjp/20261124-480607/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-24T04:16:02",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261124-480607-header.jpeg"
-    },
-    {
-      "title": "Discord、「ゲーム中に大騒ぎした名場面を自動録画」する新機能発表、まずはNitro向けにテスト実装。“録っておけばよかった”がなくなりそう",
-      "url": "https://automaton-media.com/articles/newsjp/20261124-480555/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-24T01:32:21",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261124-480555-header.jpg"
-    },
-    {
-      "title": "新宿お掃除ゲーム『SO-JI -Why Why Japanese- SHINJUKU』発表。「GiGO」や「すしざんまい」まで、再現度も汚れもすごい新宿をハイスピード清掃",
-      "url": "https://automaton-media.com/articles/newsjp/20261124-480540/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-24T01:00:00",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261124-480540-header.jpg"
-    },
-    {
-      "title": "『GTA6』にて「鳥類図鑑を爆速コンプ」する野鳥専門家あらわる。生息地は“経験”で探る、プロの本気バードウォッチング",
-      "url": "https://automaton-media.com/articles/newsjp/20261124-480679/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-24T06:56:56",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/header-5.jpg"
-    },
-    {
-      "title": "高評価Steam終末村ホラー『Leviathan: Rhino』に“日本語改善アプデ”到来。巨大なリヴァイアサンが迫る村に残り、最期を待つ老人の6日間",
-      "url": "https://automaton-media.com/articles/newsjp/20261124-480622/",
-      "source": "Automaton",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-24T05:50:02",
-      "image": "https://automaton-media.com/wp-content/uploads/2026/11/20261124-480622-header.jpg"
+      "published": "2026-11-24T11:00:37",
+      "image": "https://sm.ign.com/ign_jp/screenshot/default/gta6kansothumb_56zr.jpg"
     },
     {
       "title": "PlayStation史上最大のローンチ 『グランド・セフト・オートVI』がさまざまな新記録を樹立",
@@ -219,31 +300,13 @@
       "image": "https://sm.ign.com/ign_jp/news/g/gta-6-was-/gta-6-was-biggest-launch-in-playstation-history_ve1j.jpg"
     },
     {
-      "title": "Maya用揺れものシミュレーションツール「AgehaPBD」正式リリース　リアルタイムプレビューやコリジョン制御、セットアップの再利用に対応 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202611-Coyote-Ageha.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "high",
-      "published": "2026-11-23T00:52:37",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/11/Coyote_Ageha-01-thumb-1920x1080-91423.jpg"
-    },
-    {
-      "title": "にゃんねこ氏、「Substance 3D Painterでパスを描きやすくする方法｜UVメッシュを平らな作業面に」note記事公開 - ニュース",
-      "url": "https://cgworld.jp/flashnews/01-202611-SP-UVmesh.html",
-      "source": "CGWORLD",
-      "category": "other",
-      "importance": "normal",
-      "published": "2026-11-24T00:01:39",
-      "image": "https://cgworld.jp/flashnews/assets_c/2026/11/SP_UVmesh-01-thumb-1920x1005-91427.jpg"
-    },
-    {
-      "title": "Tearing through reality: The tech behind Hyper Visor on XREAL AURA",
-      "url": "https://unity.com/blog/hyper-visor-xreal-aura-physics-scenes",
+      "title": "Is your data telling you the whole story?",
+      "url": "https://unity.com/blog/data-fragmentation-ua-monetization-unity-vector",
       "source": "Unity Japan",
       "category": "other",
       "importance": "normal",
-      "published": "2026-11-23T00:00:00",
-      "image": "https://cdn.sanity.io/images/fuvbjjlp/production/e2140e0ea12c50f5e3143edc1de881c9d1e526f5-1024x500.png"
+      "published": "2026-11-24T00:00:00",
+      "image": "https://cdn.sanity.io/images/fuvbjjlp/production/d419351dc4e3d7772ad17d069d5aff2653ab7a2b-1024x576.png"
     }
   ]
 }
